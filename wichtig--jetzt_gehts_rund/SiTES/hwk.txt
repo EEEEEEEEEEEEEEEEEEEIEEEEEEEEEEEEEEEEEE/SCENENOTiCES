@@ -1,0 +1,106 @@
+[L] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[L] 200- |-=-------------------------------------------------------------------=-|
+[L] 200- [01] quixotic     Tagline Set             27,763  520,560MB    175K/s
+[L] 200- [02] tos5         EPTMP3 - RAC            17,621  442,108MB    343K/s
+[L] 200- [03] theq         Tagline Set             19,253  352,175MB    290K/s
+[L] 200- [04] G-Father     Balls Of Steel          15,309  334,835MB    644K/s
+[L] 200- [05] mrfutur      @_o'                    13,334  310,110MB   1002K/s
+[L] 200- [06] s            Security over Stupidit  19,399  307,963MB   3271K/s
+[L] 200- [07] darkm        phinneus is gay         13,594  275,697MB    319K/s
+[L] 200- [08] spliff       Tagline Set              9,432  272,030MB    186K/s
+[L] 200- [09] stunt        Tagline Set              9,721  270,611MB    281K/s
+[L] 200- [10] zerpent      .                       16,386  254,193MB    619K/s
+[L] 200- [11] lordGFX      grndbrking implication  14,303  246,487MB    505K/s
+[L] 200- [12] Hyperi0n     Spirit of the HAWKing   11,827  235,384MB    905K/s
+[L] 200- [13] karabasan    Tagline Set             10,702  228,768MB    358K/s
+[L] 200- [14] gc           FURY                    14,675  224,230MB    254K/s
+[L] 200- [15] mind         m00oo                   16,972  221,738MB    244K/s
+[L] 200- [16] wahoo        Tagline Set              9,315  214,006MB    352K/s
+[L] 200- [17] droid        For the Horde           11,918  213,183MB   2121K/s
+[L] 200- [18] baby         Tagline Set              9,113  198,442MB    466K/s
+[L] 200- [19] bourbon      Tagline Set             10,251  195,134MB    610K/s
+[L] 200- [20] progslut     USUAL SUSPECTS          10,297  194,878MB    172K/s
+[L] 200- [21] Golferboy    No TagLine Set          10,489  192,963MB    283K/s
+[L] 200- [22] kriptiq      yo                      12,251  178,021MB    104K/s
+[L] 200- [23] webavatar    I 0wn J00                9,096  170,505MB    546K/s
+[L] 200- [24] botquake     Tagline Set              9,918  167,866MB    189K/s
+[L] 200- [25] dave         buhhh                    9,261  158,938MB    545K/s
+[L] 200- [26] sou1         -><((((+>FD><((((+>-    10,118  157,534MB    414K/s
+[L] 200- [27] GogoDuck     Tagline Set              6,157  153,524MB    530K/s
+[L] 200- [28] micro        Tagline Set              4,915  152,803MB    605K/s
+[L] 200- [29] cemi         SDM                      4,712  130,670MB    170K/s
+[L] 200- [30] Sniper       stupid bot bug announc   9,423  129,831MB    320K/s
+[L] 200- [31] whitewolf    nas                      8,905  127,256MB     70K/s
+[L] 200- [32] beaver       All Beavers in Danger    5,960  126,723MB    843K/s
+[L] 200- [33] siworae      :: sonic empire ::       5,560  110,351MB    299K/s
+[L] 200- [34] nakedworm    w00t                     7,432  104,465MB    380K/s
+[L] 200- [35] Trev         reply                    5,318   96,176MB    622K/s
+[L] 200- [36] lester       Tagline Set              6,425   92,754MB    196K/s
+[L] 200- [37] tulip        come on girls            5,498   90,654MB   1961K/s
+[L] 200- [38] technolog    DiSTANCE                 4,653   87,751MB   1168K/s
+[L] 200- [39] edge         Tagline Set              6,563   87,579MB    276K/s
+[L] 200- [40] Rikochet     Tagline Set              3,104   82,835MB    351K/s
+[L] 200- [41] PyM          -[ M.i.B.i.S.O ]-        4,641   82,011MB    969K/s
+[L] 200- [42] kinn         Tagline Set              5,312   76,427MB    776K/s
+[L] 200- [43] clock        .                        5,224   74,347MB    737K/s
+[L] 200- [44] mag          Tagline Set              3,942   68,770MB    749K/s
+[L] 200- [45] sqqo         iron my shirt bitch      3,690   67,856MB   1336K/s
+[L] 200- [46] GanGsteR     Tagline Set              3,739   66,417MB   1310K/s
+[L] 200- [47] w            shalala                  4,573   66,296MB    902K/s
+[L] 200- [48] cyber        ...                      4,939   64,316MB    649K/s
+[L] 200- [49] blade        pHASE                    3,275   63,663MB    696K/s
+[L] 200- [50] raf          -[ M.i.B.i.S.O ]-        4,077   62,718MB    439K/s
+[L] 200- [51] cpc          Tagline Set              4,300   62,526MB    137K/s
+[L] 200- [52] sh0k         -(-T-C-L-)-              2,785   57,849MB    430K/s
+[L] 200- [53] Flirmy       im constipated           3,033   56,297MB    847K/s
+[L] 200- [54] tsj          hoi                      2,103   55,815MB     92K/s
+[L] 200- [55] lolzi        Tagline Set              1,293   51,586MB    232K/s
+[L] 200- [56] korax        lick my balls            3,820   51,102MB    505K/s
+[L] 200- [57] stix         die                      2,654   46,187MB    539K/s
+[L] 200- [58] ZroBioNe     -+ AMNESiA iSO +-        2,929   45,723MB    157K/s
+[L] 200- [59] ports        Tagline Set              2,437   41,064MB   1079K/s
+[L] 200- [60] obebenz      LONG LIFE FOR PANDA      2,403   40,024MB    659K/s
+[L] 200- [61] solidp       Tagline Set              2,622   39,846MB    540K/s
+[L] 200- [62] phinneus     henk                     2,739   38,380MB     35K/s
+[L] 200- [63] sjohn        hoi jong                 2,309   37,487MB    365K/s
+[L] 200- [64] uzi4you      Tagline Set              1,377   34,786MB    430K/s
+[L] 200- [65] gari         bazmeg a taglinedet      2,650   34,434MB     58K/s
+[L] 200- [66] ranma        Tagline Set              1,919   32,460MB    108K/s
+[L] 200- [67] KrAsH        Tagline Set              1,398   30,926MB   1442K/s
+[L] 200- [68] dying        :)                       1,865   29,661MB   2246K/s
+[L] 200- [69] throne       T-C-L                    1,038   29,379MB    239K/s
+[L] 200- [70] Neu          Tagline Set              1,493   29,323MB   3041K/s
+[L] 200- [71] milo         Tagline Set              1,016   26,324MB    230K/s
+[L] 200- [72] stalker      Tagline Set              1,639   25,519MB     64K/s
+[L] 200- [73] kefren       Tagline Set              1,117   24,837MB   2305K/s
+[L] 200- [74] shizniz      nani?                    1,396   21,995MB    784K/s
+[L] 200- [75] sorcerer     Tagline Set              1,132   21,124MB    975K/s
+[L] 200- [76] joci         Tagline Set                934   18,420MB   2036K/s
+[L] 200- [77] Janno        Tagline Set              1,073   16,074MB   1405K/s
+[L] 200- [78] ikom         1-finger-ringer            640   15,366MB   1569K/s
+[L] 200- [79] river        Tagline Set                841   14,398MB    150K/s
+[L] 200- [80] gza          (( liquid swords ))        767   14,327MB    470K/s
+[L] 200- [81] bxn          Tagline Set                486   10,157MB   1468K/s
+[L] 200- [82] e-science    ?? ex~nihilo ??            485    9,844MB    179K/s
+[L] 200- [83] satcom       Tagline Set                379    7,868MB    927K/s
+[L] 200- [84] 3825         Tagline Set                360    7,078MB   1535K/s
+[L] 200- [85] stonefox     TCL                        380    6,046MB   1363K/s
+[L] 200- [86] wicked       Tagline Set                364    5,402MB    338K/s
+[L] 200- [87] c2           I ate too much acid.       255    5,261MB   1404K/s
+[L] 200- [88] HD           Tagline Set                288    4,462MB   1764K/s
+[L] 200- [89] j4ck455      Tagline Set                299    4,294MB    630K/s
+[L] 200- [90] orbith       Tagline Set                127    3,827MB   1499K/s
+[L] 200- [91] gambit       -+ AMNESiA iSO +-          118    3,317MB   1139K/s
+[L] 200- [92] vst          fuck                       190    2,609MB    215K/s
+[L] 200- [93] gomer        Tagline Set                199    2,530MB    365K/s
+[L] 200- [94] x2thaE       Tagline Set                177    2,404MB    337K/s
+[L] 200- [95] ravenlord    d0h                        105    2,219MB   1671K/s
+[L] 200- [96] D3vil        Eat BaLLs U FooL           105    2,155MB    736K/s
+[L] 200- [97] vaderetro    Tagline Set                204    1,738MB    732K/s
+[L] 200- [98] wildgoose    Tagline Set                111    1,470MB   1581K/s
+[L] 200- [99] rekop        Tagline Set                 96    1,309MB    245K/s
+[L] 200- [100] wildchild    descent into chaos          39    1,185MB    354K/s
+[L] 200- `-=-------------------------------------------------------------------=-'
+mrfutur:coo1cOOl
+
+213.9.79.166:38561

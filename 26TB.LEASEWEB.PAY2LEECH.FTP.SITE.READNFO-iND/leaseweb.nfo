@@ -1,0 +1,46 @@
+26tb pay2leech site oh goodie just what u need to brighten your day!
+
+check pictures, not much to talk about this 1 really i dont have alot of information
+on the guy apart from this.
+
+BNC 85.17.1.84:7321
+checked passive connections from looks of it its all leaseweb including the BNC although
+as shown in pic 2 you can see an ip leading to ohtele.com, not an expert so you decide
+
+im guessing this is just a seperate ftp running privately away from the real ftp because
+there is nothing showing that there are users on it, and usually sites do show up the 
+normal stuff like that.
+
+here is the what shows when you log in...
+ya can see its runnin glftpd, all commands i could think of where restricted i could
+not use any of them, also there is a request folder i could not request anything and
+there was no usernames on the requests.
+
+[L] Connecting to ftp://***:***@85.17.1.84:7321
+[L] Connecting to 85.17.1.84:7321
+[L] 220 Microsoft_Sql_Server_V4.0
+[L] USER ***
+[L] 331 Password required for ***.
+[L] PASS ****
+[L] 230-                                _____
+[L] 230- ______________________________|__   |____ ________________________________
+[L] 230- \     _      /   _     /  _     /   |    |    _     /  _     /    _      /
+[L] 230-  \    \     /    /    /   /____/.   |    |    /    /   /____/.    /_____/
+[L] 230-   \________/____/    /______    |___|____|___/    /______    |____|
+[L] 230- .-=----------- /____/ ---- |____| --------- /____/ ---- |____| -------=-. 
+[L] 230- `-=-------------------------------------------------------------------=-'
+[L] 230-       `-----( Type 'site onel MESSAGE' to enter your message )-----'
+[L] 230 User *** logged in.
+[L] SYST
+[L] 215 UNIX Type: L8
+[L] REST 1
+[L] 350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+[L] REST 0
+[L] 350 Restarting at 0. Send STORE or RETRIEVE to initiate transfer.
+[L] TYPE A
+[L] 200 Type set to A.
+<snip>
+[L] 226- [Ul: 0.0MB] [Dl: 0.0MB] [Speed: 0.1K/s] [Free: 116111MB]
+[L] 226  [Section: DEFAULT] [Credits: 14.6MB] [Ratio: Unlimited]
+
+use this information to help take them down or what ever, i dont care :) 

@@ -1,0 +1,90 @@
+Secure your prechans and bots
+
+Ok, so a while back there was problems with a chan called #preHQ
+where users in the channel could add releases. This sent a shit
+load of spam into other peoples databases, all because some lame
+arse scripter cant secure his chan or prebot.
+
+Now we have #prebot4 on efnet. This public pre chan also allowed 
+users to add pres with no permissions needed (not to mention the
+fact the chan is full of torrent kiddie/p2p users watching scene
+releases roll by)
+
+*** Modes #prebot4: +sptn
+*** Channel created on Mon Jan 30 10:23:57 2006
+
+This channel is hardly secured (no +i or even +k)
+The 2 prebots in the channel are:
+
+-----------------------
+*** timecheck [~timecheck@212.247.165.210]: timecheck
+*** channels: @#hayaa #prebot4 
+*** server: irc.inet.tele.dk [Better than WoW]
+*** End of /WHOIS list.
+
+*** PRE2 [hayaed@212.247.165.210]: pred
+*** channels: #hayaa @#prebot4 
+*** server: irc.inet.tele.dk [Better than WoW]
+*** End of /WHOIS list.
+-----------------------
+
+And yes.. shit can was getting added just by typing !addpre in 
+the chan:
+
+-----------------------
+<-> !addpre Piratox.you.newbie-HAHA XXX
+<PRE2> - Piratox.you.newbie-HAHA
+-----------------------
+
+And these addpres were getting globally leaked.
+Making matters worse this "public" pre chan announces in unstripped
+announce:
+
+-----------------------
+<PRE2> - XXX ABBYWINTERS.PORTIA.MPEG.XXX-oRo
+<PRE2> - XXX ABBYWINTERS.ROSANNA.MPEG.XXX-oRo
+<PRE2> - XXX ABBYWINTERS.SHANNON.MPEG.XXX-oRo
+-----------------------
+
+Thankfully the bots have now be removed from this channel, but the 
+damage has already been done.
+
+--
+
+So please -- prebot owners SECURE YOUR BOTS and SECURE YOUR CHANS (+i)
+If your too dumb to make an invite script you shouldn't own a prebot
+
+Addpre chan owners: Be cautious of new owners.. the owner of PRE2 and
+timecheck is clearly a p2p kiddie of some sort.
+
+Theres too many public prechans, and people using shitty/stolen
+/borrowed pre scripts that cause a massive amount of bad echos and leak
+scene releases to torrent kiddies.
+
+Bad echo caused by shitty scripts:
+
+-----------------------
+Original: Is.The.Bot.Lame.On.#pr3.?.GERMAN.SVCD-MUHAHA
+GERMAN.SVCD-MUHAHA
+Is.The.Bot.Lame.On
+Is.The.Bot.Lame-On
+-----------------------
+
+-----------------------
+Original: Rambo.3.DVD.XViD.MP3.1988.ES-VBM.iNTERNAL
+Rambo.3.DVD.XViD.MP3.1988.ES-VBMiNTERNAL
+-----------------------
+
+-----------------------
+Original: Sheitan.OST.Bonus.DVD.2006.PAL.FULL.FRENCH.DVDR-TiLT
+Sheitan.OST.Bonus.DVD.2006.PAL.FULL.FRENCH.DVDR-TiL
+-----------------------
+
+^ All cause by shitty scripts
+
+In Conclusion: 
+learn to code or dont run a prebot
+learn to add access privilages to your bots
+learn to secure your channels with +i
+
+iND

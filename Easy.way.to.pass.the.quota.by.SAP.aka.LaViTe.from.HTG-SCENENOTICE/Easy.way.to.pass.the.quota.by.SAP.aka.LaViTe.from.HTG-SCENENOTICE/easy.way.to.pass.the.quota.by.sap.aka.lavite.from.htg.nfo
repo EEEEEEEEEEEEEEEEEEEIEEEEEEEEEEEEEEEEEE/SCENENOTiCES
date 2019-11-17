@@ -1,0 +1,35 @@
+
+Hi guys
+I would like to show how dumm is SAP (from HTG grp) aka LaViTE (iND)
+This guy find interesting way how fast check pass in easy way. 
+However he get in when he was transfering .nfo file longer than 3 minutes 
+It was very wird, because this transfers was amaysing and nfo very huge. 
+We check it and that is ouer work. 
+
+Check proofs.
+
+find /site/jail/glftpd/site/ -name '*.nfo' -a -size +100M -mtime -1
+/0DAY/0331/STATEMENT.ABOUT.ALLEGED.GROUP.CFFPDA.READ.NFO-CFF/cfff.nfo
+/0DAY/0419/Dreamingsoft.123.Flash.Menu.v4.0.4.1385.Cracked-F4CG/f3cg.nfo
+/0DAY/0422/TURBOFloorPlan3D.Home.and.Landscape.Pro.v14.Incl.Keymaker.Read.NFO-CORE/c0re.nfo
+
+
+Username: SAP 
+IP0: sap@87.176.*.*                
+IP1: *@85.88.31.100                
+IP2: *@85.88.28.137  
+Host: uhweb28137.united-hoster.de          
+
+After banned try login from second login:
+
+Username: LaViTe
+IP0: Cool@87.167.*.*               IP1: loco@85.88.*.* 
+
+[ SYSLOG ]-[ LOGIN FAILED ]-[ LaViTe ]-[ Reason: Hostmask *@uhweb28137.united-hoster.com not added ]     
+
+15:10 SAP/HTG has to work hard for another 1 day to pass: - STAT: 5358/10000 - 4642mb/day 
+15:33 SAP/HTG has to work hard for another 1 day to pass: - STAT: 8769/10000 - 1231mb/day 
+15:43 SAP/HTG has passed quota and can relax for another 1 day: - STAT: 10263/10000 PASSED
+
+Kill him, its real lame racer......
+

@@ -1,0 +1,175 @@
+SuPeRSTyLiN:eliranmugdasi@ln.servequake.com:9870
+SuPeRSTyLiN:eliranmugdasi@ky.servequake.com:9870
+SuPeRSTyLiN:eliranmugdasi@fd.servequake.com:9870
+UserList:
+#DP [zzz] HS ~am@bzq-80-6-183.red.bezeqint.net :0 am
+#DP ers HS@ ers@Linknet-dcbe6129f8.skbbip.com :0 Sopor Aeternus
+#DP G1-Away HS Great_One@paid.tha.cost.to.be.thaboss.co.uk :0 Great_One
+#DP DangerM HS ~drganj@sv-no.net :0 drganj
+#DP polse HS ~polse@cpe.atm2-0-1021161.0x50c7e666.virnxx11.customer.tele.dk :0 plotter
+#DP DP-Pierce HS@ evilbunny@Linknet-0eb52726ef.cust.bredbandsbolaget.se :0 I am not a bot
+#DP DP-Carter HS@ ~cr@Linknet-c6081531de.cust.bredbandsbolaget.se :0 I am not a bot
+#DP ucme HS ~ucme@h44n2fls32o816.telia.com :0 ucme
+#DP GZZ HS GZZ@port594.ds1-hvi.adsl.cybercity.dk :0 GZZ
+#DP virus-79 HS jackal@storm.b2shells.com :0 virus-79
+#DP _TM_ HS ~kk@Linknet-6a159fe26e.adsl.cybercity.dk :0 TheMighty
+#DP Symian HS ~a@Linknet-8f9189b2a3.umist.ac.uk :0 Symian
+#DP ChrCo HS@ chrco@Linknet-b57d3e9271.tele.dk :0 chrco
+#DP wiley HS wiley@Linknet-ec09e6cd63.abo.wanadoo.fr :0 wiley
+#DP Pondus HS jalla@Linknet-c39a58bf90.firstmile.no :0 Jokke
+#DP jokbrokje HS abc@Linknet-5860d006e1.cable.quicknet.nl :0 Flip Fluitketel
+#DP X^ HS@ hibba@Linknet-eb123a6b8e.adsl.cybercity.dk :0 hibba
+#DP Bacootje HS L33T@dat.buisje.in.mijn.hoofd.sux.be :0 none
+#DP crazydane HS lurkme@Linknet-20d20e978c.netsplit.se :0 crazydane
+#DP harez HS harez@Linknet-8b61371f95.kjj.estpak.ee :0 harez
+#DP ThElooSa HS theloosa@Linknet-5e75740b66.owned.no :0 theloosa
+#DP q_ HS jaahas@Linknet-622bbca885.dsl.saunalahti.fi :0 a
+#DP j4vine HS j4vine@220.99-136-217.adsl.skynet.be :0 j4vine
+#DP ^D3vil^ HS D3vil@how.do.you.undo.it :0 D3vil
+#DP b___ HS pukas@69.50.191.162 :0 bird
+#DP cruz- HS crx@cruserx.com :0 cruz-
+#DP Corre- HS@ Billig@Linknet-bd28e03729.telia.com :0 Frippe
+#DP ilky HS ~ilky@icon.dataverket.net :0 ilky
+#DP RVL HS ~ravenlord@Linknet-51de37e961.hade.fylleorgie.com :0 RVL
+#DP G-Loomis HS ~tt@Linknet-6d36ce8aa7.mbd.nu :0 loomis
+#DP Ki_re HS erikenpeer@80.247.212.3 :0 erikenpeer
+#DP g00ner HS goal@host-84-9-15-123.bulldogdsl.com :0 sir
+#DP evilcer HS x@193.216.11.100 :0 no, its not me
+#DP Rivals HS dvt@arguing.over.irc.just.gets.you.humiliated.org :0 Rivs
+#DP wizz HS l@Linknet-2665f2f488.dip.t-dialin.net :0 l
+#DP |dos| HS dos4gw@is.gezellig.org :0 dos4gw
+#DP Televinke HS Anita@Linknet-83e50437c6.cust.bredbandsbolaget.se :0 televinken
+#DP [Waster] HS waster@Linknet-9adef7d1a7.tixit.se :0 waster
+#DP Taz7^ HS ~taz@owns-you.com :0 Taz7^
+#DP DFN_ HS dfn@Linknet-4d959d0687.cust.bredbandsbolaget.se :0 none
+#DP DP HS@ ~dp@Linknet-0ab0bd65e1.cust.bredbandsbolaget.se :0 i love u long time
+#DP tuffno HS hubba@Linknet-a7347c865e.cust.bredbandsbolaget.se :0 tuffno
+#DP johanh HS elajt@Linknet-23caa7568b.ld.bonet.se :0 a
+#DP Smocke HS smocke@82.182.218.200 :0 smocke
+#DP Lith|um HS joedirt@monsterwang.com :0 _Lithium
+#DP monolith HS mno@64.18.256.256 :0 mno
+#DP dist HS+ dist@please.shut.the.fuck.up.ppl.se :0 d
+#DP Arrak HS error@wh-021.321m.0gc.net :0 error
+#DP lewser HS@ TUBORG@oral-sex.bz :0 lewser
+#DP NiElZ HS nielz@shell2.skyberate.net :0 NiElZ
+#DP prayer_ HS lee@elsker.numse.prygl.dk :0 prayer_
+#DP DP-Lincoln HS@ sitebot@83.233.256.256 :0 I am not a bot
+#DP v0dka HS vodka@Linknet-e0fd2a5e4d.when.blondsblowme.com :0 vodka
+#DP DP-Truman HS@ sitebot@217.75.256.256 :0 b33r
+#DP devster HS dev@Linknet-ae266930d7.watchin.me.uk :0 devster
+#DP hoboslaya HS hobo@i.got.a.boun.ca :0 hobo
+#DP Fluffy HS@ ers@Linknet-c146646153.skbbip.com :0 I did it my way
+#DP Raider HS Raider@80.203.256.256 :0 Go Away
+#DP peal HS peralmq@wots.your.name :0 If you can dodge me, you can dodgeball
+#DP vispen HS 1001@Linknet-a7d5977aec.cust.bredbandsbolaget.se :0 clatexe
+#DP ironmunk HS ironmunk@Linknet-9cfc7ccb56.ucked.co.uk :0 ironmunk
+#DP champen HS@ champen@83.233.256.256 :0 champen
+#DP Satcom HS satcom@Linknet-6a8da5de2d.student.utwente.nl :0 satcom
+#DP kakao HS+ kakao@Linknet-6c697756c3.195.in-addr.arpa :0 kakao
+#DP robzeng HS+ rob@Linknet-4d39e26bcb.unixkiste.org :0 robzeng
+#DP spydrmn HS spydrmn@Linknet-ae1ea2894f.client.insightbb.com :0 spydrmn
+#DP |illuz| HS illuzion@copper.takiweb.com :0 illuzion
+#DP DarkRebel HS andersen@Linknet-41eb1e7c14.tele.dk :0 darkrebel
+#DP Inkubus HS@ ~inkubus@Linknet-3c7da34681.telia.com :0 I did it my way
+#DP Foghorn_ HS Foghorn@h-66-167-67-248.chcgilgm.dynamic.covad.net :0 User
+#DP FGZ HS fgz@Linknet-b32fa44489.blueyonder.co.uk :0 FGZ
+#DP _Stealth_ HS cipe@lon-bsd-1.servercore.net :0 _Stealth_
+#DP peter1 HS@ peter_1@c-8e1471d5.015-36-65736c10.cust.bredbandsbolaget.se :0 peter|1
+#DP altair HS altair300@h46n3fls305o1120.telia.com :0 what
+#DP Turranius HS beaver3@Linknet-79e26ac3b6.cust.bredbandsbolaget.se :0 Turranius
+#DP t4|mo HS taimo@pese.se.mulkk.us :0 taimo
+#DP Trials HS trialsmast@69.26.256.256 :0 trialsmaster
+#DP Amus-- HS Amus--@c83-249-41-232.bredband.comhem.se :0 mike
+#DP cicon_ HS cicon@Linknet-9c6ee6a16e.bredband.skanova.com :0 cicon
+#DP Fugazi HS@ fugazi@c-0c0672d5.010-99-6c756e2.cust.bredbandsbolaget.se :0 fugazi
+#DP cLoOmZoR HS fok@Linknet-9580a4369d.fbx.proxad.net :0 cLoOmZoR
+#DP seahawk HS batatita@200.193.256.256 :0 seahawk
+#DP d3rob HS dal@72.21.256.256 :0 -
+#DP jens- HS jensen@Linknet-5194ff33eb.tele.dk :0 blarh
+#DP DP-Monroe HS@ ~me@Linknet-e9fd6d3d6f.cust.bredbandsbolaget.se :0 I am not a bot
+#DP _j1h^_ HS@ fugazi@c-0c0672d5.010-99-6c756e2.cust.bredbandsbolaget.se :0 jih1234
+#DP TRABEL HS mofo@82.192.81.153 :0 TRABEL
+#DP Itchy HS Krusty@pcp0010243714pcs.lpaxtn01.pa.comcast.net :0 Krusty
+#DP Flirmy HS ~Flirmy@c68.112.192.130.fdl.wi.charter.com :0 Flirmy
+#DP dooDman-0 HS none@Linknet-20ba17ccae.ri.cox.net :0 none
+#DP ckin- HS psytomte@traded.my.sister.for.a.52inch.tv :0 psytomte
+#DP jpr HS jeper@158.36.256.256 :0 jeper
+#DP maphia|NA HS mph@Linknet-3f4d421a39.rooooot.de :0 mph
+#DP stunner_ HS slumber@Linknet-43279a4606.jahaja.com :0 stunner
+#DP TheDeaMon HS TheDeaMon@tx-shells.se :0 TheDeaMon
+#DP _Wizard^ HS ~whatever@Linknet-ad651b731a.dsl.kvalito.net :0 Don't even try
+#DP qwAntum HS qwantum@84.92.256.256 :0 prefect
+#DP pwise HS xentic@dns.polution.servicez.org :0 pwise
+#DP RaKiL HS mediapool@194.29.229.30 :0  LGD ownage
+#DP frito HS lee@elsker.numse.prygl.dk :0 Frito
+#DP bustah HS buster-@80.247.212.3 :0 bustah
+#DP DP-Reagan HS@ sitebot@Linknet-5cdb599948.cust.bredbandsbolaget.se :0 I am not a bot
+#DP Kosh0242 HS kosh@Linknet-ef2c64161c.cust.bredbandsbolaget.se :0 If you go to Z'ha'dum, you will die.
+#DP Roepse HS craft@blob.is-a-geek.org :0 Roepse
+#DP Dr_Kraft HS kraft0rz@Linknet-da7b698de0.prolink.org :0 DanGeRouS
+#DP Mackem HS furioso@flys.a.milleniumfalcon.org :0 Gingga
+#DP Neets HS Neets@80.196.41.249 :0 Neets
+#DP scv HS saeko@im.ignorant.biz :0 saeko
+#DP hhk0n HS ancient@weed.powered.at :0 Tracer Script
+#DP Sm4sH HS sm4sh@Linknet-d4189cd01e.bchsia.telus.net :0 SmAsH
+#DP jonte- HS jonte@Linknet-147f899630.telge.kth.se :0 jonte
+#DP B HS cabled@195.22.256.256 :0  B 
+#DP Blueice HS blueice@campus.girls.with.g-string.panti3s.org :0 blueice
+#DP AHN HS@ furioso@Linknet-25243b1123.httpd.us :0 AHN
+#DP |Mickey HS micpet@was.born.a.stiknarkoman.dk :0 Micpet
+#DP ence HS Ence@cyber.kriminel.dk :0 Ence
+#DP Havokator HS ~havok@you.cant.touch.my.rapflowz.com :0 h a v o k a t o r
+#DP yick HS yick@lazy.mofo :0 yick
+#DP miker|bnc HS mikerlit@sheep.get.me.all.sexually.excited.ws :0 mikerlit
+#DP r_v HS rev@polisbilen.com :0 rev
+#DP beastie HS nsr@e130.enemy.cx :0 nsrafk
+#DP Sukkubus HS@ ~Sukkubus@Linknet-353aba3e8f.telia.com :0 I did not do it it my way
+#DP [humla] HS taz@masturberar.till.fulporr.net :0 [humla]
+#DP mate HS ~mausen@213.237.66.210.adsl.od.worldonline.dk :0 mausen
+#DP Barneyk HS toenten@Linknet-30a27fc0c1.telia.com :0 Eyekons bitch
+#DP DP-Ford HS@ ~fd@81.8.256.256 :0 I am not a bot
+#DP Torulf HS raven@h121n4fls309o1043.telia.com :0 Neger
+#DP DaFoX HS@ DaFoX@81.8.256.256 :0 RavenLord
+#DP mrchb HS blup@club-x.nl :0  morcheeba
+#DP heggi HS ~NWNK-iRC@213.167.96.196 :0 NWNK-iRC
+#DP Ph|nd HS@ fugazi@c-0c0672d5.010-99-6c756e2.cust.bredbandsbolaget.se :0 Phind
+#DP DP-Kennedy HS@ ~ky@Linknet-3c48f417be.cust.bredband2.com :0 I am not a bot
+#DP DP-Adams HS@ lordmonkey@158.38.256.256 :0 I am not a bot
+#DP Apache- HS@ ~apache@Linknet-122b39e923.cust.bredband2.com :0 Sopor Aeternus
+#DP CP HS@ fugazi@Linknet-fbb8c72ed0.cust.bredbandsbolaget.se :0 CP
+#DP DsR^ HS DSR@oblivion.qinternet.nl :0 DSR
+#DP Fogga HS ~f@cD9089084.sdsl.catch.no :0 .
+#DP Twin_Air HS@ cipramil@158.38.93.11 :0 Twin_Air
+#DP trespasser HS ~trespasse@83.72.98.26.ip.tele2adsl.dk :0 trespasser
+#DP SuP3RSTyL3 HS username@Linknet-f64b88d11e.slap.to-hell.net :0 SuPeRSTyLiN
+#DP Elector HS Elector@Linknet-1263bff527.customer.tele.dk :0 Elector
+#DP crone GS crone@nat.antipiratbyran.se :0 crone
+#DP BL4DE GS@ party@Linknet-8df6ce4936.tele.dk :0 party
+#DP Phear HS ~Phear@phear.net :0 cheadle
+#dp End of /WHO list.
+LEECHS:
+qartz/FRiENDS
+Pondus/FRiENDS
+SNAkE/FRiENDS
+TraxTorM/FRiENDS
+Stararis/FRiENDS
+Arak/FRiENDS
+frito/FRiENDS
+t3mp/VALiOMEDiA
+kimegil/PiXTV
+d3z4d3/SiCK
+wizard/TBS
+SiteOps:
+BL4DE peter1 X^ CP ers DaFoX AHN ChrCo Corre- champen Apache- lewser Ph|nd _j1h^_ Twin_Air Fluffy Fugazi Inkubus
+Nukers:
+dist
+robzeng
+kakao
+Addlines:
+
+barneyk:chillman
+!!
+-----------------------------------
+SuPeRSTyLiN:bomfunk@uni-iso.no-ip.biz:9090
+SuPeRSTyLiN:bomfunk@uni-xvid.no-ip.biz:9090
+UserList:

@@ -1,0 +1,46 @@
+Detta paket inkluderar:
+
+
+
+:::::::::
+:Program:
+:::::::::
+ - AudioGrabber (version: 1.83)
+ - hkSFV (version: 2.0.1 build 84)
+ - Morgoths MP3releaser program (version 3.2.0.3)
+
+
+
+:::::::
+:Codec:
+:::::::
+
+ - LAME (version 1.32 / Engine 3.96)
+
+
+:::::::::::::::
+:Dokumentation:
+:::::::::::::::
+
+ - Steg-för-steg guide i hur man rippar ett album och hur
+   man gör om den till en orginalrelease.
+
+
+:::::::
+:Syfte:
+:::::::
+
+Att hjälpa en user steg för steg i processen att skapa en orginalrelease
+med alla nödvändiga filer.
+
+
+
+:::::::::::
+:Kriterium:
+:::::::::::
+
+
+För att kunna öppna och läsa den behöver du...
+
+ - Winrar ( http://www.rarlabs.com )
+ - Adobe acrobat reader ( http://www.adobe.se )

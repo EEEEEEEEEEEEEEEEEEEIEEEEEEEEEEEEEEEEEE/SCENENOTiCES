@@ -1,0 +1,60 @@
+In short: 320 retags PROMO or FREE packages and recycles them as fake RETAILs, which is not allowed in MP3 rules. Proof provided in jpg.
+
+
+Well, after the releases directly taken from blogs/p2p (aka CHONGO, CBR...), here we are again with another winner, aka the awesome 320 group. There was a time where this group was a good group but now they upgraded to another step in faking the WEB mp3 scene, and here are the proofs.
+
+0-Let's start by the beginning: what do rules say for MP3 rules? 
+ * rule 1.2.
+         You are allowed to create a duplicate release from a release that has
+         a source of lower quality (a different source!).
+         Example: if vinyl is out then a CD-release is allowed.
+         If you do that then please add this info to NFO and dirname. For
+         online bought MP3s (-WEB-) we assume the best source quality (CDDA or
+         better).
+   You will notice the use of term "ONLINE BOUGHT".
+
+ * rule 11.
+         If you want to release a -WEB- mp3 file with constant bitrate (CBR)
+         then you must choose the best version (320->256->224->192 kbit)   
+         available at the shop.
+   You will notice the use of term "SHOP".
+
+ * rule 16.
+    =OTHER SOURCES=
+     [WEB] - audio files legally available on the net and not free 
+     dirtag needed: -WEB-
+     extra nfo info needed:
+      - codec of source (MP3, PCM, ...),
+      - bitrate of source file (if not PCM/WAV),
+      - URL to some shop where it's available in that format
+   You will notice the use of terms "NOT FREE" and "AVAILABLE".
+
+==> that means any WEB release has to be 'BOUGHT' from a 'SHOP', where it is 'NOT FREE'. The proof url is a weak criteria, since it has to be the one of 'WHERE IT IS AVAILABLE' (not mandatory to be the one of where it is actually bought, as many could think... confirmed by the nuker's god himself years ago).
+
+
+1- Then, anyone may have noticed how fast they have been these last sundays especially (but sometimes also in the week), around midnight CET, when some webshops release their new stuff. The humans can be fast in processing stuff, like donwloading, tagging, uploading complete packages, spreading stuff and preing, but 320 has not been human lately, e.g. tonight:
+Dop_And_Various_Artists-Penguin_EP-(WGVINYL02)-WEB-2010-320
+Wolfgang_Voigt-Freiland-Geduld-(PROFAN033)-WEB-2010-320
+Hardshift_Lite-Out_Control_EP-(CLONKDGTL013)-WEB-2010-320
+Tom_Lown-Love_Potion__The_Jay_Tripwire_Mixes-(LMD034)-WEB-2010-320
+Todd_Bodine-Dark_Matter-(HIGHGRADE077D)-WEB-2010-320
+Jin_Choi-You_Are_No_Good-(LILTD02)-WEB-2010-320
+VA-Immer_3-(KOMPAKTCD83DIGITAL)-WEB-2010-320
+Alex_Q-Endlich_Fruhling_EP-(MGF013)-WEB-2010-320
+Guy_Gerber-Hate__Love-(SFR021)-WEB-2010-320
+
+Knowing this is a limited number of people making these packages at 320 (1 or 2 max, I would say someone they recruited recently since his tagging is his 'mark', and let me guess whou could have the files, someone from another WEB group finishing by a V...), who can process 9 pres in less than 7min40s ? I can tell you, you can trust me, NOBODY. Same thing last week, they pred 2 250MB+ pres in less than 2min30s after it was available from the webshop, the 1st being an internal (of course when you do a race, you release the internal first LOL!!!), the second being another album. Then do your own estimates of purchasing time, dlding time, tagging, uploading time and spreading (if they still spread somewhere lol) and preing... It is not possible it comes from ANY SHOP. If you count 10 sec only for the tagging with all the info inside, and 0sec (yes 0sec!!!) for purchasing steps, you have an average speed of 6MB+/s for both dlding from the shop and uploading it to a unique pre-site... Knowing you cannot download from any shop at that speed... Lemme guess? It is not REAL.  
+
+Now, what does it lead to demonstrate? Simply they had the files earlier or they have rippers from the futures! Why do I say that? See point 2-
+
+
+2-This is extremely simple. Once again, people faking the scene always forget something, like the metadata of the files, aka the ID3 tag. So what's in there? if you take a look at their latest sundays' pres (not only from today but from last sunday also with latest Trentemöller and Technasia albums as well), you will notice something that will make you smile (about the taggers from the futures!): indeed, they tagged all their pres from today-dir on 2010-06-04 or 2010-06-03 (see proof provided as jpg with ID3 tags screenshots showing the Rip Date of some of the todays' releases), except the last one of course (Watergate_06__Mixed_By_Dop-(WG06)-WEB-2010-320), which is the only one they actually bought (Rip Date 2010-06-07). Weirdly, this last one came 28min after it is actually online on the retail store (and the REPACK I even don't count), and not 1 or 2 minutes later... LOL. Weird no? And they are to be from the same shop I guess LOL no? Last but not least, this release was another total fuckup from 320, which is normal since the webshop they bought it from does not deliver the files in the right order... Of course, the fast pre are in the correct order with no fuckup...
+Now, if they try to say their rip box or whatever is not up-to-date, you know what to say: LOL LOL LOL. Metadata and crosscheks do not lie. By the way, as you can also notice, their 'fast-delivery' pres are 'LAME3.98.2 64bits' and the last one is 'LAME3.97' (the one normally used by the WPP webshop)... Weird no? LOL
+So, where does all this stuff come from??? Surely not from where they say it comes from (Ask them the proof they bought the stuff, of course they won't have except for the last one). And as they have the files ready 2-3 days or more before the actual retail date, that means they have PROMO packages (free packages sent by label or promo services), and since when do MP3 groups pre PROMO packages as retails from SHOPS??? Since NEVER!!! That's why few groups before pred some PROMO-WEB as internal releases, as every decent ripper know it cannot be pred (except as internal).
+
+Other notice: their ripper did another mistake, as usual, you cannot be fast and precise. He forgot once again to change the url of Alex_Q-Endlich_Fruhling_EP-(MGF013)-WEB-2010-320 from the default 'beatport.com' to 'whatpeopleplay.com', but who care, since it even does not come from there lol. They will surely try to make a DIRFIX, hahaha!!!
+
+
+3- Conclusion: 320 has PROMOs. Nice for them, but they should keep them for themselves, or at least not releasing them as they were BOUGHT from a SHOP, as the scene MP3 rules say. So all their stuff with LAME3.98.2 64bits and with whatpeopleplay.com as 'url proof' is basically a NUKE for FAKE, according to the rules.
+
+320 you failed, EOT. Next?

@@ -1,0 +1,67 @@
+                  ___                                   ___       
+                 /\__\                                 /__/\      
+                /::|  |                               _\_ \:\     
+               /:|:|  |                              /__/\ \:\    
+              /:/|:|  |__           ___             _\_ \:\ \:\   
+             /:/ |:| /\__\         /  /\           /__/\ \:\ \:\  
+             \/__|:|/:/  /        /  /:/           \  \:\ \:\/:/  
+                 |:/:/  /        /  /:/             \  \:\ \::/   
+                 |::/  /        /  /:/  ___          \  \:\/:/    
+                 /:/  /        /__/:/  /  /\          \  \::/     
+                 \/__/         \  \:\ /  /:/           \__\/      
+                                \  \:\  /:/                       
+                                 \  \:\/:/    
+                                  \  \::/     
+                                   \__\/      
+
+    01001110 01101111 01000011 01110010 01100001 01100011 01101011 01110011
+          01010111 01100001 01101110 01110100 01100101 01100100
+                       [ http://www.asciitable.com/ ]
+
+       Why the hell is NCRYSO blaming MAX for using the free tool StarFuck from www.project-starfuck.tk ?
+       Maybe the answer is that the leet guys at NCRYSO are using StarFuck as well ?
+       Lets have a deeper look into the mysterious temporary directory
+       created by the so called "loader" from NCRYSO for the game The Fall:
+
+       devcon.dll              <= DLL to control the devicemanager
+                                  http://support.microsoft.com/default.aspx?scid=kb;EN-US;Q311272
+       Language                <= languages subdir from the original StarFuck release
+       logo.gif                <= Ohh well thats a nice logo done by NCRYSO wow !!
+       ncrclean.exe            <= StarForce Drivers Removal Tool
+                                  http://www.onlinesecurity-on.com/protect.phtml?c=55 
+       ncrdev.exe              <= Starfuck version 0.77, shame on you NCRYSO 0.81 already out :P
+       ncrinacl.exe            <= SubInACL is a command-line tool that enables administrators to obtain 
+                                  security information about files, registry keys.....
+                                  http://www.microsoft.com/downloads/details.aspx?familyid=e8ba3e56-d8fe-4a91-93cf-ed6985e3927b&displaylang=en
+       ncrrb.exe               <= RapidBATCH mhh they need a batch interpreter here /* no comment */
+       ncrwait.exe             <= WAIT.EXE (c) by TBD in June 1996.
+       ncrwait.rb              <= expectedly .rb is the RapidBATCH file extension
+       primary_agressive.ini   <= seems like a StarFuck ini file doesnt it ?
+       primary_light.ini       <= seems like a StarFuck ini file doesnt it ? 
+       primary_tfall.mod       <= seems like a StarFuck config file doesnt it ? 
+       secondary_agressive.ini <= seems like a StarFuck ini file doesnt it ? 
+       secondary_light.ini     <= seems like a StarFuck ini file doesnt it ?      
+       secondary_tfall.mod     <= seems like a StarFuck config file doesnt it ? 
+       Settings.Ini            <= seems like a StarFuck ini file doesnt it ?
+       tfall.ico               <= ohoh some kind of ico file nice work :P 
+       tfallcd.ini             <= seems like a StarFuck ini file doesnt it ?
+       TheFall.mdf             <= muuah seems THiS is the MiniImage eh ?
+       TheFall.mds             <= Alcohol120% file for the MiniImage or ?
+       thefall_tmp.exe         <= HERE it is, the original thefall.exe !
+       zlportio.sys            <= yeah yeah, to bad StarFuck also needs this driver to enable the port hack :)
+
+
+       Okay so seems its quite clear now that NCRYSO is using the tool Starfuck as well.
+       But they try to hide it with a nice looking GUI and call it a "loader" thats all.
+        
+       Almost all NCRYSO releases of the last days are DUPES of MiniImage Clone Releases in the past.
+       For example GTR.Fia.GT.Racing.Game.GERMAN-NCRYSO is DUPE of GTR.GERMAN.MI.Clone-NCW 
+        
+       Citation from a NCRYSO nfo:
+       "Lil' notice to MAX (remember your Shade rel, hmm?): Next time just pack a freeware text editor as "crack", would be  
+        better than stealing StarFuck for your release."
+         
+       And for once we agree,
+       but NCRYSO please dont even try to release a freeware text-editor-loader pleeease dont try it !!!
+
+       This Release contains all extracted files from this superior The Fall loader so u can have a look for yourself. 

@@ -1,0 +1,46 @@
+
+[10:51] <XXXXX> SLAVE1: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 102.4GB/192.0GB )
+[10:51] <XXXXX> SLAVE1 went offline: message
+-> Ok, a slave get d/c but it will prolly reconnect... That's drFTPd baby :P
+
+[11:00] <@CCCCC> [SLAVE2] came online with 167.8GB/192.0GB free.
+-> Ok, ok... 10min later... In another place, a slave connects with same hdd...
+-> Until now, it's a coincidence!
+
+[01:17] <XXXXX> sly
+[01:17] <XXXXX> is his username
+-> Well, then i went thru mirc logs and drftpd users database...
+-> Incredible 20min after the slave connected in another place, a user called Super_Sly_Fox joined the sitechan...
+-> What does it means? Well... Same dude? Let's get some proof...
+
+[01:13] <+XXXXX> !alup siteop
+[01:13] <@CCCCCC> [ 1] XXXXX         no tagline                 692       8.9GB  1.4MB/s
+[01:13] <@CCCCCC> [ 2] XXXXX         no tagline                 790       4.3GB  3.0MB/s
+[01:13] <@CCCCCC> [ 3] XXXX          no tagline                 104       1.3GB 421.2KB/s
+[01:13] <@CCCCCC> [ 4] sly           no tagline                  38       1.2GB  3.8MB/s
+-> Good, sly is on the other ring, as i thought
+
+200- sly         -> DN 914.2KB/s from XXXXXXXX - rotla-jade.r81
+-> A quick 'site who' in my site and BANG! The dude still leeching there... 
+-> Now he has two leech spots on two sites with just one slave... Smart Guy!
+-> Until now he has downloaded 50GB in 1~1,5 week...
+
+
+-> Ok, looks like the dude is really lame.. But that's the last thing i need to proof how lame...
+[01:44] <XXXXX> can u check one ip for me
+[01:44] <XXXXX> of SLAVE2?
+[01:44] <BBBBB> 69.93.189.178
+
+-> For some reason the ip is the same on my ring...
+SLAVE's ip is 69.93.189.178
+
+-> A mate told me it's not the first time that Super_Sly_Fox did that... So beware...
+-> He has a mate too, Lady-Fox... So Keep an eye on both...
+-> THey are motherfuckers that just want to mess with sites and leech as much as they can....
+-> Here's is Sly IP: 67.110.210.215
+
+-> People like this give trouble to all siteowners, making us all waste time backfilling and reconfiguring. Watch out for Sly, and stay safe!
+
+by
+
+	Anonymous

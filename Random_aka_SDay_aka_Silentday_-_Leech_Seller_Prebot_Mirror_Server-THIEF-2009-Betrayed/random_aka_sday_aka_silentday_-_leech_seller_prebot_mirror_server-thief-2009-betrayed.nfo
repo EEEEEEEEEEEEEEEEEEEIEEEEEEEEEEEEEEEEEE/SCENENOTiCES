@@ -1,0 +1,44 @@
+Welcome Scene - 
+
+Ahhh my old Friend random aka sday aka silentday....
+
+HOW very random your little mind is, preing silly nfo's.......
+
+Well folks tonight after some investigating we decided to change randoms password as we had become aware of his misguided going ons on our little ftp...
+
+Ohhh yes as we are such a''MASSIVE'' paysite, thats under 12TB with NO archive... fook me if I was paying on a small site like that with no archive, I'd want a double refund back!
+
+he WAS a trusted tech on the site, running linux as we where linux noobs and we gave him full trust of the teching of the site and he Betrayed us!
+
+We found 
+
+1 - He was running a backdoor login to the server, running in the processes on port 8080 - (Found by a Good friend Hacker Who did a portscan for us, Thanks m8)
+2 - He was also running a prebot from the site, mirroring our own, sending off to other ircs that are not scene related, if you get my drift
+3 - He was also creating a shitload of users and giving them upto 300GB creds, now all deleted..
+4 - Also running a pftp using the site ip address and bandwidth! cheek of it or what?!! 
+
+A random created leecher I found and deleted, then I found out who made them, and he had the cheek to re-make them!
+Random making his latest FREE leecher (leecher name hidden, to protect the innocent) Also this leecher downloaded over 120GB in 3 days! and Random also wiped the syslog to erase his tracks - 
+
+[1] 200- Fri Sep 4  2009 [ ] 'Ronnie' deleted user '*****'.
+[1] 200- Fri Sep 4 2009 [ ] 'Ronnie' purged '*****'
+[1] 200- Mon Sep 7  2009 [ ] 'random' added ip '*****' to '*****'
+[1] 200- Mon Sep 7  2009 [ ] 'random' added user '*****' to group 'iND'.
+[1] 200- Tue Sep 8  [] 'glftpd' (siteop) transferred 314572800K to *****
+
+So no wonder you are pissed my old comrade, now we have killed your mirrored prebot, OUR IP you where stealing to race/leech/sell from and your many users you created! who now cant login! woopeee (Ohh and who you listed kindly for us, but nicely edited the maker and made some nice fake info files)
+
+OK That's enuff said, sceners know our site, and its about one of the only non-p2p sites left and IF we where selling leech, fuck me it'd be at least a 45TB badboy site by now after 6 years in the scene!
+
+Finally...
+
+Random u child, If you keep pissing us off and upsetting our racers, we will pre your address and phone numbers...
+
+Also this isn't the 1st time you have done this shit to a site after you have turned them over!, remember the site you did this to over at Leaseweb a year or so back?? They purged you too, and you did the same there,, A leopard never changes its........
+
+P.s - NOTE to self : Dont let so called trustworthy people have full irc powers as when they throw a hissyfit when busted, you cant get back in irc and have to find a new irc home.. such a BALLACHE!
+
+A Veteran scener who's sick of kid's ruining the scene
+
+
+

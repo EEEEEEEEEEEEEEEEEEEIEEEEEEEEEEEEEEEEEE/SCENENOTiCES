@@ -1,0 +1,101 @@
+Hallo.
+
+Ich möchte Euch hier vor der Site "LSD" (Leaseweb / NL) warnen. Der/Die Admin(s)/SOP(s) verkaufen payaxx an Nicht Siteler und stellen somit
+ein extremes Sicherheitsrisiko dar.
+
+
+Hier ein Auszug aus dem Log mit einem User welcher im IRC offen von einem SOP angequatscht wurde wg Payaxx und Bezahlung per Paypal:
+
+
+[00:49:09] [A] moment langsam
+[00:49:13] [A] dich hat einer im irc angequatscht ob du interesse am payaxx hast?
+[00:49:18] [X] jop, hat er
+[00:49:21] [A] lol
+[00:49:27] [A] is ja nich wahr ... was für deppen sind das?
+[00:49:33] [X] habs o getan als wär ich intressiert und hab mir testacc geben lassen
+[00:49:39] [X] 3 gigs hab ich damit free für speedtest 
+[00:49:45] [X] und für mehr müsste ich zahlen
+[00:49:49] [A] gibst mir die daten ... das kann aj echtn ich sein
+[00:49:09] [X] jop, is kagge sowas ... mom ich schick dir
+[00:49:09] [A] k, thx.
+
+
+An und für sich is im Log nix wirklich wildes, aber wenn man dran denkt, dass der axx unten funktioniert und das ein EU Legit is, wo
+ausser Tradern niemand was verlohren hat ... mehr muss ich da nicht sagen denke ich. 
+
+Dazu hab ich die IP mal nach offenen Ports
+abgescannt und ein paar interessante sachen gefunden, die ebenfalls ein Risiko darstellen (siehe Bild).
+
+Ebenfalls interessant ist, dass sich auf der Site (siehe Pics) leute wie zB EDiR von der ex Release Group FiG, welcher sich offen zu FXP
+Aktivitäten bekannt hat, tummeln.
+
+
+
+... bildet Euch Eure eigene Meinung.
+
+
+
+
+
+
+
+
+
+
+
+Server IP:		83.149.99.62
+GL Port:		60006
+
+
+Kompletter Leech axx:
+---------------------
+
+ftp://jack:jacki@62.75.240.147:60006
+
+
+
+der 62.75.240.147 ist der Entry BNC von denen, jedoch findet ihr die Real IP nach dem Connecten
+
+[R] Connecting to 62.75.240.147 -> IP=62.75.240.147 PORT=60006
+[R] Connected to 62.75.240.147
+[R] Ident Request: 62.75.240.147 - UserID: XXXXX
+[R] 220 {mp002} Sendmail ESMTP Server ready...
+[R] AUTH SSL
+[R] 234 AUTH SSL successful
+[R] Connected. Negotiating SSL session..
+
+[R] SSL negotiation successful...
+[R] PASV
+[R] 227 Entering Passive Mode (83,149,99,62,181,51)
+[R] Opening data connection IP: 83.149.99.62 PORT: 46387
+[R] LIST -al
+
+
+
+
+
+
+
+Trace der IP:
+-------------
+Organization information
+        LeaseWeb
+        P.O. Box 616
+        3500AP, Utrecht
+        Netherlands
+        www.leaseweb.com
+remarks:      Please send email to "abuse@leaseweb.com" for complaints
+
+
+
+
+Nein, hier kommt kein dummer "Keep The Scene Clean" ... denn nur allzuoft werden dumme Kinder NFOs verfasst ohne relevante Bedeutung, und die 
+wirklichen Risiken und Risikofaktoren werden oft toleriert und schöngeredet.
+
+
+
+
+Greetz ...
+
+
+The_Open_Eye

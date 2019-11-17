@@ -1,0 +1,39 @@
+ 
+ Hey guys, There are a number or explanations about DiNAMiT "grp".
+  
+                   
+ 1. Lets take a look at their encode info:                                   
+ http://img202.exs.cx/my.php?loc=img202&image=infoofdinamitrls2hv.jpg       
+ A. The Aspect Ratio of 720x480 belongs to a DVD movie                       
+    and not to NTSC SVCD movie which is 480x480.                             
+ B. FAR should be 1.000 (1:1), and not 1.500 (3:2).                          
+ C. PAR should be 1.333, and not 0.889.                                      
+ I want to let you know that this issues appears to be      
+ in all DiNAMiT releases.                                                    
+                                                                         
+ 2. AR and proper resolution should be:                                      
+ take a look here: http://img175.exs.cx/my.php?loc=img175&image=resized6tp.jpg
+ A. The AR is fucked up because they did an SVCD with 
+ the resolution of a DVD.
+ B. The resolution is also fucked up because they shrink
+ the video stream.  
+ Again, this issues appears to be in   
+ all DiNAMiT releases.
+                                                                        
+ 3. Now we should check DiNAMiT's bitrate, so we                             
+ need to check it in a Bitrate Calculator, right?                            
+ here's a link for a nice Bitrate Calculator,                                
+ http://www.tomzavodny.cz/program/bitcalc/index_en.php                       
+ Ok, now check for yourself what the average bitrate                         
+ of this movie should be (runtime=1h ,53m ,2 cd of                           
+ 74 min, audio stream 224 kbps>.                                             
+ So...they lied.                                                             
+ So I thought and thought how they decided that their                        
+ release has a 1750kbit avg bitrate and i've reached                         
+ a conclusion that maybe they checked it in GSPOT,                           
+ the avg bitrate of their release, look here:                                
+ http://img219.exs.cx/my.php?loc=img219&image=bitrare0hc.jpg 
+ 
+ It's just so sad that there are people that release such rubbish.              
+ DiNAMiT, you guys really have to learn how to encode movies.
+

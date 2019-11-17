@@ -1,0 +1,54 @@
+Open AUTOFXP and using the ? button under the RUSH FTP NAME LIST add the site by clicking its name.
+
+Now enter the server using the format <server!tofind>
+E.g the server is noidea.wherever.dunno:7000 so enter that as server.
+A lot of servers will rename etc upon connection the server name may be urhere.whereever.dunno
+TOFIND is a wildcard so here you could use WHEREVER if WHEREVER is always in the server name.
+So your server name would be noidea.wherever.dunno:7000!whereever. This is also useful if the server is an IP address.
+
+Now you need to enter your nick/login for the site.
+
+Once entered hit connect. To automatically join this site when IRC loads please select the AUTO-JOIN option.
+
+Upon connection to the server FTPRUSH should login in and you should be invited into the channel(s).
+
+Now assuming you have the FTP still selected you now need to add channels.
+
+IF YOU DO-NOT AUTO-JOIN THE CHANNELS JOIN NOW. WHEN ADDED TO SCRIPT YOU WILL AUTO-JOIN NEXT TIME.
+
+Under the CHANNELS LIST there should be a button called ADD A CHANNEL. (If the button is called NOT CONNECTED please re-select your FTP)
+Hit this button and select the channels you want to watch by clicking them.
+
+I will not talk about CATEGORIES here as it is a very big subject.
+
+Next you need to add ANNOUNCERS. Under ANNOUNCE NICK on the MAIN tab should be a button ADD NICK.
+Hit this and add all the nicks that announce in channel such as NEW/PRE/COMPLETE ETC.
+
+Now a quick example of adding announcer catcher. Lets add NEW.
+
+Copy the announcers NEW line from the channel ensuring you hold down CTRL to copy the colour codes etc.
+Hit the T button on the right-hand end of the NEW IN textbox. Paste the advert into the big textbox into the popup window.
+The advert is split into numbered boxes. Enter the relevant box number into the little boxes at the bottom.
+This will get the required information. Now we need catch text. This is text that always appears in the announce, so for a NEW
+release NEW is quaranteed to appear. If not sure look back for more NEW announcements and put those words into the CATCH TEXT.
+When finished hit APPLY.
+
+If you wish to test this or at any point notice that releases do not seem to be being captured then use the VALIDATE button.
+
+Here you simply paste the full announce line and the script will tell you which announcers would capture that addy.
+Do not worry if more than 1 announcer catches it - many sites use the same scripts - but what you are looking for is if the announcer
+in the channel you are having problems with is catching it and is the capture type right. If it is all ok then turn on debugs because
+it may well be you have not set your ftp/categories up right.
+
+NOW BEFORE YOU START SHARING MAKE SURE YOU DO THE FOLLOWING IF POSSIBLE AS IT MAKES THE SCRIPT MUCH QUICKER
+===========================================================================================================
+Setup a pre-chan - this is especially important for added speed
+Index your sites(You can manually add other directories such as archive using the ADD button)
+Indexing is used for dupechecks/requests(eventually)/stopping wasted sends......USE IT
+Add /cd1 /cd2 /cd3 /cd4 to the INCLUDE IN RLZ on the IGNORE OPTS TAB. And anything else of course.
+
+And thats it.
+
+Have fun.
+
+P.S I added all those AUTO features for nicks/ftps/channels etc to reduce problems with typos.

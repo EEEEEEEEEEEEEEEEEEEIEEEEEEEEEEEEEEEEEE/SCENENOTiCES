@@ -1,0 +1,162 @@
+     _____  _    _ _____   _____ ____  _____  
+    |  __ \| |  | |  __ \ / ____|___ \|  __ \ 
+    | |__) | |  | | |__) | |  __  __) | |  | |
+    |  ___/| |  | |  _  /| | |_ ||__ <| |  | |
+    | |    | |__| | | \ \| |__| |___) | |__| |
+    |_|     \____/|_|  \_\\_____|____/|_____/
+	                   yes, again.
+##################################################################
+#####                                                        #####
+###				QUiCK AND SWEET               <3            ###
+#####                                                        #####
+
+SpX21             -> mercinary
+P2P-NET.eu PREBOT -> phPTI
+phPTI IP          -> 69.41.170.108
+
+##################################################################
+#####                                                        #####
+###				EXPLANATiON                   <3            ###
+#####                                                        #####
+
+Surprise, surprise. More p2p admins found hiding within our sites
+and networks. A lovely and extremely secure sight might I add.
+Now, children, why don't you all take a guess who it is this
+time. Oh, did I hear someone blurt out SpX21? Remember to
+raise your hands please. Manners are of utmost importance here!
+
+That's right, the same man you all have come to know and love
+as x0n3rat3d, the Sheep admin, or for our p2p students out
+there, SpX21 the p2p-net.eu, tehconnection.eu, and sceneaccess.org
+admin. He managed to find his way straight back into the scene
+not long after being outted and purged.
+
+Maybe I should fill a bit in beforhand just in case you've been
+living under an e-rock the past few months. x0n3rat3d (read;
+SpX21) wormed his way up through the scene ranks to find 
+himself as a Sheep admin. Luckily, a select few sceners
+who still had any regard whatsoever for security had decided to
+google x0n3rat3d in an attempt to dig up any dirt on the 
+mysterious new admin no one actually knew. As history shows best,
+they did indeed discover that prior to x0n3rat3d even becoming
+a known entity within the scene, he had registered his shiny
+new p2p site domain techonnection.eu with afraid dns. Google
+cache had done all the work for us and busted his ass. If you
+have even the slightest bit of doubt then consider why so suddenly
+after the notice being pred, did he part all networks ;).
+
+Not only did he have admin status on Sheep, but also, according to
+a previous scene notice, ran (still runs?) 2 large topsites which
+feed sceneaccess.org. Something like this is absolutely unnacceptable
+on every level, and we have been trying our hardest to hunt down 
+this fuckwad and have him purged everywhere he still remains.
+It's really too bad he keeps finding his way straight back in.
+Maybe that needs to be examined a little closer next time around.
+
+Once again we have discovered him, as well as his p2p-feeding
+bot on Sheep. This is undoubtedly the exact bot sitting on 
+p2p-net.eu feeding their pre announce. How could I determine 
+that? Allow me to explain :).
+
+To start off, if you are unfamiliar with p2p-net (i hope most 
+of you fall in that category lol?), then be aware that they 
+provide a public pre channel to all p2p users. They provide a 
+pre announce channel, a pre search channel for their users, as 
+well as, most shockingly, a pre "spam" or "info" announce channel. 
+This spam channel provides announce for genre/filecount/size/delpres, 
+while the main channel provides new pre announcements as well as 
+nukes. Such channels indicate quite clearly that this bot is indeed 
+on a real scene prenet.
+
+Now, lets bring it back a little. In need of a small a database 
+backfill, I had used the play-between command on phPTI. It seemed 
+to addold quite a few spam pres which I wasn't aware had even hit 
+addpre within the past hour that the bot was playing through. So, 
+I began to delete them. Soon after I recieved a message informing 
+me that the nicks in the spam were familiar to those which opped 
+P2P-NET. I took a look for myself. It seemed correct, so I idled 
+within their pre channel waiting for them to spam a bit more. It 
+didn't take long, the next day they spammed 2 more releases, which 
+did not make it to the global scene pre stream [prechan.jpg]. They 
+were, however, inside the P2P-NET prebot's database. To confirm our 
+theory, I then issued another play-between command on phPTI to cover 
+the past hour in which the 2 new spam releases were added on P2P-NET. 
+Exactly as we had suspected, phPTI had and addold'ed the two releases 
+into the databases of every other prebot within the channel, as no 
+other bot had them to begin with [playbetween.jpg].
+
+Obviously this indicates quite perfectly that phPTI is indeed 
+the exact same bot you will find announcing on p2p-net.eu. 
+Some may argue that possibly the bot is simply sitting on P2P-NET 
+gathering their pre feed into it's own database. This seems illogical 
+and absurd to me for a few reasons. Why would a prebot which has access 
+to many large prenets as well as sites need to collect prefeed from 
+a single bot on a p2p-network? Much, much more is offered to the bot 
+from within real scene nets, so why go through all the  effort to 
+properly parse the P2P-NET announce feed so it can have one more bot 
+adding to it's database which is most likely slower than the majority 
+of bots on real nets? One more thing to note is how the bot is NOT 
+relaying these P2P-NET spam pres to global add streams either, so 
+obviously mercinary was not looking for access to more/obscure 
+feed so his bot can add first to the real scene nets. There is 
+absolutely no logical or reasonable explanation as to why phPTI would 
+have P2P-NET's spam pres: unless, of course, it IS the P2P-NET prebot.
+
+Another thing to note is the fact that phPTI steers clear of 
+all scene search channels. It does not provide access to any 
+search commands whatsoever. This is another indication that SpX21 
+did not want people to attempt searching his scene-side bot for the 
+P2P-NET spam. It also shows that he did not want people to match up 
+the search lines to that which the p2p prebot provides. He also did 
+not want anyone to compare the database sizes, as !db is an allowed
+command on the P2P-NET search channel.
+
+Every piece of information points to the fact that mercinary 
+and phPTI are in fact SpX21 and his P2P PREBOT. This bot, 
+as well as this man, are placing massive levels of insecurity 
+among everyone who still gives a fuck about such things. These 
+things aren't anything to moan at or brush off anymore. We are 
+being affected by these insecurities, and they must be stomped out.
+
+Purge mercinary from your sites, gzline him from your nets, 
+and most importantly: don't let him back in. I would hate to 
+be forced to write a new notice 2 months from now explaining 
+how SpX21 found his way straight back into the scene.
+
+##################################################################
+#####                                                        #####
+###				PiCTURES                      <3            ###
+#####                                                        #####
+
+[prechan.jpg]       -> Showing the spam pres added into P2P-NET's
+                       pre announce channel. Yeah, I blurred shit
+					   out. Blame the niggers who kept nickalerting
+					   me.
+					   
+[playbetween.jpg]   -> Showing phPTI playing back the stream of
+                       release including the P2P-NET spam. Pay
+                       attention to the particular releases added
+                       around the spam. Check your own announce 
+                       channels and compare it to how those
+                       spam pres never appeared globally.	
+					   
+[phpti_whois.jpg]   -> Showing the bot's whois on LinkNet. Also
+                       tells you it's ip address.
+				
+[merc_whois.jpg]    -> Showing mercinary's whois on LinkNet.
+
+##################################################################
+#####                                                        #####
+###				FiNAL NOTES                   <3            ###
+#####                                                        #####
+
+Help us remove P2P and the likes out of the scene entirely. We
+don't need this bullshit putting us in danger and spreading
+our hard work to all. If you see mercinary or phPTI anywhere,
+inform your siteops, inform your netadmins, inform as many people
+as you can of this nfo and demand that he be removed immediately.
+Do not allow him to worm his way into the scene any longer.
+
+##################################################################
+####### ###### ###############  ###### ############ ##########  ##
+##################################################################

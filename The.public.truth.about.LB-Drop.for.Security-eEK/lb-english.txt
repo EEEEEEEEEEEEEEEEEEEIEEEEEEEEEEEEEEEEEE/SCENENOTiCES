@@ -1,0 +1,151 @@
+I'd like to inform that the crew "-LB" is a great lack of security in the mp3 scene.
+LB is a public Brazilian group, which many IRC users have access to their releases, to their ripperpack, and data bank,
+point being they put the mp3 scene in a big risk
+
+PROOF:
+
+------------------------------------------------------------------------------------
+PROOF #1) CHANNEL #LBCHAT
+------------------------------------------------------------------------------------
+
+--> You are now talking on #LBChat
+1--- Topic for #LBChat is Sistema de pedidos para rippar. Digite no canal: !rip help. Comandos deve ser digitados sem os <> | regras: !rulez
+
+2-LBSrv/#LBChat- Para adicionar um pedido de rip, digite no canal:
+3-LBSrv/#LBChat- !rip add <dia>/<mês> <hora>:<minuto> <canal> - <descrição do que vai ser ripado>
+4-LBSrv/#LBChat- Para listar os pedidos de ripz adicionados, digite no canal
+-LBSrv/#LBChat- !rip list
+5-LBSrv/#LBChat- Se você é um ripper e está disposto a ripar algo que esta na lista, entre com o comando:
+6-LBSrv/#LBChat- /MSG LBSrv rip check <ripID>
+-LBSrv/#LBChat- O 'ripID' é mostrado pelo comando '!rip list'
+7-LBSrv/#LBChat- Para remover um rip dos pedidos use o comando:
+-LBSrv/#LBChat- /MSG LBSrv rip remove <ripID>
+
+TRANSLATION:
+1. Topic for LBChat is "How to start ripping. Type in channel: !rip help. Commands should be typed without <> | Rules: !rulez
+2. To add a request of a rip, type in channel:
+3. !rip add <day>/<month> <hour>:<minute> <channel> - <description of what will be ripped>
+4. To list the the request, type ............
+5. If you are a ripper and are willing to rip a request type the following:
+6. /msg lbsrv rip check ....................
+7. To remove a rip from the request use command
+
+------------------------------------------------------------------------------------
+PROOF 2) CHANNEL #lbmp3 bbe
+------------------------------------------------------------------------------------
+
+--- Topic for #lbmp3 is Welcome to #LBmp3 | Vidz? #LBvidz | Chat? DÚVIDAS? #LBChat
+
+Not only does the group supply their rips publicly, and participate in the scene, most of their rips are reencodes of 
+other internal groups rips, and alot of rips released in the scene are webrips of bad quality.
+
+------------------------------------------------------------------------------------
+PROOF 3) MEMBERS
+------------------------------------------------------------------------------------
+
+Well known group members like Skid3 or Skide (whatever) idle in their public channel. Another one is WESDUMB
+
+------------------------------------------------------------------------------------
+PROOF 4)
+------------------------------------------------------------------------------------
+
+-LB publicly supplys videos ripped by the group through HTTP:
+
+http://www.lbvidz.cjb.net/ 
+
+Gathering more proof against skide an wesdumb:
+
+FORUM 
+===================================================================================================
+02.05.04} - Chegou a Hora de Vocês!  _por Skide
+
+Depois de tanto tempo disponibilizando vídeos gratuitamente e sempre melhor servindo seus usuários o grupo LBVIDZ pede 
+uma pequena ajuda, votando no nosso site. É fácil, basta clicar aqui!
+
+TRANSLATION: after a long time here are free videos and always providing the best for the users. LBVIZ ask of one favor, vote for our site by clicking here
+
+{01.05.04} - Slipknot!  _por WESDUMB
+
+Duality Novo Single do Novo Album do Slipknot! ENJOY!
+
+
+{30.04.04} - Demo-Clipe.  _por Skide
+
+LBVIDZ como sempre dando oportunidades para bandas novas e que querem mostrar sua cara. 
+Estamos lançando hoje através do site o demo-clipe da banda Uskara. Banda de influencias hardcore, paulista que 
+abre diversos shows como Dead Fish, CPM22, etc. Mais informações: http://www.bandauskara.cjb.net .
+
+
+{29.04.04} - Lançamentos!  _por Skide
+
+Adicionados para downloads 3 clipes novos, novo clipe Blind Pibs, Racionais Mcs e Sugar Kane.
+
+
+{21.04.04} - Novo site!  _por Marcelo
+
+Olá, o novo layout está no ar! Se você curtiu: Muito Obrigado! Se você não curtiu: Se fuder!
+
+
+{21.04.04} - Dashboard Confessional!  _por WESDUMB
+
+New Dashboard Confessional on Downloads!
+
+
+{19.04.04} - sCrem0 _por WESDUMB
+
+Novos Video para download: Emery banda sCrem0 , emo gritado! E Moneen que lembra Reffer. Mais 
+Cypress Hill Feat. Tim Armstrong (RANCID).
+
+
+{15.04.04} - Quatro novos Downloads _por Skide
+
+Mais quatro vídeos adicionados para download. "Avril Lavigne - Don't Tell Me", "The Early November - I Want To Hear You Sad", 
+"Sum 41 - Still Waiting (2003 Voodoo Music Exp.) e "Senses Fail - Bloody Romance".
+
+
+{09.04.04} - New Download _por Skide
+
+Adicionado para download o clipe "Dead Fish - Zero E Um".
+===================================================================================================
+
+------------------------------------------------------------------------------------
+PROOF 5)
+------------------------------------------------------------------------------------
+
+The group publicly promotes group parties....see for yourself:
+
+http://ircmania.ubbi.com.br/view.php?sid=52
+
+O canal #LBVidz da Rede BrasNet (canal de videos, seriados, clipes, shows, etc) promoverá um
+ IRContro no próximo dia 19/10 na casa de Shows Hangar 110 (Rua Rodolfo Miranda 110, Bairro Bom Retiro - SP) , 
+onde acontecerá a apresentação da banda punk Holly TREE. O Show e o IRContro estão marcados para as 19h, 
+com ingressos custando 6 reais.
+
+TRANSLATION: the channel #LBVIDZ of the server BRASnet (channel of videos, tv series, shows, etc) is promoting an IRCparty
+on the 19th of Oct. at the Shows Hangar 110 (address), where there will be shows by the punk band holly tree. the show and
+ircparty are scheduled for 7oclock and tickets are 6 reais
+
+hot damn....u need to pay for a party that the group u in is running? sounds like a blast
+
+------------------------------------------------------------------------------------
+PROOF 6)
+------------------------------------------------------------------------------------
+
+And my favorite one of all.....a fotolog...
+cant go wrong with a fotolog
+
+http://www.fotolog.net/lbvidz/
+
+guess i should order my shirt that says "I rip for LB and all i got was this lousy tshirt"
+
+
+
+
+CONCLUSION:
+
+LB is a group with second intentions, wanting to be a group that can show off. Not respecting the scene, the group is killing
+the little respect the scene has for its rippers, and also devaluerizing the quality of brazilian music. The group
+is a high security risk for the scene, not only counting that their rips SUCK, the group is disorganized, AND IS PUBLIC.
+They take rips from other groups like rH, KzT, 100real, JUST, UTE and who ever i may be forgetting that has a brazilian ripper
+Then they go and make a shit rip....when some other group can be releasing it WITH SCENE STANDARDS!!!!
+If one group can fuck over the scene...it will be LB

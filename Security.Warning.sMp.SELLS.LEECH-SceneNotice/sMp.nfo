@@ -1,0 +1,236 @@
+stuff ya need to know first:
+drag0n: 3x100mbit .us colo, existent up til ~2004-05-09, got wiped by a bright op to stop the slotselling ... logs below are first week of may 2004
+d1vine: 3x100mbit .us colo, existed ~ middle may 2004 til end of may ... logs below are 24th / 25th may 2004, got closed cuz of slotselling, was basically drag0n with different name
+sMp: 5x100mbit .us colo ring, existent up til today (2004-12-03)
+
+a convo i had with someone that still was on sMp...
+[00:04:45] <me> 95%+ chance of leech sellers
+[00:05:15] <me> sMp uses same boxes as d1vine & drag0n, exact same ones
+	(see crc checker below)
+[00:05:21] <me> a siteop confirmed that to me
+	(convo with that siteop:
+	[21:45:26]« StorM|OFF » smp dont have link whit d1vine
+	i show him crc checker ...
+	[21:48:52]« StorM|OFF » this site is divine before, but they change owner, owner now is Wakamole, thats is the reason for sfv checker and other things, Wakamole pay all servers
+	[21:49:02]« StorM|OFF » all change
+	[21:49:06]« StorM|OFF » ops, owners, etc
+	[21:53:20]« StorM|OFF » smp was divine before, but CHANGE OWNER, now is smp, all divine ops get out from here
+	wrong ... see TDRiSO below)
+[00:09:37] <me> [9:41pm]«  » http://upl.silentwhisper.net/uplfolders/upload5/divine.txt
+[00:09:50] <me> doesnt exist anymore :-/
+[00:18:32] <me> [4:29pm]«+ _Padawan_ » !passed eLDeMoNio
+[00:18:32] <me> [4:29pm]«@ DRAG0N» [failed] eLDeMoNio is on unique quota with 6.0GB left until Sun Jun 06 23:59:59 EDT 2004
+[00:18:42] <me> [4:29pm]«+ _Padawan_ » wtf menas is on unique quota with 6.0GB left until Sun Jun 06 23:59:59 EDT 2004
+[00:18:51] <me> [4:29pm]«+ _Padawan_ » ?
+[00:18:51] <me> [4:30pm]«+ _Padawan_ » menas = means
+[00:18:51] <me> [4:30pm]«+ _Padawan_ » wtf means "is on unique quota with 6.0GB left until Sun Jun 06 23:59:59 EDT 2004" ?
+[00:18:51] <me> [4:30pm]«+ _Padawan_ » i only can download 6 gb more until june 6 ?
+[00:18:51] <me> [4:30pm]«  » means you better start fucking uploading
+[00:18:51] <me> [4:30pm]«+ _Padawan_ » im paying
+[00:18:51] <me> [4:30pm]«+ _Padawan_ » im a leecher
+	(main chan of drag0n site, ~ a day before it got wiped)
+[00:19:05]«  » lmao
+[00:19:13] <me> shortly before the fall of the drag0n
+[00:19:56] <me> [3:58pm]«@ DRAG0N» BANDWIDTH: ( UP: 1 at 248.5KB/s/s )-( DN: 117 at 4.2MB/s/s )-( TOTAL: 118 at 4.4MB/s/s )
+	(uhhh 117 downloaders ... tsk tsk)
+[00:20:11]«  » 117
+[00:20:19]«  » very suspicious
+[00:20:23] <me> indeed :)
+[00:22:19] <me> [12:12pm]«@ DRAG0N» DGN1: ( UP: 0 @ 0B/s )-( DN: 32 @ 1.2MB/s/s )-( DF: 20.3GB/293.1GB )
+[00:22:19] <me> [12:12pm]«@ DRAG0N» DGN2: ( UP: 0 @ 0B/s )-( DN: 55 @ 2.1MB/s/s )-( DF: 105.8GB/595.9GB )
+[00:22:19] <me> [12:12pm]«@ DRAG0N» DGN3: ( UP: 0 @ 0B/s )-( DN: 27 @ 1.3MB/s/s )-( DF: 9.8GB/238.1GB )
+	(earlier, before they switched to drftpd ... same thing, 114 downloaders)
+[00:23:08] <me> [6:05pm]«  » !leechers
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: abolapue -> DN: drg-adlm.r07 @ 28.4KB/s from DGN3.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: night -> DN: s-euro2004.part14.rar @ 27.2KB/s from DGN2.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: Jandemor -> DN: pcn-vhelsing.r15 @ 38.6KB/s from DGN2.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: jelizsan -> DN: Lagrimas.Del.Sol.DVDRIP.CVCD.Spanish.www.cvcdGo.com.r41 @ 28.4KB/s from DGN1.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: muckly -> DN: knp-oot.r01 @ 24.0KB/s from DGN3.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: josito_lizana -> DN: slm-sico.r22 @ 27.7KB/s from DGN3.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: bukkaker -> DN: ptk-eusa.r28 @ 15.0KB/s from DGN3.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: zyon -> DN: cfe-suse911.r27 @ 27.7KB/s from DGN3.
+[00:23:08] <me> [6:05pm]«@ DRAG0N» WHO: azkom -> DN: unt-18v1.r12 @ 23.7KB/s from DGN1.
+[00:23:08] <me> [6:05pm]«  » oh shit..
+[00:23:08] <me> [6:06pm]«@ DRAG0N» WHO: fucklamers -> DN: ptk-eusa.r68 @ 40.7KB/s from DGN2.
+[00:23:08] <me> [6:06pm]«@ DRAG0N» WHO: nolo -> DN: pcn-vh.r33 @ 27.4KB/s from DGN2.
+[00:23:08] <me> [6:06pm] Quits: DRAG0N (~DRAG0N@fuck.ing.cen.sored) (Excess Flood)
+	(poor bot, the ircd didnt let it flood all the leechers ... shortly before drag0n got wiped)
+[00:24:06] <me> [6:15pm]«@ MastersK» mmmm not leechers here, is a community closed
+	(yeah sure ... what about that _Padawan_??)
+[00:24:06] <me> [6:15pm]«@ MastersK» private community
+[00:24:06] <me> [6:16pm]«@ MastersK» and sites have 300Mbit total bw
+[00:24:06] <me> [6:16pm]«@ MastersK» 30000k/s about
+[00:24:06] <me> [6:16pm]«  » unlimited per month?
+[00:24:06] <me> [6:16pm]«@ MastersK» yes
+[00:24:06] <me> [6:16pm]«@ MastersK» unlimited
+[00:24:06] <me> [6:16pm]«  » cool
+[00:24:06] <me> [6:16pm]«@ MastersK» unmmetered
+[00:24:06] <me> [6:16pm]«@ MastersK» we have a special conditions
+[00:24:06] <me> [6:16pm]«  » nice
+[00:24:06] <me> [6:16pm]«@ MastersK» becouse we are a community
+[00:24:06] <me> [6:16pm]«@ MastersK» Private site
+[00:24:06] <me> [6:16pm]«@ MastersK» :)
+[00:24:06] <me> [6:17pm]«@ MastersK» and when we need upgrade...
+[00:24:06] <me> [6:17pm]«@ MastersK» the provider pay it for use
+[00:24:06] <me> [6:17pm]«@ MastersK» for us
+[00:24:06] <me> [6:17pm]«@ MastersK» :P
+[00:24:06] <me> [6:18pm]«@ MastersK» with 5Mb/s of 30Mb/s we have the line empty hahaha
+[00:24:06] <me> [6:19pm]«@ MastersK» UNMETERED
+	(main guy behind the obvious selling (remember 117 / 114 downloaders :) few hours before the end of drag0n in its mp3 chan)
+	(FYI: 240GB 100mbit unmetered box at that company is about 2400$ a month ... sMp now is 5x100mbit ~500G each ... do the math, storm said wakamole owns & pays them alone)
+[00:25:02] <me> thats the MastersK
+[00:25:09] <me> he who wrote the rules on sMp
+[00:29:50] <me> ah thats good shit ... my first hour on d1vine:
+[00:30:52] <me> [12:02am]«@ D1ViNE2» -DVN2- [SERIES] + ENGLiSH/CSI.S04E23-TV was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:30:52] <me> [12:02am]«@ D1ViNE2» -DVN2- [SERIES] + ENGLiSH/Shane.S01E07.VCD-FANTA was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:30:57] <me> [12:03am]«@ D1ViNE2» -DVN2- [SERIES] + SPANiSH/El.Principe.Y.Yo.TS was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:30:57] <me> [12:05am]«@ D1ViNE2» -DVN2- [PS2] + DVD/Bujingai_KOR_PS2DVD-SQUARE was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:30:57] <me> [12:06am]«@ D1ViNE2» -DVN2- [PS2] + DVD/Eternal_Quest_Pal_Ps2-MiRACLE was nuked 3x by me - reason: empty - nukees: Lorbas (24.4MB)
+[00:31:05] <me> [12:08am]«@ D1ViNE2» -DVN2- [GAMES] + English/Stable.Masters.2.ENGLISH-NLiSO was nuked 4x by me - reason: 2004+.only - nukees:  (24.4MB)
+[00:31:13] <me> [12:11am]«@ D1ViNE2» -DVN2- [GAMES] + English/F1.Pro.2004.READ.NFO-ALDi was nuked 2x by me - reason: not.a.game - nukees: Masters (100.2MB)  (416.8MB)
+[00:31:22] <me> [12:13am]«@ D1ViNE2» -DVN2- [GAMES] + Spanish/Crazy.Taxi.3.SPANiSH-EiTheLiSO was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:31:22] <me> [12:13am]«@ D1ViNE2» -DVN2- [GAMES] + Spanish/Trivial.DVD.SPANiSH-StyLe was nuked 3x by me - reason: empty - nukees:  (24.4MB)
+[00:31:27]«  » lorbas is still on smp
+[00:31:30] <me> [12:14am]«@ D1ViNE2» -DVN2- [GAMES] + Spanish/Rainbow.Six.Athena.Sword.SPANiSH-EiTheLiSO was nuked 3x by me - reason: CD1.is.empty - nukees:  (426.7MB)
+[00:31:44] <me> [12:18am]«@ D1ViNE2» -DVN2- [DVDR] + MULTi/LOTR.The.Return.of.The.King.MULTI.DVDR-PRESTiGE was nuked 5x by me - reason: empty - nukees:  (24.4MB)
+[00:33:02] <me> [12:48am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Troya.TS was nuked 3x by me - reason: no.nfo - nukees:  (1406.8MB)
+[00:33:02] <me> [12:49am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Paycheck.DVD.XViD.MP3.SCREENER.2003.ES-KiNEPOLiS was nuked 3x by me - reason: no.sample - nukees:  (1402.8MB)
+[00:33:02] <me> [12:49am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Levity.DVD-Screener.XviD.MP3.ES-DRG was nuked 3x by me - reason: no.nfo - nukees:  (690.2MB)
+[00:33:02] <me> [12:50am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/You.got.served.DVD.Xvid.Mp3.SCREENER.2004.ES-SdA.INTERNAL was nuked 3x by me - reason: no.nfo - nukees:  (684.9MB)
+[00:33:06] <me> [12:44am]«@ D1ViNE3» <{ MOVIES-EN }> ENGLiSH/Never.Die.Alone.DVDSCR.XViD-TDR was nuked 1x by me - reason: get.repack - nukees:  (676.6MB)  (28.6MB)
+[00:33:12] <me> [12:52am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/La.matanza.de.texas.DVD.Xvid.Mp3.SCREENER.2003.ES-SdA.INTERNAL was nuked 3x by me - reason: no.nfo - nukees:  (692.4MB)
+[00:33:17] <me> [12:52am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Bienvenidos.a.Mooseport.DVD-Screener.Xvid-Mp3.ES-DRG was nuked 3x by me - reason: no.nfo - nukees:  (697.5MB)
+[00:33:25] <me> [12:53am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Van.Helsing.XviD.Screener.MP3.ES-DRG was nuked 3x by me - reason: no.nfo - nukees:  (702.2MB)
+[00:33:29] <me> [12:54am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Ninyera.a.la.Fuerza.DVD-Screener.Xvid-Mp3.ES-IND was nuked 3x by me - reason: no.nfo - nukees:  (704.5MB)
+[00:33:29] <me> [12:54am]«@ D1ViNE3» <{ SCREENERS-ES }> SCREENERS/Mision.Sin.Permiso.DVD-Screener.Xvid-Mp3.ES-DRG was nuked 3x by me - reason: no.nfo - nukees:  (699.7MB)
+[00:33:32] <me> and so on
+[00:33:38] <me> the site was a piece of shit
+[00:34:16] <me> [12:57am]«@ TDRiSO» please me dont nuke spanish Screeners
+[00:34:23] <me> [12:58am] <@me> your own rules require them to be sent first ... and if they are not there now the release is nukeworthy
+[00:34:26] <me> [12:59am]«@ TDRiSO» screeners spanish are special section , ok i go to cange rules in screeners spanish
+[00:34:37] <me> masses of the leechers were spanish
+[00:34:43] <me> he was afraid of losing customers :)
+[00:34:45]«  » tdriso
+[00:35:01]«  » a user on smp
+[00:35:08] <me> op?
+[00:35:11]«  » week leech no2 ... op
+[00:35:19] <me> O_O
+[00:35:30] <me> storm said all ops & owners changed
+[00:35:35] <me> mwahahahahahah
+[00:35:59] <me> why same boxes if owners + ops all change?
+[00:36:13]«  » [1] 200- | ## User Location/Tagline Files Megabytes Avg k/s |
+[00:36:15]«  » [1] 200- |-=-------------------------------------------------------------------=-|
+[00:36:17]«  » [1] 200- [02] TDRiSO No Tagline Set 6,423 85,124MB 3098K/s
+	(from groupweekdown on sMp for group siteop)
+[00:36:53] <me> 85G, 3mb/s
+[00:36:57] <me> racing with leech
+[00:36:59] <me> what a bitch
+[00:39:13] <me> [5:54pm]«  » !pre Wilbur.Wants.To.Kill.Himself.Limited.PROPER.SVCD.DVDRip-FLiX
+[00:39:13] <me> [5:54pm]«@ |SluT3|» Wilbur.Wants.To.Kill.Himself.Limited.PROPER.SVCD.DVDRip-FLiX Released 47wks 5days 9hrs 14mins 53secs ago (26/06/2003)
+[00:39:19] <me> that prebot still is in smp
+[00:40:11]«  » [1] 200- [01] TDRiSO No Tagline Set 206,434 2,990,13MB 311K/s
+[00:40:13]«  » all down
+	(on sMp)
+[00:40:20] <me> whoa
+[00:40:22] <me> 2T
+[00:42:49] <me> now, funniest piece from d1vine
+[00:42:59] <me> i had op, ya remember?
+[00:43:03]«  » yeah
+[00:43:04] <me> [10:44pm] me sets mode: +e *!*@*.myisp.com
+[00:43:09] <me> ban-exempt
+[00:43:17]«  » nice
+[00:43:25] <me> [10:55pm]«@ D1ViNE1» -DVN1- [XXX] + English/[NUKED]Spring.Chickens.7.2004.XXX.DVDRip.XviD-xDMNx was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: INERG (114.5MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE1» -DVN1- [VCD] + SPANiSH/50.Primeras.Citas.VHS-SCREENER.VCD.www.cvcdGo.com was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Shaka (786.1MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [XBOX] + XBOX/CRIMSON_SKIES_READNFO_JPN_DVDRIP_XBOX-SHOGUN was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Ampolas (322.4MB) Aiko (11.4MB), AssassiN (209.8MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [XBOX] + XBOX/DreamWave_GameDisc_Creator_XBOX-WoD was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: ToriTM (0.0MB) Ampolas (5.7MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE1» -DVN1- [XXX] + English/[NUKED]Three.For.All.4-SPiCE was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: v1gger (1222.6MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [XBOX] + XBOX/England.International.Football.2004.CDRip.XBOX-WpR was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: ghettogangsta (355.3MB) MiSA (0.0MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [GAMES] + English/[NUKED]FINAL.MISSION-FRiHET was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: dbrixx (283.1MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [XBOX] + XBOX/England_International_Football_2004_XBOXDVD_PAL-ConFuSiON was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: ghettogangsta (95.4MB) Pr3c0g (550.1MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE1» -DVN1- [VCD] + SPANiSH/Amar.al.Limite.DVDScreener.CVCD.Spanish.www.cvcdGo.com was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Shaka (785.7MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [XBOX] + XBOX/Euro_2004_PROPER_PAL_XBOXDVD-STRiKE was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Masters (0.0MB) sybakaos (47.7MB), coke (143.1MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE1» -DVN1- [VCD] + SPANiSH/Bichos.DVDRip.CVCD.Spanish.www.cvcdGo.com was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Shaka (786.3MB)
+[00:43:25] <me> [10:55pm]«@ D1ViNE2» -DVN2- [GAMES] + English/ANGELS.VS.DEVILS-DEViANCE was nuked 20x by me - reason: BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW - nukees: Eltharion (143.1MB) Shaka (243.2MB), Aiko (42.9MB), nixc (42.9MB), Andz (296.6MB), ExTaZi (0.0MB)
+[00:43:33] <me> and so on
+[00:43:38] <me> a few hundred nukes
+[00:43:57] <me> »»»»  me  changes topic to 'BAHAMUS.and.MasterSK.sell.leech.3kpermonth.LEAVE.NOW'
+[00:44:01] <me>  »»»  MassDeop  is now Activated in #D1vine « Ë×Çü®§îöñ »
+[00:44:05] <me> [10:56pm] me sets mode: -ooo [Aline] [cLm] _411_
+[00:44:05] <me> [10:56pm] me sets mode: -ooo _NeLL BAHAMUS Chain`
+[00:44:05] <me> [10:56pm] me sets mode: -ooo D1ViNE1 D1ViNE2 D1ViNE3
+[00:44:05] <me> [10:56pm] me sets mode: -ooo DaRkAnGeL inhiding MastersK
+[00:44:05] <me> [10:56pm] me sets mode: -oo Mathaus NeLL
+[00:44:05] <me> [10:56pm] me sets mode: -oo S1R1US |SluT3|
+[00:44:10] <me> they had no botnet protection
+[00:44:23]«  » lol darkangel
+[00:44:39]«  » thats bitchx, right?
+[00:44:46] <me> yup
+[00:45:04] <me> finale:
+[00:45:05] <me>  »»»  MassKickBan  Has Been Activated in #D1vine « Ë×Çü®§îöñ »
+[00:45:05] <me> [11:00pm] me sets mode: +b *!*@*
+	(*smile*)
+[00:50:15] <me> [1:04am]« D1ViNE1 » T4zM4n14^491^Dn:^26.4^/site/VCD/SPANiSH/You.got.served.DVD-Screener.CVCD.Spanish.www.cvcdGo.com/You.got.served.DVD-Screener.CVCD.Spanish.www.cvcdGo.com.part10.rar^iND^
+[00:50:15] <me> [1:04am]« D1ViNE1 » hustlin^32412^Dn:^17.8^/site/MP3/0524/VA-Cutmaster_C_Presents-Mase-2004-C4/15-mase_ft_total-what_u_want_from_me-c4.mp3^iND^
+[00:50:25] <me> [1:04am]« D1ViNE1 » Scherzo^32514^Dn:^13.4^/site/DOCU/Canguros.Rojos.Al.Limite.DVB.XVID.MP3.DOCU.1999.ES-XLiNe/xln-caro.r01^iND^
+[00:50:36] <me> [1:04am]« D1ViNE1 » AntuAnE^32411^Dn:^9.2^/site/MP3/0524/HIM-Solitary_Man-(CDM)-2004-LiT/01-him-solitary_man-lit.mp3^iND^
+[00:50:44] <me> look at speeds
+[00:51:12] <me> [1:04am]« D1ViNE3 » | razormac /iND | Dn: 23.1KBs | % : x |
+[00:51:12] <me> [1:04am]« D1ViNE3 » | No Tagline Set | since 29:37:05 | file: ndr-to02.rar |
+(downloading straight for 29 hours ... tsk tsk)
+[00:51:17] <me> [1:04am]« D1ViNE3 » | maveric /NoGroup | Dn: 29.8KBs | % : xxxxxx |
+[00:51:17] <me> [1:04am]« D1ViNE3 » | No Tagline Set | since 05:01:13 | file: xpr-shnr.r07 |
+[00:51:21] <me> [1:04am]« D1ViNE3 » | Elualtus /iND | Dn: 73.1KBs | % : xxxx |
+[00:51:21] <me> [1:04am]« D1ViNE3 » | No Tagline Set | since 01:54:01 | file: ndr-epn2.r39 |
+[00:51:29] <me> [1:05am]« D1ViNE3 » | Masters /Dragon | Dn: 29.7KBs | % : xxxxxxxxxx |
+[00:51:29] <me> [1:05am]« D1ViNE3 » | No Tagline Set | since 04:43:45 | file: kat-wish.r03 |
+[00:51:35] <me> [1:05am]« D1ViNE3 » | Elualtus /iND | Dn: 65.3KBs | % : xxxxxxxxxxx |
+[00:51:35] <me> [1:05am]« D1ViNE3 » | No Tagline Set | since 01:37:08 | file: ndr-epn2.r38 |
+[00:51:41] <me> [1:05am]« D1ViNE3 » | helena /iND | Dn: 34.9KBs | % : x |
+[00:51:41] <me> [1:05am]« D1ViNE3 » | No Tagline Set | since 01:21:42 | file: edn-udzo.r43 |
+
+
+
+
+
+additional info:
+
+
+crc checker says d1vine as site name ... how convenient
+
+sections & allowed stuff (languages for example) are identical with drag0n / d1vine
+
+rulesset had MastersK as writeing credit ... he opped drag0n & d1vine and was the main guy behind the leechselling
+
+box1 of sMp had the following interesting services running:
+	proftpd, port 21
+	glftpd (the known site), port 444
+	glftpd (points at box 3, bnc-like), port 5678
+	glftpd (different name ("Recycled Bytes Evolution 1", cant login with user/pass set from the known site), port 5679
+	~130 open ports in 34000+ ... my guess: either one per transfer via ftp (passive port) or some public service (bittorrent tracker??)
+
+siteop denies the existence of any other ftp servers on that box
+	[22:06:00] <me> what about the other 3 ftp servers on your boxes?
+	[22:06:48]« StorM|OFF » what other 3 ftp
+	[22:07:32]« StorM|OFF » i dont know that sites whit port 21
+	[22:07:38]« StorM|OFF » and other shits
+
+siteop furthermore claims all ops from d1vine were kicked & changed ... TDRiSO?? (see convo with storm at the top)
+
+day stats from some day (mid-november 2004) ... 
+	<sMp1> Congrats to iND for top upping today. 46383MB uploaded !
+	<sMp1> Kings of the LEECH were FSCAU with 453131MB down !
+	ok ... who the fuck is FSCAU? they dont release stuff or affil shit. they dont upload shit. they did average 5.5MB/s down that day.
+	oh, that week's download stats by groups, taken few hours after day change: [L] 200- [10] FSCAU 3,393 49,790MB 6
+	50GB vs 450GB ... either lots of the users in FSCAU are hidden from those stats, not hidden from day stats ... or the week stats did reset, and they did 50G in those few hours.
+
+prebot: called |slut| in all three
+	its host in drag0n: |SluT|!bot@node-d-25ef.a2000.nl
+	its host in sMp:    |SluT|!jeroen@84.119.256.256
+	first one is dutch ... second one too, check http://www.ripe.net/whois?form_type=simple&full_query_string=&searchtext=84.119.0.0&do_search=Search
+	bot was owned by BAHAMUS, op on d1vine & drag0n ... i doubt someone else would run a prebot with the same name from the same country a little later
+
+
+
+
+final conclusion: sMp go to hell. including its ops. traders & affils: run like teh wind.
+

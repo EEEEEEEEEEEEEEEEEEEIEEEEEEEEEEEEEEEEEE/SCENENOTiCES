@@ -1,0 +1,148 @@
+ #####   #####  ####### #     # #######  #####  #       #######    #    #     # 
+#     # #     # #       ##    # #       #     # #       #         # #   ##    # 
+#       #       #       # #   # #       #       #       #        #   #  # #   # 
+ #####  #       #####   #  #  # #####   #       #       #####   #     # #  #  #
+      # #       #       #   # # #       #       #       #       ####### #   # #
+#     # #     # #       #    ## #       #     # #       #       #     # #    ##
+ #####   #####  ####### #     # #######  #####  ####### ####### #     # #     # 
+
+
+Hi everyone,
+
+Found out that there are some kids called Jetion, ray and tx2run (whois nfo later)
+that run a Gbit.NL Leaseweb box with 4.93TB space called EU4U.
+
+Here we have some BNC's:
+FR at eu4uspice.doesntexist.org:2121
+UK at eu4uspice.getmyip.com:2121
+DE at eu4uspice.ftpaccess.cc:2121
+DE2 at eu4uspice.selfip.info:2121
+NL at eu4uspice.serveftp.net:2121
+
+However, using a bnc doesn't hide ur ip: 85.17.190.208
+
+And what do we see when we whois that ip:
+
+inetnum:        85.17.190.0 - 85.17.190.255
+netname:        LEASEWEB
+descr:          LeaseWeb
+descr:          P.O. Box 93054
+descr:          1090BB AMSTERDAM
+descr:          Netherlands
+descr:          www.leaseweb.com
+remarks:        Please send email to ***********@leaseweb.com" for complaints
+remarks:        regarding portscans, DoS attacks and spam.
+remarks:        INFRA-AW
+country:        NL
+admin-c:        LSW1-RIPE
+tech-c:         LSW1-RIPE
+status:         ASSIGNED PA
+mnt-by:         OCOM-MNT
+changed:        ****@leaseweb.com 20070813
+source:         RIPE
+
+....
+
+And ofcourse we have a private ircd:
+site irc
+200- 
+200-   eu4uspice.dontexist.com:8540 (SSL) connect-pass spice4u
+200- 
+200-   blowkey W383954912sj6X16sRB0n2v4U87n7g5C0zXdflUmedWcLHbiyj
+200- 
+200 Command Successful.
+
+Here is some whois nfo from the siteops:
+
+Whois • Jetion [Jetion]
+Address • mabra@LinkNet-7b399ad946.hinet.net
+Server • link-net.org [LinkNet IRC Network]
+Jetion is an SSL Encrypted Client
+
+Whois • tx2run [tx2run]
+Address • tx2run@LinkNet-3629b98b52.core2.pp.ru
+Server • link-net.org [LinkNet IRC Network]
+tx2run is an SSL Encrypted Client
+
+Once again we also have a shitload of users that are supporting this box:
+
+Lexie
+^conner^
+____D
+_Diablo_
+_nanCo
+alcapon3
+AUSTiN
+baly1
+benno
+boOb
+buck_down-
+C4z0
+cHiEFt
+coasterdance
+damned
+darek1
+dido
+dimenzion
+DrDJ
+enforcer
+F8C3
+g00nz
+hkw
+Janus
+Jinxed
+kenny
+L0V3R
+mixman
+morca
+motax
+mpZ
+Muadib
+OpA
+Pizza
+R3C4R
+radeno
+rat
+ravene
+Rede
+RFS-JAY
+Selen
+shadowman
+SuPrEmE-
+Than0s
+TiF
+Titos
+trigg3r
+tyum
+vandaal
+walkman
+wr256
+z1yn
+ziz
+ZuRiV
+
+Their prebot owner is also lame since he's hanging around on Renteds and on privates!
+
+Here is what we have on this rented;
+Whois  EUPRE [|DynAmo|]
+Address  ~DynAmo@EU4U
+EUPRE is a registered nick
+Channels  +#EU4U +#EU4U-archive +#EU4U-pre +#EU4U-spam
+Server  eu4uspice.dontexist.com [EU4U]
+EUPRE is using a Secure Connection
+Idle  28secs
+Sign-on  Fri May 14 18:02:51 2010 [4days 21hrs 56mins 37secs]
+
+And this is what we have on this private;
+Whois  |DynAmo| [|DynAmo|]
+Address  ~DynAmo@ObsNet-28743775.bot.nu
+Channels  +#obs +#obs.pre +#obs.spam
+Server  obsnet.sexidude.com [Hub Server]
+|DynAmo| is using a Secure Connection
+Idle  41secs
+Sign-on  Sun May 02 22:01:07 2010 [2wks 2days 18hrs 30secs]
+
+So do you have any of these kiddos on your sites? Delpurge them and keep the scene clean!
+
+Greetings,
+and keep the SCENE CLEAN!

@@ -1,0 +1,104 @@
+#eos sh3nt H cyb3r@abc.hostinginside.com :0 sh3nt
+#eos R-Mac H r-mac@ip70-160-22-34.hr.hr.cox.net :2 han han
+#eos SteveZ H SteveZ@24-180-238-42.dhcp.bycy.mi.charter.com :4 SteveZ
+#eos Xebi H@ zero@CPE-72-128-198-137.mn.res.rr.com :2 Blythe
+#eos blacks H rides@64-110-203-179.regn.hsdb.sasknet.sk.ca :4 blacks
+#eos derdewey H ~derdewey@155.92.107.217 :2 Rabble Man
+#eos metal|ic H M3T@194.204.104.115 :2 M3T % % % % % % % % % % % % % % % % %
+#eos T00L G@ T00L@c-67-182-236-70.hsd1.ut.comcast.net :4 maynard james keenan
+#eos apthy H@ T00L@c-67-182-236-70.hsd1.ut.comcast.net :0 damn me father for i must sin..
+#eos kenta` H kenta@68-232-161-95.clvdoh.adelphia.net :2 ^
+#eos Jibbs H MDS@cpe-24-195-130-206.nycap.res.rr.com :4 Team_MDS
+#eos BobbyBob H ~youpidou@150-153-118-80.kaptech.net :4 youpidou
+#eos sr H sr@ti400720a080-3198.bb.online.no :2 nes
+#eos xshab H xshabx@213.143.87.189 :3 xshab
+#eos Moeman H ~moeman@ool-182fca7c.dyn.optonline.net :4 Moe Man
+#eos vijomi H ~i_can_mak@201.121.9.87 :5 RoFl
+#eos deadstar H ryknow@217.119.47.156.cust.suomicom.fi :4 Captain_Spaulding
+#eos ElisLN H ~Elis200@82.166.24.197 :3 E
+#eos xiCE H PRIVATE@142-217-131-159.telebecinternet.net :2 I.Ve.Fcked.Your.Mother.Like.A.Bitch
+#eos atrag H caleb@p548151A4.dip.t-dialin.net :4 atrag
+#eos F4ithL3sS H nofx@modemcable092.112-202-24.mc.videotron.ca :3 Meet the Decline
+#eos cdoc2` H@ JackMehoff@94.sub-166-161-74.myvzw.com :2 JackMehoff
+#eos Mo0se H@ Mo0se@modemcable196.12-83-70.mc.videotron.ca :4 Mo0se
+#eos neo2600 H ~neo2600@user-10870td.cable.mindspring.com :2 Thomas Anderson
+#eos myz H ~myz@ip-64-178-248-103.pstel.net :4 myz
+#eos Kreapsta H Defaced@24-176-42-96.dhcp.klmz.mi.charter.com :4 blank
+#eos Dar|{S0UL H ~BIG_DADDY@60-240-163-228.tpgi.com.au :3 Dar|{SouL
+#eos Bh420_ H Athlon@72.24.118.123 :3 Bh420
+#eos ph3wl H@ ~something@CPE000625bdf0c0-CM0012254304cc.cpe.net.cable.rogers.com :2 ph3wl
+#eos Thimba H thimba@man.unk.fi :3 Timo Rämä
+#eos Yoggers H ~blindidio@CPE-58-161-23-108.nsw.bigpond.net.au :2 The God Of All That Is Rock And Or Roll
+#eos ShortFlip H ~shortflip@66-215-247-248.dhcp.rvsd.ca.charter.com :2 Chuck Norris
+#eos Enf0rc3r` H ~im@69.168.248.102 :3 Me
+#eos jerkoff H retard@217.165.93.245 :0 SelfDestruct
+#eos w[z] H wzzzzz@adsl-
+
+apthy is T00L@c-67-182-236-70.hsd1.ut.comcast.net * damn me father for i must sin..
+apthy on @#eos 
+apthy using irc.easynews.com All Your Usenet Are Belong To Us.
+apthy actually using host 67.182.236.70
+apthy has been idle 2hrs 44mins 58secs, signed on Mon Jun 19 17:16:40
+apthy End of /WHOIS list.
+-
+CactusJac is cactii@c-24-129-114-5.hsd1.fl.comcast.net * Black Baby Jesus
+CactusJac on @#eos 
+CactusJac using irc.desync.com captain's blog, stardate noonish
+CactusJac End of /WHOIS list.
+-
+cdoc is ~AlCahall@c-69-248-242-2.hsd1.nj.comcast.net * Al Cahall
+cdoc on @+#eos 
+cdoc using irc.servercentral.net chase the dragon
+cdoc End of /WHOIS list.
+-
+cdoc2` is JackMehoff@94.sub-166-161-74.myvzw.com * JackMehoff
+cdoc2` on @+#eos 
+cdoc2` using irc.vel.net Velocity Networks, California
+cdoc2` End of /WHOIS list.
+-
+deadfncat is deadfncat@220-253-87-161.QLD.netspace.net.au * deadfncat
+deadfncat on #thebutterflyeffect @#eos 
+deadfncat using irc.pte.hu The ground beneath her feet
+deadfncat End of /WHOIS list.
+-
+Fisteh` is Fisteh@elite.n1nja.info * Fisteh`
+Fisteh` on @#eos #warezjunkiez #liquidshells 
+Fisteh` using irc.dks.ca DKS Canadian EFNet Client Server
+Fisteh` End of /WHOIS list.
+-
+KCobain is kurtcobain@pool-72-64-113-5.dllstx.fios.verizon.net * Kurt D. Cobain
+KCobain on @#eos #segadc #spidey.ztop.looqing.at.mi.whoiz.joo.phag #soldier #fastdivx #fxp #divx-rippers 
+KCobain using irc.mzima.net Welcome to the fjear nation.
+KCobain End of /WHOIS list.
+-
+Mo0se is Mo0se@modemcable196.12-83-70.mc.videotron.ca * Mo0se
+Mo0se on @#eos 
+Mo0se using irc.blackened.com warning: drama free zone
+Mo0se End of /WHOIS list.
+-
+ph3wl is ~something@CPE000625bdf0c0-CM0012254304cc.cpe.net.cable.rogers.com * ph3wl
+ph3wl on @#eos 
+ph3wl using irc.igs.ca cia.com: VOIP phone service + High speed $39.95/mo
+ph3wl End of /WHOIS list.
+-
+Phoenix9 is phoenix@efnet.opwhore.net * phoenix
+Phoenix9 on @#eos 
+
+* Topic is 'EOS FTP's= !GrundleLover | !moosenutsmychin | !KickMe | !moo'
+* Set by Mo0se!Mo0se@modemcable196.12-83-70.mc.videotron.ca on Mon Jun 19 10:41:37
+-setsmode- Welcome to EOS- The Economy of Sound! Proudly serving on EFNet since June 2001!
+-T00L- Scanning you for open proxies. This is required to enter #EOS.
+-setsmode- To access our FTP's, type one of the triggers located in the topic, read the rules (not following them will get you perm banned!), and stay logged in #eos while enjoying our thousands of releases.
+-setsmode- Would you like to rip for EOS? First, go to #edc, and dupe check it to see if we already ripped it, we don't take repeats. Then go to one of our #eos FTP's, and download the official EOS RIPPERS PACK, and follow the instructions contain within.
+-setsmode- Want to upload your new EOS rip? Again, double check that it hasn't been released yet by dupe checking it in #edc. Next, log onto the RELEASE UPLOAD FTP, located in the #edc topic. Enjoy, and as always-- FOLLOW THOSE RULES!
+
+apthy- EOS FTP online at 67.182.236.70:4127 l: xxxxx p: godlessgoat
+-Mo0se- EOS FTP up at mo0se.no-ip.org port 5689. Use xxxxx / myleftnut to leech, and incoming / icontribute to ... contribute. BE IN #EOS while you leech or you will be BANNED! Don't hammer! DON'T UPLOAD NEW RELEASES HERE! More than 2 connection retries a minute bans you for 25 minutes! *USE THE EXACT SAME mIRC NICK YOU HAVE TO LOGIN* Otherwise, you'll be kicked. Brought to you by mo0se and #EOS
+-apthy- Due to a dead processor on my other computer, this server will go up and down quite a bit until I get the issue solved. Bitch about it, and I'll pull it offline completely. (Donations are welcome to help further the cause!)
+
+-cdoc- CDOC'S FTP---- Downloads= 69.248.242.2:5002 xxxxxx / horsesasscrack
+-cdoc- -------RULES------- YOU MUST BE LOGGED INTO #eos TO BE ON THIS FTP. If not ...............YOU'LL BE BANNED
+-cdoc- You can only be on ONE #eos ftp at a time, if you're snagged leeching off of more than one ftp at the same time......YOU'LL BE BANNED
+-cdoc- There are only 2 users max, so if you get a notice that it's full, don't try to reconnect every five minutes or..............YOU'LL BE BANNED! GO INTO YOUR OPTIONS, AND SET YOUR RECONNECT TO 5 TRIES MAX. HAMMERING DUE TO AUTORECONNECTING WILL GET YOU BANNED. LAST WARNING.
+-cdoc- THE PASS CHANGES DAILY OR MORE- so don't bother passing this ftp info to every flaming asshole on MIRC
+-cdoc- If I found out that you did pass it around....YOU'LL BE BANNED!

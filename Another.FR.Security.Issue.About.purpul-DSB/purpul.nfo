@@ -1,0 +1,41 @@
+Yet another security issue in france thanks to purpul_ aka Raptor on site (even on rented sites)
+this guy is the owner of a site called DSB (#olymp/#olymp-fr on efnet)
+affil'ing these grp: ACCIDENT DREAMLIGHT CuriousJotos BEStDivX BeStDvD ECZ FACE FHD IRiS JMT LiPS REAL REPULSiON UNSKiLLED
+
+bncs:
+213.30.146.107:12340
+213.30.146.108:12340
+62.193.220.243:12340
+
+passiv ip address:
+64.13.232.210
+
+look what we got :
+
+<***> raptor added ip *@85.12.17.* to raptor.
+<***> raptor added ip *@91.121.97.* to raptor.
+
+Thu Nov  13 15:25:37 2008 [4744  ] LOGIN: <UNKNOWN>@ns28715.ovh.net (91.121.97.99) NONE "raptor" "*" "*"
+and what we found ? nothing but this ns28715.ovh.net (91.121.97.99)
+ovh is the most unsecure hosting provider ever!
+
+Interesting ports on ns28715.ovh.net (91.121.97.99):
+Not shown: 64967 filtered ports
+PORT      STATE  SERVICE
+22/tcp    open   ssh
+23/tcp    open   telnet
+80/tcp    open   http << nice look at the screen.jpg to see what interesting things purpul_ made for you ;)
+113/tcp   open   auth
+1080/tcp  open   socks << the nice socks used to connect to his favorite rented sites
+1401/tcp  closed goldleaf-licman
+1402/tcp  closed prm-sm-np
+1403/tcp  closed prm-nm-np
+1404/tcp  closed igi-lm
+1405/tcp  closed ibm-res
+3389/tcp  open   ms-term-serv
+10000/tcp open   snet-sensor-mgmt
+10001/tcp open   unknown
+20001/tcp open   unknown
+
+hey purpul_, this is your way to keep the scene private & secure? not ours
+please pay attention to weird siteop who think they own the scene whereas they are on rented and provide scene release on the web

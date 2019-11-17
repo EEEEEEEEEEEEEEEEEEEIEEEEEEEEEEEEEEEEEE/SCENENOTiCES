@@ -1,0 +1,435 @@
+First of all we would like to say thanks to all who worked together with us to make this SCENENOTICE. Thanks!
+
+
+We noticed that many DUTCH and FLEMISH releases were getting leaked to usenet. So, how does all this end up on Usenet?
+
+We started our investigation on #alt.binaries.foreign @ EFnet.
+#alt.binaries.* is a huge network on irc specializing in leaking scene stuff to usenet, with pretty fast pretimes. They also upload scene releases to usenet on 
+request. So, where does #alt.binaries.foreign get their stuff? 
+
+Torrents. That's right, torrents..  What the hell, torrents? 
+
+With the help of some social engineering we discovered that many of the usenet posters have an account on www.torrentvault.org
+
+Since this site is invite only we couldn't resist to get ourselves invited by these n00bs. Thanks again!
+
+
+When we first entered torrentvault we noticed that one particular seeder had very fast pretimes and has seeded over 10k of torrents (?!?!?!): Blurr (new.torrent.png)
+
+It was easy to get Blurr's IP by just simply downloading a torrent which he was seeding alone (seeder.ip.png): 213.163.71.80
+
+A simple whois on this IP gave us the following:
+
+hosted-by.i3d.net
+213.163.71.80
+
+role: Interactive 3D role
+address: Meent 93
+3011JG Rotterdam
+The Netherlands
+fax-no: +31842241251
+phone: +31108900070
+org: ORG-IA772-RIPE
+mnt-by: MNT-i3D
+abuse-mailbox: abuse@i3d.net
+
+
+Ok, we're getting closer.
+
+
+80% of all scene material ends up on www.torrentvault.org within 10 minutes after pre.
+
+WHAT THE FUCK???
+
+
+How insecure is this for christs sake..?!
+
+
+So we decided to do some pretests. Thx to our loyal and secure siteops we traced a pre to a newly founded gbit.nl site called The Edge. The site has been up for around 3 months now, before that they ran another gbit.nl site on another link.
+
+Thx to our inside man we were able to gather the following intel
+
+Siteops:
+
+Xeno is bnc@LinkNet-9e19ddbd44.under.godi.dk * xeno_ln
+pSYChO
+
+ircd: 213.163.71.82:+6697 LiViNGonEDGE
+bnc:  213.163.71.82:56756
+
+SPACE : SiTE: 961.00GB (22.9%) free, 3.15TB (77.1%) used, out of 4.09TB. Totals: 961.00GB of 4.09TB.
+
+Userlist:
+[2] site alup 3333
+[2] 200- [01] Maple        LiViN oN tHe EdGe       29,535 1,010,28MB   3458K/s
+[2] 200- [02] HoneyMonster No Tagline Set          21,372  677,148MB   3888K/s
+[2] 200- [03] treta        LiViN oN tHe EdGe       18,832  537,172MB   3131K/s
+[2] 200- [04] KiD          K.i.D                   11,688  514,110MB   3168K/s
+[2] 200- [05] DenoimE      LiViN oN tHe EdGe       17,861  451,700MB   3871K/s
+[2] 200- [06] Hirogen      LiViN oN tHe EdGe        7,642  410,435MB   3659K/s
+[2] 200- [07] gb1t         LiViN oN tHe EdGe       12,127  393,442MB   2183K/s
+[2] 200- [08] ChocoCrispy  LiViN oN tHe EdGe        7,054  382,471MB  11803K/s
+[2] 200- [10] sharki       LiViN oN tHe EdGe        7,455  305,420MB   4856K/s
+[2] 200- [11] enforcer     LiViN oN tHe EdGe       18,622  288,754MB   1447K/s
+[2] 200- [12] LHC          LiViN oN tHe EdGe       11,938  243,183MB   2940K/s
+[2] 200- [13] EXORCiST     LiViN oN tHe EdGe        4,367  205,745MB   6446K/s
+[2] 200- [14] BoNeZ        LiViN oN tHe EdGe        7,189  201,669MB   2481K/s
+[2] 200- [15] chirugh      No Tagline Set           4,793  196,804MB   3037K/s
+[2] 200- [16] Jack         LiViN oN tHe EdGe        3,810  196,283MB   6078K/s
+[2] 200- [17] Diablo       LiViN oN tHe EdGe        8,680  193,827MB   4396K/s
+[2] 200- [18] GOT          LiViN oN tHe EdGe        8,246  184,630MB   4596K/s
+[2] 200- [19] HPL          LiViN oN tHe EdGe       10,902  179,334MB   3360K/s
+[2] 200- [20] Nelle        LiViN oN tHe EdGe        4,671  133,004MB   4507K/s
+[2] 200- [21] NLX          LiViN oN tHe EdGe        3,367  114,253MB   4759K/s
+[2] 200- [23] Pichai       LiViN oN tHe EdGe        5,932   92,089MB   3347K/s
+[2] 200- [24] STRiKER      LiViN oN tHe EdGe        3,513   91,665MB   3111K/s
+[2] 200- [25] masta        No Tagline Set          12,159   85,312MB   4283K/s
+[2] 200- [26] Zebo         LiViN oN tHe EdGe        1,228   57,377MB   3404K/s
+[2] 200- [27] Gollum       Stupid Fat Hobbit        1,822   44,129MB   3428K/s
+[2] 200- [28] alcapon3     LiViN oN tHe EdGe          754   30,230MB   4047K/s
+[2] 200- [29] Prime        LiViN oN tHe EdGe          399   19,762MB   2284K/s
+[2] 200- [30] pSYChO       dIRtY KinKY BasTaRD      1,954   13,295MB   4369K/s
+[2] 200- [31] Xeno         Nutty...                 1,288    9,158MB   2755K/s
+[2] 200- [32] BitBop       LiViN oN tHe EdGe          146    3,723MB   4131K/s
+[2] 200- [33] pianowire    No Tagline Set             280    1,123MB   1000K/s
+[2] 200- [34] Hooked       No Tagline Set              93      317MB   3459K/s
+
+[2] site aldn 444
+[2] 200- [01] HoneyMonster No Tagline Set          46,353 1,247,84MB   2478K/s
+[2] 200- [03] sharki       LiViN oN tHe EdGe       18,802  812,989MB    551K/s
+[2] 200- [04] ChocoCrispy  LiViN oN tHe EdGe      161,087  799,377MB   1803K/s
+[2] 200- [05] gb1t         LiViN oN tHe EdGe       28,211  778,515MB   2198K/s
+[2] 200- [06] DenoimE      LiViN oN tHe EdGe       29,091  723,664MB   3525K/s
+[2] 200- [07] treta        LiViN oN tHe EdGe       14,286  506,906MB   2787K/s
+[2] 200- [08] Maple        LiViN oN tHe EdGe       13,078  472,519MB   2979K/s
+[2] 200- [09] enforcer     LiViN oN tHe EdGe       27,030  429,322MB    559K/s
+[2] 200- [10] HPL          LiViN oN tHe EdGe       11,870  391,513MB   1831K/s
+[2] 200- [11] KiD          K.i.D                   10,685  389,878MB   2675K/s
+[2] 200- [12] Diablo       LiViN oN tHe EdGe       15,450  377,930MB   3322K/s
+[2] 200- [13] BoNeZ        LiViN oN tHe EdGe       13,235  374,849MB   1026K/s
+[2] 200- [14] Jack         LiViN oN tHe EdGe       11,367  305,720MB   3142K/s
+[2] 200- [15] Nelle        LiViN oN tHe EdGe       10,739  295,114MB   2810K/s
+[2] 200- [16] LHC          LiViN oN tHe EdGe       11,073  258,836MB   2789K/s
+[2] 200- [17] Pichai       LiViN oN tHe EdGe       13,020  242,278MB   2547K/s
+[2] 200- [18] NLX          LiViN oN tHe EdGe        7,647  232,421MB   2697K/s
+[2] 200- [18] NLX          LiViN oN tHe EdGe        7,647  232,421MB   2697K/s
+[2] 200- [19] chirugh      No Tagline Set           6,623  225,777MB   2670K/s
+[2] 200- [20] STRiKER      LiViN oN tHe EdGe        7,157  214,764MB   3279K/s
+[2] 200- [21] GOT          LiViN oN tHe EdGe        8,533  198,219MB   3663K/s
+[2] 200- [22] Gollum       Stupid Fat Hobbit        4,540  126,556MB   3633K/s
+[2] 200- [23] EXORCiST     LiViN oN tHe EdGe       11,119  108,323MB   2834K/s
+[2] 200- [25] Xeno         Nutty...                   443   43,796MB   1474K/s
+[2] 200- [26] Prime        LiViN oN tHe EdGe          824   37,064MB   1772K/s
+[2] 200- [27] Hirogen      LiViN oN tHe EdGe        1,859   35,803MB   4940K/s
+[2] 200- [28] alcapon3     LiViN oN tHe EdGe          665   22,600MB   5419K/s
+[2] 200- [29] masta        No Tagline Set             727   10,205MB    471K/s
+[2] 200- [30] pSYChO       dIRtY KinKY BasTaRD      1,057    8,551MB   1638K/s
+[2] 200- [31] BitBop       LiViN oN tHe EdGe          340    7,322MB   4326K/s
+[2] 200- [32] Zebo         LiViN oN tHe EdGe            2       95MB  19531K/s
+[2] 200- [33] Malignant    LiViN oN tHe EdGe            7       58MB    334K/s
+[2] 200- [34] TAR21        No Tagline Set               2        0MB     71K/s
+
+Whois on the bnc tells us this:
+
+hosted-by.i3d.net
+213.163.71.82
+
+role: Interactive 3D role
+address: Meent 93
+3011JG Rotterdam
+The Netherlands
+fax-no: +31842241251
+phone: +31108900070
+org: ORG-IA772-RIPE
+mnt-by: MNT-i3D
+abuse-mailbox: abuse@i3d.net
+
+
+Uh this must be a coincidence:
+213.163.71.80 -> seeder
+213.163.71.82 -> gbit.nl
+
+Well no it isn't at all.
+
+http://www.i3d.nl/dedicated-servers-root-servers.php
+
+
+With every rented server you get 3 IP addresses...
+
+So this means that the same gbit.nl is a seedbox for torrentvault.org
+
+
+So there you have it:
+
+PRE (use your local prebot)> TheEdge > TorrentVault (new.torrent.png) > Usenet (announce.png)
+
+You can't get more p2p in that phrase
+
+
+Conclusion:
+These racers on TheEdge are ignorant and stupid enough to not check their sites. Gbit.nl's are rarely private links, it just screams rented all over the place. We advise siteops to add the ip range of i3D to their banlist and to do the same for the racers. We can't have any of these MoFo's bringing the scene into dangerous waters.
+
+
+
+
+PS:
+As an added bonus, here are some more seedboxes:
+
+
+2 OVH
+
+84.24.171.88:60082
+94.23.212.190:60815
+
+Another i3D
+
+213.163.76.65:54364
+
+
+
+http://tracker.torrentvault.org:2277
+
+IRCD:
+
+irc.torrentvault.org:9022 SSL
+irc.torrentvault.org:1337 non-SSL
+
+
+Userlist #tv on irc.torrentvault.org
+    
+%becs!becs@fls.torrentvault.org
+&@grnster!grnster@moderator.torrentvault.org
+&@PharetH!phareth@developer.torrentvault.org
+~@morbid!morbid@sysop.torrentvault.org
+~@Phyber!phyber@sysop.torrentvault.org
++bongboy!bongboy@vip.torrentvault.org
++dyllengir!dyllengir@vip.torrentvault.org
++kjdemco!kjdemco@vip.torrentvault.org
++sparc!sparc@vip.torrentvault.org
++Wdot!wdot@strategist.torrentvault.org
+abandonow!abandonow@organizer.torrentvault.org
+absinthe!absinthe@burglar.torrentvault.org
+Alexlin9008!alexlin900@user.torrentvault.org
+amphetamine!Richard@burglar.torrentvault.org
+Andrei88!andrei88@burglar.torrentvault.org
+annibal!annibal@organizer.torrentvault.org
+Anthropos!anthropos@user.torrentvault.org
+Arie!arie@burglar.torrentvault.org
+Bambul!bambul@poweruser.torrentvault.org
+Belgarion!belgarion@burglar.torrentvault.org
+bestA!besta@henchman.torrentvault.org
+Blade!blade@burglar.torrentvault.org
+Broddan!broddan@burglar.torrentvault.org
+bubos!bubos@strategist.torrentvault.org
+bungle!bungle@organizer.torrentvault.org
+canibus2677!canibus267@organizer.torrentvault.org
+cekac!cekac@burglar.torrentvault.org
+chrisbeebops!cbb@burglar.torrentvault.org
+colosus21!colosus21@safecracker.torrentvault.org
+Cowboy21a!rofl@organizer.torrentvault.org
+croyfer!croyfer@burglar.torrentvault.org
+crust!crust@user.torrentvault.org
+d!5555@dead.net
+diamonddust1!whatthe@pickpocket.torrentvault.org
+diego6!diego6@pickpocket.torrentvault.org
+dinkus!dinkus@safecracker.torrentvault.org
+dkude1210!dkude1210@organizer.torrentvault.org
+dnafviii!dnafviii@user.torrentvault.org
+dolcegabana!antrax@pickpocket.torrentvault.org
+Draylor!draylor@organizer.torrentvault.org
+DrVCD!drvcd@burglar.torrentvault.org
+Duck85!duck85@burglar.torrentvault.org
+echo!echo@organizer.torrentvault.org
+EE!ee@user.torrentvault.org
+Elyxi!elyxi@organizer.torrentvault.org
+erizo!erizo@burglar.torrentvault.org
+Eteris!eteris@burglar.torrentvault.org
+ezekirby!ezekirby@poweruser.torrentvault.org
+fabio87!fabio87@burglar.torrentvault.org
+Factoid!factoid@burglar.torrentvault.org
+fdaddy!fdaddy@user.torrentvault.org
+Felipe!felipe@organizer.torrentvault.org
+Flasheeur!flasheeur@user.torrentvault.org
+fruityloops!fruityloop@poweruser.torrentvault.org
+g2x3k!g2x3k@burglar.torrentvault.org
+gaskanu!gaskanu@organizer.torrentvault.org
+Gazzaman!gazzaman@henchman.torrentvault.org
+georgeandoh!georgeando@burglar.torrentvault.org
+ghost187!ghost187@strategist.torrentvault.org
+gidlp!gidlp@burglar.torrentvault.org
+Glaurunga!glaurunga@strategist.torrentvault.org
+Glottiz!glottiz@pickpocket.torrentvault.org
+GoRaPiD!gorapid@burglar.torrentvault.org
+grebl0s!grebl0s@burglar.torrentvault.org
+Hamachi!hamachi@organizer.torrentvault.org
+HBVF!hbvf@user.torrentvault.org
+HERTZ!hertz@user.torrentvault.org
+hick!hick@burglar.torrentvault.org
+HouseX!housex@burglar.torrentvault.org
+hubbe!hubbe@strategist.torrentvault.org
+hueyser1!hueyser@strategist.torrentvault.org
+IBLIS!iblis@strategist.torrentvault.org
+iNCO!inco@strategist.torrentvault.org
+insider!insider@organizer.torrentvault.org
+Iphis!iphis@organizer.torrentvault.org
+Irrealist!irrealist@strategist.torrentvault.org
+jb123456!jb123456@burglar.torrentvault.org
+jedwardsjunk!chatzilla@strategist.torrentvault.org
+Jefo!jefo@henchman.torrentvault.org
+Jon8c!jon8c@pickpocket.torrentvault.org
+json4!json4@user.torrentvault.org
+kamayo!kamayo@user.torrentvault.org
+KeDL!kedl@organizer.torrentvault.org
+Keefe!keefe@organizer.torrentvault.org
+Kenkoyka9!kenkoyka9@legendary.torrentvault.org
+krakraille!krakraille@burglar.torrentvault.org
+krust3!krust3@organizer.torrentvault.org
+KuRsE360!kurse360@henchman.torrentvault.org
+Kwik!kwik@pickpocket.torrentvault.org
+l00mit!l00mit@burglar.torrentvault.org
+LaserLock!laserlock@strategist.torrentvault.org
+leftmargin!leftmargin@henchman.torrentvault.org
+Legend!legend@burglar.torrentvault.org
+lego!lego@poweruser.torrentvault.org
+LiQuID!liquid@burglar.torrentvault.org
+Logoman!logoman@safecracker.torrentvault.org
+Lushas!lushas@organizer.torrentvault.org
+MACANUDOS!macanudos@user.torrentvault.org
+majki123!majki123@strategist.torrentvault.org
+maldoror!maldoror@burglar.torrentvault.org
+manbearpig!manbearpig@user.torrentvault.org
+margjakob!margjakob@pickpocket.torrentvault.org
+MashhitDK!mashhitdk@strategist.torrentvault.org
+massakakka!massakakka@organizer.torrentvault.org
+MB2!mb2@pickpocket.torrentvault.org
+mcfly!mcfly@burglar.torrentvault.org
+mengan!mengan@user.torrentvault.org
+Mharhon!mharhon@organizer.torrentvault.org
+MonkeyPunch!monkeypunc@burglar.torrentvault.org
+n33raj!n33raj@safecracker.torrentvault.org
+nadine!tehtit@safecracker.torrentvault.org
+nCrypt!ncrypt@pickpocket.torrentvault.org
+Neesha!neesha@user.torrentvault.org
+NekawA!nekawa@burglar.torrentvault.org
+neojapan!neojapan@burglar.torrentvault.org
+no0b!no0b@burglar.torrentvault.org
+noix!noix@user.torrentvault.org
+okeribok!okeribok@user.torrentvault.org
+OmarH!omarh@safecracker.torrentvault.org
+Ondast!ondast@legendary.torrentvault.org
+onixuma!onixuma@strategist.torrentvault.org
+Oriona!oriona@burglar.torrentvault.org
+Paladinz!paladinz@burglar.torrentvault.org
+Pilfir!pilfir@organizer.torrentvault.org
+pinkpanther!thepinkpan@strategist.torrentvault.org
+Podkovka!podkovka@organizer.torrentvault.org
+polsat!polsat@organizer.torrentvault.org
+Qwert!qwertynus@strategist.torrentvault.org
+r3r3r3!r3r3r3@safecracker.torrentvault.org
+Rabban!rabban@strategist.torrentvault.org
+RCM!rcm@user.torrentvault.org
+RealFlub!realflub@user.torrentvault.org
+reviede!reviede@organizer.torrentvault.org
+rioramos!rioramos@poweruser.torrentvault.org
+RMT!rmt@safecracker.torrentvault.org
+s0lr0sas!s0lr0sas@poweruser.torrentvault.org
+salanki!salanki@burglar.torrentvault.org
+sChAllEr!schaller@organizer.torrentvault.org
+SCiMiTAR!scimitar@burglar.torrentvault.org
+ScratchMe!scratchme@user.torrentvault.org
+shadow81!shadow81@burglar.torrentvault.org
+shuds!shuds@user.torrentvault.org
+slayertibi!slayertibi@strategist.torrentvault.org
+Snake!snake@burglar.torrentvault.org
+snoopy83!snoopy83@strategist.torrentvault.org
+someone13!someone13@strategist.torrentvault.org
+sp0oon!sp0oon@organizer.torrentvault.org
+Spacewiz!spacewiz@safecracker.torrentvault.org
+Sparkyy!sparkyy@pickpocket.torrentvault.org
+StewieG!stewieg@burglar.torrentvault.org
+stfnborg!stfnborg@organizer.torrentvault.org
+Stim!stim@organizer.torrentvault.org
+stuck!stuck@burglar.torrentvault.org
+stumpiej!stumpiej@user.torrentvault.org
+SubaruSVX!subarusvx@poweruser.torrentvault.org
+Sune!asamoyoru@pickpocket.torrentvault.org
+superduper!superduper@pickpocket.torrentvault.org
+terraeye!terraeye@burglar.torrentvault.org
+ThaF666!thaf666@burglar.torrentvault.org
+Threshold!threshold@poweruser.torrentvault.org
+thrillphase!gabe@strategist.torrentvault.org
+tomson!tomson@strategist.torrentvault.org
+tr0ll!efg@henchman.torrentvault.org
+trouto!trouto@poweruser.torrentvault.org
+tv10!tv10@pickpocket.torrentvault.org
+userfortytwo!re@user.torrentvault.org
+valley!valley@safecracker.torrentvault.org
+viva!viva@burglar.torrentvault.org
+weeder!weeder@burglar.torrentvault.org
+Wiewior666!wiewior666@poweruser.torrentvault.org
+Wowzamo!wowzamo@burglar.torrentvault.org
+WwdTourKane!wwd_tour_k@burglar.torrentvault.org
+xfrobex!xfrobex@burglar.torrentvault.org
+xyz00!xyz00@organizer.torrentvault.org
+ycren!ycren@henchman.torrentvault.org
+yonizaf!yonizaf@pickpocket.torrentvault.org
+yopesh!yopesh@pickpocket.torrentvault.org
+z10y_!z10y@poweruser.torrentvault.org
+zeabeth!zeabeth@legendary.torrentvault.org
+zebrix!zebrix@pickpocket.torrentvault.org
+
+
+Last but not least, the n00bs on Efnet in full glory and l33tness. Thx guys once again for helping us :D
+
+
+#alt.binaries.foreign
+
+@ABQueen 
+@CheGuevar 
+@cr4zyfr4g 
+@DM8Mydog 
+@Dutchie 
+@futur1sm 
+@gewfie 
+@HornyDawg 
+@MooTee 
+@NZB-BOT
+@Pascal 
+@Takkie 
+@Wesley 
++^weasel 
+AWingsFan 
+aXL 
+BiM 
+burpp 
+Deadmeat 
+D-Flex 
+dmbq 
+DNA 
+dr0pknutz 
+Fargh 
+grogert 
+hoot 
+Ig_Softy 
+innovatio 
+Jeepbeats 
+jogi 
+LAAV 
+lclhst 
+lhbandit 
+MrDopeman 
+MugenJin 
+Nefraim 
+osaft 
+postduif 
+QQ--OFF 
+Ramy 
+re-boot 
+relentles 
+RemcoD 
+spirryown 
+Spyrus 
+street 
+sjaak 
+t00fan 
+ZAPhoeniX

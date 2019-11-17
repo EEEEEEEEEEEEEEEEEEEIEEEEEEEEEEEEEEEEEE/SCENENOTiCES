@@ -1,0 +1,13 @@
+PUBLIC FSERVE FROM RAZAMP3 @ EFNET
+
+* Now talking in #LaRaZaMp3
+* Topic is 'RAZAMP3 controla ....:::NOW SERVING Bullet-Sounds_of_the_Bullet-2006-RAZAMP3'
+
+<+VtK> File Server Online Triggers:«lista_cd» Ctcp:«On» Sends:«0/2» Queues:«0/10» Accessed:«150 times» Online:«0/4» RCPS:«22 Kbs by demoninur» Served:«1.61G in 362 files» Current BW:«0 cps» AQT:«No Wait» MOTD: -= Invision 2.0 Build 1816 =-  —I-n-v-i-s-i-o-n—
+
+<@sin13stro> [XDCC Active] - Sends:[1/1] - Queues:[1/1] - Record CPS:[18.8kB/s by DisIsP] - Bytes Sent:[192.8MB] - Files Sent:[3] - Sends Failed:[7] - Resends:[5] - Upload Speed:[29.9kB/s] - Download Speed:[0B/s] - Current Bandwidth:[29.9kB/s] - List Trigger:[/ctcp sin13stro XDCC LIST hook_me_up_bigg_dogg] - SysReset 2.53
+
+<@sin13stro> Usage: /ctcp sin13stro XDCC GET hook_me_up_bigg_dogg #<pack number>
+
+
+PUBLIC FSERVE FROM RAZAMP3 @ EFNET

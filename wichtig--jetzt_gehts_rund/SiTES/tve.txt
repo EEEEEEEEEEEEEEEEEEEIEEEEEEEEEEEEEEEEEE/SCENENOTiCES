@@ -1,0 +1,75 @@
+[1] 200- [01] Ghost        TVE                     13,502  240,504MB   1544K/s
+[1] 200- [02] scampa       No Tagline Set           5,062  205,792MB    309K/s
+[1] 200- [03] Spursy2j     No Tagline Set           3,413  132,419MB    124K/s
+[1] 200- [04] fnz          taglines suck            5,940  114,126MB    486K/s
+[1] 200- [05] powder       No Tagline Set           2,065   81,810MB   9806K/s
+[1] 200- [06] Skyforce     Guess Whoos Back         3,766   71,285MB   1227K/s
+[1] 200- [07] sco0t        No Tagline Set           3,235   62,434MB    717K/s
+[1] 200- [08] JoHnY        No Tagline Set           2,892   56,379MB   1391K/s
+[1] 200- [09] paykoman     No Tagline Set           1,660   52,689MB   2767K/s
+[1] 200- [10] Jesus        Go, and sin no more      2,578   40,723MB    380K/s
+[1] 200- [11] Wraith       No Tagline Set           1,682   40,115MB   1023K/s
+[1] 200- [12] dabomb       No Tagline Set           1,075   37,540MB   7584K/s
+[1] 200- [13] s00perted    No Tagline Set           1,483   33,454MB     58K/s
+[1] 200- [14] FdaF         No Tagline Set           1,839   29,704MB   1285K/s
+[1] 200- [15] pwise        No Tagline Set           1,024   23,691MB   2083K/s
+[1] 200- [16] sync         illusional               1,119   22,555MB   1938K/s
+[1] 200- [17] hellmaster   No Tagline Set             993   21,187MB   3262K/s
+[1] 200- [18] aLeXoli      No Tagline Set           1,268   19,920MB    887K/s
+[1] 200- [19] slide        Fast Deliveries          1,164   19,384MB   1259K/s
+[1] 200- [20] Uzumaki      On holiday till 8 May      994   18,803MB   1873K/s
+[1] 200- [21] bocca        No Tagline Set           1,058   18,745MB   1541K/s
+[1] 200- [22] Taz7         No Tagline Set             564   18,726MB   6198K/s
+[1] 200- [23] infinity     No Tagline Set             905   18,675MB   3125K/s
+[1] 200- [24] Zaven        No Tagline Set           1,155   17,756MB   2412K/s
+[1] 200- [25] S4X0         -== FD =--                 873   17,165MB   1289K/s
+[1] 200- [26] Link55555    No Tagline Set             786   17,101MB    570K/s
+[1] 200- [27] maphia       No Tagline Set             994   16,604MB   1337K/s
+[1] 200- [28] hush         No Tagline Set             895   15,520MB   1715K/s
+[1] 200- [29] Stront       998                        330   15,329MB    441K/s
+[1] 200- [30] Cybergod     -=-.:Spades 2005:.-=-      740   14,189MB   3170K/s
+[1] 200- [31] fosil        No Tagline Set             802   14,166MB    134K/s
+[1] 200- [32] fronk        No Tagline Set             660   13,526MB   1304K/s
+[1] 200- [33] Thrillseeka  -=-.:Spades 2005:.-=-      665   13,412MB   1238K/s
+[1] 200- [34] sav          On Vacation Til June 1     786   12,796MB   2309K/s
+[1] 200- [35] TeKnO        No Tagline Set             649   12,450MB   3074K/s
+[1] 200- [36] t0r          -=[EDC]=-                  657   12,175MB   2643K/s
+[1] 200- [37] CrAzY        No Tagline Set             782   11,394MB    159K/s
+[1] 200- [38] BaRnz        No Tagline Set             661   11,244MB   2865K/s
+[1] 200- [39] astral       troops of doom             413   10,443MB    101K/s
+[1] 200- [40] aRKooF       No Tagline Set             416    9,949MB    148K/s
+[1] 200- [41] iKA          No Tagline Set             444    9,872MB    415K/s
+[1] 200- [42] knk          No Tagline Set             433    9,507MB   1305K/s
+[1] 200- [43] FB           No Tagline Set             483    8,791MB   1696K/s
+[1] 200- [44] mozofok      -=TOW i SO=-               444    8,300MB    694K/s
+[1] 200- [45] q413         do not race me             499    7,987MB   1967K/s
+[1] 200- [46] rev          No Tagline Set             247    7,653MB   2320K/s
+[1] 200- [47] gambit       -+ AMNESiA iSO +-          285    7,395MB   1391K/s
+[1] 200- [48] ehHmm        Slick haired Luigi.        328    7,286MB    947K/s
+[1] 200- [49] Vejmand      No Tagline Set             167    5,888MB    415K/s
+[1] 200- [50] wheelbit     No Tagline Set             396    5,604MB  12369K/s
+[1] 200- [51] prebot       No Tagline Set             328    5,215MB    567K/s
+[1] 200- [52] Da_L         No Tagline Set             225    4,780MB   1623K/s
+[1] 200- [53] SG-1         No Tagline Set             294    4,622MB   1048K/s
+[1] 200- [54] devil        No Tagline Set             164    4,550MB   3926K/s
+[1] 200- [55] KAT          No Tagline Set             287    4,526MB   1620K/s
+[1] 200- [56] joell        No Tagline Set             201    4,519MB     45K/s
+[1] 200- [57] grizzo       fD                         163    3,540MB   1148K/s
+[1] 200- [58] Os1rIs       No Tagline Set             181    3,293MB   1595K/s
+[1] 200- [59] Conan        .                          258    3,069MB   1439K/s
+[1] 200- [60] mkrm         No Tagline Set             157    2,829MB   2996K/s
+[1] 200- [61] AxxDenied    No Tagline Set             147    2,749MB   8406K/s
+[1] 200- [62] Zanix        No Tagline Set             115    1,882MB   3442K/s
+[1] 200- [63] koskos       No Tagline Set             105    1,490MB   8481K/s
+[1] 200- [64] Gingga       No Tagline Set              31    1,253MB   1836K/s
+[1] 200- [65] MiKe         No Tagline Set              61      991MB    708K/s
+[1] 200- [66] matrixx      No Tagline Set              59      894MB   3800K/s
+[1] 200- [67] checker      No Tagline Set              14      619MB   2325K/s
+[1] 200- [68] amus         No Tagline Set               1       47MB  24414K/s
+[1] 200- [69] industa      No Tagline Set               3       42MB    187K/s
+[1] 200- [70] r0dman       No Tagline Set               2       33MB    455K/s
+[1] 200- [71] Buzby        No Tagline Set               1        0MB    253K/s
+[1] 200- [72] Hotch        No Tagline Set               1        0MB      5K/s
+[1] 200- [73] sneakir      No Tagline Set               1        0MB      5K/s
+
+Bncs: 80.247.203.112:65235 - 83.149.121.26:28000

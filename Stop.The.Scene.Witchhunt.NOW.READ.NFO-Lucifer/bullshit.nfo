@@ -1,0 +1,103 @@
+Yesterday there was a document released (Another.SCENE.SECURITY.nOTICE.READ.NFO-TheWatchers) 
+accusing "meh/STD" of "gaining access to accounts password files and other system info"
+
+NOTE: This document is not trying to prove meh's innocence, however it is trying to show how just about anyone in the scene
+      can slander someone else's reputation/nick without providing solid proof, or even allow the person in question to refute
+      the evidence (circumstantial in this case) against them.
+
+
+"Today on t** .kr there was a security issue"
+
+-I don't know about you, but if the site is having security issues, I wouldn't trust those site admins
+ with my userfile.  We have more things to worry about, then just some rogue user getting on the site,
+ why leave the security lax to let people in?
+
+
+"that resulted in someone gaining access to accounts password files"
+
+-From the exerpt of the, i'm assuming complete, log file provided the only access to any files that I can see are:
+ cat /etc/passwd, twice.
+ a) Unless you are using some *nix variant from 1993, passwords were no longer kept in /etc/passwd, it only provided a template
+    for logging in, homedir, shell etc...
+ b) Everytime the person issued that command, they followed by "cd /home/ ... cd xxxxxx/" or "cd /home/xxxxxx", it looks like they
+    were just using the /etc/passwd file to find user accounts on the system.  Hardly an attempt to get passwords.
+ "pico T**.user"
+ -Probably has passwords in it, but let's hope you use different passwords for different things.
+
+
+"and other system info including user files for the sitebot and other files"
+
+-Oh no not the sitebot.  Let's see if this person is "on the site", which i'm guessing then that means the user is in the same
+ channel as the sitebot.  Maybe he's gonna haxor the staff channel, which can result in changing channel, change key, problem solved.
+
+
+"and also stealing some scripts and other files off the site."
+
+-Only scripts i've seen catted are: psxc-imdb-conf.tcl, bnc.sh, okdmtools.conf
+ psxc-imdb-conf.tcl - Public domain script... nuff said.
+ bnc.sh - Umm i'm guessing this checks for bnc status... there's more then 50 version of this script
+          hardly anything worth patenting.
+ okdmtools.conf - sounds familiar, could be something important you can judge.
+
+
+"This user goes by the irc name meh and races either under the same name meh or orc"
+
+-Okay unless i've missed some irrefutable evidence, this means shit to me.  Whoever wrote this original file
+ the OWNESS is on YOU to prove your point.  You can't just pull shit out of your ass, because it's not worth
+ the shit that it probably smells like.
+
+
+"he is also a surposed member of the release group STD."
+
+-Okay now you've already slandered one person, now that's slander a GROUP that you aren't even
+ sure the user is a part of.  This is from your own statement "surposed member", that doesn't sound like
+ you're too sure.
+
+
+"He was quickly removed from this site and everything was taken as a precauctionary measure."
+
+-Well judging from the security issue that was already present we can only hope you did a good job.
+
+
+"If any site has STD or a user meh or orc on their site it is advised to remove them at once."
+-No solid proof, I don't think so.
+
+
+Other notable things that just seem interesting from the log.
+
+1. "cat orc"
+If the person is the one doing the commands, why would he check his own userfile?
+Last I remember "site user" can check you're own userfile, which has the exact info
+in a more readable format.
+
+2. "cd pftpfxp-mew/"
+If this person was so adamant about getting site info and user info, why not
+check the sitedb that comes with this?
+
+3. "cat prelist.nfo | grep STD"
+Checking the prelist for the "purposed" group that the person is a part of?
+I mean WTF?
+
+I could go on, but I hope I have driven this point home.
+
+The only evidence that I can see their person has used to try to prove their point about
+who the issuer of the commands is from 2 commands "cat orc, grep STD".
+I hope you don't get on any jury's or become a judge anytime soon.
+
+
+***NOTE***
+AGAIN I want to say, this document is not to prove anyone innocence.  It is just to prove
+that there is too many of these stupid document floating around slandering people over usually
+what is personal matters.
+
+Stop wasting the bandwidth and space and braincells with this shit, it's stupid propaganda garbage.
+
+Please for anyone else planning to release something equivocally gay, please provide more PROOF,
+have some way of standing behind your accusations and not just anonymously publishing them.
+
+Also, just provide the proof and you're reasoning.  Let people who read the document judge on themselves,
+they do have brains you know.  There's too many of these witchhunts in the scene.
+
+
+kthnxgoal
+

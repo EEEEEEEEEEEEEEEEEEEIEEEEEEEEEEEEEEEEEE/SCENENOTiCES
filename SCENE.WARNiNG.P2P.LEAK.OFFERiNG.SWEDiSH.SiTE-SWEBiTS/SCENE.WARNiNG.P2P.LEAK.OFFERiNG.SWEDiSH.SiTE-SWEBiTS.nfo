@@ -1,0 +1,55 @@
+
+date: 2008.05.30
+
+Some guy 'Alli' @ LinkNet offers a 100/100Mbit 1Tb site.
+Problem is this guy is also connected with P2P.
+
+His ip: 89.160.81.31 
+
+ftp 89.160.81.31:31 
+user:xxx pass:xxx123
+user:zolk pass:zolk
+
+Here are some logs from his mIRC:
+
+autojoin-BamzeNET.txt
+	#rss-swe
+	#softtorrents
+
+autojoin-FreeQuest.txt
+	#starbits
+	#softmp3
+	#np
+	#feedtv
+	#swebits
+	#starbits.staff  <--- check
+	#starbits.radio
+	#tti
+	#seedit
+	#starbits.uploader <--- check
+	#swebits.ul        <--- check
+	#piratebits
+	#seedit.staff    <--- ops
+	#Pre.Starbits
+	#tti-uppers      <--- check
+	#gudarnasgud
+	#swetorrents
+	#böghörnan
+	
+autojoin-ScT.txt
+	#sct.gossip
+	#sct.upload.spam
+	
+According to logs from his mirc hes known as vearstingen in #swebits.
+
+This information is enough for everyone whos trying to be safe.
+Heads up!
+
+And to vearstingen we like to say:
+#1.We did not delete the files on your ftp, we teleported them to chuck norris!
+#2.Yes we got this information from your computer as you know.
+#3.Stop leaking or we will pre your personal information (realname, address, phone, social security number etc.)
+#4.Have a nice day!
+
+
+

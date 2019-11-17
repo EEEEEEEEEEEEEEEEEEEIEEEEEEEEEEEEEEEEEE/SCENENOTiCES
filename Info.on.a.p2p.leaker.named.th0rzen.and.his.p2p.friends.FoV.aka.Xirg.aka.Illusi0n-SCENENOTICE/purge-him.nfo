@@ -1,0 +1,118 @@
+Info.on.a.p2p.leaker.named.th0rzen.and.his.p2p.friends.FoV.aka.Xirg.aka.Illusi0n-SCENENOTICE
+17th August 2007
+
+Hello fellow sceners, 
+
+Today I have the pleasure of exposing another lameass p2p leaker. Some of you may know him already. His name is
+th0rzen and he is a danish person who is the leader of the groups -DanTV -DanFilm & -DanXXX.
+
+The first thing that brought th0rzen to my attention is the fact that he was on a .de rented site called vir0n. Here are some details on it:
+Site name: vir0n
+Site IP: 193.164.132.199
+Location: .de (rented from Giga-Hosting.biz)
+Affils: PiRG PSR
+Siteops: Anubis HirYu Mapha Qbit
+
+The racers on this site are complete unknowns, except for th0rzen who is at a few places. 
+
+ /whois th0rzen   -   -
+::: Host: th0rzen@LinkNet-bc3a33768a.n0w.info
+::: Name: th0rzen
+::: Server: link-net.org LinkNet IRC Network
+ End of /whois th0rzen   -   -
+
+On this site there is a prebot called PRED that is owned by FoV.
+
+ /whois PRED   -   -
+::: Host: ~PRED@LinkNet-4af65208be.rev.stofanet.dk
+::: Name: PRED
+::: Server: link-net.org LinkNet IRC Network
+ End of /whois PRED   -   -
+
+ /whois FoV   -   -
+::: Host: ~none@LinkNet-6509342f3f.a.predb.info
+::: Name: FoV
+::: Server: link-net.org LinkNet IRC Network
+::: Away: auto-away after 20m idle
+ End of /whois FoV   -   -
+
+The prebot on this site had the exact same theme & database as a widely known prebot run by a p2per named Xirg. So I dug a little further.
+Here is some information from efnet & p2p-net. NeXTPRe and PREB0T are both owned by Xirg and are identical to the prebots found on vir0n.
+
+-
+NeXTPRe is ~DB@this.bouncer.is.not.a.predb.info * NeXTPRe
+NeXTPRe using irc.efnet.ch Eating Chocolate All Day (ECAD)
+NeXTPRe actually using host 89.149.226.192
+NeXTPRE End of /WHOIS list.
+-
+PREB0T is ~Im@P2PNET-6C920D45.rev.stofanet.dk * . :PREB0T
+PREB0T is a registered nick
+PREB0T using grass.nl.p2p-network.net P2P-NET
+PREB0T is using a Secure Connection
+PREB0T End of /WHOIS list.
+-
+Xirg is Hidden@is.leeching.with.56k.dk * Xirg
+Xirg using efnet.teleglobe.net Artes, scientia, veritas
+Xirg actually using host 83.97.101.8
+Xirg End of /WHOIS list.
+-
+
+A whois on predb.info reveals:
+Registrant Email:xirg.laptop@gmail.com
+
+Right, so we now know that FoV is Xirg and the bots NeXTPRe PREB0T and PRED are all the same. How does that link to th0rzen?
+Because both Xirg and th0rzen are from .dk and both on a small rented .de site with .pt material I searched for a link between the two and came up empty handed.
+It was actually by accident that I discovered the link. 
+
+A torrent site named Leechbits aka Rushbits started uploading some danish material extremely quickly, I am talking within 3 minutes of pre.
+The first seeding IP was shiny.spockboy.com [84.16.234.198]
+
+So I spoke to a siteop I know and found out that th0rzen was the only person to race that material from a presite. I'm not big on coincidences.
+So I asked for the logs, and here they are (only the filenames of the .rars and dates have been censored):
+
+DEBUG CENSORED aug 2007 22:05:41 [FtpConn thread 20409 from 213.185.17.73 th0rzen/DanTV] 
+  net.sf.drftpd.master.BaseFtpConnection.service - << PRET RETR CENSORED.r00
+DEBUG CENSORED aug 2007 22:05:41 [FtpConn thread 20409 from 213.185.17.73 th0rzen/DanTV] 
+  org.drftpd.slaveselection.filter.ScoreChart - SlaveScore[rslave=CENSORED,score=1]
+DEBUG CENSORED aug 2007 22:05:41 [FtpConn thread 20409 from 213.185.17.73 th0rzen/DanTV] 
+  net.sf.drftpd.master.BaseFtpConnection.service - << PORT 89,149,226,192,229,181
+DEBUG CENSORED aug 2007 22:05:41 [FtpConn thread 20409 from 213.185.17.73 th0rzen/DanTV] 
+  net.sf.drftpd.master.BaseFtpConnection.service - << RETR CENSORED.r00
+DEBUG CENSORED aug 2007 22:05:41 [FtpConn thread 20409 from 213.185.17.73 th0rzen/DanTV] 
+  org.drftpd.slaveselection.filter.ScoreChart - SlaveScore[rslave=CENSORED,score=1]
+
+Nothing out of the ordinary, right? Wrong. look at this line:
+  net.sf.drftpd.master.BaseFtpConnection.service - << PORT 89,149,226,192,229,181
+So he was fxping to a box with an ip of 89.149.226.192
+BINGO, there is our link. He fxped it to that box which we know from the whoises is owned by Xirg.
+But that still doesn't prove he uploaded it to the torrent site? Wrong. It is a widely known fact that most p2p uploaders transfer like this
+SCENE --> Rented #1 --> Rented #2 --> Torrent site
+And they usually have both the rented boxes on the same provider or data center for speed.
+It is no surprise that both 89.149.226.192 and 84.16.234.198 are hosted by http://netdirekt.de in the same data center.
+And there you have it, that is how he leaked some danish material to leechbits.
+
+A little bit of extra info, that some of you in the !addpre scene may or may not be aware of:
+It is common knowledge that Xirg is also known as illusi0n. This is his addpre nick. He was already banned from a lot of addpre chans a while ago,
+but a warning to all addpre owners if you still have him - ban him now. If we find out you have been harbouring him, you yourself will be caught and banned too. 
+P2Pers do not need addpre and most of the time its these kids causing all the spam. Same goes with his nick Xirg, you keep him in !addpre channels and you will
+be hunted down and banned too.
+
+-
+Illusi0n is Illusi0n@connected.through.eushells.com * Illusi0n Hansen
+Illusi0n using irc.efnet.pl ATMAN, Warsaw, Poland
+Illusi0n actually using host 81.7.142.254
+illusi0n End of /WHOIS list.
+-
+
+Just to summarize:
+    Both Xirg and th0rzen are Danish
+    th0rzen/Xirg/Illusi0n all use eushells bncs
+    th0rzen is on at least 2 rented .de sites, which have some p2pers on him.
+    th0rzen fxped to 89.149.226.192 which is Xirg's rented .de box, the rls was then fxped on to 84.16.234.198 and uploaded to leechbits
+
+From all this we can conclude that th0rzen is a p2p leaker, who is either Xirg or is good friends with Xirg.
+
+He might do the old "I didn't know it was rented" excuse, but whatever - keep this insecure fuck on your sites at your own risk.
+Don't believe anything in this NFO? Well fine, do some searching of your logs. Dig deep and ask your friends, they can probably confirm it.
+
+I would put in the usual message of a warning to all p2pers, stop what you are doing blah blah, but you lameass p2p leakers are too stupid to care.

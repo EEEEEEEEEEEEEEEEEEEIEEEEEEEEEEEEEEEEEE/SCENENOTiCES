@@ -1,0 +1,2871 @@
+
+dann frag ich mal wieder nach. 
+dj_turrican [LDC]: hast du nicht auich gesagt das du 2 hast?
+|-=Flash=-|: Joap
+dj_turrican [LDC]: und was bringt der mit
+|-=Flash=-|: hmm mal schauen
+dj_turrican [LDC]: hmm... ich glaube gleich hab ich die komische datei geknackt :)
+|-=Flash=-|: meinste?
+dj_turrican [LDC]: jau *gg* 
+ich probier es gleich aus nur noch wenige sekunden.
+*** dj_turrican [LDC] signed off at Sun Dec 22 22:53:41 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 22 23:05:55 2002.
+|-=Flash=-|: und =)?
+dj_turrican [LDC]: boaaahhhhh.... also weisste was mein herzchen.
+|-=Flash=-|: was ist aus deinen wnenigen sekunden
+dj_turrican [LDC]: geht doch net  *ll*
+|-=Flash=-|: joap schatzi?
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: das ding hat meine pc zum absturz gebtracht
+dj_turrican [LDC]: muss wohl was falsch gemacht haben
+|-=Flash=-|: LÖL
+|-=Flash=-|: =)
+dj_turrican [LDC]: es muss aber was mit der exe datei zu tun haben, die aud brauchen zum encoden nen timeindex der von nem hardwareencoder geliefert werden muss wie sie halt nunmal nur im kino stehehn
+|-=Flash=-|: die bastel freaks ich brauche gleich deine hilfe
+dj_turrican [LDC]: ich sollte nur den logarythmus kennen dann geht das. 
+dj_turrican [LDC]: jau ich helfe dir doch gerne mein ssser
+|-=Flash=-|: hrhr
+|-=Flash=-|: mitm muxxen passt was net
+dj_turrican [LDC]: hmmm erstmal deine hilfe.... ich wollte mir noch cd1 holen. wieso darf ich denn nicht mehr in die ordner *schnief*
+*** dj_turrican [LDC] signed off at Sun Dec 22 23:09:49 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 22 23:09:51 2002.
+|-=Flash=-|: in welche ordenr?
+dj_turrican [LDC]: in die von der line wo du mir vorhin gegeben hast
+|-=Flash=-|: wo kommste net mehr rein
+dj_turrican [LDC]: in alle nicht mehr
+dj_turrican [LDC]: ist echt nicht lieb. dj muss weinen *schluchtz*
+|-=Flash=-|: hmm
+|-=Flash=-|: das kann ent sein
+dj_turrican [LDC]: 550 SVCD: Permission denied. 
+CWD SPEED 
+550 SPEED: Permission denied. 
+CWD REQUESTS 
+550 REQUESTS: Permission denied. 
+CWD MP3 
+550 MP3: Permission denied. 
+CWD GAMES 
+550 GAMES: Permission denied.
+dj_turrican [LDC]: is aber echt so
+|-=Flash=-|: muahhah
+|-=Flash=-|: ich sehe es gerade
+|-=Flash=-|: ^^
+|-=Flash=-|: löl
+|-=Flash=-|: nimm
+|-=Flash=-|: mal
+|-=Flash=-|: xtc:xtc
+|-=Flash=-|: als acc
+|-=Flash=-|: =)
+dj_turrican [LDC]: permission denied
+|-=Flash=-|: joap
+|-=Flash=-|: hmm
+dj_turrican [LDC]: bist du das etwa du schlingel?
+|-=Flash=-|: nee
+|-=Flash=-|: =)
+|-=Flash=-|: echt nte
+dj_turrican [LDC]: kannst mir nen anderen acc machen?
+|-=Flash=-|: mom ich fixe das hja eben
+|-=Flash=-|: teste jetzt mal
+|-=Flash=-|: war bug
+dj_turrican [LDC]: kfer ist weg, thx.
+|-=Flash=-|: joap
+dj_turrican [LDC]: und nun, was ist mit dem muxen los?
+|-=Flash=-|: das teil ist buggi
+|-=Flash=-|: motz net
+|-=Flash=-|: ka das spinnt wi schaune gerade
+|-=Flash=-|: dast eil ist bugi weil ich das mitm kumpel gecodet habe
+|-=Flash=-|: ^^
+dj_turrican [LDC]: lol.... jeder fngt mal klein an
+|-=Flash=-|: 10bugs gefunden hetue
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ll
+dj_turrican [LDC]: naja ich hab damals zu basic zeit geprogged was das zeug hlt, heute sind die filme dranb
+dj_turrican [LDC]: mal ne andere frage... hast du schon die svcd von acp? also die herr der ringe 2
+|-=Flash=-|: noep
+|-=Flash=-|: nope
+|-=Flash=-|: dakommt keiner ran
+dj_turrican [LDC]: hmmmm... die juden.  
+
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: was ist denn nun eigentlich beim muxen los? du hast gesagt es gibt probleme
+|-=Flash=-|: Joapder nimmt dsa irgendwie net
+|-=Flash=-|: hmm aber dsal iegt am pc
+|-=Flash=-|: ^^
+dj_turrican [LDC]: schon ne lsung gefunden?
+|-=Flash=-|: nee aber ich habe auch keinen bock mehr heute
+|-=Flash=-|: ^^
+dj_turrican [LDC]: hrhrhr... du hast doch ferien
+|-=Flash=-|: joap aber den ganzen tag an den aud files rumgebastelt
+dj_turrican [LDC]: nimmt der tmpeg zu muxen oder vcdgear?
+dj_turrican [LDC]: ich hab nur ne stunde dran rumgebastelt hab aber schon die faxen dicke *ll*
+|-=Flash=-|: ist irgendwas unter linux
+dj_turrican [LDC]: ohjemine
+dj_turrican [LDC]: dann muss er selber klar kommen *gg*
+|-=Flash=-|: +fg+
+dj_turrican [LDC]: hmm-... was machst du heute noch?
+|-=Flash=-|: hmm ich habe noch nen paar bier stehen ;) 
+|-=Flash=-|: nee ichg laube langwelen
+dj_turrican [LDC]: hrhrhr..... schne ferien *gg*
+dj_turrican [LDC]: und die kleine von der du geredet hast?
+dj_turrican [LDC]: noch net auf dem wiehnachtsmarkt gewesen?
+|-=Flash=-|: am wochenende bin ich immer so betrunken
+|-=Flash=-|: überleg mal wie denn
+|-=Flash=-|: freitag zur neuen disco woltlen frutten checken wollten die da 11€eintritt naja haben wir da den türsteht umgekloppt weil wir 11€ dreist fanden und er uns genervt hat dann bissle noch alk geholt stand ja noch was beim kumpek und total besoffen
+dj_turrican [LDC]: naja.... dann mach mal ein wochenende etwas piano und geh mit der kleinen aus.
+|-=Flash=-|: (Link: http://fighter2k1.hopto.org/car/fischers_peugeot/peugeot.jpg)http://fighter2k1.hopto.org/car/fischers_peugeot/peugeot.jpg
+dj_turrican [LDC]: ohlala... nettes teil
+|-=Flash=-|: joap auf jedne
+dj_turrican [LDC]: ich werd mich nun hin hauen, darf ja morgen wieder laufen *wrg* 
+5 kilometter und das in aller fr
+|-=Flash=-|: Achja du arme sau
+*** dj_turrican [LDC] signed off at Sun Dec 22 23:46:02 2002.
+Session Close (dj_turrican [LDC]): Mon Dec 23 00:47:46 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Dec 24 00:43:40 2002
+dj_turrican [LDC]: juhu
+dj_turrican [LDC]: na du schlimmer finger... haste fr dj mal wieder die lines abgeschalten :-D
+dj_turrican [LDC]: komm gerade echt wieder niergens drauf ist schon zum brechen aber ich hab wohl eine neues auto fr mich gefunden
+*** dj_turrican [LDC] signed off at Tue Dec 24 00:52:34 2002.
+*** dj_turrican [LDC] signed on at Tue Dec 24 01:12:29 2002.
+*** dj_turrican [LDC] signed off at Tue Dec 24 01:12:48 2002.
+*** You have been disconnected. Tue Dec 24 08:15:04 2002.
+|-=Flash=-|: Nee ist doch weihnachten also feiertage deshalb alles aus
+Session Close (dj_turrican [LDC]): Tue Dec 24 11:03:22 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Dec 24 17:28:38 2002
+dj_turrican [LDC]: hohoho... frhliche weihnachten w?nsche ich dir, lass dich reich beschenken und komm spter mal vorbei dann gibts noch ein wenig die rute *lol* 
+feier sch
+|-=Flash=-|: Merry Xmas
+|-=Flash=-|: bin abre nur kurz da
+dj_turrican [LDC]: bescherung vorbei?
+dj_turrican [LDC]: sag mal haste denn nun die svcd von herr der ringe? fr deinen dj *knuddi*
+dj_turrican [LDC]: oder halt die uti wenn der letzte von uns noch nicht gepreet wurde
+|-=Flash=-|: Nee uti habe ich svcd habe ich net du aber muss erstmal back 2 family
+dj_turrican [LDC]: jau mach das, aber komm net zu spt zur?ck sonst hab ich zuviel promille *ll* 
+w?nsch dir noch viel spa achja und falls wir uns nicht mehr sehen. sag mir wohin die uti geht und gib mir dann die daten wo ich saugen kann. 
+merry x-mas *bussi* 
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Dec 25 00:33:32 2002
+dj_turrican [LDC]: juhu
+dj_turrican [LDC]: komm gib mal lebenszeichen
+dj_turrican [LDC]: hmmm okay. aber denk bitte dran mir den herr der ringe von uti zu schicken damit ich net ganz arbeitslos da stehe.
+*** dj_turrican [LDC] signed off at Wed Dec 25 00:38:19 2002.
+Session Close (dj_turrican [LDC]): Wed Dec 25 11:11:05 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Dec 27 15:47:42 2002
+dj_turrican [LDC]: na du nase, du könntest dich ruhig mal melden ich hab viele gute neuigkeiten. 
+ [Offline Message (12/26/2002 [1:25])]
+|-=Flash=-|: Hmm und ich war auf ner lan
+Session Close (dj_turrican [LDC]): Fri Dec 27 15:54:19 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sat Dec 28 00:10:07 2002
+|-=Flash=-|: *gähn* du lässt immera uf dich warten=)
+dj_turrican [LDC]: wieso ich doch ent *gg*
+|-=Flash=-|: ;)
+|-=Flash=-|: klaro
+|-=Flash=-|: habe mir ja auffa lan fast graka zerschossen und bin gestern schon im bett gewesen 
+dj_turrican [LDC]: musste noch meine alte... hm frau zum lachen bringen mit dem lila weihnachtsmann *gr?hl*
+|-=Flash=-|: weil ich ja 40std net gepennt haben
+|-=Flash=-|: LÖÖÖÖÖÖÖÖÖÖÖÖL
+|-=Flash=-|: Was haste denn für gute nachrichten?
+dj_turrican [LDC]: mom muss der frau noch kurz den rosa elefanten zeigen *gg*
+dj_turrican [LDC]: 2 minuten
+|-=Flash=-|: hmm den rosa elefanten das ist aber ziemlich 2 deutig
+|-=Flash=-|: außerdem bin ich ja noch net volljährig
+|-=Flash=-|: ^^
+dj_turrican [LDC]: zuvierl smirnoff oder was denkst du?
+|-=Flash=-|: ;)
+dj_turrican [LDC]: und ich dachte schin wo warst du die ganze zeit jetzt weiss ich es ja
+|-=Flash=-|: meingott biste aber fix das die nur so kurz an deinem "roas elefanten spielt" =)
+dj_turrican [LDC]: also.... hmmm die frau lsst net die finger von mir *gg* 
+ich geb ihr noch schnell ein k
+|-=Flash=-|: LÖÖÖÖÖÖÖÖÖÖÖL
+|-=Flash=-|: ich rutsche schon total nervös hier aufm stuhl rum weil ich die neuigkeiten wissen will
+|-=Flash=-|: soa uaf den hqm/hqm dump kommt gerade die uti source von hdr2 danach 8mile
+|-=Flash=-|: das kannste dir auch schonmal lutschen
+|-=Flash=-|: ^^
+|-=Flash=-|: machs doch net so spannend
+dj_turrican [LDC]: lutschen wohger weisst du.... achso du meinst vom ftp *hui*
+|-=Flash=-|: ;) du bist so ein verdorbenes schwein=)
+dj_turrican [LDC]: kannst die uti source von herr der ringe aber abbrechen.
+|-=Flash=-|: why?
+dj_turrican [LDC]: da fehlen 30 minuten film
+dj_turrican [LDC]: knapp
+dj_turrican [LDC]: kannste vergessen
+dj_turrican [LDC]: die 8mile code ich neu und schieb die noch hoch bevor der im kino luft
+|-=Flash=-|: jetzt sag endlich die neuigkeiten sonst muss ich die töten
+dj_turrican [LDC]: wieso du mich? eher ich dich du hast mich hier ganz dumblos hocken lassen aber egal........
+dj_turrican [LDC]: also der eine der mir nach weihnachten bescheid sagenb wollte der macht mal an sylvester nen versuch und wenn es nahaut dann macht er es in zukunft fters. das war mal nummer eins
+dj_turrican [LDC]: willste denn rest auch hren?
+|-=Flash=-|: Joap
+|-=Flash=-|: *leeeeeeeeeeechz*
+dj_turrican [LDC]: erstmal frage von mir... kannste ne line anbieten die aktuell ist und echt mal lnger h
+|-=Flash=-|: hast du auf dem einen dump keinen acc?
+dj_turrican [LDC]: auf keinem der funktionier :(
+|-=Flash=-|: der leech dump da den habe ich dir doch gegen
+|-=Flash=-|: der funktioniert
+|-=Flash=-|: mit por 9999
+dj_turrican [LDC]: mom
+|-=Flash=-|: alten jetzt sag das 2te sonst muss ich noch mehr alk trinken
+dj_turrican [LDC]: okay haste recht der eine geht wieder, aber da ist die auswahl net gerade gro oder sollte man sagen noch nicht weiss ja nicht was du vorhast. immerhin hab ich iohm was versprochen wo auch immer das aktuelle zeug drauf ist und der verl
+dj_turrican [LDC]: komm zu mir ich hab noch ein paar flaschen wodka *gg*
+|-=Flash=-|: das teil war nur down wegen feiertagen
+dj_turrican [LDC]: lass dich ruhig mal so drcken nicht immer nur im icq.
+dj_turrican [LDC]: wer weiss irgendwann mal.... mein auto ist ja heute fertig geworden. hab nun nen halben audi motor drin *ll*
+|-=Flash=-|: löl
+|-=Flash=-|: ;)
+dj_turrican [LDC]: morgen noch l und clysantin dann ist er fertig
+dj_turrican [LDC]: also nun die nummer 2
+dj_turrican [LDC]: hast du schon das problem mit der dts cd gelst?
+|-=Flash=-|: hmm du kanns gerne hierher kommen meine ellis sind ab morgen 1 woche net da und ich 1woche voll trunken
+dj_turrican [LDC]: ll
+|-=Flash=-|: Nope net richtig aber die hälfte
+dj_turrican [LDC]: ich vielleicht ganz  *gg*
+dj_turrican [LDC]: hab nen kumpel der bekommt auch des fteren mal dts cds
+dj_turrican [LDC]: ich bring dem das mit und der sieht zu wie er das machen kann.
+|-=Flash=-|: Hmm das hört sich mal sehr gail an *drück* aber ich habe das gefühl das der eine dich da imma aufschiebt
+dj_turrican [LDC]: angeblich bekommt er ja auch den ton der kompletten filme auf cd aber wenn ich ihn mal anhauche er soll was bringen hat er immer nur trailer gerade in der lieferung *grhl*
+dj_turrican [LDC]: wer mich aufschiebt der mit dem kino? wieso? der hat gerade urlaub und er wollte es sich berlegen das hat er getan oder etwas net
+dj_turrican [LDC]: sag mal haste nicht den tcf release von 8 mile?
+|-=Flash=-|: Hmm der eco ist besser
+|-=Flash=-|: meiner meinung nach
+dj_turrican [LDC]: hmm.... da fehlt halt ein teil vom bild
+|-=Flash=-|: höa?
+dj_turrican [LDC]: jau schau dir mal die kpfe an
+dj_turrican [LDC]: aber wenn du willst... ich code denn neu und jag den am montag wieder hoch
+dj_turrican [LDC]: wird schon geul werden keine sorge *gg*
+|-=Flash=-|: Hmm
+|-=Flash=-|: mir gefällt der eco gailer
+|-=Flash=-|: ^^
+dj_turrican [LDC]: jau mach mer auch alle anderen werden den tcf nehme das sag ich dir jetztz schon
+dj_turrican [LDC]: lass uns den eco machen und den neu coden 
+dj_turrican [LDC]: der wird mega
+|-=Flash=-|: Hmm joap aber erst preen wir den soa und dann nochmal 
+|-=Flash=-|: die reencodet version
+dj_turrican [LDC]: von mir aus.... an mir soll es net hngen
+|-=Flash=-|: ich hoffe ich habe ton dann sonntag
+|-=Flash=-|: ist das nen großes kino da von dem kumpel?
+dj_turrican [LDC]: wieso sonntag? von wem denn?
+|-=Flash=-|: hmm samstag ist doch preview also morgne
+dj_turrican [LDC]: ich kann erst ab donnerstag
+dj_turrican [LDC]: da hab ich den erst meine ich
+dj_turrican [LDC]: tonmssig f?r den rest htte ich zeit
+dj_turrican [LDC]: hast du denn jemanden der den besorgt?
+|-=Flash=-|: Joap eigentlich ja
+|-=Flash=-|: 2sogar
+|-=Flash=-|: aber gibt viele die labern
+|-=Flash=-|: ich hätte den dann sonntag in aller frühe
+|-=Flash=-|: aber da bin ich net mal mehr @home
+dj_turrican [LDC]: wo kommt der ton dann hin?
+dj_turrican [LDC]: hab ich die daten dafr?
+|-=Flash=-|: joap da wo 8mile hinkommt packe ich dir den dann sontnag mittag hin
+|-=Flash=-|: hoffe ich dsa ich da net noch 2.0promille oder soa hab
+|-=Flash=-|: weil morgen geht erstmal die fetteste party
+|-=Flash=-|: ^^
+|-=Flash=-|: und vor der party fangen wir beim kumpel schon an vorzusaufen
+dj_turrican [LDC]: ll... na dann viel spa
+|-=Flash=-|: undd ann gehts mir wie herbert grönemeier ich kann nix mehr sehen=)
+dj_turrican [LDC]: grhl
+|-=Flash=-|: weil ich einfach sowas von sternhagel voll sein werde=)
+|-=Flash=-|: und das GAILSTE ist ich kann kotzen rumhuren uw
+|-=Flash=-|: usw und keiner kann sich aufregen
+|-=Flash=-|: weil es ist JA KEINER DA =)
+dj_turrican [LDC]: hrhrhr
+|-=Flash=-|: und dan kann ich das lied umschreiben ich kann niox mehr sehen ich habe den raum mit kotze geflutet
+|-=Flash=-|: *schwank*;)
+dj_turrican [LDC]: megall..... und ich hab meine alte am hals *gg
+dj_turrican [LDC]: hast du ein sample fr mich? 
+Star Treck Nemesis von TEG
+dj_turrican [LDC]: will mal schauen ob sich das lohnt
+|-=Flash=-|: nee aber besorg ich dir zu morgen ich gehe jetzt ins bett und du bessa auch musst ja bestimmt arbeiten
+|-=Flash=-|: und morgen 19uhr kannste vorbeikommen kannste bissle auflegen
+dj_turrican [LDC]: ne hab nur den notdienst
+|-=Flash=-|: kannst umsonst saufen und fressen=)
+|-=Flash=-|: tussis checken
+|-=Flash=-|: bei mir pennen
+|-=Flash=-|: und nach hause ;P
+dj_turrican [LDC]: wrd ich so gerne aber vor morgen mittag wird das auto net fertig aber ich komm bestimmt mal
+|-=Flash=-|: mach dsa mal=) soa ich muss ja erstmal um halb sechs wieder raus meinen ellis helfen mal schauen ob ich dann nochmal einpenne
+dj_turrican [LDC]: muss den motor halt erst noch ein wenig einfahren und wenn du mich so auf die autobahn schickst..... ich kann den gasfuss net ruhig halten *gg*
+|-=Flash=-|: wir sehen uns morgen =) oder hören uns
+dj_turrican [LDC]: okay...... n8
+|-=Flash=-|: joap =) ich schreibe dir noch ne sms und ruf dich an von derp arty dann weitße was dir entgeht ;P
+dj_turrican [LDC]: arsch *ll*
+dj_turrican [LDC]: erinner mich nur dran das ich was verpasse
+dj_turrican [LDC]: aber das holen wir auf jedenfall nach 
+dj_turrican [LDC]: n8
+*** dj_turrican [LDC] signed off at Sat Dec 28 01:05:07 2002.
+Session Close (dj_turrican [LDC]): Sat Dec 28 09:44:50 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Dec 29 00:32:03 2002
+dj_turrican [LDC]: ola flashi..... biste schon grnemeier, du weisst schon den raum mit kotze geflutet und so. hoffe mal das es net so schlimm ist das du nun vorm keramikgott beten musst :-D 
+ich pers?nlich werd mich jetzt mal so richtig besaufen mit allem drum und dran. korn, vodka und alles was ich noch so finde. wollt schon viel frher beginnen aber ich musste noch mein auto abholen....... naja am montag werd ich dann wieder zu meinem mechaniker gehen weil irgendwie stimmt da was noch garnicht.  
+und du hast hoffentlich ein paar frutten klar gemacht und bring mir auch eine mit, ich schick schnell meine frau weg hrhrhr........ 
+achso noch was schlechtes..... du m?sstest mir die source fr 8 mile nochmal besorgen mir fehlen noch die letzten 3 files von cd1 und die komplette cd2. so wie es aussieht hat jemand die files gel?scht, als ich vorhin nachgesehen habe war zumindest nichts mehr da. 
+tja und sonst... meld dich einfach wenn du wieder nchtern bist dann erz?hlste mir alles.... knutsch und gue nacht. 
+ 
+c.u.
+*** dj_turrican [LDC] signed off at Sun Dec 29 02:02:08 2002.
+|-=Flash=-|: ACP die schwulen wixxer haben heute morgen um 5.15 schon preed mit der tcf source müssen wir mal drüber reden =) und klaro haben ich gute gesoffen und eine auch kennengelernt;) deshalb werde ich heute abend bestimmt auch net da sein;) weil wir wieder feiern ;) und wnen die da ist dann will ich das unter keinen umständen verpassen !!=) und wie wars bei dir ich hoffe richtig gail und das es wieder bessa läuft!!!*1000xbussis* und meld dich kannst auch anrufen bis nachher=)
+Session Close (dj_turrican [LDC]): Sun Dec 29 11:21:14 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Dec 29 14:27:55 2002
+dj_turrican [LDC]: besser auf jeden fall.... menno hab ich nenkopf also vorerst mal keinen alc mehr *gg*
+dj_turrican [LDC]: so also acp hat sich an 8 mile vergriffen..... schwule juden..... aber dann toppen wir das irgendwie das sag ich dir das knnen wir net auf uns sitzen lassen.
+dj_turrican [LDC]: ich zumindest nicht *gg* 
+so und nun erzhl...... die eine wo du kennen gelernt hast. ich will alle schmudeligen details h
+*** dj_turrican [LDC] signed off at Sun Dec 29 14:46:43 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 29 14:46:45 2002.
+|-=Flash=-|: gähn moin
+|-=Flash=-|: *kopfbrumm*
+dj_turrican [LDC]: he du bist ja da... mom uss nur schnell den papierkram wegrumen
+|-=Flash=-|: jopa war gerade bissle pennen noch habe nen diggen kater joap lass dir nen mom zeit muss mir erstmal bissle was anziehen nur in boxershort ist es etwas frisch und eine rauchen mag ich auch noch =)
+|-=Flash=-|: aber nur wenns dir keine umstände macht ;)
+dj_turrican [LDC]: dito mir gehts net besser. war vorhin noch ne runde kloschssel sp?len und bin jetzt bei der vierten tasse kaffee gegen den kater *gg*
+dj_turrican [LDC]: ach quatsch was heisst umstnde. w?rde dich ja anrufen aber meine handyrechnung ist gerade in astronomischer hhe.
+|-=Flash=-|: du kannst mich auch gleich zu hause anrufen doer ich dich
+|-=Flash=-|: dann können wir jetztz schon reden
+dj_turrican [LDC]: zieh dich mal in ruhe an und rauch eine ich hab eh noch net das ganze papier weg. staatliche unterlagen.... darf man net so einfach in die ecke klopen *gg+
+dj_turrican [LDC]: werd noch schnell nen schwarzen abseilen, dann kann es los gehen
+|-=Flash=-|: *eierkraul*
+|-=Flash=-|: bah bin ich fertig
+|-=Flash=-|: haste auch son ekelhaften nachbrand noch
+|-=Flash=-|: ?
+dj_turrican [LDC]: und wie... hab zuviel dureichnader gesoffen gestern echt der hammer.
+|-=Flash=-|: ich habe bis halb vier gesoffen aber nur caipi,bier und vodka =) wie war dein abend?
+dj_turrican [LDC]: hast du ein telefon bei dir im zimmer kann ja heute umsonst telefonieren.
+|-=Flash=-|: hmm hab unten eins ich habe doch sturmfrei
+|-=Flash=-|: ich hols mal eben
+|-=Flash=-|: ^^
+dj_turrican [LDC]: oki
+|-=Flash=-|: soa
+|-=Flash=-|: 053092834
+dj_turrican [LDC]: (Link: http://www.vcdquality.com/image.php?id=7997)http://www.vcdquality.com/image.php?id=7997
+dj_turrican [LDC]: (Link: http://www.vcdquality.com/image.php?id=9135)http://www.vcdquality.com/image.php?id=9135
+|-=Flash=-|: arghhs nun ist telefon alle fuck
+dj_turrican [LDC]: ll
+*** You have been disconnected. Sun Dec 29 16:17:18 2002.
+|-=Flash=-|: tzz frauen und technik
+*** dj_turrican [LDC] signed on at Sun Dec 29 16:20:01 2002.
+|-=Flash=-|: tzz frauen und technik
+|-=Flash=-|: und scheiß 24std disc
+dj_turrican [LDC]: wieso frauen? haste eine unter der bettdecke versteckt?
+|-=Flash=-|: LÖL nee meine oma war heute morgen wohl hier und hat nen bissle aufgeräumt und dann mit wem telefoniert und net aufgelegt deshalb alle
+dj_turrican [LDC]: hrhrhr
+|-=Flash=-|: ich überlege mir gerade ob ich 8mile schaue weil der film soll der hammer sein
+dj_turrican [LDC]: ich berlege auch was wir damit nun machen sollen.
+dj_turrican [LDC]: die eco version schenkt sich ja net viel zur ftf
+dj_turrican [LDC]: leider
+|-=Flash=-|: Joap
+dj_turrican [LDC]: aber das datum liegt ja lange zurck vielleicht kommt ja nun bald ne svcd
+|-=Flash=-|: Ich hoffe es ja 
+|-=Flash=-|: Ja Rule Feat. Bobby Brown-Thug Luvin lad dir mal das lied das ist soa gail
+|-=Flash=-|: ^^
+|-=Flash=-|: aber so wie ich das am tele gehört habe
+|-=Flash=-|: hörste ja mehr club musik=)
+dj_turrican [LDC]: heute mal wieder.... black, dance, freestyle je nach laune
+|-=Flash=-|: black ist das beste=)
+dj_turrican [LDC]: als dj hat man halt ein breites spectrum
+|-=Flash=-|: und Ja rule und bobby brown der kokser ist cool
+dj_turrican [LDC]: jau das lied ist geil
+|-=Flash=-|: ist schön ruhig
+dj_turrican [LDC]: oah.... wart mal kurz ich muss schon wieder austretten
+|-=Flash=-|: Echt?
+|-=Flash=-|: hmm ich geh mal was essen einer auchen duschen rasieren usw =)
+|-=Flash=-|: ist ja schon halb fünf
+dj_turrican [LDC]: bin auch wieder da..... ich werde echt nie wieder durcheinander saufen. 
+vodka, jackie, wein, bier..... ich weiss nicht mehr was es alles war aber es war zuvirl :(
+dj_turrican [LDC]: ich nehme an du wirst jetzt bald wieder auf tour gehen..... wir sprechen uns wieder ich wnsch dir viel spa
+*** dj_turrican [LDC] signed off at Sun Dec 29 17:27:14 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 29 17:27:16 2002.
+dj_turrican [LDC]: hab gerade gehrt das es angebloich ne promo dvd von herr der ringe gibt, ich weiss du bist jetzt ehre auf party aber wenn du was finden solltest sag mir bescheid
+*** dj_turrican [LDC] signed off at Sun Dec 29 20:48:56 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 29 20:48:59 2002.
+*** dj_turrican [LDC] signed off at Sun Dec 29 21:45:45 2002.
+*** dj_turrican [LDC] signed on at Sun Dec 29 21:47:32 2002.
+dj_turrican [LDC]: besorg doch mal den hdr2 release hier wenn du denn schnell findest..... 
+ 
+(Link: http://www.vcdquality.com/image.php?id=9152)http://www.vcdquality.com/image.php?id=9152
+dj_turrican [LDC]: muss net sein nur gegen die langeweile halt *g*
+dj_turrican [LDC]: he flashi mal nen witz? 
+
+dj_turrican [LDC]: Ein Mann geht zum Arzt und beschwert 
+sich, dass seine Frau keinen Spa im 
+Bett hat und keinen Orgasmus bekommt.  
+Der Arzt meint:" Na, dann schaffen Sie 
+eine angenehme Atmosph?re, stellen Sie 
+Kerzen auf, servieren Champagner, streuen Rosenblten und seien Sie ganz z?rtlich." 
+Sollte das nicht funktionieren, soll er 
+am nchsten Tag wiederkommen. 
+ 
+Der Mann kommt am n?chsten Tag wieder und teilt 
+dem Arzt mit, dass dies nicht geklappt hat. 
+ 
+Der Arzt meint nun:" Suchen Sie einen 
+Schwarzen mit einem groen Glied, der 
+soll sich nackt vor Ihre Frau stellen und 
+mit seinem besten St?ck wedeln.... und 
+Sie nehmen sie von hinten!" 
+ 
+Der Mann besorgt sich einen Schwarzen, 
+nimmt ihn mit nach Hause und sie ziehen sich aus. Der Schwarze wedelt mit seinem Penis, der Mann packt seine Frau von hinten, doch seine Frau bekommt keinen Orgasmus.  
+Der Mann sagt zum Schwarzen: 
+"Los, komm, nimm Du sie von hinten und ich werde wedeln !"  
+Der Mann stellt sich vor seine Frau und wedelt mit seinem Penis, der Schwarze nimmt 
+die Frau von hinten.......  
+die Frau fngt an zu st?hnen, sie schreit vor Lust und bekommt einen Orgasmus nach dem anderen. 
+Sagt der Mann zum Schwarzen: 
+ 
+ 
+ 
+ 
+ 
+HAST DU GESEHEN ?  
+SO MUSST DU WEDELN  
+ 
+ 
+
+dj_turrican [LDC]: Ein Mann geht zum Arzt und beschwert 
+sich, dass seine Frau keinen Spa im 
+Bett hat und keinen Orgasmus bekommt.  
+Der Arzt meint:" Na, dann schaffen Sie 
+eine angenehme Atmosph?re, stellen Sie 
+Kerzen auf, servieren Champagner, streuen Rosenblten und seien Sie ganz z?rtlich." 
+Sollte das nicht funktionieren, soll er 
+am nchsten Tag wiederkommen. 
+ 
+Der Mann kommt am n?chsten Tag wieder und teilt 
+dem Arzt mit, dass dies nicht geklappt hat. 
+ 
+Der Arzt meint nun:" Suchen Sie einen 
+Schwarzen mit einem groen Glied, der 
+soll sich nackt vor Ihre Frau stellen und 
+mit seinem besten St?ck wedeln.... und 
+Sie nehmen sie von hinten!" 
+ 
+Der Mann besorgt sich einen Schwarzen, 
+nimmt ihn mit nach Hause und sie ziehen sich aus. Der Schwarze wedelt mit seinem Penis, der Mann packt seine Frau von hinten, doch seine Frau bekommt keinen Orgasmus.  
+Der Mann sagt zum Schwarzen: 
+"Los, komm, nimm Du sie von hinten und ich werde wedeln !"  
+Der Mann stellt sich vor seine Frau und wedelt mit seinem Penis, der Schwarze nimmt 
+die Frau von hinten.......  
+die Frau fngt an zu st?hnen, sie schreit vor Lust und bekommt einen Orgasmus nach dem anderen. 
+Sagt der Mann zum Schwarzen: 
+ 
+ 
+ 
+ 
+ 
+HAST DU GESEHEN ?  
+SO MUSST DU WEDELN  
+ 
+ 
+
+dj_turrican [LDC]: sorry das erste mal war die schrift weiss
+dj_turrican [LDC]: Als ich letztens auf der Landstrasse dahinheizte (nur 10 km/h zu 
+schnell) 
+bemerkte ich hinter einem Brckenpfeiler einen Polizisten mit einer 
+Radarpistole. 
+Er zog mich raus und fragte: "Na, wo solls denn so schnell hingehn?". 
+"In die Arbeit, ich bin verdammt sp
+dj_turrican [LDC]: knnte von mir sein den werd ich mir auf jedenfall merken wenn ich mal angehalten werde *gg*
+*** dj_turrican [LDC] signed off at Mon Dec 30 02:35:33 2002.
+*** dj_turrican [LDC] signed on at Mon Dec 30 12:49:12 2002.
+*** dj_turrican [LDC] signed off at Mon Dec 30 12:49:25 2002.
+*** You have been disconnected. Mon Dec 30 16:18:03 2002.
+Session Close (dj_turrican [LDC]): Mon Dec 30 17:41:40 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Dec 31 16:49:09 2002
+|-=Flash=-|: pfuiiiiii
+dj_turrican [LDC]: pfui
+dj_turrican [LDC]: was denn los?
+|-=Flash=-|: das ich dich hire silvester sehen muss =)
+|-=Flash=-|: ;P
+|-=Flash=-|: haste net schon so wie ich ordentlich einen vor gesoffen=)?
+dj_turrican [LDC]: hrhrhr nicht mehr lange, mach nur noch das netzwerk fertig dann bin ich auch weg
+|-=Flash=-|: halbe pulle vodka schon leer
+dj_turrican [LDC]: da komm ich heute nicht mehr dran. will recht nchtern bleiben
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: muss auto fahren :(
+dj_turrican [LDC]: bin hier echt am abkotzen...... hab net nt5 server hier stehen einen client auf win2k und einen unter xp und wie sollte es auch anders sein der xp will nicht zum server connecten.
+|-=Flash=-|: hmm xp suckt 
+dj_turrican [LDC]: jau aber nicht mehr lange
+|-=Flash=-|: habe angefangen wlan aufzubauen mitm router
+|-=Flash=-|: muss ich noch die woche fertig mchen
+dj_turrican [LDC]: geht ja schnell
+|-=Flash=-|: Joap
+dj_turrican [LDC]: wenn man nchtern ist *l
+|-=Flash=-|: das ist bei mir leider seltzen
+|-=Flash=-|: seit samsatg
+|-=Flash=-|: ^^
+dj_turrican [LDC]: die lines sind ja auch gerade down wie ich sehe aber was solls. es ist bald soweit die kbel zu erhebne und uns zu besaufen wie man es sonst nie macht *gg+ 
+ich muss nun leider los. das schrottnetwerk mach ich ein ander mal fertig. 
+ich w
+*** dj_turrican [LDC] signed off at Tue Dec 31 16:57:15 2002.
+|-=Flash=-|: guten rutsch und betrink dich trotzdem
+Session Close (dj_turrican [LDC]): Tue Dec 31 17:00:46 2002
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Jan 01 20:22:42 2003
+dj_turrican [LDC]: weiss nicht hab ich dir auch schon nen guten rutsch gewnscht ich gakube ich hab dir ne sms geschickt aber ich kann mich net so daran erinnern, war ja ziemlich dicht *l
+dj_turrican [LDC]: also nochmal..... ein gutes neues und viel glck und gesundheitz
+dj_turrican [LDC]: naja ohne "z" :-D
+dj_turrican [LDC]: wo biste denn heute abend? auch noch party? hast ja sturmfrei soviel ich weiss
+*** dj_turrican [LDC] signed off at Wed Jan 01 21:10:39 2003.
+|-=Flash=-|: Nee
+*** dj_turrican [LDC] signed on at Wed Jan 01 23:11:36 2003.
+dj_turrican [LDC]: n.... na das tut mir aber leid, ich hab dich bestimmt net mit absicht vergessen
+dj_turrican [LDC]: kurz nach 12 war es ja eh net so mit dem telefonieren oder schreiben. kannst dir ja denken das handynetz war platt *gg*
+|-=Flash=-|: ich habs probiert aber bin net durchgekommen net mal mehr um 2uhr und um 5uhr als ich vollbesoffen nach hause wollte
+|-=Flash=-|: wollte ich dich auch net mehr anrufen
+dj_turrican [LDC]: ich auch net*gg*
+dj_turrican [LDC]: war schon um halb vier knacke dicht
+dj_turrican [LDC]: aber das war ein fest *gg*
+|-=Flash=-|: ich habe 3mal gekotzt
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ll.... ich nur 2 mal aber daf?r spre ich heute ganz sch
+dj_turrican [LDC]: und die frau... ohjeee.... ll
+|-=Flash=-|: löl ich lag bis um 6uhr im bett
+dj_turrican [LDC]: he pass mal auf... die sagt mir ganz trocken... musst halt ne so viel saufen
+dj_turrican [LDC]: sie lag soch schon um halb 3 unterm tisch *grhl*
+|-=Flash=-|: LÖÖÖL
+dj_turrican [LDC]: ich hab sie heim gefahren und bin wieder saufen
+dj_turrican [LDC]: hacke dicht und mit dem auto so geil sag ich dir die polizeikontrolle am abend dann
+dj_turrican [LDC]: ich komm an.... unterbodenbeleuchtung und potenzlichter frisch gewaschen auf der strasse blitzen
+dj_turrican [LDC]: und die lieben grnm?nner...... ah hi biste auch auf dem weg nach hause. komm fahr zu ich hab zu arbeiten *gg*
+dj_turrican [LDC]: :-D
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: und bei dir?
+|-=Flash=-|: wir waren beim kumpel
+|-=Flash=-|: ich ne pulle vodka mitgenommen
+|-=Flash=-|: er ne paltte bier
+|-=Flash=-|: najo wir beide haben nur geosffen
+|-=Flash=-|: und nachher waren 15dosen biera lle und die pulle vodka
+|-=Flash=-|: und um 9uhr morgens habe ich dann gekotzt
+|-=Flash=-|: um halb sieben war ich zu hause=)
+dj_turrican [LDC]: ll
+|-=Flash=-|: war echt gail
+|-=Flash=-|: irgendwelche frutten warn noch da
+dj_turrican [LDC]: und? sag sag sag
+|-=Flash=-|: k/a war so latten stram
+|-=Flash=-|: =)
+|-=Flash=-|: habe irgendwie eine handy nummer
+|-=Flash=-|: und irgendwer hat mich angerufen
+|-=Flash=-|: aber ich wr sowas von breit
+dj_turrican [LDC]: und du weisst net wer es war?
+|-=Flash=-|: net genau =)
+dj_turrican [LDC]: grhlllll
+dj_turrican [LDC]: du bist mir so einer
+|-=Flash=-|: nun erzähl mal mit dem neuen ton kerl
+dj_turrican [LDC]: denn ereich ich noch net. der liegt wohl noch im koma *gg*
+dj_turrican [LDC]: ich war ja auch net gerade den ganzen tag am pc. hab zu viel gepennt
+|-=Flash=-|: das besoffeb schwein soll
+|-=Flash=-|: aufstehen=))
+|-=Flash=-|: ich will was wissen
+|-=Flash=-|: meinste der hat das gemacht?
+dj_turrican [LDC]: ja denke schon. er hat es zuindest gesagt das er es machen wollte. 
+dj_turrican [LDC]: wie gesagt seit dem hab ich ihn nicht ereicht
+dj_turrican [LDC]: wart mal kurz ich muss mal austretten
+|-=Flash=-|: der bekommt erst schläge danach sauf ich ihn zur strafe utner den tisch
+|-=Flash=-|: wenn er das net gemacht hat
+|-=Flash=-|: das muss klappen
+dj_turrican [LDC]: wird achon, du darfst net immer so ungeduldig sein. wre ich so ungeduldig weil ich mal wieder ohne jegliche saugline da stehe (wie jetzt auch) w
+|-=Flash=-|: joap ist doch wieder feiertag
+dj_turrican [LDC]: och emnno. mir brennt gerade das arschloch :( 
+hab mich wohl mit ner magen darm grippe angesteckt.
+|-=Flash=-|: habsch doch gesagt
+dj_turrican [LDC]: haja aber ich knnt edoch sagen das da jemnad mal ein wenig die feiertage k
+dj_turrican [LDC]: was machst du heute noch?
+|-=Flash=-|: niox mehr schlafen
+|-=Flash=-|: ^^
+dj_turrican [LDC]: schon wieder *gg*
+dj_turrican [LDC]: was ist denn mit der einen telefonnummer? haste noch nicht angerufen?
+dj_turrican [LDC]: dann weiste wenigstenst wer das war
+|-=Flash=-|: nee aber jetzt it auch bissle spät
+|-=Flash=-|: ^^
+dj_turrican [LDC]: au stimmt.... ich merk das garnet weil ich vorhin wieder mal gepennt  habe
+dj_turrican [LDC]: kein zeitgefhl
+dj_turrican [LDC]: und wie weit bist du mit den dts cds?
+|-=Flash=-|: net sehr weit
+|-=Flash=-|: also 0 ^^
+dj_turrican [LDC]: ich werd am wochenende mal vorbei gehen bei dem er soll sich die reinziehen. wenn er es hinbekommt kannst du ja fr nachschub sorgen oder?
+|-=Flash=-|: Joap auf jedenfall
+dj_turrican [LDC]: aktuelles?
+dj_turrican [LDC]: auch previews?
+|-=Flash=-|: immer 1tag vor kinostart nur
+|-=Flash=-|: in welchem kino arbeitet dein kerl? und hattest du net 2 anna angel?
+dj_turrican [LDC]: jau der eine wollte es ja neujahr oder silvester probieren mit ner aufnahme der andere ist noch 2 wochen in urlaub. die beiden direkt kenn ich ja nicht
+dj_turrican [LDC]: von dem einen denke ich mal das ich moprgen oder bermorgen was h
+|-=Flash=-|: das hört sich mal gut an
+|-=Flash=-|: und tipp net immer halbe wörter
+|-=Flash=-|: ich will net ncahdenken
+|-=Flash=-|: stell deine tasta mal auf ger um ;P
+dj_turrican [LDC]: grhlll.... muss mich noch an die neue gew
+dj_turrican [LDC]: sind zwar alle gleich aber tippen doch so anders
+|-=Flash=-|: gew.. <<--halbe wörter
+dj_turrican [LDC]: moprgen <<-- daran ist nichts halb *gg*
+dj_turrican [LDC]: bis wann kommt denn sie saugline wieder?
+|-=Flash=-|: hmm ist ja schön dsa due die saug line sie nennst haste ihr schon nen namen gegebe *gröhl
+|-=Flash=-|: denke mal morgen
+dj_turrican [LDC]: wird die eigentlich von nun an aktuell sein? also wenn was kommt dann kommt es auch da drauf?
+|-=Flash=-|: die war imma aktuell
+dj_turrican [LDC]: ich war ewig net drauf
+dj_turrican [LDC]: deswegen frag ich ja..... dann knnte man da ja nen acc machen f?r die beiden wenn es soweit ist
+|-=Flash=-|: erstmal muss ich da was sehen =))
+|-=Flash=-|: niox acc machen und es kommt niox
+dj_turrican [LDC]: ich sag ja wenn was kommt
+dj_turrican [LDC]: hrst du mir denn zu mein s
+|-=Flash=-|: alten junge hast du einen sitzen
+|-=Flash=-|: ^^
+dj_turrican [LDC]: jau schon. wieso fragste
+|-=Flash=-|: weil du tippst wie die letzte sau
+dj_turrican [LDC]: grhhllllll
+dj_turrican [LDC]: liegt vielleicht auch am icq wer weiss. so dicht bin ich eigentlich nicht mehr
+|-=Flash=-|: dj_turrican [LDC]: ich sag ja wenn was kommt
+ dj_turrican [LDC]: hrst du mir denn zu mein s
+|-=Flash=-|: da muss man sich die hälfte selber dichten
+dj_turrican [LDC]: h.... mom mal
+|-=Flash=-|: joap ich geh mal eine quarzen
+|-=Flash=-|: oder soll ich besser schreiben jp ih geh mal eine quar
+|-=Flash=-|: ^^
+|-=Flash=-|: dann komme ich an deine derzeitiges niveau ran *grööööööööhl*
+dj_turrican [LDC]: ne du ich schreib net so ich will dir mal ein bild schicken
+dj_turrican [LDC]: Turrican (11:57 PM) :  
+hrst du mir denn zu mein s
+dj_turrican [LDC]: so hab ich es geschrieben
+dj_turrican [LDC]: weiss net ob es nun richtig ankommz
+dj_turrican [LDC]: icq scheint zu spinnen
+|-=Flash=-|: nenene du tippst schon paar tage soa soa aber jetzt echt eine raucehn
+dj_turrican [LDC]: jau mach das mal.... ich whl mich mal neu ein
+*** dj_turrican [LDC] signed off at Thu Jan 02 00:07:55 2003.
+*** dj_turrican [LDC] signed on at Thu Jan 02 00:07:57 2003.
+|-=Flash=-|: joap und ich geh jetzt mal ins bett schlaf gut
+dj_turrican [LDC]: jau wart mal
+dj_turrican [LDC]: zieh dir das mal rein....... 
+(Link: http://mitglied.lycos.de/deejayturrican/images/car.jpg)http://mitglied.lycos.de/deejayturrican/images/car.jpg
+dj_turrican [LDC]: mein auto ganz am anfang wo ich die erste rhre drunter hatte
+dj_turrican [LDC]: erinnerungen an alte zeiten
+|-=Flash=-|: du alte sau
+|-=Flash=-|: das will ich haben
+dj_turrican [LDC]: ll..... komm vorbei ich machs
+|-=Flash=-|: haste anna seite auch neonlicht ?
+dj_turrican [LDC]: drunter ja
+|-=Flash=-|: du bisn arsch
+|-=Flash=-|: ^^
+dj_turrican [LDC]: hrhrhr
+|-=Flash=-|: das ist verboten aber sowas ist gail
+dj_turrican [LDC]: jau :-D so jetzt lass ich dich schlafen gehen *gg* 
+wnsch dir s
+|-=Flash=-|: joap du auch ich meld mich
+*** dj_turrican [LDC] signed off at Thu Jan 02 00:21:51 2003.
+*** dj_turrican [LDC] signed on at Thu Jan 02 00:23:10 2003.
+*** dj_turrican [LDC] signed off at Thu Jan 02 00:26:09 2003.
+*** dj_turrican [LDC] signed on at Thu Jan 02 00:26:40 2003.
+*** dj_turrican [LDC] signed off at Thu Jan 02 02:03:20 2003.
+Session Close (dj_turrican [LDC]): Thu Jan 02 11:01:29 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Thu Jan 02 16:55:07 2003
+dj_turrican [LDC]: moin alder...... bin gerade aufgestanden und ich sags dir ich hab vielleicht nen fucking schädel *löl*
+|-=Flash=-|: löl haste schon wieder gesoffen
+dj_turrican [LDC]: ne noch standgas vom letzten mal. 
+|-=Flash=-|: löl
+dj_turrican [LDC]: hab mir gestern 8 mile von acp ansehen wollen..... he alder.......
+dj_turrican [LDC]: das kann man so net lassen
+|-=Flash=-|: was damit?
+dj_turrican [LDC]: nicht für einen film der ein rap musical sein soll...... das tut ja weh in den ohren
+dj_turrican [LDC]: haste  das pfeiffen nicht gehört? das brummen und verzerren?
+dj_turrican [LDC]: lass uns das mal brav propern wie sich das gehört
+|-=Flash=-|: nee habe den halb besoffen geschaut
+|-=Flash=-|: ^^
+dj_turrican [LDC]: löl
+dj_turrican [LDC]: ne was meinste? sollen wir das propern oder net?
+|-=Flash=-|: na gibt ja keine gaile source und nur wegen ton
+dj_turrican [LDC]: hab gestern ein wenig an ner source gebastelt *gg*
+dj_turrican [LDC]: können das ja als internal laufen lassen
+|-=Flash=-|: Joap das ginge
+dj_turrican [LDC]: hauptsasche ich mach mal wieder was. mensch ich hab den ganzen urlaub noch gar keinen film gemacht
+|-=Flash=-|: löl
+dj_turrican [LDC]: herr der ringe war ja noch davor oder?
+|-=Flash=-|: Joap^^
+dj_turrican [LDC]: sag mal... kennste ne gute autgoring software für dvd´s
+|-=Flash=-|: wat=)?
+dj_turrican [LDC]: bracuh was womit man proffesionelle menüs erstellen kann und viorhandene menüs verändern
+|-=Flash=-|: ich brauche wen der dvdrs macht und zwar aktuelle
+|-=Flash=-|: ^^
+*** You have been disconnected. Thu Jan 02 17:01:56 2003.
+*** dj_turrican [LDC] signed on at Thu Jan 02 17:02:04 2003.
+dj_turrican [LDC]: öhm was? jetzt schreibst du aber quark *löl* [Offline Message (1/2/2003 [15:59])]
+|-=Flash=-|: löl nee
+|-=Flash=-|: ^^
+dj_turrican [LDC]: kam das so an?
+|-=Flash=-|: |-=Flash=-|: ich brauche wen der dvdrs macht und zwar aktuelle
+dj_turrican [LDC]: jau also dvd-r ist ja klar das ich welche brauchen kann wenn ich sie nicht selber bekomme. aber ich brauche noch nesoftware die es mir möglich macht die menüs zu veränern. authoring software halt. das was ich bisher gefunden habe ist schrott da kannste nur neue menüs erstellen.
+|-=Flash=-|: hmm mal schauen =) kennste net leute die
+|-=Flash=-|: inna viedothek arbeiten
+dj_turrican [LDC]: doch daher bekomm ich ja die dvd´s *gg*
+|-=Flash=-|: hier in .de?
+dj_turrican [LDC]: ja. aber die machen ja nur den verleih da hab ich nichts von. ne videotheck halt. die bekommen nur die dvd´s ohne irgendwelhce software. da müsste ich schon jemanden aus dem bresswerk haben
+|-=Flash=-|: hmm nee es geht mir ja nur darum das ich noch leute suche die aus aktuellen dvds dvdrs machen und die uppen
+dj_turrican [LDC]: das kann ich machen nebenher. mach ich auch sobald ich nen brenner habe
+|-=Flash=-|: kann man ja auch mit nem normalen laufwerk
+dj_turrican [LDC]: gerade ist geldmangel wegen meinem auto. muss erst mit der bank reden
+|-=Flash=-|: also dvd laufwer
+dj_turrican [LDC]: klar aber ich kann das net alles auf meiner platte ligen lassen bis ich nen brenner habe. :-D
+|-=Flash=-|: haste noch leutz die das machen würden=) ist mi wichtig
+dj_turrican [LDC]: lass mir mal 2 wochen, ich muss nächste woche ja eh mit der bank reden.
+dj_turrican [LDC]: dvd-r wohl eher nicht nur svcd
+|-=Flash=-|: ich habe 0 plan von rippen usw oder mir schickt wer die ripz und ich uppe
+|-=Flash=-|: ^^
+dj_turrican [LDC]: dann kann ich auch gleich uppen mein süsser. das sind vorweg  knappe 5gb
+dj_turrican [LDC]: und brennen kann ich es dir ja net weil ich noch keinen dvd-r habe.
+dj_turrican [LDC]: höchstenst ein paar files auf cd-r
+dj_turrican [LDC]: dann teilen wir uns das
+|-=Flash=-|: Joap
+|-=Flash=-|: bei mir ist ja kein thema
+dj_turrican [LDC]: obwohl....... ich kenn da einen der würde es vielleicht machen. ich muss ihm halt alles erklären aber dann sollte es gehen. 
+dann könnte man von hier aus schonmal zu zweit uppen, dann sollte das in 1 1/2 tagen erledigt sein. is ja schon ne menge an daten
+|-=Flash=-|: Joap geht mir nur darum das wir in dvdr auch rul0rn und gddg verdrängen
+dj_turrican [LDC]: meine rede alder, das hab ich doch von anfang an vor
+|-=Flash=-|: Joap und wenn wir danna cuh noch aktuelle dvds als dvdr rellen dann ist die scene bald unser
+|-=Flash=-|: ^^
+|-=Flash=-|: darum gehts mir muss mir gedanken machen um das kleine tief gerade zu überwinden deshalb trete ich dich ja auch soa
+dj_turrican [LDC]: und ich will jetzt nur noch ne gute software mit der ich das menü einer dvd´r aus dem amiland ändern kann so das ich noch ein menü für den deutschen ton reinbastele. verstehst?
+|-=Flash=-|: joap suche ich dir
+dj_turrican [LDC]: kleine tief? mensch das ist ein loch ohne boden, gerade jetzt wo acp so freundlich war mir den 8 mile zu klaune :(
+dj_turrican [LDC]: oder weisste was.... ich geh nacher ins kino und du schaust dir nochmal 8 mile von acp an....... ich uppe die viedeosource während ich weg bin und schnibbel heute noch den ton fertig das man das nur noch fertig machen muss.
+|-=Flash=-|: joap kannschte machen
+|-=Flash=-|: isn reencode oder was?
+dj_turrican [LDC]: das ist für mich ein rap musical da kannste echt net so ne abgelutschte ton nehmen. das tut doch weh. was würde 2pac sagen wenn er das sehen könnte? der würde sich im grabe drehen
+dj_turrican [LDC]: jau reencode. deswegen uppe ich ja jetzt gleich die videosource
+|-=Flash=-|: joap dann mache das du stück^^
+dj_turrican [LDC]: ist die muxline eigentlich on?
+|-=Flash=-|: Joap
+|-=Flash=-|: aber da kommt nur einer hin
+dj_turrican [LDC]: is schon okay. wollte nur fargen weil ich ja nur teile hochschiebe also video und ton getrennt geht schneller
+dj_turrican [LDC]: kann noch ein wenig dauern ich komm gerade nicht auf die 34mbit zum uppen
+|-=Flash=-|: und ich habe lauter msgs
+dj_turrican [LDC]: von wem denn?
+|-=Flash=-|: k/a
+|-=Flash=-|: ^^
+|-=Flash=-|: immer wollen die was von mir dasl iegt an meinem gailena rsch
+dj_turrican [LDC]: löl 
+dj_turrican [LDC]: gröhl
+dj_turrican [LDC]: haste denn nun die eine nummer angerufen?
+dj_turrican [LDC]: mit deinem geilen arsch :-D
+|-=Flash=-|: joap
+|-=Flash=-|: ^^
+dj_turrican [LDC]: und? komm sag
+dj_turrican [LDC]: will wissen
+|-=Flash=-|: die will sich mit mir treffen
+dj_turrican [LDC]: haste wenigstenst gleich was klar gemacht?
+|-=Flash=-|: morgne wohl inne disco aber mal schauen ob ich bis dahin geld habe
+dj_turrican [LDC]: hrhr.... jau dann lass mal knacken
+|-=Flash=-|: aber erstmal kohlen habe
+|-=Flash=-|: ich habe das net mal mehr fürn eintritt
+|-=Flash=-|: ^^
+*** You have been disconnected. Thu Jan 02 17:27:41 2003.
+*** dj_turrican [LDC] signed on at Thu Jan 02 17:30:25 2003.
+|-=Flash=-|: die armut ist ausgebrochen
+dj_turrican [LDC]: das kannste laut sagen
+|-=Flash=-|: Joap *lautsag:das die armut ausgeborchen ist*
+*** dj_turrican [LDC] signed off at Thu Jan 02 18:44:18 2003.
+Session Close (dj_turrican [LDC]): Thu Jan 02 18:53:41 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Thu Jan 02 22:59:39 2003
+dj_turrican [LDC]: hi nase, biste online?
+|-=Flash=-|: nee
+|-=Flash=-|: ;P
+dj_turrican [LDC]: schade ich meld mich ein ander mal *gg*
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: sag mal wann kommt die saugline wieder damit ich da die source uppen kann, is ja ein schrott auf der 34mbit gerade
+|-=Flash=-|: haste die sample wenn nein geh und hol *gröhl*
+|-=Flash=-|: 34mbit geht doch astrein die ist erst morgen da ich dummer idi hab das sys per remote zerschossen *duck*
+dj_turrican [LDC]: gröhlllll
+|-=Flash=-|: ey das ist net witzig
+|-=Flash=-|: habe voll ärger bekommen
+dj_turrican [LDC]: kann ich mir vorstellen. ich uppe mal fleissig auf der 34mbit weiter und hoffe das nicht wieder alles abkackt. während ich weg war wurden die hälfte der files gekickt :(
+dj_turrican [LDC]: waren net komplett irgendwie ist da was schief gegangen
+|-=Flash=-|: waste ton holen oder wie?
+dj_turrican [LDC]: jau, geile verhätnisse heute draussen, sturmwarnung wurde gegeben. die fahrt nach hause war ein abenteuertripp *gg*
+dj_turrican [LDC]: so geil da lagen halbe bäume auf der strasse
+|-=Flash=-|: joap bei uns regnet es die ganze zeit
+|-=Flash=-|: ich muss erstmal eine rauchen ich knagge sonst ein
+dj_turrican [LDC]: ok
+dj_turrican [LDC]: also ich verschwind jetzt auch mal ne weile, sobald der ton auf dem rechner ist fang ich an. ich würde mal sagen lass uns einfach nur propern damit acp mal weiss was richtiger ton ist, hab ne megageile line mal wieder *gg* 
+so soll es dann auch in der nfo stehen, wir machen diesen release weil man einen film der für rapfans ein muss ist nicht mit dem ton einer anderen bekannten moviecrew beleidigen kann *löl* 
+also bis gleich.
+|-=Flash=-|: joap mal nebenbei wir sind mit twister fusiniert und heißen jetzt nRL =) da stehen die chancen bessa HQM lebt weiter als DVDR grp!
+dj_turrican [LDC]: ahja und was springt für mich dabei raus *gg*
+|-=Flash=-|: posex :P
+|-=Flash=-|: erstmal niox mal schauen was draus wird next week
+|-=Flash=-|: du machst i spy wirst zu gezuwngen wer anders reine nervensache 2 und vielleicht noch der 3te die unbarmherzigen schwestern mal schauen was die anderne juden dann sagen von acp und tgsc
+dj_turrican [LDC]: hast du line dafür?
+dj_turrican [LDC]: ich hab nur was für i spy nächste woche
+|-=Flash=-|: die anderen beiden holen die
+dj_turrican [LDC]: wann?
+|-=Flash=-|: auch am 9ten mal schauen ob ich den anderne rumbekommen dann habe ich reine nervensache oder soa vielleicht mittwoch
+dj_turrican [LDC]: so lange noch *löl*
+dj_turrican [LDC]: naja weil du es bist
+|-=Flash=-|: löl
+|-=Flash=-|: =)
+|-=Flash=-|: ich habe schon frust genug das die tussi mit der ich hätte vögeln können krank im bett liegt
+|-=Flash=-|: ich brauche endlich nen führerschein und nen gailes auto :P
+dj_turrican [LDC]: dann vögel sie gesund
+dj_turrican [LDC]: glabt bei meiner immer *löl*
+|-=Flash=-|: LÖL!
+Session Close (dj_turrican [LDC]): Thu Jan 02 23:22:51 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Jan 03 01:36:16 2003
+dj_turrican [LDC]: ja wie denn immer noch am pc?
+dj_turrican [LDC]: oder doch nicht? 
+naja hab gedacht ich hab dich gerade online kommen gesehen. muss wohl ne täuschung gewesen sein. wünsch dir süsse träume du nase. 
+ 
+n8
+dj_turrican [LDC]: achso bevor ich es vergesse....... das passwort für die files "eminem" alles klein geschrieben. 
+ 
+
+dj_turrican [LDC]: he flash besorg mir mal das hier.... 
+ 
+(Link: http://www.vcdquality.com/image.php?id=7997)http://www.vcdquality.com/image.php?id=7997
+dj_turrican [LDC]: ausserdem haste mir doch schon lange ein sample für nemesis versprochen du schlingel
+*** dj_turrican [LDC] signed off at Fri Jan 03 04:37:03 2003.
+Session Close (dj_turrican [LDC]): Fri Jan 03 09:06:51 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Jan 03 13:51:17 2003
+|-=Flash=-|: moin
+Session Close (dj_turrican [LDC]): Fri Jan 03 13:52:41 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Jan 03 13:55:43 2003
+dj_turrican [LDC]: moin.... jaja is jut. ich sehe heute das erste mal seit ner woche die sonne, ich komm mir vor als wäre es noch mitten in der nacht *löl* 
+hab nur 3 stunden geknackt dann hat mich mein alter aufgeweckt :(
+dj_turrican [LDC]: und du faultier hast die ganze nacht durchgepennt was?
+|-=Flash=-|: löl bei uns wars die putze
+|-=Flash=-|: joap auf jeden
+|-=Flash=-|: bis zum mittag
+|-=Flash=-|: ^^
+dj_turrican [LDC]: putze? leck mich su arsch hast ne putze.
+|-=Flash=-|: joap wir haben eine fürs haus
+|-=Flash=-|: sicher
+dj_turrican [LDC]: sack *löl*
+dj_turrican [LDC]: und ich muss das alleine machen
+|-=Flash=-|: Selber schuld :P
+dj_turrican [LDC]: naja kein geld dafür. du musst es ja richtig schön haben
+|-=Flash=-|: Joap was meinste putze mich geweckt 0)
+|-=Flash=-|: weil oma essen fertig hatte
+dj_turrican [LDC]: was meinste. mein alter mich geweckt weil er hilfe beim ausladen braauchte und den kaffee musste ich mir alleine machen
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: kommst du eigentlich gerade auf die 34mbit? ich bin wieder raus geflogen ich weiss net was noch fehlt an files, schau doch mal bitte wäre lieb
+|-=Flash=-|: von viedeo noch alles irgendwie
+|-=Flash=-|: audio ist ganz da
+dj_turrican [LDC]: wie denn von video noch alles *heul* 
+naja ganz ruhig so früh am morgen ich komm schon och drauf dann mach ich den rest. wieso kommst du eigentlich drauf und bei mir heisst es 421?
+|-=Flash=-|: weil ichd ie ganze zeit drauf bin ich logge mich mal aus
+dj_turrican [LDC]: jajaja ich bin drauf mom
+dj_turrican [LDC]: so schnell gestartet bevor ich wieder fliege. aber das ist ja der hammer das die videofiles alle weg sind, ich glaub ich knacks ab, ein paar weiss ich waren nämlich schon oben.
+|-=Flash=-|: hmm glaubsch net 
+|-=Flash=-|: ^^
+|-=Flash=-|: kannste mir dann mal den ton von hdr2 und 8mile roh uppen will da auch mal basteln
+dj_turrican [LDC]: jaja du willst das nur machen damit ich nicht mehr benötigt werde *g*
+|-=Flash=-|: löl meinste ich mache mir 2mal arbeit
+|-=Flash=-|: aber mir ist langweilig heute abend da kann ich mich doch mal versuchen oder
+|-=Flash=-|: ?
+dj_turrican [LDC]: hehe ja mach das.... saug dir einfach den ton wo ich fertig gemacht habe und mach daraus ne wav datei. für den anfang reicht das.
+dj_turrican [LDC]: dann ......
+dj_turrican [LDC]: haste bestimmt den acp release von 8 mile oder?
+|-=Flash=-|: joap
+dj_turrican [LDC]: versuche mal cd1 zu machen die hat ja ne andere länge als meine cd1. denke das reciht mal für die langeweile
+dj_turrican [LDC]: hab extra neu geschnibselt damit es die edonkey jungs net so leicht haben. 
+|-=Flash=-|: hrhr
+dj_turrican [LDC]: nix da mit tonspur raus rippen und an die eseltreiber verfüttern. da bekomm ich eh so nen hals
+dj_turrican [LDC]: ich bin gleich wieder da, muss mal aufs klo
+|-=Flash=-|: tzz
+|-=Flash=-|: aufs klo
+dj_turrican [LDC]: diesmal zur normalen benutzung *gg*
+|-=Flash=-|: hrhr
+dj_turrican [LDC]: jetzt muss ich arme sau auch noch einkaufen gehen, die frau steht schon mittig in der tür und tippslet mit den schuhsohlen *gg* 
+bin bald zurück. hoffe ich mal, ich meine du kennst das ja frauen und einkaufen...... obwohl ne das kennste net, aber das wirste noch kennen lernen *löl*
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: glaub mir mein bester.... das ist keine freude mit so ner frau im laden. hoffe nur das du das auch bald mal mitbekommst.
+|-=Flash=-|: na wir waren mal in .fr mit 2 mädelz shoppen das war grausam
+dj_turrican [LDC]: hrhrhr.... siehste und ich muss das regelmässig machen.
+dj_turrican [LDC]: soa..... habs heute ganz geschickt gemacht. ach weisste mir gehts heute einfach nicht so gut schatz. kannste nicht alleine einkaufen und ich hol dich nacher ab :-D
+dj_turrican [LDC]: so konnte ich mir mal mein werk alleine anhören und die lautsprecher wieder frei pusten.
+dj_turrican [LDC]: zieh dir meinen 8 mile rein und dreh mal so richtig die lautsctärke auf, vorallem am ende. junge das ist ein genuss das kannste net von acp erwarten *gg*
+|-=Flash=-|: hrhr
+|-=Flash=-|: du weißt das eigenlob stinkt *pfurz*
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ich sag nur was sache ist und ich hab einfach die beste line :-D
+dj_turrican [LDC]: haste nicht noch irgendwas zum schnibbeln?
+|-=Flash=-|: nee im moment net
+dj_turrican [LDC]: na komm dann besorg mal was. wie wäre es mal mit der source für "i spy" dann entferne ich da mal den counter. 
+muss jetzt frau abholen, bis später.
+|-=Flash=-|: joap besorg ich
+Session Close (dj_turrican [LDC]): Fri Jan 03 15:48:44 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Jan 03 16:56:14 2003
+dj_turrican [LDC]: hmmm.... sag mal knackarsch, haste wieder mal ne line zerschossen? wir sind doch hier net bei jugend forscht *gg*
+|-=Flash=-|: die war net fertig aufgesetzt
+|-=Flash=-|: =)
+|-=Flash=-|: das mcahen die jetzt zu ende
+dj_turrican [LDC]: ich dachte schon du wolltest gerade noch nen bug test machen.
+dj_turrican [LDC]: und du bist der käfer *gröhl*
+|-=Flash=-|: LÖÖÖÖÖÖÖL
+dj_turrican [LDC]: haste eigentlich was gefunden für i spy?
+|-=Flash=-|: joap bekomme ich nachher
+dj_turrican [LDC]: super, dann wirds am wochenende net so langweilig, obwohl...... macht ja eh fast alles der pc. sollte man schon die line haben zum syncen
+Session Close (dj_turrican [LDC]): Fri Jan 03 17:23:39 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Jan 03 17:26:58 2003
+dj_turrican [LDC]: hmmm.... sag mal flash ist dir was bekannt das bald ein deutscher dvd rip von hdr2 kommen soll?
+*** You have been disconnected. Fri Jan 03 17:27:59 2003.
+*** dj_turrican [LDC] signed on at Fri Jan 03 17:30:20 2003.
+|-=Flash=-|: joap morgen soll nen dvdscreener wohl kommen
+dj_turrican [LDC]: weisste von welcher crew?
+|-=Flash=-|: nope
+dj_turrican [LDC]: du wirst ja auf jedenfall dran kommen nehme ich an oder?
+|-=Flash=-|: sicher
+dj_turrican [LDC]: schickste denn dann bitte auch auf die saugline.... wenn sie bis dahin fertig ist.
+|-=Flash=-|: Joap sicher
+dj_turrican [LDC]: danke knackarsch, bist ein schatz :-{}
+|-=Flash=-|: joap ich hoffe mein gailer knachkarsch bring was heute abend inna stad
+|-=Flash=-|: t
+dj_turrican [LDC]: gehste disco oder einfach auf ein blind date?
+|-=Flash=-|: disco
+dj_turrican [LDC]: mit der einen?
+|-=Flash=-|: die ist ja krank=(
+dj_turrican [LDC]: achso..... hab vergessen.
+|-=Flash=-|: musstes mich ja wieder dran erinnren
+dj_turrican [LDC]: dann suchtste dir halt so was hübsches mit der einen ist ja noch nichts festes
+|-=Flash=-|: joap was zum ficken so ne dorfbitch
+|-=Flash=-|: ^^
+dj_turrican [LDC]: so schlimm mein knacki? komm lass dich drücken,
+|-=Flash=-|: *geschmeichelt*
+dj_turrican [LDC]: du steckst dann nen gruß mit rein *löl*
+|-=Flash=-|: LÖÖÖÖÖÖÖÖÖL
+dj_turrican [LDC]: wir wollen heute abend auch mal wieder weg gehen, mal sehen wohin es gehen soll. ichhab ja kein mitspracherecht *gg*
+|-=Flash=-|: löl ich habe hier eh das sagen abern ur soa 20€
+|-=Flash=-|: das heißt ich bin zwischen 1und 2 wieder da=(
+dj_turrican [LDC]: hrhrhr.... 20€ da kannste mal den großen macker raus hängen lassen *löl*Ü
+|-=Flash=-|: du bisn arsch
+dj_turrican [LDC]: tröste dich ich will auch net mehr ausgeben, obwohl ich mehr hätte :-D
+dj_turrican [LDC]: sorry du das musste ich geniessen *löl*
+|-=Flash=-|: ey so unfair
+|-=Flash=-|: nur weil ich zu faul war zur bank zu fahren
+dj_turrican [LDC]: wenigstenst hast du noch keinen geldbeutelvampir an deiner seite *gg* 
+du weisst schon ne frau mit der du länger leirt bist.
+|-=Flash=-|: Joap
+|-=Flash=-|: =)
+|-=Flash=-|: ich weiß frauen sind die geldgailsten monster die es gibt
+dj_turrican [LDC]: jau also geniesse es noch keine feste zu haben. wenn du erstmal eine am hals hast dann kannste dir keine putze mehr leisten. es sei denn du erziehst die frau gut dann kannst dir die putze nämlich sparen *gröhl*
+|-=Flash=-|: joap und wnen sie sich bückt ordentlich von hiten nehmen
+|-=Flash=-|: ^^
+dj_turrican [LDC]: und nen bimbo der davor mit nem schwanz wedelt *löl*
+dj_turrican [LDC]: denn witz haste ja bekommen oder?
+|-=Flash=-|: Joap klaro
+|-=Flash=-|: ^^
+dj_turrican [LDC]: am  besten war jedoch das arschloch hinter dem brückenpfeiler. den probier ich echt mal aus *gg*
+dj_turrican [LDC]: bloß seit sylvester keine polizeikontrolle mehr gehabt und da wollte ich es net ausprobieren weil ich getankt habe.
+dj_turrican [LDC]: also in zweierlei hinsicht
+dj_turrican [LDC]: :-D
+dj_turrican [LDC]: so du ich muss aber jetzt los. viel spaß heute abend. bussi :-{}
+|-=Flash=-|: Bussi cya
+*** dj_turrican [LDC] signed off at Fri Jan 03 17:47:46 2003.
+Session Close (dj_turrican [LDC]): Fri Jan 03 18:07:50 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sat Jan 04 15:49:33 2003
+dj_turrican [LDC]: moin flash.... sag mal was ist heute schon wieder los. auf der 34mbit kann ich keine files uppen weil sie weg ist. und von der saugline kann ich nichts saugen weil sie auch wieder weg ist. 
+bloß möchte ich jetzt mal was los werden und wehe es stimmt dann setzt es was. ich kann jedesmal 175mb saugen und dann ist mein acc weg, egal wie lange es dauert. 
+ich weiss ja nicht ob du mir sowas antun würdest aber komisch ist das schon. 
+lass man darüber reden jetzt , ich muss noch 10 min weg dann bin ich wieder da.
+|-=Flash=-|: hmm
+|-=Flash=-|: schau mal ganz genau
+|-=Flash=-|: hast recht die war bis eben up
+|-=Flash=-|: unser haupt dump ist ja auch eigentlich der 355mbot
+|-=Flash=-|: und das sind die daten dafür tHEcREW / ixus#v3
+dj_turrican [LDC]: und da geht mein log in gerade nicht. ausser dir darfa da ja eh keiner saugen. aber das muss kurz wareten die läden machen gleich zu. bis gleich
+|-=Flash=-|: wie außer mir?
+|-=Flash=-|: [DSG ROCK DUMP] 
+ IP=dsg.mine.nu 
+ User=flashyNT
+ Pass=2AD90255A86688C4041DC546DC30EA
+ Port=6688
+ Path=
+ Options=30033330
+ Created=37585,0181490509
+|-=Flash=-|: da füg das in die sites.dat ein und sei glücklich.
+dj_turrican [LDC]: ganz übel find ich eigentlichj gerade das 8 mile immer noch net fertig ist das suckt voll.... ich bin irgendwann in der nacht nicht mehr auf die line gekommen. der film könnte schon längst gepreet worden sein.
+|-=Flash=-|: die line war da bis heute abend
+|-=Flash=-|: bis heute morgen
+dj_turrican [LDC]: naja wir haben andere vorstellungen was morgen ist *gg* ich bin erst aufgestanden und hab wieder die sonne net gesehene *löl*
+|-=Flash=-|: löl
+dj_turrican [LDC]: also passt das schon. laut meiner liste fehlen noch 4 files. da muss echt was passieren damit es in zukunft nicht weiter so geht. ich finde das scheisse wenn unser preedatum davon beeinflusst wird das immer ne site crascht.
+|-=Flash=-|: na der dump rentn ja der 355mbit
+|-=Flash=-|: konstant das wäre einfacher
+dj_turrican [LDC]: du meinst das wir in zukunft da alles regeln oder nur zum ausweichen falls die 34 abkacktz?
+|-=Flash=-|: joap
+|-=Flash=-|: ist wesentlich gailer
+|-=Flash=-|: wir machen dsa darüber
+|-=Flash=-|: wir beide und die DVDR leute
+dj_turrican [LDC]: einfach in unser homedir da rein dann.
+|-=Flash=-|: HQM-DMC ist ja darutner unser homedir
+dj_turrican [LDC]: können wir machen ist vielleicht gar nicht die schlechteste idee,
+dj_turrican [LDC]: in 2 wochen bring ich ja auch noch aktuelle dvd´-r mit. so neben den kinofilmen
+dj_turrican [LDC]: sag mal flashi was bedeutet denn das hier? 
+Options=30033330 
+Created=37585,0181490509
+|-=Flash=-|: dsa musste dir in deine
+|-=Flash=-|: sites daat alles kopieren
+dj_turrican [LDC]: krass hab ich noch nie gesehen so. wo finde ich denn die sites daat? 
+oder besser mal mit welchem proggi kann ja sein das du ein anderes hast
+|-=Flash=-|: auf deiner platte im flashfxp ordern
+|-=Flash=-|: da ist ne datei die sites.dat
+|-=Flash=-|: heißt
+|-=Flash=-|: die öffneste mitm editor
+|-=Flash=-|: und kopierst das rein
+|-=Flash=-|: Und was ist mit dem supplier?
+dj_turrican [LDC]: is ja krass was icg bei dir noch lerne. übrigens ich hab die dts cd´s fast geknackt ich kann sie jetzt schonmal abspielen hör aber nur rauschen. da muss ich noch dran arbeiten
+|-=Flash=-|: Cool
+dj_turrican [LDC]: den supplioer heiz ich nacher mal an 
+|-=Flash=-|: joap silvester ist schon bissle lange her
+dj_turrican [LDC]: finde ich auch. ich denke aber mich dran erinnern zu können das er sagte an sylvester probiert er es. frag mich nur warum der sich noch net gemeldet hat.. nicht mal so ein wort von ihm gehört. das wundert mich schon weil ich ihn eugentlich zu meinen freunden zähle.
+|-=Flash=-|: ich packe dir mal i spy auch gleich aufn dump
+dj_turrican [LDC]: jau unbedingt dann fang ich nacher damit an
+dj_turrican [LDC]: also counter entfernen ton bekomm ich erst ab donnerstag wenn du nicht vorher was findest
+|-=Flash=-|: nee glaube ich net
+*** dj_turrican [LDC] signed off at Sat Jan 04 17:03:39 2003.
+*** dj_turrican [LDC] signed on at Sat Jan 04 18:19:48 2003.
+*** dj_turrican [LDC] signed off at Sat Jan 04 18:20:01 2003.
+*** You have been disconnected. Sat Jan 04 18:21:35 2003.
+*** dj_turrican [LDC] signed on at Sat Jan 04 18:21:43 2003.
+dj_turrican [LDC]: so ich geh dann jetzt mal auf die piste. du könntest mir noch einen gefallen tun flash. wir haben uns ja geeinigt das wir in zukunft alles über die 355mbi line machen. kontrollierst du bitte mal ob ich da noch eingeloggt bin. wollte vorhin drauf weil ich dachte du hast da "i spy" hin aber der acc macht gerade probleme. 
+ 
+Connected to deschutes.mine.nu Port 6510 
+220 Please enter your login name now (p50835D54.dip.t-dialin.net). 
+USER HqM/dmC 
+530 Login incorrect for HqM/dmC . 
+Connection failed 
+ 
+also bis denne, bussi.
+*** dj_turrican [LDC] signed off at Sat Jan 04 18:29:04 2003.
+*** dj_turrican [LDC] signed on at Sat Jan 04 19:45:35 2003.
+*** dj_turrican [LDC] signed off at Sat Jan 04 19:45:50 2003.
+*** You have been disconnected. Sat Jan 04 20:37:19 2003.
+*** You have been disconnected. Sat Jan 04 20:42:57 2003.
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sat Jan 04 20:58:07 2003
+*** NOTE: This user is offline.  Your messages will be received when he/she logs into ICQ.
+|-=Flash=-|: meld dich malö
+*** dj_turrican [LDC] signed on at Sun Jan 05 01:43:10 2003.
+dj_turrican [LDC]: jau mach ich. grüss dich mein schätzle. :-{}
+dj_turrican [LDC]: bis noch ine disco?
+dj_turrican [LDC]: also ich bin noch ne weile wach meld dich einfach. ansonsten würde ich dich morgen mal anrufen. 
+ 
+c.u.
+dj_turrican [LDC]: ich geh nun ins bett. meld dich morgen mal dann ruf ich dich an. 
+n8
+*** dj_turrican [LDC] signed off at Sun Jan 05 03:52:03 2003.
+|-=Flash=-|: jojo
+Session Close (dj_turrican [LDC]): Sun Jan 05 15:49:38 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Jan 05 17:36:56 2003
+dj_turrican [LDC]: mensch scheisse.... schon wieder den tag verpennt :( 
+das schaff ich nie das ich morgen dann um 7 uhr morgens aufstehe. 
+dj_turrican [LDC]: hi flash
+|-=Flash=-|: hiho
+dj_turrican [LDC]: na du haste etwas zeit?
+|-=Flash=-|: wir suchen gerade neue
+|-=Flash=-|: haben ne große listeb ekommen
+dj_turrican [LDC]: neue was?
+|-=Flash=-|: Server
+dj_turrican [LDC]: cool. soll och später anrifen?
+|-=Flash=-|: meine eltern sind wieder da und die gehen bestimmt gleich pennen sind ja ausm urlaubt back kommt dann net soa gut=)
+dj_turrican [LDC]: ahso. na gut labern wir halt so. du wolltest was von mir, komm sag an was ich für meinen kanckarsch tun kann.
+|-=Flash=-|: Für dein knackarsch kannste mal ne gaile frutte holen=))
+|-=Flash=-|: na wollte wissen was mit deinem neuen ton mann kommt
+dj_turrican [LDC]: löl.... das könnte schwer werden, sind ziemlich weit weg voneinander. ausserdem will ich dich nur für mich *gg*
+|-=Flash=-|: löl
+dj_turrican [LDC]: wenn ich es wüsste. ich hab den seit tagen nicht mehr erreicht. werd ihn morgen mal besuchen. ist ja feiertag. 
+ich hoffe du weisst das zu schätzen ich fahre immerhin 300km.
+dj_turrican [LDC]: naja ich will es ja auch wissen.
+|-=Flash=-|: wah morgen ist kein feiertag
+dj_turrican [LDC]: doch. heilige drei könige
+|-=Flash=-|: da muss man aber arbeiten
+dj_turrican [LDC]: nö. oder? also wenn doch dann bin ich am arsch
+dj_turrican [LDC]: ich bin erst vor ner halben stunde aufgestanden ichschaff das net nacher ins bett zu gehen und morgen um 7 auf zustehen
+|-=Flash=-|: Nee ist kein feiertag
+dj_turrican [LDC]: hmmm... wart mal kurz
+dj_turrican [LDC]: puh ein glück. morgen ist ein feiertag und ich muss net arbeiten. 
+dj_turrican [LDC]: vielleicht ist es ja region abhängig
+dj_turrican [LDC]: ich zumindest muss morgen nicht
+|-=Flash=-|: Hmm also wir haben auch schulfrei
+|-=Flash=-|: aber das ist irgendwie nen gesetzt
+|-=Flash=-|: aber eltern müssen arbeiten
+dj_turrican [LDC]: ich hab gestern die dts cd meinem kumpel gegeben er schaut es sich mal an, ich bin fast am ende mmit meinem latein. ich hab es zwar nun geschaft das ich die cd anhören kann am rechner aber man hört nur rauschen und ein paar daten wie damals noch auf commodore mit den datencassetten.
+dj_turrican [LDC]: sind deine eltern selbstständig?
+|-=Flash=-|: Joap
+dj_turrican [LDC]: vielleicht deswegen, mein chef macht morgen auch das büro.
+dj_turrican [LDC]: lohn überweisen :)
+|-=Flash=-|: HRHR
+dj_turrican [LDC]: mom ich hab einen von den beiden am apparat :)
+dj_turrican [LDC]: was ist denn aus dem hdr2 svs screener geworden? ist der schon draussen?
+|-=Flash=-|: suppliern?
+|-=Flash=-|: Nope
+dj_turrican [LDC]: jau
+dj_turrican [LDC]: der wo ich zuerst gesagt habe das er an sylvester anfängt da zu arbeiten
+|-=Flash=-|: Joap
+dj_turrican [LDC]: hast "i spy" eigentlcih besorgt?
+|-=Flash=-|: Joap
+dj_turrican [LDC]: wo hast den hin?
+|-=Flash=-|: aber wir haben ja keinenr ichtigen dump *kotz*
+dj_turrican [LDC]: ist es eigentlich okay gerade das ich nicht auf die 355mbit komme? die daten wo du mir gestern gegeben hast gehen ich meine den ersten
+dj_turrican [LDC]: scheint so als wäre ich  nicht eingeloggt
+|-=Flash=-|: ich komme auch net drauf aber der ist limited auf user
+dj_turrican [LDC]: ne mir sagt er login incorect
+|-=Flash=-|: tHEcREW<<--username / ixus#v3<<--pw
+dj_turrican [LDC]: ne hab andere daten, also ich bin wieder voll da.
+dj_turrican [LDC]: der kerl ist feige nehme ich mal an. er will erst in ein par wochen beginnen ton zu supplien weil er angst um seinen job hat.
+|-=Flash=-|: LÖL schwuchtel
+|-=Flash=-|: und der andere?
+dj_turrican [LDC]: das ist der denn ich nun seit dem neuen jahr nicht mehr ereiche. sein handy geht nicht und zu hause geht nur der anrufbeantworter dran. bei dem mach ich mir eher sorgen weil ich denn schon lange kenne und er hat nichts gesagt das er in urlaub geht oder so.
+|-=Flash=-|: uii
+dj_turrican [LDC]: deswegen geh ich morgen ja auch vorbei.
+dj_turrican [LDC]: was hälste davon? 
+(Link: http://www.vcdquality.com/image.php?id=9301)http://www.vcdquality.com/image.php?id=9301
+|-=Flash=-|: habsch schon besorgt
+dj_turrican [LDC]: löl
+dj_turrican [LDC]: jetzt fehlt nur ne line. was ist denn mit der 34mbit? du kennst denn doch oder?
+dj_turrican [LDC]: 8 mile liegt da ja auch noch rum, hoffe ich mal, aber jetzt kannste das ja nur noch als internal machen :(
+|-=Flash=-|: Joap der admin hat irgendwie gefaselt bis dienstag bla bla das suckt mich alels an ich besorg wasn eues
+dj_turrican [LDC]: naja ich hab gestern ja auch ziemlich komische laune gehabt. ich war einfach sauer weil die line aufeinmal weg war und damit auch meine files. dieser 8 mile release war eindeutig der beste zur zeit und sollte eigentlich schon längst gepreet worden sein.
+|-=Flash=-|: joap was meinste wie ich gerade sauer bin
+dj_turrican [LDC]: ich glaubs dir, aber bei mir steigt es gerade auch wieder wegen dem einem kerl. ich kann ja verstehen das er nicht von anfang an damit beginnen will weil er ja noch in der probezeit ist aber dann soll er mir das zumindest auch so sagen und nichtgroß bla bla der vergisst es bis g´dahin ja eh oder so.
+|-=Flash=-|: hmm najo =)
+|-=Flash=-|: nen dump kann ich besorgne
+|-=Flash=-|: aber ich sponsor dem arsch keine 120gb dafür
+dj_turrican [LDC]: der bekommt nichts bevor er nicht was liefert
+|-=Flash=-|: na ich meine die dump admins
+dj_turrican [LDC]: hab ich heute auch gesagt. erst muss er was zeigen und wenn das gut ist dann gibts was
+dj_turrican [LDC]: irgendwann musste mir das alles mal erklären wie das läuft *gg*
+dj_turrican [LDC]: damit ich wenigstest kapiere wieso du einem dumbadmin erst noch nen server spenden musst.
+dj_turrican [LDC]: ist ja fast wie am freien arbeitsmarkt. ich bin geschäftsführer und suche noch ein geschäft *löl*
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: kann man das soi versetehen.
+dj_turrican [LDC]: verstehen
+dj_turrican [LDC]: soll ich meinen homeftp aufmachen? dann kannste mir nemesis und i spy so schicken. zumindest mal den i spy der kommt ja als nächstes
+|-=Flash=-|: Joap
+dj_turrican [LDC]: dauert aber, hab serv-u nicht mal installiert
+|-=Flash=-|: hrhr
+|-=Flash=-|: alles suckt
+dj_turrican [LDC]: was ist passiert?
+|-=Flash=-|: hmm
+|-=Flash=-|: probier gerade nen dump zu bekommen mal schauen
+dj_turrican [LDC]: okay. ich mach mal weiter nen crack zu finden
+dj_turrican [LDC]: fuck... falscher crack, programm gesperrt. ich mach nacher weiter, muss mal mit dem hund raus.
+|-=Flash=-|: LÖL
+|-=Flash=-|: jojo bin noch lange da
+*** dj_turrican [LDC] signed off at Sun Jan 05 19:24:42 2003.
+*** dj_turrican [LDC] signed on at Sun Jan 05 19:27:15 2003.
+*** dj_turrican [LDC] signed off at Sun Jan 05 19:52:40 2003.
+*** dj_turrican [LDC] signed on at Sun Jan 05 20:09:47 2003.
+dj_turrican [LDC]: so endlich läuft das scheiss ding, probier mal 
+ftp:\\Flash:stylez@217.230.19.67:1337
+dj_turrican [LDC]: ich lass einfach mal laufen, kannst da ja dann i spy uppen wenn du nicht doch nen ftp gefunden hast, ich bin in ein paar studen zurück. 
+c.u.
+|-=Flash=-|: löl
+|-=Flash=-|: paar stunden
+|-=Flash=-|: ich muss ja wieder alles umsteln wegen dir da :P
+dj_turrican [LDC]: du bist ja doch da
+|-=Flash=-|: (Link: ftp://Flash:stylez@217.230.19.67:1337)ftp://Flash:stylez@217.230.19.67:1337
+|-=Flash=-|: das schreibt man soa
+dj_turrican [LDC]: hab ich doch oder?
+dj_turrican [LDC]: ah ne die striche sorry
+dj_turrican [LDC]: kann passieren :-D
+dj_turrican [LDC]: wieso denn alles umstellen was haste denn vor?
+|-=Flash=-|: hmm
+|-=Flash=-|: =)
+|-=Flash=-|: niox
+|-=Flash=-|: :P
+|-=Flash=-|: basteln spiele
+dj_turrican [LDC]: löl
+dj_turrican [LDC]: ich geh noch ne stunde oder so zu nem kumpel der ist gerade down eil ihn seine alte verlassen hat
+dj_turrican [LDC]: ein wenig aufmuntern und so
+|-=Flash=-|: hmm scheiß frauen
+dj_turrican [LDC]: jau
+dj_turrican [LDC]: meine zickt gerade auch rum sie denkt ich hab ne andere
+|-=Flash=-|: sagste ja sie heißt timo und hat nen knackarsch
+|-=Flash=-|: ^^
+dj_turrican [LDC]: gröhlll.... dann musste aber rennen
+|-=Flash=-|: joap mache ich
+|-=Flash=-|: ahh pro7 nice
+|-=Flash=-|: ^^
+dj_turrican [LDC]: da kam getsren ne nette verarsche auf rtl glaube ich. steck ihn rein soldat james *gg*
+|-=Flash=-|: hrhr
+dj_turrican [LDC]: ich wart jetzt noch kurzr bis die cd´s gebrannt sind dann bin ich auch weg. wird ebstimmt geil draussen ist überall blitzeis.
+|-=Flash=-|: hmm 
+dj_turrican [LDC]: gestern kam das auch so übel, alles neuschnee und viel umgestürzte bäume noch von dem sturm
+|-=Flash=-|: und dann müssen wi mal schauen hoffe der deschutes ist dann mal frei das du reencode uppen kannst
+dj_turrican [LDC]: hoffe ich acuh. morgen ist der soweit das ich uppen kann. wenn die quali taugt dann werd ich evtl gleich svcd draus machen. du weisst schon für die lieben eseltreiber. die werden kotzen *löl*
+|-=Flash=-|: hmm nee svcd gibt nur ärger
+dj_turrican [LDC]: okay dann bleibt es bei vcd is mir auch recht
+|-=Flash=-|: soa ich hock mich mal für 30mins fürs tv
+|-=Flash=-|: die emezelten leute angucken
+dj_turrican [LDC]: okay ich bin bis dahin eh weg, vielleicht sheen wir uns am abend noch. 
+ 
+viel spaß. c.u.
+*** You have been disconnected. Sun Jan 05 20:40:58 2003.
+*** dj_turrican [LDC] signed on at Sun Jan 05 20:41:05 2003.
+dj_turrican [LDC]: so da bin ich wieder, hast mich vermisst *gg*
+dj_turrican [LDC]: löl... wie viele samples schickste mir denn da? 
+wie ich sehe mischt pirase auch noch mit :(  
+naja kein problem, ich geb keinen von dennen ne chance *gg*
+*** dj_turrican [LDC] signed off at Mon Jan 06 03:25:23 2003.
+*** You have been disconnected. Mon Jan 06 03:32:47 2003.
+*** You have been disconnected. Mon Jan 06 03:36:39 2003.
+*** You have been disconnected. Mon Jan 06 03:37:15 2003.
+*** You have been disconnected. Mon Jan 06 03:37:51 2003.
+*** You have been disconnected. Mon Jan 06 03:38:27 2003.
+|-=Flash=-|: na du sollst dir die dinger ja auch mal anschauen
+Session Close (dj_turrican [LDC]): Mon Jan 06 09:31:26 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Mon Jan 06 15:02:55 2003
+*** NOTE: This user is offline.  Your messages will be received when he/she logs into ICQ.
+|-=Flash=-|: ]-[/-~///-/l/ (ICQ#135968391) Wrote: 
+ 10x Weiterschicken und Dein Größter Traum wird innerhalb den naechsten Tagen Wahr !!!   
+ 5x Weiterschicken und dein Wunsch geht in ca. 2-3 Wochen in Erfüllung .   
+ Wenn du diese MsG. Ignorierst hast du mind. 3 Jahre Pech und das Gegenteil deines Größten Wunsches stellt sich in Kraft ! 
+Session Close (dj_turrican [LDC]): Mon Jan 06 15:02:57 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Mon Jan 06 19:22:21 2003
+dj_turrican [LDC]: also eigentlich bin ich ja nicht abergläubisch aber sehen tu ich sowas trotzdem net gern *gg* nachdem ja mein auto sein eigenleben entwickelt hat glaube ich schon eher daran.
+|-=Flash=-|: hrhr =)
+Session Close (dj_turrican [LDC]): Mon Jan 06 19:31:07 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Mon Jan 06 21:45:16 2003
+|-=Flash=-|: na bewegste dich nochmal hierhre
+dj_turrican [LDC]: tztztz... nicht mal in ruhe fern sehen kann man hier
+|-=Flash=-|: joap wollte nur wissen obdu i spy reencode schon wo uppst oder soa
+|-=Flash=-|: fettfresse du :P
+dj_turrican [LDC]: löl... is fertig ich warte noch bis ,morgen ob entweder die 355mbit oder die 34mbit wieder kommen wenn das nichts wird dann uppe ich wohl auf der 166mbit im folder request
+|-=Flash=-|: ach da =)
+|-=Flash=-|: hmm
+|-=Flash=-|: oder du legst es mir aufn ftp ich hols mir =)
+|-=Flash=-|: und dann kommste mir mal auf die eine site
+|-=Flash=-|: nur da ist der kerl eben net da
+|-=Flash=-|: vor allem du hast ne scheiß kommersetzung =)
+dj_turrican [LDC]: wie was? nochmal. also ich soll das dir das auf deinen homeftp schieben richtig?
+|-=Flash=-|: nein du packst es auf deinne
+dj_turrican [LDC]: und was war das andere?
+|-=Flash=-|: das du net anständig kommas setzen kannst ;P
+dj_turrican [LDC]: ich mache gar keine komma wie kommste denn da drauf?
+|-=Flash=-|: bis ,mor <<--net mal lesen kannst du =) hast du schon wieder gesoffen ;P?
+dj_turrican [LDC]: löl... nö ich hab da kein komma gemacht.
+|-=Flash=-|: dj_turrican [LDC]: löl... is fertig ich warte noch bis ,morgen ob entweder die 355mbit oder die 34mbit wieder kommen wenn das nichts wird dann uppe ich wohl auf der 166mbit im folder request
+|-=Flash=-|: sach mal das ist doch kein fliegenschiss
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ne das ist ein komma *gg*
+|-=Flash=-|: löl jetzt wieder rausreden
+|-=Flash=-|: na kann ich mir i spy von deinem homeholen?
+dj_turrican [LDC]: nur schnell packen
+|-=Flash=-|: mach das *peitsch*
+|-=Flash=-|: schon fertig mein zucht hengst
+|-=Flash=-|: hum =()
+|-=Flash=-|: ignorier mich net
+dj_turrican [LDC]: wart mal kurz
+|-=Flash=-|: hum du folterst mich immer
+dj_turrican [LDC]: ne hab hier gerade ein problem, dauert noch 5 min
+|-=Flash=-|: was haste denn fürn problem?
+*** dj_turrican [LDC] signed off at Mon Jan 06 22:08:52 2003.
+*** dj_turrican [LDC] signed on at Mon Jan 06 22:08:55 2003.
+|-=Flash=-|: ich zähl donnerstag auf dich das du den dann gelich noch dubbst =)
+dj_turrican [LDC]: donnerstag wird nichts mehr ich hol den ton ja erst am abend
+|-=Flash=-|: hm 20uhr das musste schaffen
+|-=Flash=-|: bitte
+|-=Flash=-|: also
+|-=Flash=-|: freitag
+|-=Flash=-|: morgen dann ganz früh
+|-=Flash=-|: ^^
+dj_turrican [LDC]: freitag ist oka
+dj_turrican [LDC]: ich muss arbeiten
+|-=Flash=-|: hmm
+|-=Flash=-|: das musss aber 
+|-=Flash=-|: sonst ist acp schneller
+dj_turrican [LDC]: ich kanns net ändern. der to nmuss realtime auf den rechner das heisst vor 1 uhr morgens ist der net fertig und dann fang ich bestimmt nicht mehr an
+|-=Flash=-|: dann upp den
+|-=Flash=-|: dann mcahen wirs selbe
+dj_turrican [LDC]: wer macht es?
+|-=Flash=-|: net pirase
+dj_turrican [LDC]: pirase? der ist zu dumm dumm cutten wie soll der da noch dubben?
+dj_turrican [LDC]: ftp:\\spy:spy@217.81.150.182:1337
+|-=Flash=-|: wann isn der ton dann fertig geuppt?
+dj_turrican [LDC]: freitag abend sobal dich daheim bin
+Session Close (dj_turrican [LDC]): Mon Jan 06 22:13:40 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Mon Jan 06 22:14:25 2003
+dj_turrican [LDC]: jetzt sag mal wer sollte den dubben?
+|-=Flash=-|: wir besprechen gerade
+dj_turrican [LDC]: was besprecht ihr?
+|-=Flash=-|: wer dann dubbt
+dj_turrican [LDC]: kannst du mir sagen was ich denn gerade wollte?
+|-=Flash=-|: Was wie wo ?!?
+|-=Flash=-|: schatzi biste heute verplant?
+dj_turrican [LDC]: ich hab gerade irgendwas noch gewollt. aber mensch jetzt weiss ich gar nichts mehr.
+|-=Flash=-|: LÖL =) junge du has alkohol entzug
+dj_turrican [LDC]: löl nö nur so ne fuck nervensäge am telefon :(
+|-=Flash=-|: wer denn?
+dj_turrican [LDC]: kennste auch den pornowixer. der nervt mich da mit seinen geschichten von gott und die welt und hält mich hier voll ab.
+|-=Flash=-|: LÖL wie gail :P *mitleidspend* wann hättest du denn freitag den ton up
+dj_turrican [LDC]: freitag abend ab 22 uhr kann ich mit uppen beginnnen.
+dj_turrican [LDC]: den fertigen ton
+|-=Flash=-|: Das too late
+|-=Flash=-|: =(
+dj_turrican [LDC]: tja sorry aber früher geht nicht. wer würde denn übrig bleiben zum dubben?
+|-=Flash=-|: stanley oder intruder
+dj_turrican [LDC]: erzähl mir was über die?
+dj_turrican [LDC]: können die das wenigstenst
+|-=Flash=-|: Joap das sind keine anfänger
+|-=Flash=-|: der eine hat mal bei tgsc gedubbt
+dj_turrican [LDC]: und der andere?
+|-=Flash=-|: Der andere hat da wohl dsa dubben gelernt
+dj_turrican [LDC]: schick mir den wo mal bei tgsc war in mein icq
+dj_turrican [LDC]: oder seid ihr irgendwo alle im irc?
+|-=Flash=-|: wir sind alle im irc
+|-=Flash=-|: ich weiß echt net wo die das dubben gelernt haben aber das ist net sowas wie pirase
+|-=Flash=-|: k/A
+|-=Flash=-|: habe da nur was gehört mal heir mal da
+dj_turrican [LDC]: wenn es schin jemand anderes macht als ich dann muss der kerl was können
+|-=Flash=-|: wir sind wieder im efnet
+dj_turrican [LDC]: ich muss nur schauen wo ich mirc her bekomme
+|-=Flash=-|: wir können das auch noch morgen machen
+|-=Flash=-|: weil ichgeh bald ins bett
+dj_turrican [LDC]: toll 3kb/s von der mirc homepage. ich geh mal eine rauchen. danach installier ich schnell mirc 
+|-=Flash=-|: hmm alss uns das morgen machen dann sind die alle da 
+|-=Flash=-|: hmm
+|-=Flash=-|: wenn der ton um 1 uhr auf der platte ist wie lange brauchste da zum dubben?
+dj_turrican [LDC]: morgen hab ich schon was vor sollte schon heute sein, ansonsten schick den einen von dem du denkst der packt das in mein icq
+dj_turrican [LDC]: 10-20 min ohne encoden
+|-=Flash=-|: siehste
+|-=Flash=-|: dann ist es 2uhr
+dj_turrican [LDC]: pro cd
+|-=Flash=-|: nte mal kurz nach halb 2
+|-=Flash=-|: kannste du dsa net machen mir ist das lieber
+dj_turrican [LDC]: und das ist zu spät ich darf mir nichts mehr erlauben sonst fliege ich
+|-=Flash=-|: /j #rasenschach grasnarbe da ist der crew chan
+|-=Flash=-|: aber mir wäre es lieber du dubbst das schnell und uppst das
+dj_turrican [LDC]: wäre mir auch lieber.
+dj_turrican [LDC]: ansonsten lass uns das so klar machen. nach 1 uhr werde ich nichts mehr machen wenn der ton um halb 12 auf dem rechner ist würde ich aber noch fertig machen. bloß das kostet dann was gelle.
+|-=Flash=-|: hmm posex ?
+dj_turrican [LDC]: löl.... nö ich lass mir noch was einfallen.
+|-=Flash=-|: Joap ist oke =) wann fängt denn vorstellung an?
+dj_turrican [LDC]: schick mir trotzdem noch den einen in mein icq
+dj_turrican [LDC]: 20 uhr laut program 20:30 real
+dj_turrican [LDC]: vor 23 uhr werde ich nicht zu hause sein vorallem nicht bei dem schit wetter
+dj_turrican [LDC]: wie sieht es eigentlich mit dem dvd screener von hdr2 aus von dem geredet wurde?
+|-=Flash=-|: fuck
+|-=Flash=-|: dann haste den ton erst um halb eins aufm rechner
+|-=Flash=-|: kannst ja auch im irc joinen
+dj_turrican [LDC]: was joinen?
+|-=Flash=-|: den irc channel
+dj_turrican [LDC]: muss ich erst noch installieren
+|-=Flash=-|: hmm fuck das ist kagge
+|-=Flash=-|: ich will den vor ap machen
+|-=Flash=-|: acp den schwulen saft juden arschfickern machen
+|-=Flash=-|: und du bist nunmal der beste
+dj_turrican [LDC]: ich auch aber kann ich was dafür das ich den ton nicht früher habe
+|-=Flash=-|: nee
+|-=Flash=-|: wir schlagen dein autokino=)
+dj_turrican [LDC]: löl. das wäre mal ne idee
+dj_turrican [LDC]: und ich schlag noch meinen kumpel das der seinen arsch bewegt
+|-=Flash=-|: wenne das teil bis um halb 2 fertig hast sagen wri das machste das dann=)?
+dj_turrican [LDC]: hab ich dir das übrigens schon erzählt,,,,, der liegt im krankenhaus. hat an sylvester im vollsuff ne schlägerei angefangen und liegt seit dem flach der jude.
+|-=Flash=-|: Ach du scheiße
+|-=Flash=-|: hmm *betteldumusstdasdubbe*=)
+dj_turrican [LDC]: ich werd es versuchen, aber ich werde bestimmt nicht meinen job dafür riskieren wenn es zu spät wird bin ich weg
+|-=Flash=-|: joap
+dj_turrican [LDC]: seid ihr noch im irc?
+|-=Flash=-|: naja dann haben wir halt das risiko
+|-=Flash=-|: joap der channel ist da immer
+|-=Flash=-|: =)
+|-=Flash=-|: und wenns zu spät wird
+|-=Flash=-|: uppste den ton blanko?
+dj_turrican [LDC]: hmmm.... kann ich machen
+|-=Flash=-|: Du bisn schatz *knuuuuuuuuutsch*
+dj_turrican [LDC]: ton cd1 werde ich aber schon fertig bekommen wenn ich cd1 dubbe während cd2 noch aufnimmt...... das heisst ne geht nicht. oder..... doch hab ja 2 rechner muss nur das netzwerk bis dahin zum laufen bekomemen fuck win xp
+|-=Flash=-|: dann willste 2cds gleichzeitig dubben?
+dj_turrican [LDC]: ne eine nach der anderen. das problem ist das ich nicht gleichzeitig dubben und aufnehmen kann weil ich die line känale frei haben muss. eine cd aufnhemen auf den ersten rechner dann die zweite cd auf den zweiten rechner aufnehmen während ich die erste dubbe
+|-=Flash=-|: Das wäre ne idee dann sparste zeit =)
+|-=Flash=-|: und wir gewinnen
+dj_turrican [LDC]: hrhrhr... ich will gerade win2k auf dem zweiten rechner istallieren das lässt aber winxp nicht zu :(
+dj_turrican [LDC]: ich brauch ne bootfähige cd mein floppy im alten rechner ist hinüber.
+dj_turrican [LDC]: was ist jetzt eigentlich mit hdr2, kam der dvd screner nun?
+|-=Flash=-|: nope=(
+dj_turrican [LDC]: sag mal binich denn im richtigen channel?
+|-=Flash=-|: nee da sind nur die nutte natürlich
+|-=Flash=-|: [22:52] > joins: Turrican (Turrican@pD95196B6.dip.t-dialin.net)
+dj_turrican [LDC]: wer sind denn der haufen leute da? oich schnall ab
+|-=Flash=-|: das meiste sind bots
+|-=Flash=-|: die mit @ davor
+|-=Flash=-|: soa für mich sit schluss
+|-=Flash=-|: ich muss ins bett
+dj_turrican [LDC]: okay dann schlaf mal gut.  
+n8
+|-=Flash=-|: Joap bis morgen ich meld mich
+dj_turrican [LDC]: aber nur mit guten nachrichten, schlechte werde ich besrtimmt genug haben, ist ja wieder arbeit angesagt :(
+dj_turrican [LDC]: hrhrhr... flash wieso haste mir die leute net schon früher vorgestellt? ich hatte richtig spaß *gg* vorallem lownoise fand ich zum brüllen koimsch. 
+schade das du nicht da warst. 
+ 
+n8
+*** dj_turrican [LDC] signed off at Tue Jan 07 01:12:33 2003.
+|-=Flash=-|: echtb site zufrieden mit den jungz?
+Session Close (dj_turrican [LDC]): Tue Jan 07 06:47:28 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Jan 07 07:39:22 2003
+dj_turrican [LDC]: jau denke wir werden uns verstehen und gegen den ruhigen geist also lownoise weiss ich mich zu wehren *gg* wird bestimmt lustig für alle.
+*** dj_turrican [LDC] signed off at Tue Jan 07 07:39:26 2003.
+*** dj_turrican [LDC] signed on at Tue Jan 07 07:39:34 2003.
+dj_turrican [LDC]: hast du eigentlich i spy komplett gezogen? ich lass meine ftp mal an falls net, muss nun zur arbeit. 
+ 
+c.u. 
+
+*** dj_turrican [LDC] signed off at Tue Jan 07 07:40:57 2003.
+*** You have been disconnected. Tue Jan 07 09:32:42 2003.
+*** You have been disconnected. Tue Jan 07 09:36:38 2003.
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Jan 26 19:07:49 2003
+|-=Flash=-|: hiho
+dj_turrican [LDC]: ja wie du bist wieder online?
+|-=Flash=-|: Joap modem lag schon 4tage hier :P
+dj_turrican [LDC]: kannste noch ne halbe stunde warten? ich muss noch was fertig machen
+|-=Flash=-|: joap ich warte
+Session Close (dj_turrican [LDC]): Sun Jan 26 19:26:17 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Jan 26 20:13:24 2003
+dj_turrican [LDC]: so endlich, war noch bei meinen eltern da ging der herd nicht. scheisse wenn man elektriker gelernt hat da kommen sie alle zu dir *gg*
+|-=Flash=-|: Hrhr =)
+dj_turrican [LDC]: so komm jetzt erzähl.
+|-=Flash=-|: Was soll ich erzählen
+dj_turrican [LDC]: hast vielleicht jemanden kennen gelernt?
+|-=Flash=-|: status server internet irc:tot da bin ich bei 0 status priv leben:super perfekt
+dj_turrican [LDC]: es war echt so arschlangweilig hier ohne dich
+dj_turrican [LDC]: klingt doch gut
+|-=Flash=-|: joap freitag abend
+|-=Flash=-|: eine kennengelernt die hat nen freund
+|-=Flash=-|: aber montag mit ihrem besten kumpek mal reden
+|-=Flash=-|: sieht net schlecht aus =)
+dj_turrican [LDC]: hrhrhr
+dj_turrican [LDC]: du schlingel
+|-=Flash=-|: die hat nen zungenpiercing sowas wollte ich schon immer mal
+dj_turrican [LDC]: echt? 
+dj_turrican [LDC]: hammer
+|-=Flash=-|: Joap
+|-=Flash=-|: ich will mal so eine
+|-=Flash=-|: und glaub mal
+|-=Flash=-|: das modem stand hier 5tage rum
+|-=Flash=-|: aber psst
+|-=Flash=-|: mep und alle sind eh sauer ich habe gesagt ichw ar krank=)
+dj_turrican [LDC]: ich könnte sowas nicht brauchen, zungenpiercing.... wenn die mal zu hastig ist bleibt es an der nudel hängen *gg*
+dj_turrican [LDC]: von mir erfährt keiner was, hab ja gesagt geniesse es echt so lange es geht
+dj_turrican [LDC]: haste ghost ship schon gesehen?
+|-=Flash=-|: na son zungenpiercing hrhrh nee keine zeit war on tour =)))
+dj_turrican [LDC]: und du nen schönen intimschmuck dann geht es dir wie in "supersüß und supersexy" *gröhl*
+|-=Flash=-|: LÖÖÖL
+dj_turrican [LDC]: ghost ship war echt geil. war aber im kino voll entäuscht da war echt alles geschnitten.
+dj_turrican [LDC]: aber ich hab den schon hinbekommen das merkt kein mensch das da ein anderer ton drin ist und absolut perfekt syncron.
+dj_turrican [LDC]: aber der weg war ja so geil......
+dj_turrican [LDC]: autobahn ganz brav gefahren und mein auto spielt känguruh mit mir
+dj_turrican [LDC]: gibt gas geht runter gibt gas geht runter und das die ganze zeit
+dj_turrican [LDC]: nächste abfahrt runter nachgesehen nichts gefunden also ab in die werkstatt zu nem kumpel
+dj_turrican [LDC]: das sah so aus als wäre ich anfänger das auto hat sowas von gewackelt in den ersten 3 gängen
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: und an der ampel haben alle gedacht ich will rennen fahren weil ich so mit dem gas gespielt habe, was aber nicht ich war das kam ja vom auto
+dj_turrican [LDC]: und das allerbeste... fahr bei meinem kumpel in den hof rein und auf einmal geht alles wieder.
+dj_turrican [LDC]: der hat gefragt ob ich ihn verarschen würde
+|-=Flash=-|: LÖL
+|-=Flash=-|: wann wars freitag
+|-=Flash=-|: inne stadt malw ieder mitm mottorad
+|-=Flash=-|: duw eiß ja straßenbahn nur im schritttempo überholen
+dj_turrican [LDC]: jau kenn ich 
+dj_turrican [LDC]: aber macht keiner
+|-=Flash=-|: auf jeden
+|-=Flash=-|: wir schön so
+|-=Flash=-|: malw ieder moped fahren
+|-=Flash=-|: mit 80 inne stadt
+|-=Flash=-|: überhole mit 50die bahn
+|-=Flash=-|: schau mich um
+|-=Flash=-|: hinter der bahn stehen die bullen
+|-=Flash=-|: und blitzen
+|-=Flash=-|: =)
+dj_turrican [LDC]: lol
+dj_turrican [LDC]: mich hats gestern auch erwischt
+dj_turrican [LDC]: aber sag mal.... moped..... wie schnell fährt so ein ding normalerweise hrhrhr
+|-=Flash=-|: 80
+|-=Flash=-|: =)
+|-=Flash=-|: darf die fahren
+dj_turrican [LDC]: achso dann meinst du so ne 80ccm und kein moped
+|-=Flash=-|: 125ccm
+dj_turrican [LDC]: die dinger können schon ganz schön geil sein mein kumpel hat auch so eine bloß 125ccm
+dj_turrican [LDC]: ah du auch *gg*
+|-=Flash=-|: Joap=)
+|-=Flash=-|: meinste ich soll die nehmen
+|-=Flash=-|: die auf mich steht
+|-=Flash=-|: aber größer ist als ich
+|-=Flash=-|: zwar total schlank
+|-=Flash=-|: aber breites kreuz
+dj_turrican [LDC]: hmmm guter vorbau?
+dj_turrican [LDC]: wenn sie nicht zu kurze haare hat dann nimm sie 
+dj_turrican [LDC]: aber mal ernst spielt das denn so ne große rolle wenn du sie nett findest?
+|-=Flash=-|: Naja
+|-=Flash=-|: die ist ziemlich cool drauf
+|-=Flash=-|: ^^
+dj_turrican [LDC]: na also.... sowas würde mir mehr bedeuten als ne modellfigur
+dj_turrican [LDC]: okay etwas aufs aussehen achtet macn schon
+|-=Flash=-|: aufs image :P
+dj_turrican [LDC]: genau
+dj_turrican [LDC]: hauptsache man versteht sich super und sie hat eine ansehliche figur
+|-=Flash=-|: joap das geht =)
+|-=Flash=-|: ey ich habe soviele mädelz kennengelernt
+|-=Flash=-|: soviel gefeiert
+|-=Flash=-|: freitag war 99cent party hammer gail
+|-=Flash=-|: nur frauen
+|-=Flash=-|: nachts um 4war ich zu hause
+dj_turrican [LDC]: hab schon genug so zicken gehabt die aussehen wie ein wunschmodell.... die betonung liegt ja auf zicken die denken alle die wären was besseres nur weil sie gerade mal 50kg wiegen *gg*
+|-=Flash=-|: um halb 2 sollte ich da sein=)
+dj_turrican [LDC]: hrhr... hats jemand gemerkt?
+|-=Flash=-|: nöö=)
+dj_turrican [LDC]: also dann ist ja okay
+dj_turrican [LDC]: hier schau mal 
+(Link: http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&category=2228&item=2906723491&rd=1 )http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&category=2228&item=2906723491&rd=1 
+bin am freitag nen haufen geld los geworden :(
+|-=Flash=-|: na haste es ja doch billiger bekommen
+dj_turrican [LDC]: ja aber es schmerzt
+dj_turrican [LDC]: gerade jetzt
+dj_turrican [LDC]: aber es war ja wochenende... meine liebste hat mich schon auf gute gedanken gebracht
+dj_turrican [LDC]: :-D
+|-=Flash=-|: hrhr gut =)
+|-=Flash=-|: wenn ich ficke rufe ich dich dann gleich an :P
+dj_turrican [LDC]: öhm was..... löl
+dj_turrican [LDC]: du machst die stimmung kaputt 
+|-=Flash=-|: löl wieso?
+dj_turrican [LDC]: aber ich hab da so einen.... jedesmal wenn ich zur sache gehe klingelt das telefon.
+dj_turrican [LDC]: echt immer dann sonst ist ruhe
+dj_turrican [LDC]: und ich hab ja 3 telefone hier stehen die klingeln dann immere alle abwechselnd.
+dj_turrican [LDC]: ich muss mal nen schwarzen abseilen. es drückt
+|-=Flash=-|: löl
+|-=Flash=-|: nene bob in die bahn schißen
+dj_turrican [LDC]: hrhr... jau gefällt mir auch. bloß hatte der bob  ne lange bahn gehabt *löl*
+|-=Flash=-|: löl
+dj_turrican [LDC]: wie sieht den nun die zukunft aus? wirste wieder in der filmszene mitmischen oder willste mal etwas ruhiger angehen?
+dj_turrican [LDC]: würde mir net gefallen wenn du wieder die ganze zeit am pc hockst *peitsch*
+|-=Flash=-|: nee ich sicher mir gerade nen leech axx =)
+|-=Flash=-|: und dann will ich scule
+|-=Flash=-|: und frauen konzentrieren
+dj_turrican [LDC]: jau recht so. 
+dj_turrican [LDC]: ich würde es auch nicht anders machen
+dj_turrican [LDC]: naja mehr frauen als schule halt *gg*
+dj_turrican [LDC]: da ich ja nur eine hab bleibt ja nicht mehr viel *gröhl*
+dj_turrican [LDC]: muss ja nächste woche auf ne andere schule für den praktischen teil. hab mal verscuht den weg zu finden. ach du scheisse ist das kompliziert. mitten durch ne großstadt da ist stau vorprogrammiert und die einzigen parkplätze an der schule sind bei ner dönerbude.
+dj_turrican [LDC]: ob ich da echt mein auto parken will.,.. nö lieber nicht irgendwo wird sich schon was finden
+|-=Flash=-|: LÖL
+|-=Flash=-|: du bisn freak
+dj_turrican [LDC]: mit der bahn geh ich da auch net hin in der gegend wo die bahn hält musste ja angst haben du bekommst ein messer in den rücken :(
+|-=Flash=-|: uii übwel
+dj_turrican [LDC]: da ist voll das ghetto
+dj_turrican [LDC]: wie gefängniss kannste sagenb
+dj_turrican [LDC]: aber ich hab ja nur ein jahr 
+dj_turrican [LDC]: auf bewährung bin ja nicht jeden tag da *löl*
+|-=Flash=-|: LÖÖÖÖÖÖÖÖÖÖL
+dj_turrican [LDC]: muss da mal ein foto schiessen ist zu uhrig. überall ghettobuden die fast zusammenfallen und in der mitte steht ein hochmodernes schulzentrum
+dj_turrican [LDC]: ohne parpklätze.... vielleicht steht ja ein aldi in der nähe *gg*
+dj_turrican [LDC]: sag mal wirst du mir noch englishe source besorgen oder eher nicht mehr?
+|-=Flash=-|: LÖL ich mache mal nen foto von unserer neuen disco hier
+|-=Flash=-|: alten die ist hammer
+|-=Flash=-|: doch kann ich machen klaro bist doch mein schatz
+dj_turrican [LDC]: jau mach mal ich mach mal eins vom perkins park bei uns. kennste die disko?
+dj_turrican [LDC]: ist ein riesending der angesagteste club in der ganzen gegend und drum herum
+|-=Flash=-|: nee kenne ich net
+|-=Flash=-|: hmm sag mal wo bekommst du immer deine mp3s her 0)?
+dj_turrican [LDC]: winmx
+dj_turrican [LDC]: nettes proggi
+dj_turrican [LDC]: (Link: http://www.winmx.com/)http://www.winmx.com/
+|-=Flash=-|: ich geh auch mal kaggen
+dj_turrican [LDC]: jau mach ne neue bestzeit
+dj_turrican [LDC]: (Link: http://www.perkins-park.de/ )http://www.perkins-park.de/ 
+da geh ich öfters mal hin
+|-=Flash=-|: bestzeit
+dj_turrican [LDC]: löl
+|-=Flash=-|: sieht net sclecht aus
+dj_turrican [LDC]: die black nights sind geil und die frutten auch
+dj_turrican [LDC]: aber da darf ich ja net schauen
+|-=Flash=-|: ich aber
+|-=Flash=-|: ^^
+dj_turrican [LDC]: geh halt ab und zu hin weil ich da früher aufgelegt habe
+|-=Flash=-|: (Link: http://www.velvet-bs.de/start/html/index.htm)http://www.velvet-bs.de/start/html/index.htm
+|-=Flash=-|: da gehe ich meistens hin
+dj_turrican [LDC]: hier noch ein link von mir da bin ich auch sehr gerne letztens war djtomek da ging fett ab
+|-=Flash=-|: echt da will ich dann auch mal hin
+dj_turrican [LDC]: schau mal auf palazzo und da auf die bilder
+dj_turrican [LDC]: die schaumpartys kommen so geil
+dj_turrican [LDC]: (Link: http://www.dancing-park.com/WihPhoto/main.php?mode=view&album=30_8_02schaumparty&pic=IMG_0943.JPG&dispsize=640&start=0)http://www.dancing-park.com/WihPhoto/main.php?mode=view&album=30_8_02schaumparty&pic=IMG_0943.JPG&dispsize=640&start=0
+dj_turrican [LDC]: oder das hier damit du siehst wie es nach 2 uhr abgeht *gg* 
+(Link: http://www.dancing-park.com/WihPhoto/main.php?mode=view&album=30_8_02schaumparty&pic=IMG_0987.JPG&dispsize=640&start=40)http://www.dancing-park.com/WihPhoto/main.php?mode=view&album=30_8_02schaumparty&pic=IMG_0987.JPG&dispsize=640&start=40
+|-=Flash=-|: hihih
+|-=Flash=-|: ich will eine mit nem zungepiercing =)
+|-=Flash=-|: schick mir mal eine =)
+dj_turrican [LDC]: löl... mal schauen 
+|-=Flash=-|: ich finde das irgendwie sexy
+|-=Flash=-|: als die da freitag abend neben mir stand
+|-=Flash=-|: und damit  rumgespielt habe
+|-=Flash=-|: bin ich ja end gail geworden
+dj_turrican [LDC]: uiii.... versteh ich voll und ganz *g*
+|-=Flash=-|: die hätte ich am liebsten besprungen
+|-=Flash=-|: außerdem war die gut drauf
+|-=Flash=-|: ich box ihren freund glaubsch weg
+|-=Flash=-|: aber der war ja da zum glück net mit
+|-=Flash=-|: ^^
+dj_turrican [LDC]: musst ihrne kerl halt bei seite schaffen damit du den weg frei hast
+|-=Flash=-|: (Link: http://www.jolly-joker.de/index2.php?look=html&what=__03.02.2003_BIZARRE_MONDAY__)http://www.jolly-joker.de/index2.php?look=html&what=__03.02.2003_BIZARRE_MONDAY__ die disco ist auch gut
+dj_turrican [LDC]: aber metall ist halt geschmackssache.
+|-=Flash=-|: da gehe ich ja auch net hin
+|-=Flash=-|: ^^
+dj_turrican [LDC]: hier arbeitet ne freundin von mir 
+(Link: http://www.big-calw.de/events_big.html)http://www.big-calw.de/events_big.html
+dj_turrican [LDC]: also sieh ist an der garderobe net bei den nackten *gg*
+dj_turrican [LDC]: aber wenn ich dienstags zeit habe immer wieder gerne hrhrhr
+|-=Flash=-|: da ist das publikum zu alt
+dj_turrican [LDC]: geht so alle ende 20 anfang 30
+dj_turrican [LDC]: löl
+|-=Flash=-|: joap
+|-=Flash=-|: zu alt
+|-=Flash=-|: ^^
+|-=Flash=-|: für mich
+dj_turrican [LDC]: das pallazzo wäre schon was für dich die sind in deinem alter
+|-=Flash=-|: uhh freitag habe ich
+|-=Flash=-|: eine kennengelert so
+|-=Flash=-|: knapp 1.60 groß
+|-=Flash=-|: und dann son top das unter den titten aufgehört hta
+dj_turrican [LDC]: lechz
+dj_turrican [LDC]: und was ist draus geworden?
+|-=Flash=-|: und dann vol die gaile figur
+|-=Flash=-|: nur unterhalten
+|-=Flash=-|: sie musste nach hause
+dj_turrican [LDC]: tja bei ner alten wäre dir das net passiert die dürfen auch länger bleiben
+dj_turrican [LDC]: löl
+|-=Flash=-|: löl
+|-=Flash=-|: ich hatte mal ne 21jährige
+|-=Flash=-|: also rumgemacht
+|-=Flash=-|: das ist auch net soa gail
+dj_turrican [LDC]: na komm so alt ist das auch net
+|-=Flash=-|: aber najo=)
+|-=Flash=-|: gailer ist es auch net
+dj_turrican [LDC]: erwachsener halt. bei manchen denkste echt du hast da so ein kindergartenkind abgeschlept
+|-=Flash=-|: joap ^^
+dj_turrican [LDC]: denkste du kannst mir auch nen leechz besorgen?
+|-=Flash=-|: joap bestimmt
+|-=Flash=-|: mal reden
+dj_turrican [LDC]: ab und an halt mal was oder du flasht mir halt was wenn es mal was gibt
+dj_turrican [LDC]: heisst ja auch flash das passt schon *gg*
+|-=Flash=-|: hrhr
+|-=Flash=-|: ich will nur catch me if you can
+dj_turrican [LDC]: wieso denn?
+|-=Flash=-|: der muss hammer gail sein
+dj_turrican [LDC]: meine frau will denn auch sehen ich bekomme bei leonardo das kotzen *gg*
+|-=Flash=-|: machste nen ts von anatomie
+dj_turrican [LDC]: ne mit camera geht da gar nichts mehr. und video gibt es ja keins da es ne deutshce produktion ist
+dj_turrican [LDC]: werde denn wohl im normalen kino ansehen mit frau zusammen. 
+|-=Flash=-|: hmm shit
+dj_turrican [LDC]: evtl macht ja acp was
+dj_turrican [LDC]: obwohl.... ziemlich sicher sogar
+|-=Flash=-|: ach diese farblosen ts
+dj_turrican [LDC]: da könnte ich dann was machen
+|-=Flash=-|: die sind immer so schlecht
+dj_turrican [LDC]: aber wie gesagt erstmal was haben zum arbeiten
+dj_turrican [LDC]: gibt es catch me if you can eigentlich schon?
+|-=Flash=-|: ne eng source bestimmt
+|-=Flash=-|: ich möchte ja mal wissen wo acp oder tgsc ton her bekommt
+dj_turrican [LDC]: genauso wie ich bloß halt am kinopult
+|-=Flash=-|: joap
+|-=Flash=-|: aber welche kinos
+dj_turrican [LDC]: technisch gesehen könnte es jedes sein. 
+dj_turrican [LDC]: aber welches kino es wirklich ist das wird keiner wissen. wäre auch zu gefährlich
+|-=Flash=-|: bin mal gespannt wenn einer bis montag-dienstag catch me if you can macht
+|-=Flash=-|: dann weißte das einer in berlin ist =)
+dj_turrican [LDC]: hrhrhr
+dj_turrican [LDC]: wenn der bis dahin kommt schick in mir sonst muss ich mir das antun und ins kino gehen um den ton zu holen. ich will nicht *heul*
+dj_turrican [LDC]: naja eigentlich fehlt die zeit. am freitag muss ich ja früh in die neue schule und am samstag ist familienfeier :(
+dj_turrican [LDC]: boah hab ich da nen bcok drauf
+|-=Flash=-|: der kommt eh am freitag oder soa
+|-=Flash=-|: acp rul0rt ja atm mal wieder
+|-=Flash=-|: was die alles gepreet haben
+dj_turrican [LDC]: klar, aber das ist nur kurzzeitig irgendwann mischt tgsc wieder mit oder ne ganz neue crew
+|-=Flash=-|: tgsc
+|-=Flash=-|: kommt zum februar
+|-=Flash=-|: habsch gehört
+dj_turrican [LDC]: acp hat ja bald eh keine chance mehr ihre eigenen videoaufnahmen zu machen. es wurde ne neue abspieltechnik entwickelt die das screenern unmöglich machen soll
+dj_turrican [LDC]: na dann lassen wir uns mal überaschen ist ja bald februar
+|-=Flash=-|: joap
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ich freu mich ja auf terminator3 und matrix 2
+|-=Flash=-|: erstmal auf catch me nur und dann mals chauen matrix auch auf jeden
+dj_turrican [LDC]: und herr der ringe 3 ein absolutes muss
+dj_turrican [LDC]: bei mir ist ja im februar etwas ruhe angesagt. der ring boat trip und national security ansonsten ist net viel zu tun
+|-=Flash=-|: ich habe nur noch ne 10mbit muxxline
+dj_turrican [LDC]: naja für den anfang muss es reichen. bis der eine endlich seine probezeit geschafft hat
+dj_turrican [LDC]: solange machen wir halt nur svcd und so ein zeug
+dj_turrican [LDC]: ghost ship würde ich ja fast propern. mein ton ist so genial geil geworden.... aber da warten wir mal auf nen richtigen dvd rip
+dj_turrican [LDC]: wird ja bald soweit sein
+|-=Flash=-|: hrhr
+|-=Flash=-|: acp rul0rt wieder
+|-=Flash=-|: ich glaube 4moviez
+|-=Flash=-|: diese woche oder 5
+dj_turrican [LDC]: wie in einer woche?
+|-=Flash=-|: joap
+|-=Flash=-|: die haben kletter ida
+|-=Flash=-|: ghost ship
+|-=Flash=-|: ein mann umstanedhalber abzugeben
+|-=Flash=-|: full time killer
+|-=Flash=-|: 4
+dj_turrican [LDC]: die säcke
+|-=Flash=-|: warens
+|-=Flash=-|: da würd ich mal sagen das das net schlecht war
+|-=Flash=-|: ach ja
+|-=Flash=-|: my big fat greek wedding+
+|-=Flash=-|: haben die noch gemacht
+dj_turrican [LDC]: ich find garnichts von dem full time killer um was gehts da
+|-=Flash=-|: kinostart ist verscoben
+|-=Flash=-|: ist son japsen film oder soa
+|-=Flash=-|: irgendwie um son kerl derl eute umbringt usw
+dj_turrican [LDC]: jau hab gerade was gefunden 
+(Link: http://www.kinonews.de/index.php/article_4617/contractor_2)http://www.kinonews.de/index.php/article_4617/contractor_2
+|-=Flash=-|: joap
+|-=Flash=-|: 30.1 jetzt wohl doch
+dj_turrican [LDC]: ansonsten ist die nächsten wochen ja nichts besonderes im kino
+|-=Flash=-|: wenn acp wieder 5 sneaks bringt
+|-=Flash=-|: es war ja alles eher außer ghost ship
+dj_turrican [LDC]: wan kam der denn genau
+|-=Flash=-|: wer
+|-=Flash=-|: das kam alles um den 19-21 rum
+dj_turrican [LDC]: ich war freitag früh fertig mit ghost ship
+|-=Flash=-|: der kam
+dj_turrican [LDC]: und wann hatte acp den fertig?
+|-=Flash=-|: glaubsch
+|-=Flash=-|: freitag mittag
+dj_turrican [LDC]: schade
+dj_turrican [LDC]: da wäre man einmal erster und niemand ist da *ggg*
+|-=Flash=-|: *gähn*
+dj_turrican [LDC]: hrhrhr schon wieder zu lange am pc was?
+|-=Flash=-|: voll ungewohnt
+|-=Flash=-|: frische luft macht müde
+dj_turrican [LDC]: hrhrhr
+|-=Flash=-|: außerdem tun mir die augen weh
+|-=Flash=-|: echt voll ungewohnt
+dj_turrican [LDC]: geh mal ins bett sonst wirste nur wieder pc süchtig
+|-=Flash=-|: na noch ist bissle früh
+dj_turrican [LDC]: dann leg dich in ruhe vor die klotze werd ich nun auch noch tun
+|-=Flash=-|: Gut das wäre auch ne maßnahme wenn du jetzt gehst
+dj_turrican [LDC]: will dich ja nicht ewig an die kiste binden *gg*
+dj_turrican [LDC]: wünsch dir viel spaß mein dickerchen und übertreib es nicht okay.
+|-=Flash=-|: Du bindest mich net dran =)
+|-=Flash=-|: mein schatzichen =) du halbe portion :P
+dj_turrican [LDC]: aber mir fällt es so schwer dich los zu lasssen *gg*
+|-=Flash=-|: das beruht auf gegeseitigkeit
+|-=Flash=-|: uii gerade kam ne vorschau von the ring
+|-=Flash=-|: alten hammer film
+dj_turrican [LDC]: net schlecht ja da geh ich dann auch hin
+dj_turrican [LDC]: gibt ja nen dvd screener
+|-=Flash=-|: ich überleg ob ich mir dne mal auf eng anschauen
+|-=Flash=-|: der sah ehct gut aus
+dj_turrican [LDC]: so ich geh dann mal. noch ein wneig was essen und in die klotze schauen. 
+süße traume wünsch ich dir mein dickerchen, schön das du wieder da bist. 
+ 
+n8
+|-=Flash=-|: Joap danke danke schlaf gut hasi =)
+Session Close (dj_turrican [LDC]): Sun Jan 26 22:36:48 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Mon Jan 27 21:40:26 2003
+|-=Flash=-|: pufii
+dj_turrican [LDC]: na du nase
+|-=Flash=-|: na du alter hase?
+dj_turrican [LDC]: hrhrhr ja alt das trifft es du junger spunt
+|-=Flash=-|: Joap sicher
+dj_turrican [LDC]: ich fühl mich heute als wäre ich unter den bus gekommen, will nur noch schlafen
+dj_turrican [LDC]: montag eben
+dj_turrican [LDC]: immer das gleiche
+|-=Flash=-|: hrhr najo bei mir gehts
+dj_turrican [LDC]: was treibst du denn eigentlich schon wieder die ganze zeit am pc?
+|-=Flash=-|: ist doch 21.45 da macht keiner mehr was =(
+dj_turrican [LDC]: hrhrhr tja die jungen leute eben
+|-=Flash=-|: joap leider
+dj_turrican [LDC]: komm in mein alter dann biste froh wenn du mal nen ruhigen abend hast
+dj_turrican [LDC]: mensch so alt bin ich doch noch garnicht wie rede ich denn
+dj_turrican [LDC]: könnte man denken ich gehe schon am stock
+|-=Flash=-|: joap
+|-=Flash=-|: soa mitte 30
+|-=Flash=-|: :P
+dj_turrican [LDC]: haha
+dj_turrican [LDC]: und mit 40 im rollstuihl
+dj_turrican [LDC]: aber nen tiefergelegten wenn schon
+|-=Flash=-|: joap klaro =)))
+dj_turrican [LDC]: und fettes offenrohr hinten dran *gg*
+dj_turrican [LDC]: ich werde der erste opa auf der autobahn *gröhl*
+dj_turrican [LDC]: gibts sonst was neues?
+|-=Flash=-|: Nee irgendwie net viel
+dj_turrican [LDC]: dann  gibts schon keinen streß
+|-=Flash=-|: probieren wir spy kids zu machen und catch me
+dj_turrican [LDC]: spy kids hab ich nichts und catch me.... willst du mir das echt antun
+dj_turrican [LDC]: :-D
+|-=Flash=-|: hmm antun net aber
+|-=Flash=-|: hmm wenn du net willst
+|-=Flash=-|: auch oke
+dj_turrican [LDC]: ich würde sofort wen ich wüsste ich hab ne chance gegen acp
+dj_turrican [LDC]: aber so wie es aussieht werden die juden wohl wieder zuerst dran sein. die haben einfach 24 stunden mehr zeit als ich :(
+|-=Flash=-|: hmm
+|-=Flash=-|: ich habe wie gesagt nur 10mbit muxx line
+dj_turrican [LDC]: an der line wird es nicht liegen. eher daran das acp bereits fertig ist bis ich zum uppen komme
+dj_turrican [LDC]: nen release für dich alleine kannste ja gerne haben allerdings erst am sonntag dann weil ich ab donnerstag nicht mehr zu ereichen bin.
+|-=Flash=-|: ka kann ich dir net sagen
+|-=Flash=-|: bei ghost ship haben sie ja auch verkaggt
+dj_turrican [LDC]: jau weil alles geschnitten war im deutschen kino
+dj_turrican [LDC]: war echt ne sauerei was da alles gefehlt hat
+|-=Flash=-|: naja
+|-=Flash=-|: aber die idis 
+|-=Flash=-|: hatten das uncut bild
+|-=Flash=-|: und ton wieder 24h eher
+|-=Flash=-|: das könnten wir maybe schaffen
+dj_turrican [LDC]: schauen wir mal wenn es soweit ist. müsste es halt am laptop machen weil ich nicht zu hause bin und mein bruder soll dir den ton schicken
+|-=Flash=-|: wann hättenwir dann den ton
+dj_turrican [LDC]: kennst das spiel ja... wie immer erst donnerstga
+dj_turrican [LDC]: aber steigere dich mal net so wild rein mein bester, du wolltest es doch ruhig angehen fällt mir gerade ein *löl*
+|-=Flash=-|: ich gebe das dann nur weiter und mache niox =)
+|-=Flash=-|: najo donnerstag nacht dann wieder oder?
+dj_turrican [LDC]: hrhrhr lässt dir mep keine ruhe oder wie?
+dj_turrican [LDC]: donnerstag nacht bis freitag mittag kommt drauf an der laptop ist nur ein 500mhz
+|-=Flash=-|: Naa ich habe ja was gutzumachen=)
+dj_turrican [LDC]: du? wieso das denn?
+|-=Flash=-|: na donnerstag nacht :P dann geht der zum muxxer den rest könnend ie machen =)
+|-=Flash=-|: na ist ja eigentlich meinecrew und er hat alles gemacht
+dj_turrican [LDC]: also eigentlich hab ich ja angefangen mit hqm du hast es nur ausgebaut *gg*
+dj_turrican [LDC]: und mep schmeist den laden *löl
+dj_turrican [LDC]: wer soll da noch durchblicken
+dj_turrican [LDC]: :-D
+|-=Flash=-|: Hrhr keiner mehr
+dj_turrican [LDC]: denke irgendwann erklärt man uns für bekloppt
+|-=Flash=-|: Joap
+dj_turrican [LDC]: haste schon nen dvd screener oder so von star treck? sollte ja nun bald was kommen.
+dj_turrican [LDC]: english versteht sich ja.
+|-=Flash=-|: Hmm niox gesehen
+|-=Flash=-|: und niox gehört
+dj_turrican [LDC]: hab hier noch ton von  
+i spy 
+nemesis 
+ghost ship 
+reine nervensache 
+und noch 3 andere aber frag net was nochmal
+dj_turrican [LDC]: auf jedenfall kann man die alle noch propern
+|-=Flash=-|: i spy haben wir fertig gemecht
+|-=Flash=-|: reine nervensache 2 mal schauen
+|-=Flash=-|: ich will ja nur catch me
+dj_turrican [LDC]: nemesis auf jedenfall und ne dvd-r dann von ghost ship aber diesmal ohne einblendungen
+|-=Flash=-|: Joap
+|-=Flash=-|: dann kannste schonmal den ton auseinander ziehen=)
+dj_turrican [LDC]: wenn es soweit ist *gg*
+|-=Flash=-|: du machst mir nen ts von anatomie 2 =))!
+dj_turrican [LDC]: nein ist mir zu heiss, ich hänge an meiner freiheit. ton ja aber kein video.
+|-=Flash=-|: hum scheiß acp kagge wieder
+dj_turrican [LDC]: die zeiten sind vorbei wo ich mit der kamera einfach rumstehen konnte heute wird der platz bei jeder vorstellung kontrolliert und die autos auch.
+dj_turrican [LDC]: die tun ja grad so als würde man das zeug übers internet verteilen *gröhllll*
+|-=Flash=-|: *vomstuhlvorlachenfall*
+dj_turrican [LDC]: hab ich schon erzählt bei uns in der nähe war am samstag glaube ich "wetten das" in der halle. das hätteste sehen sollen was da los war in der stadt ich dachte ich schnall ab.
+|-=Flash=-|: Joap in irgendwas mit böplingen oder sowas
+dj_turrican [LDC]: und das übelste..... ich mag doch die superstars doch so das ich kotzen könnte die ganze zeit. ich arme sau stand ganz vorne vor nem polizeiwagen und frag mich wieso geht es denn net weiter und da kommen die affen im schrittempo vorbei geschlichen und blockieren die ganze strasse. als die weg waren sind lauter hysterische blondis auf der strasse rumgerannt ich hab nur noch gekotzt.
+dj_turrican [LDC]: vorallem als ich das gesicht der bisexuellen sau da gesehen habe
+dj_turrican [LDC]: ich sags dir... live sieht der noch viel schlimmer aus als in der bildzeitung
+dj_turrican [LDC]: und ich konnte nicht mal was gegen machen, ich stand ja im stau
+dj_turrican [LDC]: musste mir das ansehen, meine augen tun immer noch weg
+dj_turrican [LDC]: weh
+dj_turrican [LDC]: ich wusste im übrigen nichts von was da los war mit "wetten das" ich wollte nur ne pizza essen gehen *löl*
+|-=Flash=-|: LÖÖÖL
+|-=Flash=-|: ich wäre ausgestiegen
+|-=Flash=-|: und hätte diese dumme schwule sau
+|-=Flash=-|: so richtig umgeschlag
+|-=Flash=-|: oder wenn der am auto vorbeigeht so plötzlich die tür auf
+dj_turrican [LDC]: au was glaubst du wie es mich gejuckt hat *gg*s
+dj_turrican [LDC]: jau genau aber so richtig mit schmackes und beim aussteigen gleich noch ein stück weiter gröhlll... schau mal pro7
+|-=Flash=-|: joap
+|-=Flash=-|: eurogay
+dj_turrican [LDC]: stefan raab macht sich über die homosau lustig
+|-=Flash=-|: BAH!
+|-=Flash=-|: Joap richtig soa
+dj_turrican [LDC]: jau gay :-D
+dj_turrican [LDC]: das trifft es..... der hat ein gesicht wie ein mokasin.... reintretten und sich wohlfühlen *gg*
+dj_turrican [LDC]: am besten mit gummistifeln und stahlkappen
+|-=Flash=-|: der hat gesicht wie die 24stunden von le mans man möchte 24stunde reintreten
+dj_turrican [LDC]: gröhl.... der ist auch gut
+|-=Flash=-|: Joap
+|-=Flash=-|: oder nen gesicht wien feuermelder reinschlagen und wegrennen
+dj_turrican [LDC]: in stuttgart (ist ja auch net so weit weg von mir) gab es nen neuen entschluss, der ist zum lachen
+dj_turrican [LDC]: gröhlll... der ist besser
+dj_turrican [LDC]: also stuttgart. die tierschützer wollen das die ratten in der innenstadt rollschuhe bekommen. kannst du dir denken warum?
+dj_turrican [LDC]: die ratten sollen endlich mal wieder vor den türken an den mülltonnen sein :-D
+|-=Flash=-|: LÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖL
+dj_turrican [LDC]: scheiss werbung aber wenn ich überlege das die homosau nacher noch kommt werd ich wohl doch umschalten
+|-=Flash=-|: LÖL
+|-=Flash=-|: ^^
+dj_turrican [LDC]: wie wäre es mit etwas spaß..... such du mal ein bild von der sau und schick es mir ich such.... naja das zeig ich dir in ca 2 minuten *gg*
+dj_turrican [LDC]: am besten ne frontansicht
+|-=Flash=-|: LÖL
+dj_turrican [LDC]: lass dich von den wagen net täuschen die muke kam aus meinem golf *ggg*
+|-=Flash=-|: LÖL
+|-=Flash=-|: das war eh kagge
+|-=Flash=-|: scheiß techno
+|-=Flash=-|: =)
+|-=Flash=-|: verpiss dich damit
+|-=Flash=-|: :P
+dj_turrican [LDC]: war doch nur spaß
+|-=Flash=-|: Hoffe ich für dich *gröhl*
+|-=Flash=-|: ich shclage auch rentner
+|-=Flash=-|: *totttttttttttlach*
+dj_turrican [LDC]: boah war das hart
+|-=Flash=-|: joap i know
+|-=Flash=-|: ^^
+dj_turrican [LDC]: das läuft unter dem motto. scheisse da unten ist ja was was ich net kenn
+|-=Flash=-|: LÖL=)
+dj_turrican [LDC]: ist ünerhaupt angekommen?
+|-=Flash=-|: soa mein großer grummel bär ich lege mich mal hin schlaf gut gn8
+dj_turrican [LDC]: jau mach mal.  
+n8
+|-=Flash=-|: bah
+|-=Flash=-|: stop
+|-=Flash=-|: die schwuchtel
+|-=Flash=-|: box ihn weg
+dj_turrican [LDC]: warte mal hab da was
+dj_turrican [LDC]: öhm warte mal...... gröhlll das ist ja geil
+dj_turrican [LDC]: voll die verarsche
+dj_turrican [LDC]: :-D
+|-=Flash=-|: ist ja elten=)
+dj_turrican [LDC]: ist ja geil *gg*
+|-=Flash=-|: LÖÖÖÖÖÖÖÖL
+dj_turrican [LDC]: gröhllll
+dj_turrican [LDC]: willst mal was sehen?
+dj_turrican [LDC]: ich mach jetzt ne anti superstar seite auf wo ich die in den dreck ziehe. 
+hier mal nummer eins 
+(Link: http://mitglied.lycos.de/deejayturrican/fakes/verar1.jpg)http://mitglied.lycos.de/deejayturrican/fakes/verar1.jpg
+*** dj_turrican [LDC] signed off at Tue Jan 28 00:16:06 2003.
+*** You have been disconnected. Tue Jan 28 02:01:59 2003.
+*** You have been disconnected. Tue Jan 28 07:13:48 2003.
+*** You have been disconnected. Tue Jan 28 07:25:30 2003.
+*** You have been disconnected. Tue Jan 28 11:13:49 2003.
+Session Close (dj_turrican [LDC]): Tue Jan 28 17:46:21 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Jan 29 21:39:43 2003
+|-=Flash=-|: geh nach hause
+dj_turrican [LDC]: wo hin?
+|-=Flash=-|: hrhr zu mir =
+dj_turrican [LDC]: hrhr achso
+dj_turrican [LDC]: alles klar?
+|-=Flash=-|: joap klaro
+dj_turrican [LDC]: dann is ja klasse, ich für meinen teil gehöre ins bett, bin sowas von kaputt heute
+|-=Flash=-|: ich bin auch kaputt =)
+dj_turrican [LDC]: von was denn?
+|-=Flash=-|: vollyball
+dj_turrican [LDC]: so lange am pc gewesen *gg*
+|-=Flash=-|: habe gedacht ich mache mal sport
+|-=Flash=-|: ^
+dj_turrican [LDC]: willst wohl abnehmen *löl*
+|-=Flash=-|: löl net wirklich
+dj_turrican [LDC]: oder hast du ein auge auf bestimmte bälle geworfen
+|-=Flash=-|: war auf bestimmte bälle
+dj_turrican [LDC]: naja volleybälle oder..... naja andere bälle :-D
+|-=Flash=-|: andere^^
+dj_turrican [LDC]: hrhrhr
+dj_turrican [LDC]: gibts was neues an filmen?s
+|-=Flash=-|: hmm ich bekomme gerade das fliegende klassenzimmer
+|-=Flash=-|: nen acp member hat das verkauft
+|-=Flash=-|: und nun hat das wer anderes geuppt
+|-=Flash=-|: ^^
+dj_turrican [LDC]: verkauft?
+dj_turrican [LDC]: mensch die spinnen doch
+|-=Flash=-|: joap man
+dj_turrican [LDC]: aber gut die haben ja genug auswahl die ärsche :-D
+|-=Flash=-|: JOap die alten wix0r
+dj_turrican [LDC]: wenn es sie glücklich macht, irgendwann fickt die mal einer so richtig ab.
+dj_turrican [LDC]: spätestenst wenn sie mal als supllier jemanden von der bsa haben oder so.
+|-=Flash=-|: Joapd ann lache ich mich weg
+dj_turrican [LDC]: sollen sie tgsc auch gleich kassieren dann ist der weg frei für uns.
+|-=Flash=-|: LÖL=))
+dj_turrican [LDC]: mensch mir ist gerade echt so.... so scheisse. nur streß und arbeit und am samstag so ne scheiss familiendeier wo mich meine olle hinschlept :(
+|-=Flash=-|: hrhr sei froh das du ne olle und ne familie hast
+dj_turrican [LDC]: wenn du ne frau suchst dann nur zum ficken aber nicht für mehr sonst kotze ab glaub es mir.
+dj_turrican [LDC]: sonst gehts dir wie mir und du darfst auf geburtstagen auftauchen von leuten die du eigentlich garnet mal so richtig kennst und du glaubst das der veranstalter der sensenmann ist so langweilig ist es da.
+|-=Flash=-|: *gröhl*
+|-=Flash=-|: das geht ja gar net mehr
+dj_turrican [LDC]: doch doch es geht...... überall nur staub.
+dj_turrican [LDC]: das ist der unterschied zwischen uns beiden. du bist single wenn du eine willst kannste sie ficken wenn ich mal ficken will dann immer nur die eine und man muss auch brav mitgehen wenn frau zu ihren verwanten geht sonst gibts erstmal für ein paar tage nichts und dir schwillen die eier an bis der sack zu den knien runterhängt.
+|-=Flash=-|: hmm
+|-=Flash=-|: toll
+|-=Flash=-|: da ich ja auch ficken kann wann ich will da ich ja soa gut aussehe usw
+|-=Flash=-|: du bist mir nen toller
+|-=Flash=-|: das baut das ego auf :P
+dj_turrican [LDC]: ich hab nicht gesagt das du gut aussiehst *gg*
+dj_turrican [LDC]: war ein spaß mein knuddelbär
+|-=Flash=-|: Hrhr =)
+dj_turrican [LDC]: *knutsch*
+|-=Flash=-|: *zungeinnenhalssteck* :PPPP *gröhl*
+dj_turrican [LDC]: *undichmichverschluck* *beiss*
+dj_turrican [LDC]: :-D
+|-=Flash=-|: ROFL
+|-=Flash=-|: ^^
+dj_turrican [LDC]: soah schnauze voll für heute hab ich alles fertig, ich verschwind mal ins bett.  
+n8 mein bärchen
+|-=Flash=-|: schlaf gut hasi mausi
+*** dj_turrican [LDC] signed off at Wed Jan 29 22:42:24 2003.
+*** You have been disconnected. Wed Jan 29 23:49:09 2003.
+Session Close (dj_turrican [LDC]): Thu Jan 30 06:50:28 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Feb 02 19:02:11 2003
+dj_turrican [LDC]: so mausibärle da bin ich.
+|-=Flash=-|: ahh schön^^
+dj_turrican [LDC]: ich ruf nur noch den pornomann her
+dj_turrican [LDC]: mal sachte nicht das ich ihn beim wichsen störe *gröhl*
+|-=Flash=-|: LÖÖÖÖÖÖL
+dj_turrican [LDC]: ah er ist da pass uff..... 
+ 
+Odin  (7:03 PM) :  
+ich bin nicht pornomann! 
+ich bin ODIN Herrscher über die germanische götterwelt 
+Turrican  (7:04 PM) :  
+Okay sorry..... ODIN herscher über das Pornoregal in der Videotheck *löl* 
+
+|-=Flash=-|: LÖL
+|-=Flash=-|: wo wollen wir uns treffen?
+dj_turrican [LDC]: ich will ihn gerade ins irc locken
+|-=Flash=-|: hrhr
+|-=Flash=-|: und da machen wir 3 dann nen schönen channel
+dj_turrican [LDC]: er muss nur noch mirc installierenb
+|-=Flash=-|: hmm der muss noch wixxen soll er zu geben
+dj_turrican [LDC]: löl
+dj_turrican [LDC]: machst dann abert nen einfach channel der ist im irc net so bewandert. überall da wo man ohne gleitgel reinkommt ist ihm halt nicht geheuer *gröhl*
+dj_turrican [LDC]: was gab es eigentlich an neuen filmen die letzten tage?
+|-=Flash=-|: alten ne menge
+|-=Flash=-|: hmm ich brauche den als stupiden upper
+dj_turrican [LDC]: credits sammeln nehme ich an
+dj_turrican [LDC]: also komm sag nen channel an
+dj_turrican [LDC]: irgendwas im effnet
+|-=Flash=-|: hmm
+|-=Flash=-|: /j #gleitcreme
+|-=Flash=-|: na der hat dann auch schon was davon=)
+|-=Flash=-|: du bekommst auch noch was
+|-=Flash=-|: aber geht alles erst morgen
+dj_turrican [LDC]: gröhlllllllllll
+*** dj_turrican [LDC] signed off at Sun Feb 02 20:54:31 2003.
+*** You have been disconnected. Sun Feb 02 23:50:41 2003.
+Session Close (dj_turrican [LDC]): Mon Feb 03 12:13:28 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Feb 05 23:02:00 2003
+dj_turrican [LDC]: hi nasenbär..... hast mich vermisst? ich hab die tage mal wieder im bett verbracht mir war es echt zu übelst. hoffe dir gehts besser. bei uns ist im moment horrormässig glatteis. 
+hättest dich übrigens auch mal melden können bei mir, ich hab die grippe und du rufst mich nicht mal an *heul* 
+man richt sich, knutsch mein bärchen
+*** dj_turrican [LDC] signed off at Wed Feb 05 23:04:41 2003.
+*** You have been disconnected. Wed Feb 05 23:46:52 2003.
+*** dj_turrican [LDC] signed on at Thu Feb 06 18:32:09 2003.
+dj_turrican [LDC]: hi nase
+|-=Flash=-|: ahh da issa ja
+|-=Flash=-|: *gähn*
+|-=Flash=-|: gerade aufgestanden
+dj_turrican [LDC]: schon wieder müde so früh am morgen? 
+
+dj_turrican [LDC]: wie jetzt erst? du arsch
+dj_turrican [LDC]: ich bin schon seit 8 uhr morgens wach
+|-=Flash=-|: joap mir gehts net so pralle kopfweh
+|-=Flash=-|: ich war auch inan scool
+dj_turrican [LDC]: mir gehts net besser, magenschmerzen und so :( 
+
+dj_turrican [LDC]: und ansonsten alles okay? haste die acc klar gemacht?
+|-=Flash=-|: sind noch net ganz fertig
+|-=Flash=-|: mit dem scripten
+dj_turrican [LDC]: bis wann wirds denn?
+|-=Flash=-|: ich hoffe bis morgen
+dj_turrican [LDC]: auch gut
+dj_turrican [LDC]: und bei dir? privat alles im lot?
+|-=Flash=-|: joap morgen ne verabredung =)
+dj_turrican [LDC]: cool. mal was festes oder wieder einmal ausgehen und dann.... naja was auch immer
+|-=Flash=-|: naja keine ahnung
+|-=Flash=-|: ist die cousine vom guten kumpel
+dj_turrican [LDC]: ah so. blind date sozusagen *gg*
+|-=Flash=-|: na wenn die so gut aussieht wie seine andere cousine
+dj_turrican [LDC]: hrhr....dann kann er ja noch eine mehr mitbringen wenn der so viele cousinen hat *gg*
+|-=Flash=-|: der aht 3
+|-=Flash=-|: alten
+|-=Flash=-|: die haben 90/60/90
+dj_turrican [LDC]: du mausi haste denn hier irgendwo liegen "The Tuxedo - DVDRIP - DCI" 
+mir ist langweilig
+dj_turrican [LDC]: 90/60/90...... kannste mir da mal eine per Post schicken, ich zahl das Paket auch *löl*
+|-=Flash=-|: ich mach foto
+|-=Flash=-|: ich such mal nach der source
+dj_turrican [LDC]: wenn da nicht einer dran war schick ich dir die tonspuren. 
+|-=Flash=-|: Hrhr
+|-=Flash=-|: ^^
+|-=Flash=-|: war keiner dran
+dj_turrican [LDC]: gut gut.... mir ist richtig langweilig geworden, seit wochen keinen film mehr gedubbed
+|-=Flash=-|: naja gibt ja auch nix
+dj_turrican [LDC]: leider
+dj_turrican [LDC]: und wenn es was gibt steht acp wieder im loch
+|-=Flash=-|: joap
+|-=Flash=-|: wie immer
+dj_turrican [LDC]: kann mich da noch an andere zeiten erinnern
+|-=Flash=-|: joap aufjedenfall
+|-=Flash=-|: aber axo
+|-=Flash=-|: also ein supplier bzw die sneak supplier
+|-=Flash=-|: von acp wollen was eigenes machen ich kenne die
+|-=Flash=-|: hsate bock für die zu dubben dann ?
+dj_turrican [LDC]: klar
+|-=Flash=-|: erstmal 1line die week
+|-=Flash=-|: aber wohl nur sneaks
+dj_turrican [LDC]: ist doch gut, hauptsache ich hab ein wenig  zu tun
+dj_turrican [LDC]: tschuldige bin gerade net sehr gesprächig, ich esse gerade nebenher
+|-=Flash=-|: hrhr ich habe wieder asci anna backe
+dj_turrican [LDC]: kenn ich net
+dj_turrican [LDC]: so einer wie unser metzger?
+|-=Flash=-|: nee
+|-=Flash=-|: asci login msg
+|-=Flash=-|: nfos machen usw
+dj_turrican [LDC]: na dann.... much fun
+|-=Flash=-|: hrhr nee
+|-=Flash=-|: ^^
+dj_turrican [LDC]: so dann mach du deine ascii und ich bring den hund mal raus. 
+c.u.
+|-=Flash=-|: meldest dich hasi mausi bärchen schnukkel nochmal?
+dj_turrican [LDC]: jau sagen wir gegen 20 uhr ich bleib etwas länger und geniesse die frische lufts
+|-=Flash=-|: hmm
+|-=Flash=-|: um halb neun gibts bei uns essen
+dj_turrican [LDC]: achso mäusle..... the tuxedo
+dj_turrican [LDC]: naja ich kann ja etwas schneller machen *gg+
+|-=Flash=-|: noch net gefunden
+*** dj_turrican [LDC] signed off at Thu Feb 06 22:03:40 2003.
+*** dj_turrican [LDC] signed on at Thu Feb 06 22:03:42 2003.
+*** dj_turrican [LDC] signed off at Thu Feb 06 23:38:31 2003.
+*** You have been disconnected. Thu Feb 06 23:47:02 2003.
+*** You have been disconnected. Fri Feb 07 10:30:47 2003.
+*** dj_turrican [LDC] signed on at Fri Feb 07 11:10:50 2003.
+dj_turrican [LDC]: moin mausi, da bin ich schon. für heute bin ich krank geschrieben, irgendwann muss das einfach mal sein *gg*
+*** dj_turrican [LDC] signed off at Fri Feb 07 11:21:31 2003.
+|-=Flash=-|: hrhr und ich habe schule aus
+*** You have been disconnected. Fri Feb 07 11:59:01 2003.
+*** dj_turrican [LDC] signed on at Fri Feb 07 14:20:14 2003.
+dj_turrican [LDC]: jetzt gehts auf party
+|-=Flash=-|: ich geh jetzt erstmal ne stunde ins bett sry hasi mausi bin total nüde
+dj_turrican [LDC]: hrhr jau geh
+dj_turrican [LDC]: n8
+*** dj_turrican [LDC] signed off at Fri Feb 07 14:22:04 2003.
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Feb 11 21:58:24 2003
+dj_turrican [LDC]: servus 
+
+|-=Flash=-|: da issa ja
+dj_turrican [LDC]: also nase sag an biste im channel irgendwo?
+|-=Flash=-|: hmm frage ihn gerade hoffe der ist net wieder raus ^^^
+dj_turrican [LDC]: ich kann eh nur kurz bleiben denke die 5 minuten hat er
+|-=Flash=-|: irc 
+|-=Flash=-|: wüdsch sagen
+|-=Flash=-|: kannste schon aufmachen
+dj_turrican [LDC]: sag nen channel an
+|-=Flash=-|: K.: channel
+ K.: sek
+ K.: irc.e-phoria.net 6667
+ K.: #Eithel.de
+ K.: pass: Beer2Beer
+dj_turrican [LDC]: bin alleine
+|-=Flash=-|: haste was verkaggt
+|-=Flash=-|: ?
+dj_turrican [LDC]: ich net mir hat falsch connectet
+|-=Flash=-|: irc.e-phoria.net 
+|-=Flash=-|: irc.e-phoria.net <<--das ist der server
+dj_turrican [LDC]: unable to resolve brauch ich eine ident?
+|-=Flash=-|: nee
+|-=Flash=-|: biste dumm =)?
+dj_turrican [LDC]: lol... dumich auch, scheint so asl spinnt meine verbindung die ist heute schon den ganzen tag lahm
+|-=Flash=-|: hmm
+|-=Flash=-|: zeig mal error
+|-=Flash=-|: also ganzes teil ;P
+dj_turrican [LDC]: is net viel nur unable to resolve host. thats it
+|-=Flash=-|: und schreibt er 
+dj_turrican [LDC]: das schreibt er, mehr nicht
+|-=Flash=-|: [22:02] *** Connecting to irc.e-phoria.net (6667) 
+ -
+ ••• notice (s): Looking up your hostname...
+ ••• notice (s): Checking Ident
+ ••• notice (s): Found your hostname
+ ••• notice (s): Got Ident response
+|-=Flash=-|: [22:02] *** Connecting to irc.e-phoria.net (6667)  <<--bzw nur das ?
+|-=Flash=-|: na jung =)?
+dj_turrican [LDC]: habs gelöst, bin drauf
+|-=Flash=-|: gut
+|-=Flash=-|: channel usw bekomsmte hin 
+dj_turrican [LDC]: channel?
+|-=Flash=-|: /j #Eithel.de Beer2Beer
+|-=Flash=-|: kopie das einfach
+|-=Flash=-|: ^^
+|-=Flash=-|: helfe dir dochs chatzi =)
+|-=Flash=-|: sag nein
+|-=Flash=-|: bist nen anderer
+|-=Flash=-|: gut =)
+dj_turrican [LDC]: wieso? 
+
+|-=Flash=-|: der ist ja immer miestrauisch ;P
+|-=Flash=-|: weil du mal da auf den boards da warst
+dj_turrican [LDC]: ah ja
+|-=Flash=-|: Weißt doch böser ruf
+dj_turrican [LDC]: jaj mach mich nur platt
+|-=Flash=-|: schatzi
+|-=Flash=-|: *küss*
+|-=Flash=-|: ich habe den selben ruf
+|-=Flash=-|: und wenn ich dich net so knuffelig und so lieben würde
+dj_turrican [LDC]: löl.... glaub ich net
+|-=Flash=-|: würdsch net immer was probieren für dich =)
+*** dj_turrican [LDC] signed off at Tue Feb 11 22:21:09 2003.
+Session Close (dj_turrican [LDC]): Tue Feb 11 22:27:38 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Feb 16 17:46:53 2003
+dj_turrican [LDC]: hätte ja gerne noch telefoniert aber ich muss gerade jeden cent 2 mal umdrehen :(
+|-=Flash=-|: Joap ich auch
+*** Error while sending IM: Not logged on
+dj_turrican [LDC]: scheiss wirtschaftslage scheiss deutschland kann ich da nur sagen
+|-=Flash=-|: hmm bekommste die msg wenn ja schreib ja ?
+dj_turrican [LDC]: ja
+|-=Flash=-|: *** Error while sending IM: Not logged on <<--kam gerade error
+dj_turrican [LDC]: du meinst jetzt icq oder?
+|-=Flash=-|: joap
+dj_turrican [LDC]: habe ich auch schon gehbabt immer am wochenende deren server sind überlastet
+dj_turrican [LDC]: denkste das hier taugt was? 
+(Link: http://www.vcdquality.com/image.php?id=10259)http://www.vcdquality.com/image.php?id=10259
+|-=Flash=-|: nee
+|-=Flash=-|: glaubsch net
+dj_turrican [LDC]: gerade ist einfach nichts zu holen aber wenn dann kommt wieder alles zusammen
+dj_turrican [LDC]: meine präsentation ist ja auch fast fertiog nacher noch  ne stunde dann ist es so weit
+|-=Flash=-|: das ist doch mals chön *lob*
+|-=Flash=-|: (Link: http://www.vcdquality.com/image.php?id=10416)http://www.vcdquality.com/image.php?id=10416 <<--was fürn gailer ts
+dj_turrican [LDC]: jau der ist gut aber keinen ton :(
+dj_turrican [LDC]: oder hast du was?
+|-=Flash=-|: nee leider net ich kenne den net mal
+|-=Flash=-|: ^^
+dj_turrican [LDC]: löl
+|-=Flash=-|: (Link: http://www.vcdquality.com/image.php?id=10423)http://www.vcdquality.com/image.php?id=10423 <<--löl das soll nen proper sein^^
+dj_turrican [LDC]: naja die aspect ratio ist da etwas besser und es ist ws
+dj_turrican [LDC]: denke das wäre fast gerechtfertigt auch wenn das bild nicht ganz so klar ist
+|-=Flash=-|: naja dann schau dir mal
+|-=Flash=-|: den ctp an
+|-=Flash=-|: tcf bringt in letzter zeit ts immer 8tage vor kinostart
+dj_turrican [LDC]: die svcd.... jaja ctp rulez die szene dort was screener angeht
+dj_turrican [LDC]: die dvd rips sind aber geil von tcf
+dj_turrican [LDC]: ich schau gerade was ich so alles an dvd´s bekommen kann, will nun endlich mal ne dvd-r machen. haste eigentluich das programm gefunden von dem ich geredet habe?
+|-=Flash=-|: nee sry
+*** Error while sending IM: Not logged on
+|-=Flash=-|: nirgends
+*** Error while sending IM: Not logged on
+dj_turrican [LDC]: he biste schon weg?
+|-=Flash=-|: nee war kaggen
+|-=Flash=-|: und dann wieder errors
+dj_turrican [LDC]: gehen wir halt ins irc
+dj_turrican [LDC]: wie war nochmal der channel? 
+
+|-=Flash=-|: hmm wo meinste im anderen netzt da #eithel.de Beer2Beer ?
+dj_turrican [LDC]: jau
+|-=Flash=-|: weißte dsa network noch ?
+dj_turrican [LDC]: bin schon drin 
+
+|-=Flash=-|: joap gut
+*** dj_turrican [LDC] signed off at Sun Feb 16 19:54:16 2003.
+*** dj_turrican [LDC] signed on at Sun Feb 16 22:25:50 2003.
+dj_turrican [LDC]: hi mausi biste noch wach? 
+
+*** dj_turrican [LDC] signed off at Mon Feb 17 01:56:21 2003.
+Session Close (dj_turrican [LDC]): Mon Feb 17 06:45:23 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Feb 18 22:27:59 2003
+*** NOTE: This user is offline.  Your messages will be received when he/she logs into ICQ.
+|-=Flash=-|: du schatzi ich muss jetzt nochmal weg mit meinen eltern zur oma da irgendwas mcahen helfe irgendeine verkaggte scheiße 
+|-=Flash=-|: sieht so aus als ob ich dann da pennen muss aber ich habe morgen zur 3ten stunde
+|-=Flash=-|: gib mir morgen die daten von deinem home ftp dann flashe ich dir die source und 2te frage der ton kommt morgen zwischen 24uhr und 1 uhr source ist dvd screener dubbst du da gleich noch?
+*** dj_turrican [LDC] signed on at Tue Feb 18 22:51:45 2003.
+dj_turrican [LDC]: wenn es erst nach 24 kommt dann wohl eher nicht, tut mir leid. 
+hab gerade das megakotzen gehbat hier. Pc Absturz vom feinsten. Systemdateien waren weg und alle TCP/IP Protokolle.  
+mein Bruder war vorhin noch an meinem Pc also das gibt ärger sobald ich den erwische (blöder Wixer). 
+ich melde mich morgen Abend spätestenst dann bei dir es sei denn du bist noch da oder besser gesagt wieder da.
+*** dj_turrican [LDC] signed off at Wed Feb 19 01:11:00 2003.
+*** You have been disconnected. Wed Feb 19 03:02:53 2003.
+Session Close (dj_turrican [LDC]): Wed Feb 19 08:39:00 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Feb 21 21:17:04 2003
+dj_turrican [LDC]: hi mausibärle, ich bin mal wieder da dachte ich melde mich bei dir, wie gehts denn mein knuddelbär?
+dj_turrican [LDC]: ich sags dir alder, mir gings dreckig am mittwoch. hab am abend zuvor nicht geschlafen. hab da das instant copy von pinnacle porobiert. ds programm ist scheisse. es lässt ca. 400mb auf ner dvd-r frei und die qualität ist auch net das wahre. dafür weiss ich jetzt aber wie man eine komplette dvd-r incl menü mit dem cinemacraft endcoder macht :-) 
+brauchste nicht zufällig noch jemanden der dvdr ript *gg* 
+*** dj_turrican [LDC] signed off at Fri Feb 21 21:26:53 2003.
+*** You have been disconnected. Sat Feb 22 04:53:50 2003.
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sun Feb 23 21:53:35 2003
+dj_turrican [LDC]: hi
+|-=Flash=-|: ach mein schnuggel ist wieder da
+dj_turrican [LDC]: jau endlich wieder das waren heisse tage *gg*
+dj_turrican [LDC]: wie gehts meiner knuddelmaus denn?
+|-=Flash=-|: joap ganz gut und meinem brächen wie gehts dir ?
+dj_turrican [LDC]: gut gut ich bastel gerade wieder an dvd´s rum. wenn die mehrere pgc´s haben ist es garnicht so einfach die komplett mit dem cinemacraft neu zu codieren. :-(
+dj_turrican [LDC]: also mit orginalmenü in geiler quali meine ich, nur den film das ist easy
+|-=Flash=-|: naja
+|-=Flash=-|: classic dvdrs rulen nicht so
+|-=Flash=-|: wenn dann muss mann ja supplier haben
+dj_turrican [LDC]: in wie fern classic du meinst die wo man schon kaufen kann oder wie?
+|-=Flash=-|: hmm naja
+|-=Flash=-|: halt älter als 2002 moviez
+|-=Flash=-|: also nur dvds die gerade rausgekommen sind lohnen sich
+dj_turrican [LDC]: davon rede ich ja
+|-=Flash=-|: hmm ahste denn einen der dir die eher besorgen aknn=?
+dj_turrican [LDC]: ich mach noch ein wenig rum bis ich 3 dvd´s hintereinander ohne probleme mit dem cinnemacraft machen konnte dann ist es okay
+dj_turrican [LDC]: ne woche vielleicht eher das wäre evtl schon drin
+|-=Flash=-|: Joap das würde ja reichen
+dj_turrican [LDC]: aber warte noch bis es wirklich klappt
+|-=Flash=-|: joap
+|-=Flash=-|: mache noch nix
+|-=Flash=-|: ich bin mal auf heute abend gespannt da will von nem kumpel nen supplier
+dj_turrican [LDC]: instant copy z.b. das kotzt bei fast and the furious ab weil es mehrere pgc´s hat. menü ist total im arsch und die quali allgemeien, naja da reden wir nicht drüber. ich will es mit dem cce machen.
+|-=Flash=-|: mal ne sound sample holen
+dj_turrican [LDC]: wieviel supplier haste denn jetzt schon?
+|-=Flash=-|: naja mit dir dann 3 wenn der gut geht 4
+dj_turrican [LDC]: ich werde mich als supplier aber wbald zurück ziehen. der ton scheknt sich ja nun bald echt nichts mehr und ich bin immer so spät dran. 
+dj_turrican [LDC]: wenn du aber mal einen hast der echt mal dts besorgen kann dann gehts aber ab
+|-=Flash=-|: naja am donnerstag wo nun 4 filme 
+|-=Flash=-|: anlaufne
+|-=Flash=-|: wäre deine line mit national secuirty dann net schlecht
+dj_turrican [LDC]: kann ich machen wenn nicht jemand wieder vor mir dran ist
+dj_turrican [LDC]: besorg mir einfach ne bildsource
+|-=Flash=-|: joap
+dj_turrican [LDC]: der release von videocd sieht nicht überl aus nim denn
+|-=Flash=-|: joap
+|-=Flash=-|: der geht
+dj_turrican [LDC]: gibts denn ansonsten irgenwas zu tun?
+|-=Flash=-|: hmm atm ent
+|-=Flash=-|: mal schauen
+dj_turrican [LDC]: ghost ship, hat da schon einer die dvdr gemacht?
+dj_turrican [LDC]: oder gangs of new york
+|-=Flash=-|: joap
+|-=Flash=-|: beide
+dj_turrican [LDC]: scheisse *löl*
+dj_turrican [LDC]: ich gebs auf *gg*
+dj_turrican [LDC]: haste denn sonst echt nichts?
+|-=Flash=-|: hmm
+|-=Flash=-|: nee ich langweile mich auch nur und zogg funfoo
+dj_turrican [LDC]: was denn das? ist das nicht sowas überfahrenes das man in die mikrowelle tut?
+|-=Flash=-|: (Link: http://www.funfoo.de/)http://www.funfoo.de/
+dj_turrican [LDC]: sieht nett aus aber dafür würde mir die zeit fehlen
+|-=Flash=-|: hmm
+|-=Flash=-|: nee reichta uch wenn man sich abends einloggt aber mir machts spaß und ist gut gegen langeweile
+dj_turrican [LDC]: glaub ich dir
+|-=Flash=-|: hmm habe glaube ich mi angefangen und bin jetzt rang 65^^
+dj_turrican [LDC]: von wieviel?
+|-=Flash=-|: ka glaube ich geht jetzt bie 350
+|-=Flash=-|: oder soa
+dj_turrican [LDC]: dann ist das garnicht mal so schlecht, klopp dich ruhig nahc vorne *gg*
+|-=Flash=-|: Hrhr =)
+|-=Flash=-|: acp hat heute erstmal 24std angst gesneakt
+|-=Flash=-|: 1monat vor kino start
+dj_turrican [LDC]: das sind doch juden. ne woche okay aber nen monat das geht schon zu weit. aber egal ich hab es eh aufgegeben da mitzumischen solange acp noch so dran ist haben alle anderern eh keine chance mehr
+|-=Flash=-|: 
+ joap auf jeden
+|-=Flash=-|: ist voll schlimm
+dj_turrican [LDC]: gerade das neue kinoporgramm im autokino gesehen. da ist echt nichts zu holen.
+dj_turrican [LDC]: daredevil vielleicht aber das ist auch nur ein tag vorher
+|-=Flash=-|: joap
+|-=Flash=-|: mal schauen
+dj_turrican [LDC]: da kann ich gleich nach der schule hin *gg*
+|-=Flash=-|: hmm 
+|-=Flash=-|: wann isn das
+|-=Flash=-|: also zeit ?
+dj_turrican [LDC]: 22:30
+|-=Flash=-|: hmm toll meine eltern sind weg
+|-=Flash=-|: im urlaub aber meine brüder hier
+|-=Flash=-|: aber ich will jetzt net raus rauchen sondern am fenster hmm
+dj_turrican [LDC]: ist doch warm draussen
+|-=Flash=-|: <<--äehm faul
+|-=Flash=-|: ^^
+dj_turrican [LDC]: löl... sag ich auch immer
+|-=Flash=-|: hmm ich habe freitag inna disco zum erstmal richtige gogo girls gesehen
+|-=Flash=-|: die sind ja richtig mies gial
+dj_turrican [LDC]: hrhrhr
+dj_turrican [LDC]: ich geh nächste woche wieder mit ein paar kumpels aus der schule
+|-=Flash=-|: ist der hammer 
+|-=Flash=-|: so ohne unterwäsche
+dj_turrican [LDC]: jup *gg*
+|-=Flash=-|: da stand gleich was :P
+|-=Flash=-|: wieder gut gefeiert ^^
+|-=Flash=-|: war mies voll hatte man wieder viele hände amarsch usw
+|-=Flash=-|: nur der dj war bissle schwul
+dj_turrican [LDC]: das erklärt die hände am arsch
+|-=Flash=-|: so die gailsten lieder vom text her aufn kagg beat gelegt
+|-=Flash=-|: kumpel von mir hat sich mitm kerl unterhalten so gut ne halbe stunde oder länger
+|-=Flash=-|: und dann hat sich rausgestellt das der kerl da schwul ist
+|-=Flash=-|: ich habe mich so weggebrüllt
+dj_turrican [LDC]: gröhl
+|-=Flash=-|: bin aber gut voll darausgegangen
+|-=Flash=-|: habe so viel ausgegeben bekommen
+|-=Flash=-|: ich wollt schon gar net mehr
+dj_turrican [LDC]: boah alder merk gerade meine haare sind voll verklebt, entschuldige mich mal kurz muss die mal waschen.
+|-=Flash=-|: HAHA
+|-=Flash=-|: du dreckschwein
+|-=Flash=-|: hattest bestimtm wieder sex =)
+|-=Flash=-|: hmm ich geh jetzt eine rauchen glaubsch
+dj_turrican [LDC]: jau gang rauchen du affe *gg* und ja ich hatte wieder sex und zwar den ganzen tag *ätsch*
+|-=Flash=-|: *beleidigt*
+dj_turrican [LDC]: hrhrhr.... musste auch mal versuchen das entspannt
+|-=Flash=-|: jetzt binsch sauer
+dj_turrican [LDC]: och nö das musste net sein, ich hab dich trotzdem lieb
+|-=Flash=-|: gähn ich bin schon wieder total müde
+dj_turrican [LDC]: hatest wohl zuviel sex wa *gg*
+|-=Flash=-|: joap
+|-=Flash=-|: ^^
+dj_turrican [LDC]: ich auch
+dj_turrican [LDC]: gröhll
+dj_turrican [LDC]: geh ich bin ne sau
+|-=Flash=-|: ich schreib morgen englisch ich geh auf jeden gleich insb ett
+dj_turrican [LDC]: na dann wünsch ich mal viel erfolg und mal sehen evtl treffen wir uns morgen wieder
+dj_turrican [LDC]: schlaf gut mein mäusle 
+n8
+|-=Flash=-|: hasi mausi bärchen wenn du deinen zucker süßen arsch morgen wieder on bewegst sehen wir uns bestimmt ^^
+|-=Flash=-|: schlaf du auch gut und fick net mehr so viel
+dj_turrican [LDC]: ne du heut nicht mehr, ich hab schon  sackkrämpfe sooft hab ich gepoppt *gg*
+*** dj_turrican [LDC] signed off at Sun Feb 23 23:54:21 2003.
+*** You have been disconnected. Mon Feb 24 01:59:49 2003.
+Session Close (dj_turrican [LDC]): Mon Feb 24 15:16:07 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Tue Feb 25 21:42:14 2003
+dj_turrican [LDC]: hi nase, habe gerade gesehen das ein dvdrip von i spy gekommen ist. kannste mir den besorgen?
+|-=Flash=-|: hiho mausi bärchen hmm donnerstag wirste für national verdonnert ;P
+dj_turrican [LDC]: stimmt aber dafür hab ich auch noch keine source
+dj_turrican [LDC]: hast du den ton oder soll ich?
+|-=Flash=-|: schnubbi dein ton bitte der ist der beste
+dj_turrican [LDC]: du machst mich ganz verlegen
+|-=Flash=-|: source habsch schnubbi
+|-=Flash=-|: mach ftp auf
+dj_turrican [LDC]: (Link: ftp://flash:flash@217.230.28.197:1337)ftp://flash:flash@217.230.28.197:1337
+dj_turrican [LDC]: hoffe doch mal es war so
+|-=Flash=-|: bah magste mich oder warum not loggend in?
+dj_turrican [LDC]: hmm... weiss das passwort nicht mehr warte kurz ich ändere das mal
+dj_turrican [LDC]: jetzt müsste es gehen
+|-=Flash=-|: Madonna blowjob.mpg pfuiiiii
+dj_turrican [LDC]: löl... ist eh nur ne verarsche
+|-=Flash=-|: hasi mausi das ist screener source schaffst den dann bitte bitte fertisch zu machen donnerstag abend?
+dj_turrican [LDC]: haja probieren kann ich es ja mal
+dj_turrican [LDC]: denkste denn das schaff ich überhaupt noch *gg*
+dj_turrican [LDC]: hab das so lange nicht mehr gemacht
+|-=Flash=-|: hmm hasi mausi vorm kino fickst ordentlich
+|-=Flash=-|: 20uhr gehts los
+|-=Flash=-|: und so wie ich dich fick gestörten kenne brauchste beim screener max 15min
+|-=Flash=-|: pro cd
+dj_turrican [LDC]: gröhlll..... ne du lieber nicht mehr ich hab mir schon die nudel leer georgelt *gg*
+|-=Flash=-|: LOL
+|-=Flash=-|: gib mir mal eine ab
+dj_turrican [LDC]: hab nur eine aber die dafür richtig *gg*
+|-=Flash=-|: habe keine ;P
+|-=Flash=-|: und die dafür auch net =)
+dj_turrican [LDC]: löl
+|-=Flash=-|: ich geh jetzt erstmal pissen und einer auchen
+dj_turrican [LDC]: gehst du türkisch basar 
+
+dj_turrican [LDC]: bekomste für 2 kamele schon korrekte stute
+dj_turrican [LDC]: halt noch mit kopftuch verpackt aber das kannste weg machen
+dj_turrican [LDC]: hoffe ich doch mal
+dj_turrican [LDC]: bevor es los geht musste halt noch das gestrüb wegrassieren. türkinen sind da ja net so wie die deutschen madels *gg*
+|-=Flash=-|: roooooooofl
+|-=Flash=-|: aber wennsch bald net ein weggesteck habsch geh ich innen puff ;P
+dj_turrican [LDC]: löl.... na du musst es ja nötig haben
+|-=Flash=-|: habsch auch aber weißte was ich jetzt nötig habe lernen schreibe donnerstag franz
+|-=Flash=-|: tut mir leid
+|-=Flash=-|: muss dich schon wieder verlassen *heul*
+|-=Flash=-|: habe verkaggten prüfungstreß
+dj_turrican [LDC]: ich muss für morgena uch noch was machen ist also schon okay
+dj_turrican [LDC]: lass dich net stressen und viel glück
+dj_turrican [LDC]: n8
+|-=Flash=-|: schlaf gut und fick net schon wieder sonst muss ich bald heuten
+dj_turrican [LDC]: ne ich hab heute schon wieder zuviel gefickt das reciht bis zum wochenende *gg*
+*** dj_turrican [LDC] signed off at Tue Feb 25 23:34:01 2003.
+*** You have been disconnected. Wed Feb 26 02:55:06 2003.
+Session Close (dj_turrican [LDC]): Wed Feb 26 19:55:44 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Fri Feb 28 18:23:26 2003
+dj_turrican [LDC]: hallo bärchen
+|-=Flash=-|: geh nach hause ;P
+dj_turrican [LDC]: ich bin zu hsause
+|-=Flash=-|: ich bin gleich weg bärchen
+dj_turrican [LDC]: wohin gehts`?
+|-=Flash=-|: mit paar mädelz inne disco/club
+|-=Flash=-|: muss sein =)
+dj_turrican [LDC]: ohne mich? *heul* 
+wünsch dir viel spaß 
+|-=Flash=-|: würde mich auch gerne ganze nacht mit dir unterhalten aber frauen halt 
+|-=Flash=-|: kansnt mitkommen ^^
+|-=Flash=-|: urghs muss mich noch rasieren
+dj_turrican [LDC]: kannst du mir noch 2 diles von nationalk security schicken?  
+brauch noch r.13 und r.16 von cd1.
+|-=Flash=-|: nöö;Ü
+|-=Flash=-|: Klar
+dj_turrican [LDC]: ich muss auch noch rassieren ich geh nacher mit schulfreunden sschütten *gg*
+|-=Flash=-|: ich schütte mir einen wennd ie frauen weg sind
+dj_turrican [LDC]: mach das nebenher *gg*
+dj_turrican [LDC]: sag einfach diu gehst aufs klo *löl*
+|-=Flash=-|: ich ahbe 80€:P
+dj_turrican [LDC]: (Link: ftp://flash:flash@80.131.77.172:1337)ftp://flash:flash@80.131.77.172:1337
+dj_turrican [LDC]: boah alden ich hab nur 50 eier.
+|-=Flash=-|: geht net
+dj_turrican [LDC]: da kannste ja nen fetten abend machen.
+|-=Flash=-|: der ftp
+dj_turrican [LDC]: jetzt aber
+|-=Flash=-|: ach du kagge wilslt den englischen ;P
+dj_turrican [LDC]: löl... jau
+dj_turrican [LDC]: muss mal wieder was machen sonst geh ich kaputt.
+dj_turrican [LDC]: ansonsten schick mir die deutsche cd1 ist auch egal
+|-=Flash=-|: alten ich hofe ich habe den eng noch
+|-=Flash=-|: urghs habe den eng net mehr
+|-=Flash=-|: tuts tgsc cd1 auch?
+dj_turrican [LDC]: jau is okay
+dj_turrican [LDC]: bruachtse net so lange noch suchen, du hast ja noch ein oder zwei dates *gg*
+|-=Flash=-|: nee heute sibnd
+|-=Flash=-|: 7frauen dabei
+|-=Flash=-|: auf 3 kerle ;P
+dj_turrican [LDC]: pfui
+|-=Flash=-|: lala *sing* angie martinez ist mal richtig gai
+dj_turrican [LDC]: hrhr... alder du hast es so gut. sind denn bei dir auch ferien?
+|-=Flash=-|: noep
+|-=Flash=-|: erst im april=(
+|-=Flash=-|: aber habe diese woche eh kurz schule "gemacht " =)
+|-=Flash=-|: mittwoch nach der 2ten gegangen hatte kein bock 3std auf unterricht zu warten
+|-=Flash=-|: heute um 11uhr gegangen
+dj_turrican [LDC]: bei uns schon. nächste woche komplett ich hab ausnahmsweise auch mal was davon
+|-=Flash=-|: nee ich habe im april 3wochen
+dj_turrican [LDC]: naja so ein fauker hund wie du hat das auch net früher verdient *Ügröhl*
+dj_turrican [LDC]: und heute mit 7 frauen... boah du bist echt zu beneiden
+|-=Flash=-|: hmm und 80€ net vergessen ^^
+|-=Flash=-|: ich werde so party machen
+|-=Flash=-|: und ich kann heute mal ausnahmsweise nach hause wannn ich will
+dj_turrican [LDC]: jau mach das, ich wünsch dir viel spaß
+|-=Flash=-|: na willste mich loswerden
+|-=Flash=-|: =)
+|-=Flash=-|: ich bin noch bissle hier
+dj_turrican [LDC]: ne du woltest doch gehen?
+|-=Flash=-|: alten ds angie martinez album ist gail
+|-=Flash=-|: nee haue erst 19.45 oder so ab
+dj_turrican [LDC]: werd ich morgen mal reinhören
+dj_turrican [LDC]: dann werd ich dir nochmal nen fetten schmatz geben bevor du gehst. jetzt muss ich kurz mit dem hund raus der pisst sonst in die bud 
+max 10 min. oky
+|-=Flash=-|: hrhr
+dj_turrican [LDC]: so alder da bin ich wieder, also lass dich nochmal ganz dicke drücken und dir ein bussi  geben. viel spaß und pass auf dich auf mein dickerchen. ;-)
+|-=Flash=-|: soa erstmal nochmal geduscht und rasiert
+|-=Flash=-|: heute werdsch mich betrinken
+|-=Flash=-|: und tussis anbagger
+|-=Flash=-|: ich habe so gaile laune
+dj_turrican [LDC]: ich auch *gg* bis auf die tussis
+|-=Flash=-|: angie martinet if i could go
+|-=Flash=-|: lala
+|-=Flash=-|: soa gail
+dj_turrican [LDC]: hrhrhr.... haste wenigstenst schon gute laune
+|-=Flash=-|: hmm kennste net das album ?
+dj_turrican [LDC]: habs hier bloß noch nicht angehört
+|-=Flash=-|: kennste das neue von den turntable rockers ?
+dj_turrican [LDC]: ne das kenn ich net
+|-=Flash=-|: rings
+|-=Flash=-|: ist ganz cool
+|-=Flash=-|: ist aber mehr so dance floor beat mit viel bas
+|-=Flash=-|: und dann so mehr reggea hip hop im hintergrund
+|-=Flash=-|: ist ziemlich cool
+dj_turrican [LDC]: muss ich mir mal reinziehen
+|-=Flash=-|: oder das neue von busty ryhmes und mariah carey?
+dj_turrican [LDC]: jau das kenn ich 
+|-=Flash=-|: das ist ja wohl richtig gail
+dj_turrican [LDC]: jau is net sclecht aber die gute mariah find ich schon etwas alt für so ne muke *gg*
+|-=Flash=-|: joap ;P
+dj_turrican [LDC]: naja ich werd jetzt auch mal ins bad gehen, wann gehst du denn?
+|-=Flash=-|: jetzt
+|-=Flash=-|: cya
+|-=Flash=-|: *umarm* bussi =)
+|-=Flash=-|: schatzi bärchen ich wünsch dir viels paß!
+dj_turrican [LDC]: drück*
+dj_turrican [LDC]: jau ich dir auch. mach mal fett party und denk an mich
+dj_turrican [LDC]: c.u.
+|-=Flash=-|: joap mache ich wenn ich voll bin rufe ich dich glaubsch mal
+|-=Flash=-|: an wenn ich noch drandenke
+|-=Flash=-|: cya!
+dj_turrican [LDC]: gröhll
+*** dj_turrican [LDC] signed off at Fri Feb 28 21:27:39 2003.
+Session Close (dj_turrican [LDC]): Sat Mar 01 10:33:32 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Sat Mar 01 17:00:21 2003
+dj_turrican [LDC]: hi nase 
+pass mal uff wenn bis morgen keiner manhattan love story gemacht hat besorg mir bitte den dvd rip der heute gekommen ist dann mach ich den film nämlich morgen neu. 
+man sieht sich
+*** dj_turrican [LDC] signed off at Sat Mar 01 17:00:26 2003.
+|-=Flash=-|: mit acp ton kannste das net machen
+|-=Flash=-|: zumindest net veröffentlichen
+*** dj_turrican [LDC] signed on at Sat Mar 01 17:51:10 2003.
+dj_turrican [LDC]: naja als internal wird das bestimmt was, oder ich warte bis donnerstag. zieh mir gerade meine version von national security rein das ist wirklich guter ton. 
+sag mal kannste mir jackass besrogen auf deutsch? ich will den unbedingt sehen. schick den doch bitte auf die eine site wo du mir mal gegeben hast. 
+big thanx, bist ein schatz
+*** dj_turrican [LDC] signed off at Sat Mar 01 17:53:22 2003.
+*** dj_turrican [LDC] signed on at Sat Mar 01 17:54:12 2003.
+*** dj_turrican [LDC] signed off at Sat Mar 01 17:54:22 2003.
+*** dj_turrican [LDC] signed on at Sun Mar 02 14:08:47 2003.
+dj_turrican [LDC]: hi nase
+dj_turrican [LDC]: ich komm gegen 17:30 bis 18:00 Uhr an den Pc dann hab ich richtig zeit für dich, ich pack jetzt nur schnell die files und mach meinen ftp auf.
+dj_turrican [LDC]: kannst dir den ton für national security saugen das passwort für die rar files ist "security" 
+tu mir doch bitte einen gefallen und schick mir den dvd rip von jackass und manhattan love story damit ich heute noch was tun kann. gegen abend reden wir dann mal wie man am besten syncen kann wenn du lust hast aber jetzt geh ich noch ne nummer schieben wenn du verstehst was ich meine
+|-=Flash=-|: hiho
+|-=Flash=-|: aber ohne ip
+dj_turrican [LDC]: hi du ich kann net lange meine frau ist heiss *gg* 
+
+dj_turrican [LDC]: ich schick dir die ip
+|-=Flash=-|: und login daten kann ich net saugen
+dj_turrican [LDC]: (Link: ftp://flashy:nt@217.81.158.102:1337 )ftp://flashy:nt@217.81.158.102:1337 
+probier mal schnell
+dj_turrican [LDC]: mönsch mach mal ich kann gleich nicht mehr richtig schrieben *gg*
+dj_turrican [LDC]: gehts?
+|-=Flash=-|: sin das nur die 6files
+dj_turrican [LDC]: hab als mp3 gepackt
+dj_turrican [LDC]: 6 files sollte stimmen
+|-=Flash=-|: oke
+dj_turrican [LDC]: schickst du mir die 2 filme von denen ich gesprochen habe? 
+dj_turrican [LDC]: kann man ja als internal verwenden wenn ich dir den ton uppen soll
+|-=Flash=-|: joap
+|-=Flash=-|: den 
+|-=Flash=-|: jackass habsch
+dj_turrican [LDC]: einfach nen ordner machen und die filme da rein ich geh nun ne runde spielen, vielen dank bärchen wir reden nacher.... wenn ich bis dahin fertig bin *gg*
+|-=Flash=-|: hrhr
+|-=Flash=-|: ich fahr gleich inne city
+|-=Flash=-|: also geht erst heute abend
+|-=Flash=-|: da können wir telefonieren
+dj_turrican [LDC]: jau mach das aber die filme kannste mir ja jetzt schon schicken dann kann ich da heute abend noch was machen.
+dj_turrican [LDC]: boah ich geh jetzt mir platzt gleich die hose
+dj_turrican [LDC]: c.u.,
+|-=Flash=-|: sack!!!
+*** dj_turrican [LDC] signed off at Sun Mar 02 14:19:54 2003.
+|-=Flash=-|: pissa ich darf keine dirs machen haste nun pech gehabt!
+*** dj_turrican [LDC] signed on at Sun Mar 02 15:30:26 2003.
+dj_turrican [LDC]: he nase schick mir mal die filmchen rüber
+*** You have been disconnected. Sun Mar 02 16:38:01 2003.
+*** dj_turrican [LDC] signed on at Sun Mar 02 16:38:08 2003.
+dj_turrican [LDC]: hi schnukkel
+*** dj_turrican [LDC] signed off at Sun Mar 02 17:24:18 2003.
+*** dj_turrican [LDC] signed on at Sun Mar 02 17:30:28 2003.
+dj_turrican [LDC]: mensch hase sag mal an biste denn da? was wird aus den filmen?
+dj_turrican [LDC]: ich will beide heute abend fertig machen damit es sich auch lohnt
+dj_turrican [LDC]: kannst ja auch auf die eine site flashen in den request ordner oder so ich geh mal kurz weg meld mich nacher.
+dj_turrican [LDC]: hi
+dj_turrican [LDC]: halt falsche nummer nicht wählen
+dj_turrican [LDC]: geh ans handy
+*** dj_turrican [LDC] signed off at Sun Mar 02 21:34:06 2003.
+*** dj_turrican [LDC] signed on at Sun Mar 02 21:34:08 2003.
+dj_turrican [LDC]: (Link: ftp://flash:flash@80.131.93.225:1337 )ftp://flash:flash@80.131.93.225:1337 
+
+dj_turrican [LDC]: (Link: ftp://flash:flash@80.131.93.225:1337 )ftp://flash:flash@80.131.93.225:1337 
+
+*** dj_turrican [LDC] signed off at Mon Mar 03 08:02:31 2003.
+Session Close (dj_turrican [LDC]): Mon Mar 03 13:59:09 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Mar 05 00:23:56 2003
+dj_turrican [LDC]: he nase...na noch nüchtern?
+*** dj_turrican [LDC] signed off at Wed Mar 05 01:34:27 2003.
+*** You have been disconnected. Wed Mar 05 04:07:14 2003.
+Session Close (dj_turrican [LDC]): Wed Mar 05 07:03:28 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Mar 05 15:03:06 2003
+dj_turrican [LDC]: (Link: ftp://flash:flash@217.81.158.246:1337 )ftp://flash:flash@217.81.158.246:1337 
+probier mal schnell
+|-=Flash=-|: not logged in
+|-=Flash=-|: aber ton ist schon um 17uhr da 
+|-=Flash=-|: hmm
+dj_turrican [LDC]: nochmal
+|-=Flash=-|: geht
+dj_turrican [LDC]: kannst mir den ton ja gleich um 17 uhr schicken i´ch schau das ich etwas zeit finde
+|-=Flash=-|: hmm wie lange musste denn arbeiten?
+dj_turrican [LDC]: ein paar stunden aber das wäre mal kein problem falls jemand helfen will sol derjenige mit cd2 anfangen
+|-=Flash=-|: du musst nur cd 2 machen
+|-=Flash=-|: das hieße wenne um 17.30 oder 18 uhr da bist dann kansnt die eben dubben und wieder abhauen;P
+dj_turrican [LDC]: okay dann schick mir die files zuerst aber schick den rest dann auch also cd1 und den ton komplett
+|-=Flash=-|: joap
+|-=Flash=-|: also bist du dann da ?
+dj_turrican [LDC]: so in der art aber ich muss wieder runter, schick einfach das wichtigste zuerst und den rest danach
+|-=Flash=-|: 100%=
+dj_turrican [LDC]: 99%
+|-=Flash=-|: pass auf ich rufe dich nochmal an nachher
+|-=Flash=-|: cya
+dj_turrican [LDC]: wirst ja sehen wenn die files bei mir sind undich mich melde
+dj_turrican [LDC]: c.u.
+dj_turrican [LDC]: und schick die files endlich rüber das dauert ja wieder ewig *gg*
+|-=Flash=-|: ja muss die eben noch aufm dump holen
+dj_turrican [LDC]: aber bei mir kommste jetzt drauf?
+|-=Flash=-|: jojo
+dj_turrican [LDC]: okay dann geh ich mal wieder
+dj_turrican [LDC]: bis später
+dj_turrican [LDC]: nase was ist los ich bekomm keine files?
+|-=Flash=-|: na es kommt noch cd1
+|-=Flash=-|: 18uhr ist ton da
+|-=Flash=-|: haste da zeit?
+dj_turrican [LDC]: denke schon aber wenn du dich mit den files net beeilst reicht das mir nicht
+|-=Flash=-|: cd2
+|-=Flash=-|: kommt ja gleich
+|-=Flash=-|: du hast von da aus 90kbs
+|-=Flash=-|: dann
+|-=Flash=-|: und um 18uhr hausch dir ton rüber
+|-=Flash=-|: und 2std
+|-=Flash=-|: für die paar files reichen
+dj_turrican [LDC]: ok schick aber cd1 auch mit danach bis der ton kommt
+|-=Flash=-|: joap
+|-=Flash=-|: mach ich
+|-=Flash=-|: und du arbeite net so lange!
+dj_turrican [LDC]: bin wieder weg *gg*
+|-=Flash=-|: gg
+|-=Flash=-|: ich rufe dich aber nochmal an ^^
+Session Close (dj_turrican [LDC]): Wed Mar 05 16:14:20 2003
+
+
+Session Start (ICQ - 77571558:dj_turrican [LDC]): Wed Mar 05 18:27:14 2003
+dj_turrican [LDC]: hi bist du da?
+dj_turrican [LDC]: ich brauch ein paar files neu da war wohl ein fehler.
+dj_turrican [LDC]: und was ist mit dem ton?
+|-=Flash=-|: hmm der wird gerade noch überspielt
+|-=Flash=-|: gibt mir mal overwrite rechte oder soa
+dj_turrican [LDC]: hab die defekten gekillt
+dj_turrican [LDC]: aber die rechte richte ich trotzdem ein
+dj_turrican [LDC]: so jetzt geht es
+dj_turrican [LDC]: bis wann denkste ist es soweit mit dem ton? und was machen wir mit cd2?
+|-=Flash=-|: sinds nur die 3?
+dj_turrican [LDC]: 4 files
+|-=Flash=-|: welche noch?
+|-=Flash=-|: ahh hab scon
+dj_turrican [LDC]: 11 12 13 und 39
+|-=Flash=-|: aber speed ist ja wohl gail
+dj_turrican [LDC]: wenn du willst mach ich die cd1 fertig und der andere macht cd2 wenn er die files dafür haben sollte
+|-=Flash=-|: naja ist acp=)
+dj_turrican [LDC]: wie der andere?
+|-=Flash=-|: will nur nen dubbrace machen
+|-=Flash=-|: joap ich bina uch acp
+dj_turrican [LDC]: du auch?
+dj_turrican [LDC]: mensch du nase
+|-=Flash=-|: will nur schauen wer schneller dubbt
+dj_turrican [LDC]: werd gegen wenn?
+|-=Flash=-|: idu gegen den anderen dubber
+|-=Flash=-|: will nur schaune wer schneller ist
+dj_turrican [LDC]: hmm.... okay letz fetz
+|-=Flash=-|: gwinnste eh =)
+dj_turrican [LDC]: he ich hab promile *gg*
+dj_turrican [LDC]: schau mal nach bei r.11 fehlt wieder die hälfte *gg*
+|-=Flash=-|: das ist der kagg server
+|-=Flash=-|: habe da nen timeout von 2sec
+dj_turrican [LDC]: ich muss mal mit dem hund raus, du machst das schon. und nach dem ton schickste mir bitte auch cd2 weil meine liebste ist schon heiss auf den film
+dj_turrican [LDC]: boah ich stinke vielleicht. hab knoblauch gegessen *gg*
+dj_turrican [LDC]: *dichanhauch*
+|-=Flash=-|: hrhr
+|-=Flash=-|: =)
+|-=Flash=-|: ich habe auch knoblauch gefresse
+dj_turrican [LDC]: das hält gesund 
+|-=Flash=-|: joap
+|-=Flash=-|: ich darf gleich wieder taxi spielen
+dj_turrican [LDC]: jetzt kann meine liebste sich aber net beschweren das ich wieder so nach zigaretten rieche *gröhl*
+dj_turrican [LDC]: weisst du wann du mir die files schicken kannst?
+dj_turrican [LDC]: also den ton meine ich
+|-=Flash=-|: cd2 schicke ich dir glaubsch gedubbt
+|-=Flash=-|: ton wenna up ist
+dj_turrican [LDC]: wie lange ungefähr weil ich heute abend noch geschwind weg muss und der will wissen wann er da sein soll
+|-=Flash=-|: naja ansonstne schicke ich dir das gleich gedubbt
+|-=Flash=-|: ist ja auch kein thema
+dj_turrican [LDC]: nein ich will battlen *gg*
+dj_turrican [LDC]: ich hab morgen manhattan love story, hat schon jemand den dvd rip gemacht?
+|-=Flash=-|: joap s8
+|-=Flash=-|: mit dem ton von acp ;P
+dj_turrican [LDC]: ich hab ne eigene source morgen
+dj_turrican [LDC]: acp war ja echt mies das pfeifen im hiunetrgrund
+dj_turrican [LDC]: denkste das lohnt zu propern?
+|-=Flash=-|: hmm k/a
+|-=Flash=-|: kannst ja line holen=)
+dj_turrican [LDC]: naja kannste mal überlegen ich muss jetzt raus der hund wartet
+|-=Flash=-|: lass ihm
+|-=Flash=-|: inne
+|-=Flash=-|: ins haus pissen!
+dj_turrican [LDC]: gröhlll
+dj_turrican [LDC]: ne das ist net jut
+dj_turrican [LDC]: bin gleich wiedre da
+|-=Flash=-|: und ich muss um halb 8 wieder weg
+dj_turrican [LDC]: schick mir doch noch die files von cd2 solange der ton noch nicht da ist
+|-=Flash=-|: ich habe cd2 net das ist ja das prob
+|-=Flash=-|: wenn ichs schaffe die zu besorgen
+|-=Flash=-|: dann gibts die ansonstne gedubbt ;P
+dj_turrican [LDC]: oder so, vielen dank
+|-=Flash=-|: nee für dich net ;P
+dj_turrican [LDC]: für mich net.... wie darf ich das verstehn *gg*
+|-=Flash=-|: hast du jackass source eigentlich?
+dj_turrican [LDC]: nö nur ein paar files von cd1
+|-=Flash=-|: haste den acp
+|-=Flash=-|: net du hirni=)?
+|-=Flash=-|: habsch dir doch geschickt oder?
+dj_turrican [LDC]: den acp hab ich ja
+dj_turrican [LDC]: bloß von dem dvd rip hab ich nur ein paar files der rest ist net gekommen
+|-=Flash=-|: axo
+dj_turrican [LDC]: jau axo *gg*
+|-=Flash=-|: dann schicke ich dir mal cd2
+|-=Flash=-|: darste
+|-=Flash=-|: das wohl auch machen
+dj_turrican [LDC]: jau immer her damit, mach aber zuerst cd1 noch fertig da fehlt ja einiges glaube ich
+|-=Flash=-|: cd1 auch dann
+|-=Flash=-|: nee cd2 musste zuerst machen ;P
+dj_turrican [LDC]: jau ich mach den komplett
+dj_turrican [LDC]: okay dann eben cd2
+dj_turrican [LDC]: aber zuerst wird heute noch gebattelt
+dj_turrican [LDC]: hrhr
+|-=Flash=-|: hrhr
+dj_turrican [LDC]: so ich geh  dann mal und du rufst an sobald du mir den ton schicken tust.
+|-=Flash=-|: nee ;P
+|-=Flash=-|: klaro=)
+|-=Flash=-|: bärchen
+dj_turrican [LDC]: hrhr du nase. ich drück dich
+|-=Flash=-|: *zurückdrück*
+|-=Flash=-|: bekommste heute dann ne nachschicht aufgedrückt;P
+|-=Flash=-|: jackass ist in 3 h fertig den schaffste auch noch=)
+|-=Flash=-|: bekommst jetzt hier arbeit von mir
+|-=Flash=-|: weil da ist nix cutted usw
+dj_turrican [LDC]: alles bis 24 uhr schaffe ich heute noch
+|-=Flash=-|: beide ! =)
+|-=Flash=-|: wolltest du ent weg ;P?
+dj_turrican [LDC]: wenn du mir alle files bis mitternacht hast ja
+dj_turrican [LDC]: kein problem
+|-=Flash=-|: der ist um 22.15 fertig geflasht
+|-=Flash=-|: dann kommt ton
+|-=Flash=-|: das dauert so 20min
+dj_turrican [LDC]: reicht perfekt
+|-=Flash=-|: gut das ich jetzt acp bin kannsch dich wieder einspannen schnubbi
+dj_turrican [LDC]: jau das freut mich
+|-=Flash=-|: hrhr *umarm*
+dj_turrican [LDC]: knuddel
+|-=Flash=-|: *am arsch pack * :Ü
+dj_turrican [LDC]: gröhl

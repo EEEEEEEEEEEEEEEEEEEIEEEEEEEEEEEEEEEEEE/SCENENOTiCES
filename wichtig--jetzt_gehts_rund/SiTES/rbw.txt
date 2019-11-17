@@ -1,0 +1,99 @@
+18:26 200- [01] satcom       FIX IDLEUSERS PROBLEM    2,645   60,132MB   2002K/s
+18:26 200- [02] pnut         ...:TOWiSO:...           2,038   49,026MB   2440K/s
+18:26 200- [03] tratten      THD POWAH                1,902   48,524MB   2112K/s
+18:26 200- [04] lyr          dumdidum                 1,797   48,438MB   3394K/s
+18:26 200- [05] Mind         incoming...              2,131   41,725MB   2515K/s
+18:26 200- [06] Seth         *WoK*                    1,430   37,060MB   2411K/s
+18:26 200- [07] praedator    dont care about a tagl   1,346   33,563MB   2430K/s
+18:26 200- [08] morcheeba    attjo / prosit             921   30,754MB   2424K/s
+18:26 200- [09] Beta         papak                    1,250   27,240MB   2088K/s
+18:26 200- [10] nephilim     THE ANAKIM               1,166   25,101MB   1658K/s
+18:26 200- [11] voven        hi                       1,472   24,028MB   3111K/s
+18:26 200- [12] claustro     spank.me.harder          1,429   23,923MB   3699K/s
+18:26 200- [13] iezilop      TOWiSO                     993   22,026MB   1759K/s
+18:26 200- [14] devmire      Dunno how to set a tag     730   21,231MB   2053K/s
+18:26 200- [15] celik        .....                      612   20,648MB   1590K/s
+18:26 200- [16] tijus        ploep                      782   20,460MB   2450K/s
+18:26 200- [17] Da_L         die                        667   19,951MB   1110K/s
+18:26 200- [18] wader        Dunno how to set a tag     604   18,455MB   2200K/s
+18:26 200- [19] Spoonman     Feel the rhythm            552   18,446MB   2323K/s
+18:26 200- [20] mongo        pUBBERS cLUB dELUXE        669   18,124MB   1836K/s
+18:26 200- [21] Taz7         matter of Fact             532   18,117MB   2400K/s
+18:26 200- [22] booten       eNRAGE ON RAMPAGe          901   17,193MB   2644K/s
+18:26 200- [23] nrd          Web Of Lies                552   15,030MB   1765K/s
+18:26 200- [24] darkvoice    Dunno how to set a tag     587   14,929MB   1427K/s
+18:26 200- [25] Kehpri       PhArAcYdE                  609   14,234MB   1719K/s
+18:26 200- [26] xanthic      Rock'n'Roll is DEAD, L     593   13,881MB   1324K/s
+18:26 200- [27] fronk        hi                         670   13,554MB    175K/s
+18:26 200- [28] hdef         gio is the one to blam     525   13,443MB   3986K/s
+18:26 200- [29] FB           Beta's slon                434   13,185MB   1553K/s
+18:26 200- [30] checker      pHASE                      292   12,644MB   2152K/s
+18:26 200- [31] horror       flags 3N roxs              491   11,263MB   1812K/s
+18:26 200- [32] verry        TOWiSO                     335    9,442MB   1315K/s
+18:26 200- [33] stonefox     T-C-L                      379    9,343MB   1067K/s
+18:26 200- [34] ls           -+ AMNESiA iSO +-          334    9,249MB   1732K/s
+18:26 200- [35] orbith       There Can Be Only One      263    8,608MB   1053K/s
+18:26 200- [36] raz0r        mkdir not war              275    8,420MB   1420K/s
+18:26 200- [37] hoboslayer   Dunno how to set a tag     357    8,098MB   1398K/s
+18:26 200- [38] Neu          Dunno how to set a tag     329    8,049MB   2879K/s
+18:26 200- [39] piglo        Dunno how to set a tag     412    7,754MB   2114K/s
+18:26 200- [40] barbapappa   Dunno how to set a tag     167    7,501MB   3756K/s
+18:26 200- [41] gio          ehum                       208    6,291MB   2723K/s
+18:26 200- [42] sh0k         -(-T-C-L-)-                160    5,960MB   2863K/s
+18:26 200- [43] darkangel    + AMNESiA iSO +            182    5,889MB   1477K/s
+18:26 200- [44] 411          DiAL 411 4 iNFoRMaTiON     199    4,590MB   1634K/s
+18:26 200- [45] assmundo     <+> AMNESiA iSO <+>        106    4,570MB   2451K/s
+18:26 200- [46] cr           2nd place                  261    4,336MB   1543K/s
+18:26 200- [47] gsus         DEVOTiON                   154    4,101MB   1029K/s
+18:26 200- [48] sosso        Dunno how to set a tag     100    3,445MB   1384K/s
+18:26 200- [49] Caribax      Dunno how to set a tag      74    3,323MB   1588K/s
+18:26 200- [50] stix         xanthic's pimp             119    3,256MB   2821K/s
+18:26 200- [51] anakin       Dunno how to set a tag     129    3,223MB   2026K/s
+18:26 200- [52] siworae      //sonic:empire//            87    3,032MB   2881K/s
+18:26 200- [53] leppis       oHo                        196    2,526MB    476K/s
+18:26 200- [54] N1ght        Pharacyde                   64    2,227MB   1583K/s
+18:26 200- [55] frank        pff                         51    1,634MB   1591K/s
+18:26 200- [56] j4ck455      Dunno how to set a tag      45    1,433MB    922K/s
+18:26 200- [57] ombr3ux      site tagline                78    1,283MB   1698K/s
+18:26 200- [58] angela       Dunno how to set a tag      97    1,254MB   3650K/s
+18:26 200- [59] gambit       -+ AMNESiA iSO +-           22    1,219MB   2392K/s
+18:26 200- [60] 3825         Dunno how to set a tag      22    1,023MB   1023K/s
+18:26 200- [61] Janno        Dunno how to set a tag      25    1,015MB    926K/s
+18:26 200- [62] tsj          Dunno how to set a tag      80    1,008MB   1217K/s
+18:26 200- [63] SaViOuR      Dunno how to set a tag      25      813MB   2777K/s
+18:26 200- [64] khazad       Dunno how to set a tag      32      691MB   2192K/s
+18:26 200- [65] GuarDiaN     Dunno how to set a tag      41      638MB   1066K/s
+18:26 200- [66] fjellsboe    Dunno how to set a tag      45      596MB   2386K/s
+18:26 200- [67] Sniper       Dunno how to set a tag      18      495MB   1251K/s
+18:26 200- [68] Camelman     Dunno how to set a tag      11      491MB   1644K/s
+18:26 200- [69] rayburn      -+ AMNESiA iSO +-           18      476MB    748K/s
+18:26 200- [70] drone        Burp                        24      329MB   2067K/s
+18:26 200- [71] krizor       .;ascii whore;.              5      238MB   1684K/s
+18:26 200- [72] c00ler       Dunno how to set a tag      28      176MB    956K/s
+18:26 200- [73] Golferboy    Dunno how to set a tag      10      126MB   2023K/s
+18:26 200- [74] psych        Dunno how to set a tag       0      114MB      0K/s
+18:26 200- [75] auron        Dunno how to set a tag      11       69MB    610K/s
+18:26 200- [76] sugarfree    Dunno how to set a tag       5       57MB   1106K/s
+18:26 200- [77] wibble       Dunno how to set a tag       4       57MB   1363K/s
+18:26 200- [78] inoxxx       Dunno how to set a tag       4       57MB    732K/s
+18:26 200- [79] wildgoose    Dunno how to set a tag       1       47MB   4069K/s
+18:26 200- [80] lolzi        Dunno how to set a tag       1       47MB   1395K/s
+18:26 200- [81] muumi0       Dunno how to set a tag       3       42MB    543K/s
+18:26 200- [82] m4dFX        Dunno how to set a tag       2       18MB   1582K/s
+18:26 200- [83] sith         Dunno how to set a tag       0        0MB      0K/s
+
+rbw-1.is-a-geek.net:32323
+
+morcheeba:Change1
+voven:9613115
+voven:123456
+wader:JE632hg4
+darkvoice:darky76
+verry:verry
+Neu:ohadneu
+piglo:phase0wnz
+N1ght:hr3late
+khazad:kruttraktor1
+SaViOuR:123069me - UPNYA@66.56.*.*
+wildgoose:nightwalker
+auron:mikz

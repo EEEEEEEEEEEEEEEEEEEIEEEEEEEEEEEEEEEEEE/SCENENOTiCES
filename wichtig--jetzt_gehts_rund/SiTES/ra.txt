@@ -1,0 +1,132 @@
+[L] 230-          :  .    _                                                .  :
+[L] 230-          : ---- (/  SiTEiNFOS  /) -------------------------- << ---- :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |   RED ALERT POWERED BY 100 MBITS IN .NL & 1 TB      |  :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |               SUPPORTING ALL CONSOLES               |  :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |    _                                                |  :
+[L] 230-          : ---- (/ AFFiLiATiON /) -------------------------- << ---- :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |                                                     |  :
+[L] 230-          :  |   P.I.M.P ..................................: NLHQ  |  :
+[L] 230-          :  |   XiSO .....................................:  -    |  :
+[L] 230-          :  |   LiGHTFORCE/DARKFORCE .....................:  -    |  :
+[L] 230-          :  |   VL .......................................: NLHQ  |  :
+[L] 230-          :  |   WAR3X ....................................; NLHQ  |  :
+[L] 230-          :  |   WpR ......................................; NLHQ  |  :
+[L] 230-          :  |   AK47 .....................................; NLHQ  |  :
+[L] 230-          :  |   STINKYCUBE ...............................; NLHQ  |  :
+[L] 230-          :  |   XWaR .....................................; NLHQ  |  :
+[L] 230-          :  |   WjR ......................................; NLHQ  |  :
+[L] 230-          :  |                                                     |  :
+
+[R] 230-          : ---- (/  BOUNCERS!  /) -------------------------- << ---- :
+[R] 230-          :                                                           :
+[R] 230-          :     - 1. DE at 217.160.132.82:32767                       :
+[R] 230-          :     - 2. UK at 83.142.48.96:1975                          :
+[R] 230-          :     - 3. US at 208.53.170.187:1975                        : 
+[R] 230-          :     - 4. CA at 72.10.166.10:1975                          :
+[R] 230-          :     - 5. US2 at 67.43.225.131:1975                        :
+[R] 230-          :     - 6. UK2 at 194.106.36.8:1975                         :
+[R] 230-          :     - 7. DE2 at 217.151.80.83:1975                        :
+[R] 230-          :     - 8. DE3 at 217.160.219.65:32767                      :
+[R] 230-          :  |                                                     |  :
+
+
+[L] 200- [01] PhaSe        put a phase in your li   6,358  166,541MB   1308K/s
+[L] 200- [02] KAT          -->||+\002\00312OverRi   4,547  120,905MB    877K/s
+[L] 200- [03] efrem        aNaLf1llEr               1,521   54,962MB   2770K/s
+[L] 200- [04] nanna        No Tagline Set           2,863   45,627MB    386K/s
+[L] 200- [05] primus       No Tagline Set           2,135   36,872MB   1338K/s
+[L] 200- [06] jface        el.mucho.grande.gigant   1,562   34,846MB   2967K/s
+[L] 200- [07] FallenAngel  No Tagline Set             790   29,457MB    163K/s
+[L] 200- [08] sharker      No Tagline Set             743   28,086MB    134K/s
+[L] 200- [09] t0r          who helps?               1,120   22,807MB   1495K/s
+[L] 200- [10] BiZ          No Tagline Set             947   22,608MB   1717K/s
+[L] 200- [11] knk          No Tagline Set             816   21,898MB   2538K/s
+[L] 200- [12] Mike         No Tagline Set             640   20,208MB   1867K/s
+[L] 200- [13] JdC          No Tagline Set           1,344   18,215MB   1117K/s
+[L] 200- [14] DexterIV     -=KAMiKAZE RACiNG=-        924   18,113MB   2287K/s
+[L] 200- [15] moa          No Tagline Set             484   17,808MB    377K/s
+[L] 200- [16] cemi         No Tagline Set             844   17,583MB   2337K/s
+[L] 200- [17] rizou        No Tagline Set             927   17,512MB    950K/s
+[L] 200- [18] BaRnz        No Tagline Set             653   17,016MB   2555K/s
+[L] 200- [19] hudson_h     (*) LiGHTFORCE (*)         443   14,599MB   1169K/s
+[L] 200- [20] ShadoWolf    No Tagline Set             683   12,886MB    541K/s
+[L] 200- [21] err0r        No Tagline Set             594   12,063MB   1858K/s
+[L] 200- [22] MooN         No Tagline Set             248   11,368MB    203K/s
+[L] 200- [23] pwise        No Tagline Set             494   11,240MB   1618K/s
+[L] 200- [24] sav          No Tagline Set             626   10,681MB    915K/s
+[L] 200- [25] sympt        No Tagline Set             309    9,899MB    349K/s
+[L] 200- [26] b00          You All Bitches            410    9,446MB   2114K/s
+[L] 200- [27] sco0t        No Tagline Set             376    9,154MB   1015K/s
+[L] 200- [28] xero_cool    No Tagline Set             334    8,458MB    779K/s
+[L] 200- [29] extreme13    No Tagline Set             467    8,177MB   1971K/s
+[L] 200- [30] Pyro         No Tagline Set             221    7,755MB   3494K/s
+[L] 200- [31] BKilla       No Tagline Set             369    7,641MB   1850K/s
+[L] 200- [32] gat          No Tagline Set             327    7,634MB   1508K/s
+[L] 200- [33] jpnop        No Tagline Set             325    7,419MB   1547K/s
+[L] 200- [34] GaryZelda    No Tagline Set             431    7,318MB   1872K/s
+[L] 200- [35] lordGFX      No Tagline Set             245    6,805MB   2492K/s
+[L] 200- [36] XWaRRioR     .a.S.i.A.                  154    6,384MB    223K/s
+[L] 200- [37] fnz          No Tagline Set             302    6,160MB   1836K/s
+[L] 200- [38] ravenlord    No Tagline Set             189    5,807MB   2356K/s
+[L] 200- [39] nimo         No Tagline Set             196    5,721MB    515K/s
+[L] 200- [40] divouss      No Tagline Set             242    5,553MB   1231K/s
+[L] 200- [41] cruserx      cya                        188    4,818MB   2018K/s
+[L] 200- [42] Wappie       No Tagline Set             100    4,384MB   1367K/s
+[L] 200- [43] Cleanup      No Tagline Set             117    3,997MB   1287K/s
+[L] 200- [44] mrfutur      tagged                     167    3,696MB   3517K/s
+[L] 200- [45] Satan        No Tagline Set             104    3,544MB   1595K/s
+[L] 200- [46] TigRwDz      No Tagline Set              73    3,228MB    128K/s
+[L] 200- [47] AxxDenied    No Tagline Set             214    3,085MB    531K/s
+[L] 200- [48] slymer       No Tagline Set              70    3,059MB    941K/s
+[L] 200- [49] raz0r        No Tagline Set             141    3,050MB   2887K/s
+[L] 200- [50] d-fens       No Tagline Set              94    2,755MB   1587K/s
+[L] 200- [51] darkrad      No Tagline Set             137    2,734MB   1434K/s
+[L] 200- [52] ziya         No Tagline Set             188    2,730MB   1984K/s
+[L] 200- [53] pinda        i hope i can stay          124    2,657MB    851K/s
+[L] 200- [54] erniee       No Tagline Set             102    2,568MB   2576K/s
+[L] 200- [55] Smoke        No Tagline Set              87    2,454MB   1161K/s
+[L] 200- [56] raga         d.s.td.s.t                 159    2,280MB   3440K/s
+[L] 200- [57] junior       No Tagline Set             128    2,191MB   1772K/s
+[L] 200- [58] TheOne       No Tagline Set              73    2,068MB   1606K/s
+[L] 200- [59] NEiTHER      No Tagline Set              95    2,031MB   1083K/s
+[L] 200- [60] celik        No Tagline Set             120    1,827MB   1401K/s
+[L] 200- [61] th0r         No Tagline Set             109    1,630MB    976K/s
+[L] 200- [62] ikari        SDM                         59    1,601MB   5796K/s
+[L] 200- [63] darks        No Tagline Set              43    1,433MB    241K/s
+[L] 200- [64] jamon        No Tagline Set              64    1,193MB   1443K/s
+[L] 200- [65] sidar        No Tagline Set              26    1,057MB   2412K/s
+[L] 200- [66] Mario        No Tagline Set              59      980MB   1606K/s
+[L] 200- [67] danjef       No Tagline Set              61      972MB   2024K/s
+[L] 200- [68] nautilus     No Tagline Set              23      766MB    480K/s
+[L] 200- [69] esprite      No Tagline Set              33      726MB   1447K/s
+[L] 200- [70] Buka         No Tagline Set              20      715MB     93K/s
+[L] 200- [71] astral       No Tagline Set              33      646MB   1507K/s
+[L] 200- [72] checker      No Tagline Set              13      619MB   1845K/s
+[L] 200- [73] devil        No Tagline Set              16      571MB   1871K/s
+[L] 200- [74] asch         No Tagline Set              29      561MB    647K/s
+[L] 200- [75] HaaG         No Tagline Set              28      473MB    777K/s
+[L] 200- [76] 44           No Tagline Set              25      445MB   1783K/s
+[L] 200- [77] Ps2-DutcH    No Tagline Set              29      443MB    841K/s
+[L] 200- [78] iORi         No Tagline Set              10      442MB   2727K/s
+[L] 200- [79] auron        No Tagline Set              30      417MB    704K/s
+[L] 200- [80] kulgan       No Tagline Set              27      368MB   6088K/s
+[L] 200- [81] fosil        No Tagline Set              27      339MB    271K/s
+[L] 200- [82] d0nPaBL0     No Tagline Set               9      209MB   2720K/s
+[L] 200- [83] accez        suck me beautiful            6      106MB   2939K/s
+[L] 200- [84] N14r         No Tagline Set               6       71MB    939K/s
+[L] 200- [85] satchmo      No Tagline Set               3       61MB   3734K/s
+[L] 200- [86] geanuri      No Tagline Set               1       19MB    698K/s
+[L] 200- [87] ViNCeNT      No Tagline Set               3       14MB    458K/s
+[L] 200- [88] blood        No Tagline Set               1       14MB   4883K/s
+[L] 200- [89] dyzma        No Tagline Set               1       14MB  14648K/s
+[L] 200- [90] Zeukiller    No Tagline Set               3       14MB   1796K/s
+[L] 200- [91] mistake      No Tagline Set               1       12MB    355K/s
+[L] 200- [92] skylla       No Tagline Set              17        1MB     84K/s
+[L] 200- [93] RKR          No Tagline Set               2        0MB      6K/s
+[L] 200 Command Successful.

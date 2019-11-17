@@ -1,0 +1,509 @@
+We_Steal_From-Torrent_Sites-2009-SCENE_NOTICE-WuSiWuG
+Date: 2009-01-04
+
+
+First off, SORRY. This is long. I included a pile of proof. I hate scene notices that don't
+back up their claims with proof. They're usually pre'd by rival groups trying to get the subject of
+the scene notice a bad name. These aren't claims. These are facts, and I have nothing to gain by
+preing this, except a *slightly* more secure scene. They'll probably just change name and get
+affil'd on another site but hopefully any legit sites will be more careful in future.
+
+
+
+So... who else noticed the nice 720p HDTV movies WuSiWuG had been preing?
+
+I'd never heard of them, but they seem to pre everything. X264, MP3, XViD, PS3, Swedish stuff...
+There aren't that many groups with their fingers in so many pies...
+
+Anyway, these movies they'd been preing, they're all stuff that hasn't gone/might never go retail
+on bluray. Nice movies that, for whatever reason, aren't available to buy in HD. Their pres fill
+a gap. Fair play to them.
+
+But... They're preing stuff capped from all over the world. Stuff that aired on UK telly, US, DE,
+the list goes on. Odd thing number 2.
+
+THEN, they pre'd A.Beautiful.Mind.2001.HDTV.720p.x264-WuSiWuG which appears to have had the credits
+cut off, then the credits capped from an old VHS tape or something tacked on at the end. The credits
+are horrible quality. A friend suggested that perhaps they showed the credits in a little box on
+the screen, and showed what's coming on next on the rest of the screen, and whoever capped it
+has resized that corner of the screen to full screen. Either way it's awful quality and that's
+classic P2P group behaviour.
+
+But they're not a P2P group, *as such*.
+
+They just steal all their stuff from P2P groups.
+
+If you have a site with these guys on it, make sure the siteop sees this evidence, it's pretty damning.
+There's no way they can possibly deny it. Whatever WuSiWuG pre, it hit torrents days, weeks or even
+months before. The nice thing is, if you open up x264 movies in mediainfo, it tells you the time and
+date it was encoded. Same time for the P2P releases, and then the WuSiWuG pres, which pre'd after the
+P2P stuff.
+
+Horrendous coincidence, I'm sure they'll claim.
+
+The MD5 hashes are the same for WuSiWuG pres and the ORIGINAL P2P releases.
+
+So, to recap.
+
+P2P releases appear first.
+WuSiWuG steals them and pres them in the scene.
+The files have the exact same size, the same MD5 hash, and the headers hold exactly the same information
+on the settings used and the date and time it was encoded.
+
+These wankers clearly steal a significant portion of their releases from P2P. Here are the confirmed
+steals, along with links to torrent sites the files were on before WuSiWuG stole them and pre'd them.
+
+If you share a site with these losers, make sure the siteop purges them or you. These guys are stealing
+from P2P so the chances are they're leaking back to P2P as well. Either way, we can hardly say we don't
+condone scene stuff ending up on torrents when we condone "scene" groups stealing from them.
+
+Here's the confirmed steals so far.
+
+
+
+(1) A.Fish.Called.Wanda.1988.HDTV.720p.x264-WuSiWuG
+Which pre'd on: 2008-11-22 according to the nfo. The prebots I checked don't appear to have it.
+
+Stolen from: A Fish Called Wanda 1988 HDTV 720p x264 AC3-2 0 [CHD]
+Which appeared on torrents on: 2007-04-07
+http://www.mininova.org/tor/653112
+
+
+
+(2) Borat.2006.HDTV.MULTI.720p.DTS.x264-WuSiWuG
+Which pre'd on: 2008-11-20
+
+Stolen from: Borat.2006.720p.DTS.HDTV.x264-ESiR
+which appeared on torrents on: 2008-11-04
+http://www.btmon.com/Other/Other/Borat.2006.720p.DTS.HDTV.x264-ESiR.torrent.html
+
+
+
+(3) Garden.State.2004.HDTV.720p.x264-WuSiWuG
+Which pre'd on: 2008-11-21
+
+Stolen from: Garden.State.2004.720p.HDTV.x264-NiX
+which appeared on torrents on: 2008-11-09
+http://www.mininova.org/tor/1994082
+
+
+
+(4) Lock.Stock.and.Two.Smoking.Barrels.1998.MULTI.HDTV.720p.x264-WuSiWuG
+Which pre'd on: 2008-11-17
+
+Stolen from: Lock.Stock.And.Two.Smoking.Barrels.1998.720p.HDTV.x264-McFly
+which appeared on torrents on: 2008-11-15
+http://www.mininova.org/tor/2012288
+
+
+
+
+(5) O.Brother.Where.Art.Thou.2000.HDTV.720p.x264-WuSiWuG
+Which pre'd on: 2008-12-01
+
+Stolen from: O.Brother.Where.Art.Thou.2000.720p.HDTV.x264-MMI
+which appeared on torrents on: 2008-11-25
+http://www.mininova.org/tor/2039677
+
+
+
+
+(6) Taxi.Driver.1976.HDTV.720p.DTS.x264-WuSiWuG
+which pre'd on: 2008-11-21
+
+Stolen from: Taxi.Driver.1976.720p.HDTV.DTS.x264-HD
+which appeared on torrents on: 2008-11-15
+http://www.mininova.org/tor/2012681
+
+
+
+Obviously just having done the same stuff as torrent groups doesn't mean they're stealing
+from torrents, so how about some proof? :D
+
+
+
+
+A Fish Called Wanda
+-----------------------------------------------------------------------------------------------------
+General
+Complete name                    : F:\wusi\A.Fish.Called.Wanda.1988.HDTV.720p.x264.AC3-2.0.mkv
+Format                           : Matroska
+File size                        : 4.35 GiB
+Duration                         : 1h 47mn
+Overal bit rate                  : 5779 Kbps
+Encoded date                     : UTC 2007-04-02 14:27:09
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+General
+Complete name                    : F:\wusi\a.fish.called.wanda.1988.hdtv.720p.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.35 GiB
+Duration                         : 1h 47mn
+Overal bit rate                  : 5779 Kbps
+Encoded date                     : UTC 2007-04-02 14:27:09
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+MD5: 31FA3E403BEB3A5BBE05FA8874CEADC8 a.fish.called.wanda.1988.hdtv.720p.x264-wusiwug.mkv
+MD5: 31FA3E403BEB3A5BBE05FA8874CEADC8 A.Fish.Called.Wanda.1988.HDTV.720p.x264.AC3-2.0.mkv
+
+
+
+
+Borat
+-----------------------------------------------------------------------------------------------------
+General
+Complete name                    : F:\wusi\Borat.2006.720p.DTS.HDTV.x264-ESiR.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 20mn
+Overal bit rate                  : 7780 Kbps
+Encoded date                     : UTC 2007-05-12 13:26:38
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+General
+Complete name                    : F:\wusi\borat.2006.hdtv.720p.dts.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 20mn
+Overal bit rate                  : 7780 Kbps
+Encoded date                     : UTC 2007-05-12 13:26:38
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+MD5: 69A84F3392DFCC9BFADFB936F5C0CAB8 Borat.2006.720p.DTS.HDTV.x264-ESiR.mkv
+MD5: 69A84F3392DFCC9BFADFB936F5C0CAB8 borat.2006.hdtv.720p.dts.x264-wusiwug.mkv
+
+
+
+
+Garden State *
+-----------------------------------------------------------------------------------------------------
+* Wusi's *seems* to have been encoded at a later date, but that's the date the MKV was muxed, not the date anything was encoded.
+For this movie, a little more investigation was needed, so I've provided the full mediainfo output.
+
+General
+Complete name                    : F:\wusi\Garden.State.2004.OAR.720p.x264.DD5.1-NiX.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 41mn
+Overal bit rate                  : 6150 Kbps
+Encoded date                     : UTC 2007-06-05 22:25:45
+Writing application              : mkvmerge v2.0.0 ('After The Rain Has Fallen') built on Apr 16 2007 08:48:38
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 41mn
+Bit rate                         : 5450 Kbps
+Nominal bit rate                 : 3440 Kbps
+Width                            : 1280 pixels
+Height                           : 544 pixels
+Display aspect ratio             : 2.35
+Frame rate                       : 23.976 fps
+Original frame rate              : 25.000 fps
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.206
+Title                            : x264 720p
+Writing library                  : x264 core 55 svn-656M
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=7 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=1 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=3440 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.3:15.0
+Language                         : English
+
+Audio
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Rear: L R, LFE
+Sampling rate                    : 48.0 KHz
+Title                            : AC3 DD5.1 448kbit
+Language                         : English
+
+General
+Complete name                    : F:\wusi\garden.state.2004.hdtv.720p.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 41mn
+Overal bit rate                  : 6150 Kbps
+Encoded date                     : UTC 2008-11-20 22:03:36
+Writing application              : mkvmerge v2.4.0 ('Fumbling Towards Ecstasy') built on Oct 11 2008 20:13:15
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 8 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 41mn
+Bit rate                         : 5450 Kbps
+Nominal bit rate                 : 3440 Kbps
+Width                            : 1280 pixels
+Height                           : 544 pixels
+Display aspect ratio             : 2.35
+Frame rate                       : 23.976 fps
+Original frame rate              : 25.000 fps
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.206
+Title                            : x264 720p
+Writing library                  : x264 core 55 svn-656M
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=7 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=1 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=3440 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.3:15.0
+Language                         : English
+
+Audio
+Format                           : AC-3
+Format/Info                      : Audio Coding 3
+Codec ID                         : A_AC3
+Duration                         : 1h 41mn
+Bit rate mode                    : Constant
+Bit rate                         : 448 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Rear: L R, LFE
+Sampling rate                    : 48.0 KHz
+Title                            : AC3 DD5.1 448kbit
+Language                         : English
+
+The important lines are
+
+Garden.State.2004.HDTV.720p.x264-WuSiWuG                              cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=7 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=1 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=3440 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.3:15.0
+Garden.State.2004.720p.HDTV.x264-NiX                                  cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=7 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=1 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=3440 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.3:15.0
+
+100% Identical x264 settings. To give a sense of perspective, here are some x264 settings from other releases/groups.
+
+Lock.Stock.and.Two.Smoking.Barrels.1998.MULTI.HDTV.720p.x264-WuSiWuG  cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=7 / rdcmp=psy / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=5704 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=1.00 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=2:1.00
+Futurama.Benders.Game.2008.STV.720p.BluRay.x264-SiNNERS               cabac=1 / ref=5 / deblock=1:0:0 / analyse=0x3:0x113 / me=umh / subme=7 / psy_rd=1.0:0.0 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=0 / deadzone=21,11 / chroma_qp_offset=-2 / threads=6 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=1 / wpredb=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=2805 / ratetol=1.0 / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:1.00
+
+Take a look at some other 720p movies in mediainfo - everyone uses different settings, and the chances of two different people using the exact same settings
+to encode the same thing are pretty small. The odds are too high for it to be a coincidence. These are the same encodes, but wusi's has been remuxed for
+some reason. Perhaps to fix sync problems with the original, or in a pretty weak attempt to make it look like it's not stolen.
+
+I attempted to extract the audio and video from both the WuSiWuG and the NiX release, to compare MD5s of the raw streams. The NiX wouldn't open in
+MKVExtractGUI. The headers were corrupt. I remuxed the NiX release in MKVmerge, which didn't seem to mind the corrupt headers.
+
+After remuxing the NiX to a new file using MKVMerge and extracting the streams from THAT file in MKVExtractGUI, here's the MD5s of the streams.
+
+CB54C3FDA64707EA08E823272D86B46F garden.state.2004.hdtv.720p.x264-wusiwug_Track2.ac3
+CB54C3FDA64707EA08E823272D86B46F Garden.State.2004.OAR.720p.x264.DD5.1-NiX-remux_Track2.ac3
+FE40440D45823F9303F38AD253FCED40 garden.state.2004.hdtv.720p.x264-wusiwug_Track1.h264
+FE40440D45823F9303F38AD253FCED40 Garden.State.2004.OAR.720p.x264.DD5.1-NiX-remux_Track1.h264
+
+So identical then. The WuSiWuG pre IS the NiX one, remuxed.
+
+
+
+
+Lock Stock And Two Smoking Barrels
+-----------------------------------------------------------------------------------------------------
+General
+Complete name                    : F:\wusi\Lock.Stock.and.Two.Smoking.Barrels.(1998).HDTV.720p.x264-McFly.mkv
+Format                           : Matroska
+File size                        : 4.37 GiB
+Duration                         : 1h 42mn
+Overal bit rate                  : 6091 Kbps
+Encoded date                     : UTC 2008-10-28 14:28:52
+Writing application              : mkvmerge v2.3.0 ('Freak U') built on Sep  8 2008 18:32:16
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+--------------------------------------
+
+General
+Complete name                    : F:\wusi\lsatsb.1998.hdtv.720p.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.37 GiB
+Duration                         : 1h 42mn
+Overal bit rate                  : 6091 Kbps
+Encoded date                     : UTC 2008-10-28 14:28:52
+Writing application              : mkvmerge v2.3.0 ('Freak U') built on Sep  8 2008 18:32:16
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+MD5: 10925E1E31EFF7C1A2D26419547A8543 Lock.Stock.and.Two.Smoking.Barrels.(1998).HDTV.720p.x264-McFly.mkv
+MD5: 10925E1E31EFF7C1A2D26419547A8543 lsatsb.1998.hdtv.720p.x264-wusiwug.mkv
+
+
+
+
+O Brother, Where Art Thou?
+-----------------------------------------------------------------------------------------------------
+General
+Complete name                    : F:\wusi\O BROTHER, WHERE ART THOU - HDTV - 720p DD5.1 x264 MMI.mkv
+Format                           : Matroska
+File size                        : 4.30 GiB
+Duration                         : 1h 47mn
+Overal bit rate                  : 5740 Kbps
+Encoded date                     : UTC 2008-11-20 22:34:36
+Writing application              : mkvmerge v2.2.0 ('Turn It On Again') built on Mar  4 2008 12:58:26
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+--------------------------------------
+
+General
+Complete name                    : F:\wusi\o.brother.where.art.thou.2000.hdtv.720p.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.30 GiB
+Duration                         : 1h 47mn
+Overal bit rate                  : 5740 Kbps
+Encoded date                     : UTC 2008-11-20 22:34:36
+Writing application              : mkvmerge v2.2.0 ('Turn It On Again') built on Mar  4 2008 12:58:26
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+
+MD5: 857CAD1169C9BC5D5704F0A57566E6D9 O BROTHER, WHERE ART THOU - HDTV - 720p DD5.1 x264 MMI.mkv
+MD5: 857CAD1169C9BC5D5704F0A57566E6D9 o.brother.where.art.thou.2000.hdtv.720p.x264-wusiwug.mkv
+
+
+
+
+Taxi Driver *
+-----------------------------------------------------------------------------------------------------
+* Like Garden State, Wusi's *seems* to have been encoded at a later date, but that's the date the MKV was
+muxed, not the date anything was encoded. For this movie, a little more investigation was needed, so
+I've provided the full mediainfo output.
+
+General
+Complete name                    : F:\wusi\Taxi.Driver.1976.720p.HDTV.DTS.x264.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 53mn
+Overal bit rate                  : 5480 Kbps
+Encoded date                     : UTC 2008-04-03 19:11:32
+Writing application              : mkvmerge v2.0.2 ('You're My Flame') built on Feb 21 2007 23:40:55
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 53mn
+Bit rate                         : 4484 Kbps
+Nominal bit rate                 : 4722 Kbps
+Width                            : 1280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16/9
+Frame rate                       : 23.976 fps
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.214
+Writing library                  : x264 core 58 svn-736M
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=7 / me-prepass=0 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=4722 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=1.00 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.5:13.0
+Language                         : English
+
+Audio
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Codec ID                         : A_DTS
+Duration                         : 1h 53mn
+Bit rate                         : 768 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Surround: L R, LFE
+Sampling rate                    : 48.0 KHz
+Resolution                       : 16 bits
+Language                         : English
+
+Text #1
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : English
+
+Text #2
+Format                           : UTF-8
+Codec ID                         : S_TEXT/UTF8
+Codec ID/Info                    : UTF-8 Plain Text
+Language                         : Spanish
+
+--------------------------------------
+
+General
+Complete name                    : F:\wusi\taxi.driver.1976.hdtv.720p.dts.x264-wusiwug.mkv
+Format                           : Matroska
+File size                        : 4.36 GiB
+Duration                         : 1h 53mn
+Overal bit rate                  : 5480 Kbps
+Encoded date                     : UTC 2008-11-20 11:23:11
+Writing application              : mkvmerge v2.4.0 ('Fumbling Towards Ecstasy') built on Oct 11 2008 20:13:15
+Writing library                  : libebml v0.7.7 + libmatroska v0.8.1
+
+Video
+Format                           : AVC
+Format/Info                      : Advanced Video Codec
+Format profile                   : High@L5.1
+Format settings, CABAC           : Yes
+Format settings, ReFrames        : 5 frames
+Codec ID                         : V_MPEG4/ISO/AVC
+Duration                         : 1h 53mn
+Bit rate                         : 4486 Kbps
+Nominal bit rate                 : 4722 Kbps
+Width                            : 1280 pixels
+Height                           : 720 pixels
+Display aspect ratio             : 16/9
+Frame rate                       : 23.976 fps
+Colorimetry                      : 4:2:0
+Scan type                        : Progressive
+Bits/(Pixel*Frame)               : 0.214
+Writing library                  : x264 core 58 svn-736M
+Encoding settings                : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=7 / me-prepass=0 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=4722 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=1.00 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.5:13.0
+Language                         : English
+
+Audio
+Format                           : DTS
+Format/Info                      : Digital Theater Systems
+Codec ID                         : A_DTS
+Duration                         : 1h 53mn
+Bit rate                         : 768 Kbps
+Channel(s)                       : 6 channels
+Channel positions                : Front: L C R, Surround: L R, LFE
+Sampling rate                    : 48.0 KHz
+Resolution                       : 16 bits
+Language                         : English
+
+As you can see, the only difference is that HD's release has subs muxed into the MKV. It looks like WuSiWuG have just removed the subtitles.
+Perhaps the subtitles had a little mention from the original ripper in them and WuSiWuG are too stupid to edit subtitles?
+
+Taxi.Driver.1976.HDTV.720p.DTS.x264-WuSiWuG      : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=7 / me-prepass=0 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=4722 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=1.00 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.5:13.0
+Taxi.Driver.1976.720p.HDTV.DTS.x264-HD           : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x113 / me=umh / subme=7 / me-prepass=0 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=1 / 8x8dct=1 / cqm=2 / deadzone=21,11 / chroma_qp_offset=0 / threads=3 / nr=0 / decimate=1 / mbaff=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=3 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40(pre) / rc=2pass / bitrate=4722 / ratetol=1.0 / rceq='blurCplx^(1-qComp)' / qcomp=1.00 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30 / aq=1:0.5:13.0
+
+Identical x264 settings again. I've demuxed the audio and video again, to prove that the encoded streams are identical, just the container's been
+messed around with. This time the original container opened fine in MKVExtractGUI.
+
+again, the MD5s of the extracted video and audio are identical.
+
+753035D226B24473FF5741A62036CB8E taxi.driver.1976.hdtv.720p.dts.x264-wusiwug_Track2.dts
+753035D226B24473FF5741A62036CB8E Taxi.Driver.1976.720p.HDTV.DTS.x264_Track2.dts
+1035407876E19DE241ECDFB65AB13C46 Taxi.Driver.1976.720p.HDTV.DTS.x264_Track1.h264
+1035407876E19DE241ECDFB65AB13C46 taxi.driver.1976.hdtv.720p.dts.x264-wusiwug_Track1.h264
+
+
+As I've shown here, at least 6 of their x264 pres in the last 6 weeks have been stolen from torrents.
+
+WuSiWuG stuff doesn't spread at all well so these are the only things I've been
+able to check. I'm in no doubt that tons of their other stuff is stolen from P2P as well.
+
+Either way, these guys are insecure and have no place in the scene. Purge them and any groups they're
+associated with.
+
+I'm giving their sites the benefit of the doubt for now, so I won't be mentioning any site names YET,
+but if other places are found to still be affiling them then who knows, maybe info will leak
+about sites who affil known P2P-connected groups. These guys risk the security of fellow affils and
+racers and, potentially, anywhere that gets files fxp'd to it from their presites.
+
+Bring this notice to the siteops' attention, there won't be a second warning.
+
+Here's to making the scene more secure in 2009!
+
+Happy new year to everyone except P2P stealers, P2P leakers and leech selling scum.

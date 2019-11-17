@@ -1,0 +1,574 @@
+Ok, now everybody should know the truth about DM.uk aka E aka PH aka UE.
+
+I am actually the man who had the job to setup the site and etc and now
+i write this to warn every affils or traders that still dont have any
+clue about whats going on behind.
+
+Let's remember some nasty things. Some months ago when the site first
+started(UE) there was a scene nfo being released by someone unknown:
+Ue_and_the_uk_paysite_revolution almost everyone tough it was bullshit
+and even me. So we changed name to PH to stop the rumors. And then changed
+to E and then to DM for random reasons.
+
+Ok here is what actually made me leave the site at first:
+
+some time ago 360(owner) asked me to hide his userfile so that hes not
+show in download stats so that people dont ask questions. So after then
+i noticed that he logs on the ftp each 10 minutes to see if there is
+something new and then mirror it to the lan site at 60mb sec or so.
+We had two nic on the box one for lan only and one for internet thats why
+the speed wasent affected by all this mess. Each single release was
+mirrored from him i can confirm it!
+
+For users asking who is 360 it's tarn... Those we knows about him already
+know its a well known seller. I simply couldnt agree on it untill now.
+
+For those who still on site and still dont beleive it, try to see how
+much 360 did leech from the site, its imposible because his userfile is
+hidden(Chown 99.99). Aint that strange????? What else umm? The site
+have almost all sections and all sections rules are allowing the much
+as possible so the owners 360 and megaman can sell even more...
+
+here is some log of chat i had with ikari just before i dropped the site:
+
+[09:48:07] <ikari-> > yo
+[09:48:09] <ikari-> > was wondering
+[09:48:20] <ME> ?
+[09:48:22] <ikari-> > can i add another 200 users from the p2p scene?
+[09:48:29] <ikari-> > hehe
+[09:48:43] <ME> dont care
+[09:48:52] <ME> but ur doing well
+[09:49:54] <ikari-> > ty
+[09:50:09] <ikari-> > mate , please try and lighten up 
+[09:50:16] <ikari-> > your taking the scene too serious
+[09:50:22] <ikari-> > don`t be like the others
+[09:50:25] <ikari-> > your better than that
+[09:50:41] <ME> nah
+[09:50:46] <ME> i just wanna be safe
+[09:51:01] <ikari-> > u are
+[09:51:02] <ikari-> > trust me
+[09:51:38] <ME> nope
+[09:53:59] <ME> and adding legendeN is worst shit u made :(
+[09:54:10] <ikari-> > well anyone could be a risk
+[09:54:19] <ikari-> > as long as he supports
+[09:54:21] <ikari-> > i don`t care
+[09:54:23] <ME> but him is a big risk
+[09:54:27] <ikari-> > why?
+[09:54:27] <ME> he has a big mouth
+[09:54:32] <ikari-> > lol
+[09:55:40] <ME> dude why do u come here speaking to me to calm down? i am leaving u should be happy
+[09:55:43] <ikari-> > or what i`m like
+[09:55:58] <ikari-> > your leaving?
+[09:56:14] <ME> i said it twice now
+[09:56:18] <ikari-> > cool
+[09:56:44] <ikari-> > now watch me & pcd
+[09:56:48] <ikari-> > make the site uber leet ;)
+[09:57:03] <ME> as long as i keep my custom scripts i dont care
+[09:57:16] <ikari-> > well thats between u & 360
+[09:57:20] <ikari-> > none of my business
+[09:57:36] <ME> that lamer changed the root pass
+[09:57:44] <ME> u see how much he dont trust me
+[09:57:49] <ikari-> > well
+[09:57:52] <ikari-> > i don`t blame him
+[09:57:54] <ikari-> > u are trouble
+[09:58:02] <ME> like if i would delete anything from box
+[09:58:03] <ME> damnit
+[09:58:08] <ikari-> > or very agitated
+[09:58:15] <ikari-> > do u have irl problems at all?
+[09:58:32] <ME> none of ur business
+[09:58:36] <ikari-> > lol
+[09:58:39] <ikari-> > thats true
+[09:58:44] <ikari-> > just a question tho..
+[09:59:28] <ikari-> > i just can`t take the scene seriously these days
+[09:59:32] <ikari-> > the whole scene is a joke
+[09:59:47] <ikari-> > grps like dst & tfa have destroyed the fun in the scene
+[09:59:52] <ME> well i can, scene has politics
+[09:59:54] <ikari-> > by making all there sites private
+[10:00:01] <ikari-> > the scene is no longer fun 
+[10:00:09] <ikari-> > hence my cowboy attitude
+[10:00:33] <ME> well maybe theres a reason of their act
+[10:00:35] <ikari-> > well your scripting owns
+[10:00:41] <ME> maybe cuz too much ppl getting into scene
+[10:00:44] <ikari-> > just a shame about your childish attitude
+[10:01:02] <ikari-> > but most dst & tfa ppl are kiddies
+[10:01:03] <ME> too much lamers being added on good sites like DM
+[10:01:14] <ikari-> > me & 360 don`t care
+[10:01:17] <ikari-> > dm is fine
+[10:01:21] <ikari-> > a few lamers on every site
+[10:01:24] <ikari-> > its not unusual
+[10:01:27] <ME> u will care when site will get busted man
+[10:01:31] <ikari-> > nah
+[10:01:36] <ikari-> > any site can be busted
+[10:01:43] <ikari-> > adding lamers doesn`t make that happen any quicker
+[10:01:47] <ME> dunno whats going on on that isp background but 360 have an other mirror site
+[10:02:00] <ikari-> > well thats his business
+[10:02:04] <ikari-> > u should learn to keep out
+[10:02:26] <ME> nope
+[10:02:33] <ME> u dont care u dont connect to box
+[10:02:34] <ikari-> > u should man
+[10:02:35] <ME> i DO
+[10:02:35] <ikari-> > its rude
+[10:02:44] <ME> and using my own isp cuz i dont have any proxy
+[10:02:52] <ikari-> > whos the lamer now?
+[10:02:56] <ikari-> > u see my point
+[10:03:01] <ikari-> > what is a lamer anyway
+[10:03:08] <ikari-> > someone who doesn`t have elite site access?
+[10:03:11] <ME> thats a good question :(
+[10:03:14] <ikari-> > that makes them safe?
+[10:03:16] <ikari-> > heh
+[10:03:20] <ME> everyone has his own definition prob
+[10:03:25] <ikari-> > i would say ppl who are added to elite sites
+[10:03:28] <ikari-> > are more dangerous
+[10:03:30] <ikari-> > to have on dm
+[10:03:37] <ikari-> > they are more likely to get busted
+[10:03:39] <ikari-> > than lamers are
+[10:03:43] <ikari-> > think like that ;)
+[10:03:51] <ME> heh
+[10:04:03] <ikari-> > now u see
+[10:04:08] <ikari-> > the reason i am 
+[10:04:09] <ikari-> > like i am
+[10:04:10] <ikari-> > ;)
+[10:04:21] <ikari-> > i 100% understand u
+[10:04:25] <ikari-> > just u don`t always follow me
+[10:04:32] <ikari-> > which is fine
+[10:04:39] <ikari-> > we all have our own ways
+[10:04:42] <ikari-> > of doing things
+[10:04:47] <ikari-> > i agree dm could be much better
+[10:04:48] <ME> anyway i dont care anymore, i made my choice and wont revert until we restart over with something safe, clean and tight userdb
+[10:04:50] <ikari-> > but its good enough
+[10:04:56] <ikari-> > for 360
+[10:05:00] <ikari-> > so its good enough for me
+[10:05:07] <ikari-> > ok dokey
+[10:05:10] <ikari-> > pls tell 360
+[10:05:14] <ikari-> > so we can decide
+[10:05:17] <ME> i am trying
+[10:05:18] <ikari-> > how to carry on
+[10:05:25] <ME> but he dont care really
+[10:05:27] <ikari-> > i suggest 
+[10:05:30] <ikari-> > staff meeting
+[10:05:32] <ikari-> > if neccessary
+[10:06:02] <ikari-> > anyway have a good day
+[10:06:02] <ME> seriously i dont take i have the energy to continue
+[10:06:03] <ikari-> > ttyl
+[10:25:03] <ikari-> > whats up with enigmata?
+[10:25:06] <ikari-> > no echo
+[10:48:13] <ME> [10:46:23] <ME> ikari's attitude stinks
+[10:48:13] <ME> [10:46:35] <> ye
+[10:48:13] <ME> [10:46:42] <> told ya this some time ago already
+[10:48:13] <ME> [10:47:32] <> and its very strange that he decide alone
+[10:48:14] <ME> see
+[10:53:14] <ikari-> > ye u told me already
+[10:53:34] <ikari-> > but thats the difference between me & u
+[10:53:39] <ikari-> > your just a kid
+[10:53:41] <ikari-> > full of rage
+[10:53:50] <ikari-> > i think u are constipated
+[10:53:55] <ikari-> > or somethin like that lol
+[10:54:02] <ME> err no :)
+[10:54:14] <ME> [10:48:13] <ME> [10:46:42] <> told ya this some time ago already
+[10:54:14] <ME> [10:48:13] <ME> [10:47:32] <> and its very strange that he decide alone
+[10:54:22] <ME> obviously everyone hates u now :(
+[10:54:26] <ikari-> > lol
+[10:54:31] <ikari-> > a few ppl hate me
+[10:54:39] <ikari-> > so what
+[10:54:43] <ikari-> > i don`t even know them
+[10:54:48] <ikari-> > they are ppl i will never know or meet
+[10:54:53] <ikari-> > so it doesn`t matter
+[10:54:55] <ikari-> > does it
+[10:54:55] <ikari-> > lol
+[10:55:00] <ME> why not simply change ur attitude then?
+[10:55:05] <ikari-> > for irc?
+[10:55:07] <ME> yes
+[10:55:18] <ikari-> > in what way?
+[10:55:36] <ikari-> > what would u like to change about me?
+[10:55:42] <ikari-> > u tell me
+[10:56:04] <ME> [12:57:38] <ikari-> > silly grps who think they know all
+[10:56:04] <ME> [12:57:43] <ikari-> > are just foools
+[10:56:04] <ME> [12:57:44] <USER1> > lol nothin is secure
+[10:56:04] <ME> [12:57:47] <ikari-> > this is
+[10:56:04] <ME> [12:57:48] <USER1> > if they want to get u
+[10:56:04] <ME> [12:57:50] <USER1> > they will get u
+[10:56:04] <ME> [12:57:55] <ikari-> > we`ll see about that
+[10:56:05] <ikari-> > all that person is saying is that he doesn`t understand why i make sole decisions
+[10:56:11] <ME> speaking such things in chan
+[10:56:12] <ME> lame
+[10:56:16] <ikari-> > nah
+[10:56:28] <ikari-> > thats a matter of opinion
+[10:56:34] <ikari-> > mine & yours differs
+[10:56:37] <ikari-> > totally
+[10:56:43] <ME> [04:54:42] <ikari-> > all these top grps have become insane with there scene politics
+[10:56:43] <ME> [04:54:47] <ikari-> > they take it way too far
+[10:56:43] <ME> [04:54:57] <ikari-> > this should be a hobby
+[10:56:43] <ME> [04:55:01] <ikari-> > not a professional business
+[10:56:43] <ME> [04:55:13] <USER2> > well if their wife leaves them it will be their loss :P
+[10:56:43] <ME> [04:55:20] * USER3 slaps ikari- around a bit with a large trout
+[10:56:45] <ME> lame again
+[10:56:52] <ikari-> > lol
+[10:56:52] <ME> [04:57:40] <enigmata> > SYS @> ikari added ip * to *****.
+[10:56:52] <ME> [04:57:40] <enigmata> > SYS @> ikari added ip * to *****.
+[10:56:52] <ME> [04:57:40] <enigmata> > SYS @> ikari added ip * to *****.
+[10:56:52] <ME> [04:57:40] <enigmata> > SYS @> ikari added user ***** to group EDC.
+[10:56:52] <ME> [04:58:27] <enigmata> > SYS @> ikari added ip * to ********.
+[10:56:52] <ME> [04:58:27] <enigmata> > SYS @> ikari added user ******** to group EDC.
+[10:56:53] <ikari-> > mate
+[10:56:55] <ME> totaly lame
+[10:56:57] <ikari-> > u are lame anyway
+[10:57:03] <ME> [07:29:00] <enigmata> > SYS @> ikari added ******** to group pSyDS.
+[10:57:03] <ME> [07:29:08] <enigmata> > SYS @> 'ikari' added gadmin rights to ******** for group pSyDS
+[10:57:03] <ME> [07:29:28] <enigmata> > SYS @> 'ikari' changed group slots for 'pSyDS' from '-1' to '2'
+[10:57:03] <ME> [07:29:32] <enigmata> > SYS @> 'ikari' changed group leech_slots for 'pSyDS' from '0' to '1'
+[10:57:03] <ME> [07:31:42] * ikari- changes topic to 'Mount xbox & top250 & tv archive? pls | Welcome pSyDS! 2/1 |'
+[10:57:05] <ikari-> > not only that
+[10:57:05] <ME> stupid lol
+[10:57:08] <ikari-> > u are also ugly
+[10:57:11] <ikari-> > and stupid
+[10:57:13] <ikari-> > and a geek :)
+[10:57:19] <ME> and swapping 3 slots so ur safe on ** = more lame even :)
+[10:57:24] <ikari-> > hehe
+[10:57:25] <ikari-> > do i care?
+[10:57:27] <ikari-> > NO
+[10:57:28] <ikari-> > :)
+[10:57:41] <ikari-> > i delibertly act lame
+[10:57:44] <ikari-> > just to piss u off
+[10:57:46] <ikari-> > and it works well
+[10:57:47] <ikari-> > :)
+[10:58:04] <ikari-> > u see
+[10:58:05] <ME> nah ur just yourself
+[10:58:06] <ikari-> > u do suck cock
+[10:58:16] <ikari-> > u suck ur dads cock
+[10:58:19] <ikari-> > and ur mothers pussy
+[10:58:35] <ikari-> > i`m gonna announce war
+[10:58:41] <ikari-> > ME vs ikari
+[10:58:41] <ikari-> > :)
+[10:58:55] <ikari-> > and i will win!
+[10:59:05] <ikari-> > damn lamers 
+[10:59:06] <ME> i couldn't care less
+[10:59:06] <ikari-> > pfft
+[10:59:09] <ikari-> > WAHAHAHAHA
+[10:59:20] <ikari-> > so u do admit it then
+[10:59:24] <ikari-> > u do suck ur dads cock?
+[10:59:46] <ikari-> > comeon ME
+[10:59:49] <ikari-> > i wanna wind u up
+[10:59:55] <ikari-> > please type some more slagging 
+[10:59:58] <ikari-> > just for me
+[10:59:59] <ikari-> > :)
+[11:00:02] <ikari-> > pretty please
+[11:00:04] <ikari-> > with a cherry on top
+[11:00:31] <ME> well if u still pisses me off i might just let the others know about 360 mirroring the site
+[11:00:32] <ME> so
+[11:00:36] <ikari-> > lol
+[11:00:39] <ME> just stop it
+[11:00:41] <ikari-> > thats up to u
+[11:00:50] <ikari-> > i`ll tell 360 that
+[11:00:55] * ikari- pastes convo to 360
+[11:00:58] <ikari-> > ;)
+[11:01:01] <ikari-> > woooo
+[11:01:09] <ME> what does it mather?
+[11:01:20] <ikari-> > all your work down the drain perhaps?
+[11:01:21] <ME> lol ur so funny
+[11:01:25] <ikari-> > i try
+[11:01:26] <ikari-> > :)
+[11:03:35] <ikari-> > u still there?
+[11:03:38] <ikari-> > biatch?
+[11:03:49] <ikari-> > oo o o o o
+[11:04:05] <ME> ?
+[11:04:13] <ikari-> > i wanna fuck ur ass
+[11:04:15] <ikari-> > hard
+[11:04:20] <ikari-> > please?
+[11:04:52] <ikari-> > ./0\
+[11:05:07] <ikari-> > -----------------
+[11:05:10] <ikari-> >                                     )
+[11:05:13] <ikari-> > bah
+[11:05:13] <ikari-> > nm
+[11:05:15] <ikari-> > hehe
+
+
+later on:
+
+[11:11:23] 12<ME12> dunno why but before DM u were fucking nice and good in scene
+[11:11:29] 12<ME12> now ur just full of shit :()
+[11:11:34] <ikari-> 12> hehe
+[11:11:40] <ikari-> 12> nah, i just lost interest in the scene
+[11:11:41] <ikari-> 12> thats all
+[11:11:46] <ikari-> 12> i no longer care for it
+[11:12:03] <ikari-> 12> it got ruined by grps like dst and tfa
+[11:12:06] 12<ME12> then why make DM a sucky site being rapped by 200 users if u dont care?
+[11:12:08] <ikari-> 12> who have privatised so many sites
+[11:12:21] <ikari-> 12> so now the scene is not as fun
+[11:12:28] <ikari-> 12> well dm is a big site
+[11:12:32] <ikari-> 12> big is better ;)
+[11:12:45] <ikari-> 12> i like to help as many ppl as possible
+[11:12:52] <ikari-> 12> unlike being a selfish scener
+[11:12:58] <ikari-> 12> who just adds his friends
+[11:13:08] 12<ME12> well i dont understand that :(
+[11:13:08] <ikari-> 12> besides i thought u was leaving?
+[11:13:20] <ikari-> 12> also sup with enigmata?
+[11:13:20] 12<ME12> yes i am
+[11:13:31] 12<ME12> bots are down
+[11:13:34] 12<ME12> till 360 replys to me
+[11:13:34] <ikari-> 12> why?
+[11:13:40] <ikari-> 12> man u suck
+[11:13:46] <ikari-> 12> put them back online
+[11:13:52] <ikari-> 12> u idiot
+[11:13:55] <ikari-> 12> now ur being lame
+[11:14:05] <ikari-> 12> and u call me lame
+[11:14:06] <ikari-> 12> man
+[11:14:09] <ikari-> 12> u are a fool
+[11:14:12] 12<ME12> why would that be lame?
+[11:14:18] <ikari-> 12> of course its lame
+[11:14:21] 12<ME12> 360 changed the root pass so i dont make my backup
+[11:14:31] <ikari-> 12> put them back online now
+[11:14:34] 12<ME12> so since he dont trust me i dont trust u guys anymore
+[11:14:35] <ikari-> 12> or i`ll get u purged on *
+[11:14:36] <ikari-> 12> for sure
+[11:14:48] <ikari-> 12> i`m warning u
+[11:14:54] <ikari-> 12> once only
+[11:15:03] <ikari-> 12> otherwise i catch a plane
+[11:15:05] <ikari-> 12> and fight u
+[11:15:08] 12<ME12> heh?
+[11:15:14] <ikari-> 12> i`m serious man
+[11:15:14] 12<ME12> your fucked in the head
+[11:15:19] <ikari-> 12> thats true
+[11:15:21] <ikari-> 12> ;)
+[11:15:24] 12<ME12> purge me on *
+[11:15:25] <ikari-> 12> but never the less
+[11:15:27] 12<ME12> now pls
+[11:15:31] <ikari-> 12> i will kill u lol
+[11:15:42] <ikari-> 12> leave the bots offline
+[11:15:43] <ikari-> 12> man
+[11:15:46] <ikari-> 12> u are a looser
+[11:15:50] <ikari-> 12> u really are
+[11:16:07] 12<ME12> 360 is as well
+[11:16:19] 12<ME12> why change the root pass then?
+[11:16:23] 12<ME12> u tell me
+[11:16:54] <ikari-> 12> becoz u are not to be trusted
+[11:16:57] <ikari-> 12> and this just proves it
+[11:17:06] <ikari-> 12> u are a security risk
+[11:17:16] <ikari-> 12>  a bad one
+[11:17:21] <ikari-> 12> worse than all of sdm
+[11:17:23] <ikari-> 12> and p2p
+[11:17:26] <ikari-> 12> put together
+[11:17:58] 12<ME12> thanks
+[11:21:34] 12<ME12> when 360 will fix my script i will put stuff back online
+[11:22:18] <ikari-> 12> u are a joke
+[11:22:32] <ikari-> 12> i`m gonna talk to DST & TFA and arrange to have u killed lol
+[11:23:45] <ikari-> 12> ***/tfa reckons he can beat u up
+[11:23:48] <ikari-> 12> and he thinks ur lame
+[11:24:10] <ikari-> 12> i heard *****/dst wants to shag u
+[11:24:12] <ikari-> 12> lol
+[11:24:50] <ikari-> 12> i dunno
+[11:24:54] <ikari-> 12> 1 lamer less
+[11:24:57] <ikari-> 12> to deal with
+[11:24:58] <ikari-> 12> :)
+[12:40:43] 12<ME12> u act frustrated
+[12:40:56] <ikari-> 12> lol
+[12:41:00] <ikari-> 12> i am very frustrated
+[12:41:04] 12<ME12> more proof or ur lameness
+[12:41:04] <ikari-> 12> not enuff sex
+[12:41:07] <ikari-> 12> lol
+[12:41:11] <ikari-> 12> mate u got no clue
+[12:41:16] <ikari-> 12> i been in scene since i was 12
+[12:41:20] <ikari-> 12> thats 17 yrs
+[12:41:21] <ikari-> 12> in total
+[12:41:26] <ikari-> 12> how long u been in it?
+[12:41:27] <ikari-> 12> 5
+[12:41:27] <ikari-> 12> ?
+[12:41:32] <ikari-> 12> well that just proves
+[12:41:34] <ikari-> 12> who the lamer
+[12:41:38] <ikari-> 12> is
+[12:41:41] <ikari-> 12> YOU!
+[12:41:52] 12<ME12> hahaha
+[12:41:57] 12<ME12> u dont know shit of who i am
+[12:41:59] 12<ME12> :)
+[12:42:04] <ikari-> 12> thank god
+[12:42:13] <ikari-> 12> knowing u on irc is bad enough
+[12:42:17] <ikari-> 12> i`d hate to know u irl
+[12:42:27] <ikari-> 12> btew
+[12:42:29] <ikari-> 12> btw
+[12:42:34] <ikari-> 12> everyone is celebrating
+[12:42:37] <ikari-> 12> in dm
+[12:42:38] <ikari-> 12> chan
+[12:42:41] <ikari-> 12> that u quit
+[12:42:48] <ikari-> 12> cheers all around!
+[12:43:01] 12<ME12> haha
+[12:43:03] <ikari-> 12> now i can add 200 p2p users
+[12:43:07] <ikari-> 12> and purge the best grps
+[12:43:10] <ikari-> 12> :)
+[12:43:11] 12<ME12> i got the DM log
+[12:43:15] 12<ME12> and none is speaking
+[12:43:15] <ikari-> 12> wooooo
+[12:43:19] 12<ME12> u dumb fuck :)
+[12:43:22] <ikari-> 12> wahaha
+[12:43:29] <ikari-> 12> no u are the dumb fuck
+[12:43:32] <ikari-> 12> for dropping +1
+[12:43:39] <ikari-> 12> only an idiot would do such a thing
+[12:43:50] 12<ME12> +1 on DM with u is like -1
+[12:43:54] <ikari-> 12> but don`t worry
+[12:43:56] <ikari-> 12> haha
+[12:44:05] <ikari-> 12> i will make dm better than **
+[12:44:09] <ikari-> 12> and u will be out of it
+[12:44:10] <ikari-> 12> totally
+[12:44:11] <ikari-> 12> ;)
+[12:44:25] <ikari-> 12> when we got a chance
+[12:44:31] <ikari-> 12> i`m gonna ask 360 to purge ur ass
+[12:44:36] <ikari-> 12> and spread your scripts
+[12:44:41] <ikari-> 12> to all siteops
+[12:44:49] <ikari-> 12> u like that?
+[12:44:50] <ikari-> 12> :)
+[12:45:11] 12<ME12> oki i give u now 1 more min before ignore
+[12:45:17] <ikari-> 12> lol
+[12:45:19] <ikari-> 12> do i care?
+[12:45:20] 12<ME12> uve got something else to say?
+[12:45:22] <ikari-> 12> nop
+[12:45:25] 12<ME12> cya now
+[12:45:26] <ikari-> 12> yes 1 more thing
+[12:45:30] <ikari-> 12> U ARE A WANKER!
+[12:45:36] <ikari-> 12> byebye
+[12:45:37] <ikari-> 12> looser
+[12:45:46] 12<ME12> ok
+[12:45:48] 12<ME12> done
+[12:45:53] <ikari-> 12> cool
+[12:46:01] <ikari-> 12> i`m i
+[12:46:04] <ikari-> 12> on ignore
+[12:46:05] <ikari-> 12> woooo
+[12:46:07] <ikari-> 12> so scared lol
+[12:46:14] <ikari-> 12> idiota
+
+Ok so now what about megaman(mp3/0day part hdd owner):
+
+[13:25:34] <l'XYZ> but what ells have i missed that is horrifing
+[13:25:57] <ME> 3 pages of logs
+[13:26:02] <ME> that i wont reiterate
+[13:27:53] <l'XYZ> give a hint
+[13:28:32] <l'ZZZ> i know only he stole your scripts .. thats not a full reason for me to ask for purge
+[13:28:35] <l'ZZZ> id like to know lil more
+[13:28:40] <UK-Site0p> security flaw - and a huge one at that
+[13:28:56] <l'XYZ> specify plz
+[13:29:59] <UK-Site0p> not for me to specify ... although given permission i would tell the world
+[13:30:00] <UK-Site0p> lol
+[13:30:13] <l'XYZ> do it
+[13:30:18] <l'XYZ> fuck the prick up
+[13:30:44] <l'XYZ> he deserves it anyways
+[13:31:20] <UK-Site0p> i had proof of something another guy had done previously - and when i tried to 'fuck him up' it seemed alot of people backed him up
+[13:31:49] <ME> this time it wont happen again
+[13:31:53] <ME> none will back him up
+[13:33:50] <ME> who?
+[13:33:54] <l'XYZ> so when are you 2 gonna inlight us ?
+[13:33:55] <UK-Site0p> megaman
+[13:34:16] <ME> megaman is an other lamer
+[13:34:28] <ME> he owns mp3 part hard drives
+[13:34:38] <UK-Site0p> LOL they linked ? amazing ... i can talk about this one guys
+[13:34:52] <ME> :)
+[13:35:03] <UK-Site0p> megaman and his group were affilling a site i was op on
+[13:35:32] <UK-Site0p> someone showed me a screenprint of a forum that was selling ftp access
+[13:35:50] <UK-Site0p> i contacted the person on the screenprint and asked for a look account
+[13:35:58] <UK-Site0p> pretending i wanted to buy access
+[13:36:15] <UK-Site0p> i added the IP of the look account to our alert list
+[13:36:22] <UK-Site0p> anyway
+[13:36:43] <UK-Site0p> megaman added a guy to my site
+[13:36:47] <UK-Site0p> gave him leech
+[13:37:10] <UK-Site0p> and he was sending to the exact IP we had on 'alert'
+[13:37:23] <ME> haha
+[13:37:25] <UK-Site0p> he sent 35gig @ 9000kb/s
+[13:37:55] <ME> lol
+[13:38:02] <UK-Site0p> mirroring my DVD section to this paysite
+[13:38:05] <UK-Site0p> and of course
+[13:38:15] <UK-Site0p> i still had look account - so watched it going up
+[13:38:29] <ME> fuck sake
+[13:38:30] <UK-Site0p> a scene nfo was released - NOT BY ME
+[13:38:44] <UK-Site0p> and everyone said - this is bullshit - and protected megaman
+[13:38:57] <ME> when was that done?
+[13:39:09] <UK-Site0p> well
+[13:39:15] <UK-Site0p> DM was called E before
+[13:39:21] <UK-Site0p> what was it called before E
+[13:39:26] <ME> PH
+[13:39:35] <UK-Site0p> because - this was the reason it changed name to E i think
+[13:39:40] <ME> yeah
+[13:40:18] <ME> so this stuff came from you
+[13:40:25] <ME> i tough it was shit too
+[13:40:30] <UK-Site0p> no no no - didnt come from me, 
+[13:40:36] <ME> u should have tough me that before
+[13:40:46] <UK-Site0p> UE 
+[13:40:51] <UK-Site0p> ring a bell ?
+[13:41:25] <ME> unlawfull entry
+[13:41:31] <ME> think it was first name
+[13:41:39] <ME> UE->PH->E->DM
+[13:41:56] <UK-Site0p> Ue_and_the_uk_paysite_revolution
+[13:42:01] <ME> yeah
+[13:42:04] <UK-Site0p> that was the notice 
+[13:42:20] <UK-Site0p> the ip in the notice was the exact ip he was sending to
+[13:42:54] <UK-Site0p> and when i said to him - your man has leeched 35g in 2 hours - his reply was .... and ? Its not like he's going to be doing it all the time.
+[13:42:55] <ME> fuck
+[13:43:06] <UK-Site0p> so i kicked and deaffilled group
+[13:43:07] <ME> lol
+[13:43:15] <ME> what site and what group?
+[13:43:17] <ME> MeGA?
+[13:43:22] <UK-Site0p> yes
+[13:43:31] <ME> uk site?
+[13:43:34] <UK-Site0p> yes
+[13:43:46] <ME> site before ** or?
+[13:43:52] <UK-Site0p> yes
+[13:43:56] <ME> haha i see
+[13:44:02] <UK-Site0p> ;)
+[13:44:12] <ME> everything is clear now
+[13:44:15] <UK-Site0p> and at THAT time
+[13:44:20] <ME> ive been STUPID!!
+[13:44:23] <UK-Site0p> E (as i know it) was down - so they couldnt fill the paysite from E
+[13:44:37] <UK-Site0p> thats why the new account was added 
+[13:44:42] <UK-Site0p> and mirrored the dvdr
+[13:45:03] <ME> Guess what E was opped by ikari and megaman
+[13:45:15] <ME> i was scripter aswell
+[13:45:55] <UK-Site0p> dude - you are so lucky you have reacted the way you have - else you could have been dragged into all this shit too
+[13:46:06] <ME> yeah
+[13:46:10] <ME> ive made the good decision
+[13:50:04] <ME> but who sent the nfo?
+[13:50:06] <ME> and made it
+[13:50:08] <UK-Site0p> for the record - that scene nfo was nothing to do with me .... i got my hands on the screenprints only - at the time
+[13:50:33] <UK-Site0p> not sure
+[13:50:36] <ME> ok
+[13:51:00] <UK-Site0p> the picture was sent to me from a friend of a friend type of thing
+[13:51:11] <UK-Site0p> then a day or so later came the nfo
+[13:51:26] <ME> kk
+[13:52:37] <UK-Site0p> so .... you can imagine my reaction when ikari said .... any chance megaman can come onto **
+[13:52:49] <UK-Site0p> i said to the boys - FUCK RIGHT OFF!
+[13:53:07] <ME> lol
+
+Ane more proofs about 360:
+
+[15:26:47] 12<ME12> [15:25:45] <ME> do u want to know one more thing
+[15:26:47] 12<ME12> [15:25:54] <ME> 360 = tarn = aka confusion leader
+[15:27:00] <UK-Site0p> 12> NO WAY
+[15:27:03] <UK-Site0p> 12> LMFAO
+[15:27:21] 12<ME12> yeah
+[15:27:30] 12<ME12> me + ikari were confusion
+[15:27:35] <UK-Site0p> 12> tarn is a cunt - a known seller, i'd fuck him up for life if i ever get his address
+[15:27:51] 12<ME12> i know where he lives
+[15:27:57] <UK-Site0p> 12> i know its ******* way
+[15:28:39] 12<ME12> what he did to you?
+[15:28:42] <UK-Site0p> 12> he's gonna get such a slap
+[15:28:59] 12<ME12> whats ur age? :)
+[15:29:06] <UK-Site0p> 12> the fact your confusion - or was .... you will know the history ... i cant believe he's still getting away with all this
+[15:29:28] <UK-Site0p> 12> my age - no need to worry about my age
+[15:29:53] <UK-Site0p> 12> i know what a pipsqueek he is
+[15:30:12] 12<ME12> well
+[15:30:12] <UK-Site0p> 12> What did he do - well he killed one of my respected groups
+[15:30:47] 12<ME12> i dont understand
+[15:30:52] <UK-Site0p> 12> ok
+[15:30:53] <UK-Site0p> 12> well
+[15:30:58] <UK-Site0p> 12> here's what happened
+[15:31:19] <UK-Site0p> 12> someone i know was paying someone for a leech account
+[15:31:25] <UK-Site0p> 12> i said to the guy
+[15:31:36] <UK-Site0p> 12> order me 3 dvds a month - and i'll get you leech
+[15:31:48] <UK-Site0p> 12> as a supplier for our group
+[15:31:53] <UK-Site0p> 12> he agreed
+[15:32:06] <UK-Site0p> 12> so he stopped paying for this pay for leech site
+[15:32:36] <UK-Site0p> 12> works out - the pay for leech site was ran by tarn and another
+[15:32:52] <UK-Site0p> 12> he got pissed that we stole his customer
+[15:33:07] <UK-Site0p> 12> and told the scene our group were selling leech - had us kicked from 3 sites
+[15:33:33] <UK-Site0p> 12> confusion was a bigger name than us so we got kicked
+[15:34:33] 12<ME12> haha
+[15:34:34] 12<ME12> damnit
+[15:36:45] <UK-Site0p> 12> tarn is a well known seller yet he switched it around because we took one of his payers to supply us
+[15:37:05] 12<ME12> i always refused it
+[15:37:13] 12<ME12> while being confusion
+
+Ok so i think there is enough stuff into this nfo to keep everyone informed.

@@ -1,0 +1,133 @@
+[R] site aldn 1000
+[R] 200- [01] divouss      hare krisna             21,198  437,059MB   2057K/s
+[R] 200- [02] lordprotecto Veni,Vidi,Vici          17,802  376,403MB    398K/s
+[R] 200- [03] err0r        ICD                     16,501  354,977MB   1754K/s
+[R] 200- [04] wandie       sleep well milasku      13,334  253,216MB   1566K/s
+[R] 200- [05] rico         hare krisna             10,516  213,590MB     82K/s
+[R] 200- [06] Cha          hare krisna              7,974  194,325MB   2408K/s
+[R] 200- [07] G-Father     hare krisna              8,822  190,346MB   1754K/s
+[R] 200- [08] rolf         hare krisna              7,373  182,685MB    949K/s
+[R] 200- [09] raz0r        mkdir not war            8,726  178,281MB   3140K/s
+[R] 200- [10] cemi         SDM                      8,733  177,436MB   2080K/s
+[R] 200- [11] svoba        hare krisna              8,449  169,784MB   8980K/s
+[R] 200- [12] acidbr       .::FREQ::.               7,264  162,884MB   2904K/s
+[R] 200- [13] DexterIV     -= KAMiKAZE RACiNG =-    7,667  158,497MB   2432K/s
+[R] 200- [14] dabomb       ...                      9,298  157,932MB    996K/s
+[R] 200- [15] H3fty        hare krisna              9,855  140,534MB   1498K/s
+[R] 200- [16] fatfuck      THUNDER                  4,136  130,639MB    684K/s
+[R] 200- [17] azert        som maly zazrak          8,653  125,151MB   2127K/s
+[R] 200- [18] dR34mCZ      -=:dR34mCZ:=-            6,283  124,855MB    156K/s
+[R] 200- [19] hollyboy     No Tagline Set           6,492  119,004MB    265K/s
+[R] 200- [20] Gingga       Boo                      6,399  117,377MB   2632K/s
+[R] 200- [21] MXb          ICD                      6,179  115,906MB   2056K/s
+[R] 200- [22] checker      mo'fire                  5,042  109,827MB   2178K/s
+[R] 200- [23] bobajob      hare krisna              5,899  101,391MB    861K/s
+[R] 200- [24] Hyperi0n     Mikasa Sukasa            5,104   98,835MB   2957K/s
+[R] 200- [25] darkvoice    hare krisna              5,238   98,329MB   2406K/s
+[R] 200- [26] technolog    hare krisna              4,411   97,383MB   2501K/s
+[R] 200- [27] lerkster     All your creds are bel   5,543   96,445MB    885K/s
+[R] 200- [28] celik        ya, its me again...      5,146   95,702MB   2096K/s
+[R] 200- [29] sab          hare krisna              3,907   91,046MB   1369K/s
+[R] 200- [30] tromby       vacation until end of    4,027   89,493MB   2512K/s
+[R] 200- [31] MrTuna       hare krisna              5,563   85,345MB   3173K/s
+[R] 200- [32] piglo        DiSTance                 4,258   82,564MB   1880K/s
+[R] 200- [33] beaver       All Beavers In Danger    2,580   81,845MB   4326K/s
+[R] 200- [34] hbomb        hare krisna              3,757   78,546MB   1354K/s
+[R] 200- [35] dcking       hare krisna              2,774   78,333MB    465K/s
+[R] 200- [36] BM           ..::F::D::..             5,958   78,168MB   1271K/s
+[R] 200- [37] henry        fever                    3,880   76,400MB   2342K/s
+[R] 200- [38] grizzo       fD                       3,967   75,793MB   2398K/s
+[R] 200- [39] bface        tagged                   3,428   66,599MB   2332K/s
+[R] 200- [40] FiK          FOOLS DIE                3,905   66,507MB    587K/s
+[R] 200- [41] T-Answer     .                        3,937   64,812MB   2124K/s
+[R] 200- [42] koskos       DiViNiTY                 2,903   63,338MB   2705K/s
+[R] 200- [43] orbith       There Can Be Only One    4,740   61,996MB   2673K/s
+[R] 200- [44] stonefox     hare krisna              3,197   58,794MB   3236K/s
+[R] 200- [45] r3jp41       hare krisna              2,691   58,151MB   1015K/s
+[R] 200- [46] dying        :)                       3,868   57,625MB   4536K/s
+[R] 200- [47] Kehpri       PhArAcYdE                2,763   57,443MB   2281K/s
+[R] 200- [48] mrfutur      dim dam dum              2,580   56,249MB   2666K/s
+[R] 200- [49] throne       tcl                      2,469   55,948MB   3174K/s
+[R] 200- [50] oral         hare krisna              4,088   55,249MB    349K/s
+[R] 200- [51] turntablz    -+ AMNESiA iSO +-        2,455   53,911MB   2876K/s
+[R] 200- [52] feitan       exams may 15th , study   2,362   52,979MB   2356K/s
+[R] 200- [53] Mario        hare krisna              2,515   50,482MB   2045K/s
+[R] 200- [54] mikel        hare krisna              2,082   49,336MB   2492K/s
+[R] 200- [55] Mike         DiViNiTY                 2,233   47,322MB   2303K/s
+[R] 200- [56] punisher     mister.mkdir             2,563   46,901MB   2084K/s
+[R] 200- [57] ZEUS         hare krisna              2,345   43,307MB   2244K/s
+[R] 200- [58] mkrm         EGARNe                   1,856   41,689MB   1676K/s
+[R] 200- [59] q413         hare krisna              1,861   41,065MB   1721K/s
+[R] 200- [60] Taz7         hare krisna              2,005   40,079MB   2309K/s
+[R] 200- [61] cookies      hare krisna              1,372   37,154MB   1870K/s
+[R] 200- [62] gnu          m0                       1,870   36,282MB   1237K/s
+[R] 200- [63] m00          hare krisna              1,670   36,231MB   2031K/s
+[R] 200- [64] Lefty        hare krisna              2,279   35,515MB    782K/s
+[R] 200- [65] Seth         hi                       2,300   35,223MB   3076K/s
+[R] 200- [66] ziggy        <+> AMNESiA iSO <+>      2,624   35,061MB   1596K/s
+[R] 200- [67] sju          use softlogistics or h   1,453   34,621MB   3290K/s
+[R] 200- [68] flipppy      hare krisna                832   33,926MB    808K/s
+[R] 200- [69] kefren       hare krisna              1,507   32,985MB   2301K/s
+[R] 200- [70] fuqqa        PUSH THE BUTTON          1,764   32,913MB   2141K/s
+[R] 200- [71] chinga       boobies                  1,773   32,183MB   4263K/s
+[R] 200- [72] sou1         hare krisna              2,015   32,118MB   2162K/s
+[R] 200- [73] voske        beer is my fuel          1,385   29,070MB   1829K/s
+[R] 200- [74] rok          hare krisna              1,758   27,443MB   1458K/s
+[R] 200- [75] ilex         . collecting .           1,180   25,851MB   2694K/s
+[R] 200- [76] woffen       Wrooo hoo ho ooooooooo   1,243   25,699MB   1440K/s
+[R] 200- [77] iezilop      TOWiSO                   1,337   25,205MB   2185K/s
+[R] 200- [78] ikari        SDM                      1,624   25,096MB   4052K/s
+[R] 200- [79] nitro        hare krisna              1,017   24,061MB   2361K/s
+[R] 200- [80] AGTeam       hare krisna              1,302   24,058MB    345K/s
+[R] 200- [81] quest        hare krisna              1,487   23,489MB    393K/s
+[R] 200- [82] fosil        trade or die             1,234   22,741MB   2524K/s
+[R] 200- [83] tr22         hare krisna              1,511   20,428MB    224K/s
+[R] 200- [84] cloud1       hare krisna                456   20,229MB    174K/s
+[R] 200- [85] jrk          jo                         967   20,217MB   2974K/s
+[R] 200- [86] jason        hare krisna                814   20,077MB   1932K/s
+[R] 200- [87] N1ght        hare krisna                814   19,990MB   4175K/s
+[R] 200- [88] maniac       hare krisna                849   19,977MB   2846K/s
+[R] 200- [89] parot3       hare krisna                925   16,924MB   1520K/s
+[R] 200- [90] abuse        vacation till end of m     696   15,473MB    216K/s
+[R] 200- [91] Da_L         hare krisna                698   13,192MB   3262K/s
+[R] 200- [92] drone        Will crack for beer...     719   12,741MB   1900K/s
+[R] 200- [93] jesse        hare krisna                798   12,517MB   1119K/s
+[R] 200- [94] Allstar      i am my own clone          681   12,212MB   2580K/s
+[R] 200- [95] deep         hare krisna                717   12,051MB    199K/s
+[R] 200- [96] otc          hare krisna                604   11,934MB    385K/s
+[R] 200- [97] captain      dont delete me, blame      807   11,765MB   3700K/s
+[R] 200- [98] twinkle      hare krisna                709   10,770MB    163K/s
+[R] 200- [99] Activ        -=THD=-                    555   10,723MB   2914K/s
+[R] 200- [100] MlR          hare krisna                276   10,035MB    107K/s
+[R] 200- [101] S3X          The Game is Over           360    9,509MB   3840K/s
+[R] 200- [102] realized     hare krisna                345    8,380MB   3261K/s
+[R] 200- [103] zodan        hare krisna                383    6,897MB     86K/s
+[R] 200- [104] tpol         hare krisna                389    6,869MB   2344K/s
+[R] 200- [105] ahn          Relax                      315    6,162MB   3754K/s
+[R] 200- [106] InsinX       FastFoward                 400    6,137MB    955K/s
+[R] 200- [107] GMith        hare krisna                345    5,869MB   3513K/s
+[R] 200- [108] log1c        godspeed                   264    5,225MB    860K/s
+[R] 200- [109] sjohn        hare krisna                263    5,194MB   2385K/s
+[R] 200- [110] 911          hare krisna                220    5,115MB   2083K/s
+[R] 200- [111] nest         I'm raving. I'm raving     338    4,566MB   2678K/s
+[R] 200- [112] Fitik        hare krisna                242    4,164MB   1027K/s
+[R] 200- [113] radon        hare krisna                318    3,349MB    694K/s
+[R] 200- [114] bourbon      hare krisna                 54    2,253MB   2249K/s
+[R] 200- [115] Slim         hare krisna                137    1,950MB    206K/s
+[R] 200- [116] weasel       hare krisna                102    1,710MB   1759K/s
+[R] 200- [117] pregster     hare krisna                 93    1,510MB   4169K/s
+[R] 200- [118] Snowy        FD                         106    1,478MB   1614K/s
+[R] 200- [119] ownage       hare krisna                 92    1,430MB    507K/s
+[R] 200- [120] maphia       hare krisna                 61    1,124MB   3337K/s
+[R] 200- [121] thunder      hare krisna                 48      784MB   1365K/s
+[R] 200- [122] Hotch        hare krisna                 51      645MB     51K/s
+[R] 200- [123] Drutten      gaypplroxx                  28      369MB   2846K/s
+[R] 200- [124] raga         d.s.td.s.t                   9      119MB   1342K/s
+[R] 200- [125] blurp        hare krisna                  2        0MB     15K/s
+217.73.17.43:61889
+217.117.223.253:61889
+158.193.208.59:61889
+158.194.190.58:61889
+[1] 200- Blowfish key for channel: hbdsyfg8s76t4er8w4rb2kjbkdjsfosuf8w32bmbkjsdjhfbksdhfoepir3we229mxcnbzv
+[1] 200- channel key : key0r
+[1] 200 Command Successful.

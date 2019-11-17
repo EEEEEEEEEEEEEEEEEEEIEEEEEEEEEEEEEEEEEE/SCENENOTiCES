@@ -1,0 +1,555 @@
+These P2P lamers released a notice making allegations against W4F with zero credible evidence to back it up.
+
+W4F has nothing to do with P2P, never has and never will. X-360 aka HaTeRz AKA empir3 and his friend sledneck aka james aka er1c
+(the nick lists go on for both of them) were banned from W4F when we found out they pred P2P releases from our predir with other group tags.
+sledneck went on to form a group NATV after being banned and as a result NATV was dropped from sites for supporting P2P. Now they pre a bullshit nfo to cause problems.
+
+[9/17][1:30:04a] <sledneck> trying to get me purged from sites ?
+[9/17][1:30:06a] <sledneck> you want a war ?
+
+It seems it took them quite a while to make crap up in order to 'war'.
+
+I investigated www.sceneddl.net and it does not exist and seems to be dead for over a year. Curious what exactly all this crap was, I also invested the channels on EFnet,
+almost all of them do NOT exist and those that do have nothing to do with P2P. 
+
+W4F has existed for over 8 years and has had no issues with P2P until these lamers came along. Hadouken does NOT do P2P and is not even an active in W4F anymore.
+The nfo is as stupid as it is nonsensical, clearly a reflection on the authors. I don't care for READNFOs and have no interest in writing more, we have no reason to
+defend ourselves against these disgruntled P2P idiots. 
+
+Siteops are free to review every connection we've ever made, transfers, etc and audit transfers to see we have nothing to hide and have never transferred anything to P2P.
+Siteops can clearly see that Hadouken has not even used or been added to group sites in 2010.
+
+
+Now then, we were willing to ignore you when you started stalking our channels and abusing us via PM, however this is going too far. Unlike your heroic attempts at log
+modification (Really, nice job. Inserting Hado's hostname into a few of your many year old p2p logs is pretty classy), we have actual evidence of your misgivings in spades.
+
+Documented below is all your p2p bullshit that you've pulled. Although my favourite part is the one where you were using a p2p hostname for about a year.
+
+This all started about 2 months ago when we were contacted by a siteop about a group member preing P2P releases under the name SPK via our predir.
+
+[8/22][7:10:32p] <**SITEOP**> yo
+[8/22][7:10:42p] <**SITEOP**> Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK
+[8/22][7:10:49p] <**SITEOP**> was pre'd by 1 of your members
+[8/22][7:11:33p] <**SITEOP**> [NUKE] Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK missing.nfo_stolen.from.p2p
+[8/22][7:11:46p] <**SITEOP**> jus checked my logs
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << MKD /PRE/W4F/Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK
+[8/22][7:12:06p] <**SITEOP**> INFO 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] org.drftpd.remotefile.LinkedRemoteFile  - Created directory LinkedRemoteFile["Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK",[directory(0)]]
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] org.drftpd.GlobalContext  - Dispatching net.sf.drftpd.event.DirectoryFtpEvent[user=GaMMa,cmd=MKD,directory=/PRE/W4F/Persons.Unknown.S01E11.Seven.Sacrifices.WEB.Xvi$
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << CWD /PRE/W4F/Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << PWD
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << PRET LIST
+[8/22][7:12:06p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:02 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << PASV
+[8/22][7:13:39p] <**SITEOP**> DEBUG 22 Aug 2010 21:47:07 [FtpConn thread 252567 servicing GaMMa/W4F] net.sf.drftpd.master.BaseFtpConnection.service  - << PRET STOR Persons.Unknown.S01E11.Seven.Sacrifices.WEB.XviD-SPK.r00
+[8/22][7:13:50p] <**SITEOP**> i could even prolly pulled out that he pre'd too
+[8/22][7:15:42p] <**SITEOP**> i remove the group info to protect affils etc, not for ppl to take the piss an pre wtf they like
+[8/22][7:17:29p] <**SITEOP**> his been deluser
+[8/22][7:17:59p] <**SITEOP**> i wouldnt mind if it was a legit pre but no nfo, jus a .txt
+[8/22][7:18:13p] <**SITEOP**> an it 'stolen p2p'
+[8/22][7:46:07p] <**GADMIN**> he pred that on this site?
+[8/22][7:46:16p] <**SITEOP**> yup
+[8/22][7:46:22p] <**GADMIN**> a rls under grp SPK?
+[8/22][7:46:29p] <**GADMIN**> from w4f predir??
+[8/22][7:46:34p] <**SITEOP**> thats part of the log
+[8/22][7:46:35p] <**SITEOP**> yup
+[8/22][7:46:43p] <**SITEOP**> i can pull more from the log if u want
+[8/22][7:46:54p] <**SITEOP**> that was when he uploaded
+[8/22][7:47:00p] <**SITEOP**> 21-47
+[8/22][7:47:07p] <**SITEOP**> was pre'd bout 1hour 40mins ago
+[8/22][7:48:15p] <**GADMIN**> i just msgd him...................... 
+[8/22][7:48:18p] <**GADMIN**> lol
+[8/22][7:48:22p] <**GADMIN**> >_>
+[8/22][7:48:27p] <**SITEOP**> i cant scroll back in my main chan but my prebw script picked it up
+[8/22][7:49:07p] <**GADMIN**> no it's fine. i msgd gamma.
+[8/22][7:49:30p] <**GADMIN**> that is fucking retarded :|
+[8/22][7:49:42p] <**GADMIN**> i have to check others and see if it was pred
+[8/22][7:49:44p] <**GADMIN**> sec
+[8/22][7:49:49p] <**SITEOP**> k
+[8/22][7:50:00p] <**SITEOP**> if u want i can pull more of the logs up
+[8/22][7:50:10p] <**GADMIN**> it was raced to a .se so not pred there
+[8/22][7:50:21p] <**SITEOP**> i even sourced it from here
+[8/22][7:50:36p] <**SITEOP**> it got raced to couple priv sites too but deldir part way thru
+[8/22][7:51:19p] <**SITEOP**> let me pull up the pretime in logs
+[8/22][7:52:45p] <**GADMIN**> it only made it to 1 site im on and it looks like he only pred it here................ im deling at all sites atm cause i dont know wtf he was doing or thinking
+[8/22][7:53:29p] <**GADMIN**> that's inexcusable
+[8/22][7:53:45p] <**GADMIN**> fucking moron =____________________________________________=
+[8/22][7:56:50p] <**GADMIN**> kick banned him and deluser =_= ill try to find out what happened or why he pred that
+[8/22][7:58:31p] <**SITEOP**> thx bro, jus thought you'd like to know etc
+[8/22][7:59:04p] <**GADMIN**> yes thanks.. >_< soooooooooooooooooo pissed right now. the stupidity to do something like that is unbelievable
+[8/22][7:59:22p] <**SITEOP**> yerp
+[8/22][7:59:27p] <**SITEOP**> i can imagine
+[8/22][8:00:52p] <**SITEOP**> i think, he thought he could get away wit it here
+[8/22][8:01:08p] <**SITEOP**> cos we only show drftp/drftpd  after pre  ;]
+[8/22][8:01:15p] <**GADMIN**> lol that is unbelievably stupid
+[8/22][8:01:22p] <**GADMIN**> most sites rename the origin of file
+[8/22][8:01:27p] <**GADMIN**> to glftpd or drftpd (service)
+[8/22][8:01:28p] <**GADMIN**> however
+[8/22][8:01:31p] <**SITEOP**> yeah
+[8/22][8:01:33p] <**GADMIN**> ALL sites have some sort of logging
+[8/22][8:01:44p] <**SITEOP**> drftpd is drftpd/group
+[8/22][8:03:07p] <**SITEOP**> gamma is uk guy i think, seen his isp when he joined once
+[8/22][8:03:15p] <**SITEOP**> think his down the road from me
+[8/22][8:03:17p] <**SITEOP**> lol
+[8/22][8:03:55p] <**GADMIN**> yes he's from UK
+
+
+
+Now, who is this GaMMa of which they speak?
+
+Session Start: Tue May 05 12:41:12 2009
+Session Ident: ^HaTeRz
+[5/05][12:41:12p] Session Ident: ^HaTeRz (**GADMIN**) (~Wal@cpc10-lewi13-0-0-cust138.2-4.cable.virginmedia.com)
+[5/05][12:41:12p] <^HaTeRz> you there
+[5/05][12:43:55p] <^HaTeRz> GaMMa as my username 
+[5/05][12:44:07p] <^HaTeRz> stephen2141 as my password
+[5/05][12:45:33p] <^HaTeRz> site adduser GaMMa stephen2141 *@86.14.114.139
+Session Close: Tue May 05 22:54:37 2009
+
+[7/01][2:17:39p] <HaTeRz> somethink aint letting me log on
+[7/01][2:17:45p] <HaTeRz> i think its cos of my ip change
+[7/01][2:17:58p] <HaTeRz> *@86.14.114.139 <-- thats my old ip
+[7/01][2:18:25p] <**GADMIN**> !addip
+[7/01][2:18:26p] <HaTeRz> 86.15.45.229 <-- thats my new ip
+
+[8/08][9:06:02p] <X-360> can we get accounts soon on there ?
+[8/08][9:06:51p] <**GADMIN**> yeah
+[8/08][9:06:58p] <X-360> kool
+[8/08][9:07:14p] <**GADMIN**> site adduser GaMMa stephen2141 GaMMa@86.26.165.58
+[8/08][9:07:15p] <**GADMIN**> ?
+[8/08][9:07:24p] <X-360> hang on
+[8/08][9:07:28p] <X-360> let me get the new one
+[8/08][9:07:40p] <X-360> site adduser M4XW3LL SH4GW3LL GaMMa@86.26.165.*
+
+Here, we can plainly see that GaMMa = X-360 = ^HaTeRz = M4XW3LL
+
+
+
+Around the time of the p2p pre incident, we were contacted by a person that X-360 had tried to get us to invite to the group. This is what caused our
+initial suspicions about him.
+
+[16/08/2010 11:33:02] <**INFORMANT**> hi
+[16/08/2010 11:33:05] <**INFORMANT**> dunno if you remember me
+[16/08/2010 11:33:11] <**INFORMANT**> but i've some info regarding X-360
+[16/08/2010 19:41:55] <Hadouken> I vaguely remember you
+Session Time: Tue Aug 17 00:00:00 2010
+[17/08/2010 05:41:16] <**INFORMANT**> let me just paste you what i had told the others
+[17/08/2010 05:41:16] <Hadouken> what about him?
+[17/08/2010 05:41:40] <**INFORMANT**> **INFORMANT**: Just thought you might like to know that he's an avi P2P user
+[17/08/2010 05:41:41] <**INFORMANT**> [6:56:02pm] **INFORMANT**:
+[17/08/2010 05:41:41] <**INFORMANT**> [6:56:05pm] **INFORMANT**: avid*
+[17/08/2010 05:41:41] <**INFORMANT**> [6:56:14pm] **INFORMANT**: He's a member of bitmetv under Empir3
+[17/08/2010 05:41:42] <**INFORMANT**> [6:56:27pm] **INFORMANT**: as well as scc/hdbits, can't recall the names off hand
+[17/08/2010 05:41:42] <**INFORMANT**> [6:56:33pm] **INFORMANT**: steals TS' from there claiming they'r ehis source
+[17/08/2010 05:41:42] <**INFORMANT**> [6:56:48pm] **INFORMANT**: I don't know how anti-p2p your group is, but I know most groups are
+[17/08/2010 05:41:43] <**INFORMANT**> [6:57:14pm] **INFORMANT**: I had planned on capping for you all, and that is the reason why I iddn't, once I found all this out.
+[17/08/2010 05:41:43] <**INFORMANT**> [6:58:06pm] **INFORMANT**: Also, he has been echo'ing an addpre channel for bittorrent sites.
+[17/08/2010 05:41:43] <**INFORMANT**> [6:58:28pm] **INFORMANT**: Dunno if that has to do with you all or not, but may as well let you know that too
+[17/08/2010 05:42:23] <**INFORMANT**> basically, he's an untrustworthy asshole, and thought you may want to know
+[17/08/2010 05:42:29] <Hadouken> thank you
+[17/08/2010 05:42:34] <Hadouken> may I ask how you know him?
+[17/08/2010 05:42:50] <**INFORMANT**> i am an uploader at bitmetv now
+[17/08/2010 05:42:56] <**INFORMANT**> soi can see all the user info
+[17/08/2010 05:43:00] <**INFORMANT**> and who's doing what
+[17/08/2010 05:43:17] <**INFORMANT**> and found out he's empir3
+[17/08/2010 05:43:34] <**INFORMANT**> mainly since he was dumb enough to steal MY ts's
+
+So, we can see that he's a P2P thieving dickshit and a backstabber. We can also establish that he goes by the name Empir3 for his p2p ties.
+
+
+
+After this point, our Gadmin messaged him to confront him.
+
+Session Time: Sun Aug 22 00:00:00 2010
+[8/22][7:46:47p] <**GADMIN**> what is wrong with u
+[8/22][7:46:48p] <**GADMIN**> :|
+... Pasted transcript of the message with siteop ...
+[8/22][7:54:14p] <**GADMIN**> everyone tracked the rls back to *SITE* and W4F and you're deleted..
+[8/22][7:54:25p] <**GADMIN**> i dont know what else is going to happen but wtf were u doing preing that?
+[8/22][8:09:29p] <**GADMIN**> u haveta explain to me what happened or is going on
+[8/22][8:11:09p] <**GADMIN**> i unbanned u... but u still need to talk to me cause
+[8/22][8:12:20p] <**GADMIN**> where'd u get it from? it was nuked no.nfo.stolen.p2p
+[8/22][8:17:00p] <**GADMIN**> you're never supposed to pre anything on our presites that isn't W4F
+[8/22][8:17:46p] <**GADMIN**> also, people can check the checksum valies of an avi and compare it to something on torrents.. i dont know if that's what they did after tracking the release back to u.. 
+[8/22][9:00:25p] <**GADMIN**> im gonna go watch some tv but ill be back u can rejoin BUT let me know u understand not to do that 
+[8/22][9:00:26p] <**GADMIN**> >_>
+[8/22][9:00:26p] <**GADMIN**> lol
+[8/22][9:00:36p] <**GADMIN**> and also where u got it from cause u know it's easy to track the source
+[8/22][9:00:39p] <**GADMIN**> if not re-encoded
+[8/22][9:00:42p] <**GADMIN**> or checksum modified..
+[8/22][11:37:54p] <GENO-SiDE> just woke up got a banging headache from last night
+[8/22][11:38:58p] <GENO-SiDE> you there
+[8/22][11:41:00p] <**GADMIN**> yeah
+[8/22][11:41:11p] <**GADMIN**> did u read my pm
+[8/22][11:41:16p] <GENO-SiDE> yes
+[8/22][11:41:35p] <**GADMIN**> so how/what?? im confused
+[8/22][11:41:57p] <**GADMIN**> it was nuked and ppl traced it back to the site however luckily siteop didnt disclose anything except said user was deleted and then msgd me the logs..
+[8/22][11:42:09p] <**GADMIN**> if he spread that nfo grp can lose ALL sites. what were u thinking? i dont understand
+[8/22][11:43:12p] <GENO-SiDE> i was drunk last night and really over the top i pred the wrong thing i didnt know what i was doing
+[8/22][11:43:34p] <**GADMIN**> where did the rls come from?
+[8/22][11:43:41p] <**GADMIN**> why did u pre it on *SITE*?
+[8/22][11:44:10p] <GENO-SiDE> i fxped it from a shared server
+[8/22][11:44:28p] <**GADMIN**> was it someone elses release and u renamed it? 
+[8/22][11:44:32p] <**GADMIN**> why would u fxp it to a W4F pre site ?
+[8/22][11:44:54p] <GENO-SiDE> i was drunk last night i didnt know what i was doing
+[8/22][11:44:56p] <**GADMIN**> how can i trust you in the future?
+[8/22][11:45:06p] <**GADMIN**> the siteop made a big deal about it and deleted you
+[8/22][11:45:16p] <**GADMIN**> why did nukers say it's p2p?
+[8/22][11:45:28p] <**GADMIN**> did u get another rls and rename it? i dont get it
+[8/22][11:46:11p] <GENO-SiDE> i dont know
+[8/22][11:46:58p] <GENO-SiDE> i thikn from the shared server im on the guy downloads the odd crap from places
+[8/22][11:47:18p] <**GADMIN**> did someone use your account on *SITE*
+[8/22][11:47:49p] <**GADMIN**> are you sharing your access with people?
+[8/22][11:48:25p] <GENO-SiDE> no im not sharing anythink with anyone
+[8/22][11:48:58p] <GENO-SiDE> but i did have my ip as a proxy to the server so that i can download to it if i wanted to
+[8/22][11:49:58p] <**GADMIN**> you realize to pre it on *SITE* u had to manually issue the command to pre... it wasn't pred by a bot
+[8/22][11:50:10p] <**GADMIN**> i dont think a drunk person can do that.. it would be good if you're completely honest...
+[8/22][11:50:38p] <GENO-SiDE> the guy who i share the server with knows how to pre shit via a command
+[8/22][11:51:00p] <**GADMIN**> so what are you trying to say
+[8/22][11:51:03p] <GENO-SiDE> everyone knows how to do that not that hard when you do SITE HELP
+[8/22][11:51:15p] <**GADMIN**> it was pred on *SITE*
+[8/22][11:51:30p] <**GADMIN**> you said you're the only person accessing *SITE*
+[8/22][11:51:48p] <GENO-SiDE> you want the truth the real truth ?
+[8/22][11:52:05p] <**GADMIN**> obviously
+[8/22][11:52:22p] <**GADMIN**> i dont even know who im talking to right now heh
+[8/22][11:52:52p] <GENO-SiDE> i proxyed my ip to a server i share and the fucker went and fucked me over and pred that by logging me out of my vnc and he fucking must have been watching for a good 20mins
+[8/22][11:52:59p] <GENO-SiDE> im not too happy as well
+[8/22][11:53:26p] <GENO-SiDE> but i was drunk as well a bit and should have kept my guard up
+[8/22][11:54:01p] <**GADMIN**> i dont know how many torrent incidents with you we can afford
+[8/22][11:54:39p] <**GADMIN**> we're one of the oldest tv grps around i dont know what you do on the side but i asked you to leave us out of it
+[8/22][11:56:56p] <**GADMIN**> if you even cared about the group a little bit you wouldn't do so many destructive things towards the group
+[8/22][11:58:30p] <**GADMIN**> we dont need the merge box or any vps it's not worth it if you're going to allow stuff like this to happen
+[8/22][11:58:35p] <GENO-SiDE> what destructive things ?
+[8/22][11:58:56p] <**GADMIN**> **INFORMANT** spamming everyone in here about your torrent dealings and now people are accessing your accounts to pre torrent material
+[8/22][11:59:02p] <**GADMIN**> we're lucky he didn't delgrp us
+[8/22][11:59:10p] <**GADMIN**> and the thing is the grp has nothing to do with torrents as it is
+[8/22][11:59:21p] <**GADMIN**> so you're basically fucking everyone over by being irresponsible
+[8/22][11:59:50p] <GENO-SiDE> i know the group aint got anythink to do with torrents
+Session Time: Mon Aug 23 00:00:00 2010
+[8/23][12:00:48a] <GENO-SiDE> ive known the faggit for 2 years now and hes gone and done that with no thinking of me and what would happen
+[8/23][12:01:44a] <GENO-SiDE> im not too happy i dont even know if i want to know him now that hes fucked me over
+[8/23][12:02:17a] <**GADMIN**> you should never have been using a proxy to connect to the sites
+[8/23][12:02:32a] <GENO-SiDE> i was using a proxy to the sites
+[8/23][12:02:35a] <**GADMIN**> you're saying your vps ip is what you use to connect to the sites?
+[8/23][12:03:12a] <GENO-SiDE> i was using my ip as a proxy to the server to open the site on the server
+[8/23][12:03:32a] <**GADMIN**> why were u opening access to *SITE*
+[8/23][12:03:37a] <**GADMIN**> u could have just fxpd to it
+[8/23][12:03:39a] <**GADMIN**> ?
+[8/23][12:03:50a] <**GADMIN**> that's the stupidest thing ive ever seen anyone do
+[8/23][12:04:15a] <GENO-SiDE> i wasnt thinking at the time
+[8/23][12:04:47a] <**GADMIN**> how can anyone trust you to not keep doing these things? it was **INFORMANT** last week now it was a torrent? related pre?
+[8/23][12:04:47a] <GENO-SiDE> been having a lack of sleep and ive got worrys of my own like losing my roof over my head
+[8/23][12:05:11a] <**GADMIN**> which is why you shouldnt have been dealing with proxying your ip to some moron >_> you should have been dealing with whatever it is you needed to
+[8/23][12:05:35a] <GENO-SiDE> yes ill remember that in the future
+[8/23][12:05:41a] <**GADMIN**> instead of making excuses every week
+[8/23][12:05:48a] <**GADMIN**> i mean sites will only take so much of this
+[8/23][12:05:54a] <**GADMIN**> and i dont know if you can be readded
+[8/23][12:06:37a] <**GADMIN**> why dont you sort out what it is you need to and talk to me when you have your worrys sorted out
+[8/23][12:06:44a] <**GADMIN**> it still feels like you're mind is elsewhere
+[8/23][12:07:09a] <GENO-SiDE> well losing your home woulndt your mind be elsewhere ?
+[8/23][12:07:53a] <GENO-SiDE> your saying you would take internet stuff over personal home stuff anytime...??
+[8/23][12:07:57a] <**GADMIN**> obviously that's why i dont know why you were doing that stuff on irc
+[8/23][12:08:07a] <**GADMIN**> proxying ips to whoever
+[8/23][12:08:19a] <**GADMIN**> and no i said deal with your real life problems
+[8/23][12:08:25a] <**GADMIN**> that's a million times more important than anything else
+[8/23][12:09:06a] <GENO-SiDE> well im going to find out today if im going to be losing my home or not and thats why i was drinking as well 
+[8/23][12:09:26a] <GENO-SiDE> i cant think of what would happen if i did lose my home
+[8/23][12:09:32a] <**GADMIN**> i hope that doesnt happen
+[8/23][12:09:39a] <**GADMIN**> the government extends grants to people
+[8/23][12:09:47a] <**GADMIN**> to live in their homes longer due to the poor economy
+[8/23][12:10:09a] <**GADMIN**> over here i know that's possible for a while, something about increased time for debt settlement
+[8/23][12:10:23a] <**GADMIN**> anyway deal what you need to. im not trying to add to your stress
+[8/23][12:10:53a] <GENO-SiDE> what do you mean add to my stress ?
+[8/23][12:11:11a] <**GADMIN**> aka talking about the fuckup on *SITE* which siteop went on about
+[8/23][12:11:24a] <**GADMIN**> i rather not talk about it. and we already did.. just try to fix your own issues
+[8/23][12:11:31a] <**GADMIN**> im gonna go to sleep in a min
+[8/23][12:12:08a] <GENO-SiDE> so you aint gonna tell me whats happning then ?
+[8/23][12:12:28a] <**GADMIN**> nothing you were banned and access is gone right now that's all
+[8/23][12:12:37a] <**GADMIN**> i dont think the op will readd you, he wanted an explanation
+[8/23][12:12:43a] <**GADMIN**> give it some time...
+[8/23][12:15:25a] <**GADMIN**> a ton of people bitched and complained about the pre and nuke and it was traced directly to you. it doesn't change in the matter of minutes that people are pissed
+[8/23][12:18:12a] <GENO-SiDE> did they only trace it back to *SITE* ?
+[8/23][12:19:22a] <**GADMIN**> they traced it to you. did your proxying give him access to all sites?
+[8/23][12:20:48a] <GENO-SiDE> no not all sites
+[8/23][12:20:56a] <GENO-SiDE> only *SITE*
+[8/23][12:21:09a] <GENO-SiDE> im not stupid to put them all in
+[8/23][12:22:27a] <**GADMIN**> you need to lay low and take a break. deal with keeping your house
+[8/23][12:22:37a] <**GADMIN**> the grp has to recover from this now too
+[8/23][12:22:55a] <**GADMIN**> we've lost trust and respect from an old siteop that we have been affiling with for about 5 years 
+[8/23][12:23:45a] <**GADMIN**> we affild his sites in the past.. we've worked hard to keep our image since 2001 and all these incidents obviously are going to destroy the group. i would never do anything like that to any group ive been with
+.....
+This goes on for some time. Our gadmin is far too forgiving.
+.....
+[8/24][12:37:27a] <**GADMIN**> i gave u everything i could
+[8/24][12:38:27a] <**GADMIN**> i try to be the best gadmin i can be and i dont dl from sites anyway.. i kept the grp running for the members.. cause we're still like a family to some degree / grp of friends
+[8/24][12:39:25a] <GENO-SiDE> plus who was it who got the last 3 new cappers ??
+[8/24][12:39:45a] <**GADMIN**> you got 3 people? i thought just sledneck and **INFORMANT**
+[8/24][12:39:58a] <**GADMIN**> which is why i dont understand how you could let someone pre p2p stuff of a nother grp
+[8/24][12:40:05a] <**GADMIN**> on our sites
+[8/24][12:40:06a] <**GADMIN**> :|
+[8/24][12:40:22a] <**GADMIN**> i thought u cared about the group too.. hence sledneck..
+.....
+
+Here we can see sledneck is his main fag buddy. Sledneck left and formed NATV by begging our siteops for slots.
+2 days later:
+[8/26][12:32:23a] <**GADMIN**> why is Camp.Rock.2.The.Final.Jam.2010.iNTERNAL.DVDRip.XviD-OSHT on *SITE* predir?
+[8/26][12:32:30a] <GENO-SiDE> wats with the deop
+[8/26][12:32:50a] <GENO-SiDE> ive always pred OSHT on there
+[8/26][12:33:00a] <GENO-SiDE> if you dont want me to then i wont
+[8/26][12:33:17a] <**GADMIN**> why is it in the W4F predir?
+[8/26][12:33:30a] <**GADMIN**> you are never supposed to pre from the W4F predir.
+[8/26][12:33:35a] <**GADMIN**> i told u this
+[8/26][12:33:48a] <GENO-SiDE> i need to get to there irc to ask them to set up a folder for me
+[8/26][12:33:54a] <**GADMIN**> why are u using W4F predir?
+[8/26][12:33:59a] <**GADMIN**> are they affil there?
+[8/26][12:34:16a] <**GADMIN**> i told u before not to do this
+[8/26][12:34:18a] <**GADMIN**> and u do it the next day
+[8/26][12:34:23a] <**GADMIN**> and u didnt pre shit for w4f
+[8/26][12:34:30a] <GENO-SiDE> wtf
+[8/26][12:34:39a] <GENO-SiDE> WSAIT!!!!
+[8/26][12:34:55a] <**GADMIN**> im tired of this bullshit. u were never supposed to use predirs for anything but W4F releases
+
+Session Start: Thu Aug 26 00:35:43 2010
+Session Ident: GENO-SiDE
+[8/26][12:35:43a] Session Ident: GENO-SiDE (**GADMIN**) (~OCB@crazyass.net)
+[8/26][12:35:43a] *** FiSH: Sent my DH1080 public key to GENO-SiDE, waiting for reply ...
+[8/26][12:35:43a] Session ident:
+[8/26][12:35:43a] <GENO-SiDE> can you give me the irc of there network to ask to set one up for OSHT
+[8/26][12:36:01a] <GENO-SiDE> you there ?
+[8/26][12:36:09a] <GENO-SiDE> ?
+[8/26][12:36:16a] <GENO-SiDE> wtf is with the fish
+[8/26][12:36:42a] <GENO-SiDE> you ignoring me now ?
+[8/26][12:37:02a] <GENO-SiDE> you never listen to people out
+[8/26][12:37:52a] * GENO-SiDE pokes **GADMIN**
+[8/26][12:38:03a] <GENO-SiDE> ..........
+[8/26][12:38:28a] <GENO-SiDE> **GADMIN** you there ????
+[8/26][12:38:37a] <GENO-SiDE> i know your there your just not listening to me
+[8/26][12:38:56a] <GENO-SiDE> be like that
+[8/26][12:39:23a] <GENO-SiDE> atleast i didnt make apps for people to upload shit to ddl sites
+[8/26][12:41:18a] <**GADMIN**> *INFORMANT& was right about you, i told him he was wrong. you do the same shit the day after and promise to pre releases that were never seen. im sick of this bullshit from you. *INFORMANT* was 10000% right about everything he said i just didnt want to believe it
+[8/26][12:41:36a] <GENO-SiDE> no he aint
+[8/26][12:41:48a] <GENO-SiDE> if you want me to i can pre it as W4F
+[8/26][12:41:52a] <**GADMIN**> he told me a lot of stuff that you hadn't read, and he was right
+[8/26][12:42:31a] <GENO-SiDE> jesus you dont reaaly listen dont you
+[8/26][12:44:24a] <GENO-SiDE> i need onto *SITE* irc to ask them to make me a dir for OSHT
+[8/26][12:45:16a] <GENO-SiDE> you act like a 5 year old and dont listen
+[8/26][12:45:31a] <GENO-SiDE> 4 year old have the habit of listening to people
+[8/26][12:46:52a] <GENO-SiDE> i need to know if your there still so i can explain if not then im going to bed 
+[8/26][12:46:56a] <GENO-SiDE> cos i know you
+[8/26][12:47:23a] <GENO-SiDE> you end up coming back after an hour and say to me to explain what is what and then im not about
+[8/26][12:47:30a] <GENO-SiDE> and then you would say ive had time
+[8/26][12:49:40a] <GENO-SiDE> i was going to upload that release then go to there irc and ask them to make me a dir
+
+
+
+Around this point, all ties are severed with him and the general consensus is to ignore him. He also decides to start stalking us, messaging us and joining the channel
+every few days and spouting bullshit and attempted blackmail.
+
+Session Start: Thu Aug 26 02:00:23 2010
+Session Ident: GENO|SiDE
+[8/26][2:00:23a] Session Ident: GENO|SiDE (**GADMIN**) (~OCB@crazyass.net)
+[8/26][2:00:23a] *** FiSH: Sent my DH1080 public key to GENO|SiDE, waiting for reply ...
+[8/26][2:00:23a] Session ident:
+[8/26][2:00:23a] <GENO|SiDE> +OK /h3h5/9FmPI1Boki108ngr9.
+-
+[8/26][2:00:23a] GENO|SiDE is ~OCB@crazyass.net * OGB
+[8/26][2:00:33a] <GENO|SiDE> its ok to admit to mental health problems
+[8/26][2:02:05a] <GENO|SiDE> you have a real problem you know that of not chatting to people 
+[8/26][2:02:25a] <GENO|SiDE> i know about hadoukens site last year
+[8/26][2:02:44a] <GENO|SiDE> do you really think thats worth anythink ????
+[8/26][2:08:35a] <GENO|SiDE> im not gonna tell anybody anyway cos i aint like that
+[8/26][2:08:42a] <GENO|SiDE> i aint not snitch
+[8/26][2:32:35a] <GENO|SiDE> i see your talking to **INFORMANT** :/
+[8/26][3:05:26a] <GENO|SiDE> ive come to a conclusion
+[8/26][3:05:38a] <GENO|SiDE> im not gonna do anythink cos i know your a nice guy
+[8/26][3:06:03a] <GENO|SiDE> and that i dont want to be part of W4F any more really
+[8/26][3:06:14a] <GENO|SiDE> just want to get on with my life
+[8/26][3:06:39a] <GENO|SiDE> but i would like to talk to you in the future as a friend
+-
+
+These are his last few messages, presumably before he pres his bullshit.
+
+To gadmin:
+[9/20][6:19:56p] <RC360> thought we can have a chat
+[9/20][6:20:00p] <RC360> how are you ?
+[9/20][6:24:51p] <RC360> :/ WOW your being childish not talking when somebody else wants to talk
+[9/20][6:25:02p] <RC360> i take it you cant have a normal convosation
+
+To Hado:
+[20/09/2010 23:26:51] RC360 is ~OCB@crazyass.net * OGB
+[20/09/2010 23:26:09] <RC360> you about and not being childish like [gadmin]
+
+To Hado:
+[01/10/2010 01:13:38] <FRiCJ> :/ you about ?
+[01/10/2010 01:15:57] <FRiCJ> tell [gadmin] i cant be asked with hes childish ego as i aint coming back to irc anymore so good luck in the future in what ever you are doing
+[01/10/2010 01:16:59] <FRiCJ> as i aint capping anymore or doing anythink there aint no point in being online no more too much /drama going on irc with all these childish shitty fits with him happening
+
+
+Now, we know he pres shoddy anime for ANiHLS due to an accidental admision:
+
+[7/10][8:10:16p] <X-360> im on 8 sites now
+[7/10][8:10:24p] <**GADMIN**> well you dont have 8
+[7/10][8:10:24p] <**GADMIN**> lol
+[7/10][8:10:31p] <X-360> hehe
+[7/10][8:10:41p] <**GADMIN**> you have 5. *LIST*
+[7/10][8:10:41p] <X-360> 2 of them are ANiHLS
+[7/10][8:11:11p] <**GADMIN**> are u releasing anime?
+[7/10][8:11:12p] <**GADMIN**> yea
+[7/10][8:11:29p] <X-360> yeah im doing anime for them
+[7/10][8:11:38p] <**GADMIN**> the sites are nice?
+[7/10][8:11:44p] <X-360> hadouken said i couldnt do anime for W4F for some reason a while back
+[7/10][8:11:56p] <**GADMIN**> you can do anime if it's aired tv
+[7/10][8:11:58p] <X-360> ive not really had a chance to look on the sites
+[7/10][8:11:59p] <**GADMIN**> if it's dvd
+[7/10][8:12:08p] <**GADMIN**> you probably dont have the skills to encode that
+[7/10][8:12:08p] <X-360> <- <**GADMIN**> you probably dont have the skills to encode that
+[7/10][8:12:24p] <**GADMIN**> tv should be more straight forward
+[7/10][8:12:30p] <**GADMIN**> anime dvd can be nasty
+[7/10][8:12:43p] <X-360> ive done anime dvds
+[7/10][8:13:14p] <X-360> 1-13 of full metal alchemist
+[7/10][8:13:21p] <X-360> ripped them to xvid for them
+[7/10][8:14:23p] <**GADMIN**> are they nuked
+[7/10][8:14:24p] <**GADMIN**> =b
+
+We suspect him of being in NATV due to his association with sledneck and the type of pres they are now doing (pointless UK shows).
+
+We know he wont be purged from NATV due to being the lover of the gadmin, however we would advice ANiHLS to purge the fucker ASAP.
+
+He primarily connects from ~OCB@crazyass.net these days.
+
+If we go to www.crazyass.net we can see that it appears to be a defunct IRC page of some sort. Using the "way back machine" link takes us to what the site used 
+to look like, and shows us that it was administered by someone called mite (miteymite@gmail.com).
+
+If we google this email address, we get directed to this page: http://en.gogloom.com/EMUNet/gp/
+This page is full of what appears to be torrent irc channels and public pre channels. The "miteymite" part directs us to donations for APNet. Being the awesome
+CSI watcher that I am, I used my uber detective skills and googled "miteymite apnet" and the first result is http://filesharefreak.com/ writing about
+http://anotherp2p.net. Awesome. I always wanted ANOTHER p2p net.
+
+This concludes the p2p fag that is GENOSiDE aka ^Haterz aka RC360 aka X-360 aka GaMMa aka M4XW3LL.
+
+
+
+
+Now, for sledneck. He was introduced to us by X-360. This by itself is probably a strong indication of P2P activity based on previous evidence.
+sledneck runs NATV and KiLLZoNE.
+
+Our evidence against him is not as plentiful as it is against X-360, however from early on his mission seemed to be to purge our members to his own group.
+
+Session Start: Fri Jul 09 13:51:21 2010
+Session Ident: sledneck
+[7/09][1:51:32p] <**GADMIN**> hey i am the w4f leader. i can talk to you when i get back from work.. 360 said u wanted to talk. i got to go now though
+[7/09][1:53:07p] <sledneck> okay
+[7/09][1:53:11p] <sledneck> i should be around later tonight
+[7/09][2:06:42p] <sledneck> givin first release to him to pre
+[7/09][2:06:45p] <sledneck> will be done in 1 min
+[7/09][2:07:00p] <sledneck> this is the first tv-xvid ive ever done so bear with me :)
+[7/09][2:07:07p] <sledneck> i've done lots of tv-dvdrip and just xvid
+[7/09][2:07:16p] <sledneck> but never captured before
+..
+[7/10][3:51:24a] <sledneck> i started killzone over a year ago   still only have 2 sites
+..
+[7/10][4:00:16a] <sledneck> actually
+[7/10][4:00:20a] <sledneck> can i get a different username on here pleasre
+[7/10][4:00:33a] <sledneck> this nick is only on private sites
+[7/10][4:00:43a] <**GADMIN**> ok
+[7/10][4:00:57a] <sledneck> site adduser er1c $t3mp456! *@67.225.73.* *@78.24.188.*
+..
+[7/17][2:36:15a] <sledneck> you interested in a .cn site ?
+[7/17][2:36:16a] <sledneck> new
+[7/17][2:36:17a] <sledneck> 5TB
+[7/17][2:36:22a] <sledneck> couple decent affils
+[7/17][2:36:23a] <sledneck> gbit
+[7/17][2:36:38a] <sledneck> GOW/aAF/KaKa/AUTV/TALiO
+[7/17][2:36:40a] <sledneck> so far
+[7/17][2:36:46a] <sledneck> TALiON*
+[7/17][2:36:51a] <sledneck> and KiLLZoNE now :P
+[7/17][4:26:34a] <sledneck> all the stuff i buy myself is hunting/fishing shit   and i pre that with killzone
+..
+[9/14][6:27:10p] <sledneck> hey i asked some of our guys if they would be interested in capping hunting/fishing shit for killzone ?
+
+After being told no, he preceeded to spam the group channel and new members in order to recruit for NATV.
+
+As far as we know, he is known as sledneck, er1c, and james. Most of this information comes from conversations with various siteops.
+Our gadmin was informing the ops of this P2P and member stealing ways.
+
+[9/17][4:10:22a] <**GADMIN**> he is on every w4f site
+[9/17][4:10:27a] <**GADMIN**> as sledneck or er1c
+[9/17][4:10:29a] <**SITEOP1**> i didnt get him on any of ur sites
+[9/17][4:10:36a] <**SITEOP1**> i saw his on *SITE*
+[9/17][4:10:46a] <**GADMIN**> yeah he was planning to steal members
+[9/17][4:10:46a] <**SITEOP1**> only site i got him was *SITE*
+[9/17][4:10:56a] <**GADMIN**> and affil with his other grps on our sites..:p
+[9/17][4:11:01a] <**GADMIN**> in any case i ignored him
+[9/17][4:11:01a] <**SITEOP1**> <- <**GADMIN**> +OK BN8Jt19jF/p1nI/N11IX4Am0NOv0T1L/my207Ea0h0oMY/W/
+[9/17][4:11:15a] <**SITEOP1**> [06:44:11] <james> i don't want a war or fuck all   i just wanna do my own shit and have fun
+[9/17][4:13:02a] <**SITEOP1**> :/
+[9/17][4:13:12a] <**SITEOP1**> i didnt realise he would whore it up like that
+[9/17][4:16:16a] <**GADMIN**> er1c is on tons of sites
+[9/17][4:16:20a] <**SITEOP1**> he whore'd himself quite quickly
+[9/17][4:16:25a] <**GADMIN**> and he claims to be in many releases groups
+[9/17][4:16:35a] <**SITEOP1**> 24hrs ago he had 1 site, (nl)
+[9/17][4:16:47a] <**SITEOP1**> thats what i was told
+
+Session Start: Tue Sep 21 19:49:55 2010
+[9/21][8:17:29p] <**GADMIN**> looks like he ended up stealing someone
+[9/21][8:17:29p] <**GADMIN**> ;;
+[9/21][8:17:31p] <**GADMIN**> madcap :p
+[9/21][8:17:41p] <**GADMIN**> was anyone added to his grp on *SITE*?
+[9/21][8:18:09p] <**SITEOP1**> nop
+[9/21][8:18:18p] <**GADMIN**> weird..
+[9/21][8:18:21p] <**SITEOP1**> what was his ip?
+[9/21][8:18:24p] <**GADMIN**> he has 2 people.. him and a dvdripper
+[9/21][8:18:28p] <**GADMIN**> but madcap just left ;;
+[9/21][8:18:30p] <**GADMIN**> sec..
+[9/21][8:18:37p] <**SITEOP1**> he donthave no slots here
+[9/21][8:18:39p] <**SITEOP1**> lmao
+[9/21][8:18:45p] <**GADMIN**> he didnt affil with his grp
+[9/21][8:18:45p] <**GADMIN**> oh
+[9/21][8:18:48p] <**SITEOP1**> not asked any1 to be added
+[9/21][8:18:54p] <**GADMIN**> he has 1 slot?
+[9/21][8:19:00p] <**SITEOP1**> lol for now  ;p
+[9/21][8:19:03p] <**GADMIN**> well i guess it may change in the next few days
+[9/21][8:19:08p] <**SITEOP1**> till i see fit
+[9/21][8:19:14p] <**GADMIN**> it was a very shady leave ;;
+[9/21][8:19:24p] <**SITEOP1**> what was this guy's ip?
+[9/21][8:19:27p] <**GADMIN**> said he lost his hdtv service but he's still on linknet.. and got a bnc :p
+[9/21][8:19:30p] <**GADMIN**> new to irc ;;
+[9/21][8:19:34p] <**GADMIN**> um
+[9/21][8:19:37p] <**GADMIN**> i purged him but
+[9/21][8:19:38p] <**GADMIN**> lol ;;
+[9/21][8:19:47p] <**SITEOP1**> doh
+[9/21][8:20:05p] <**GADMIN**> *@74.105.102.*
+[9/21][8:20:19p] <**GADMIN**> * Dns resolved pool-74-105-102-23.nwrknj.fios.verizon.net to 74.105.102.23
+[9/21][8:20:30p] <**GADMIN**> obviously not till he asks to add :p
+[9/21][8:21:38p] <**SITEOP1**> i'm not decidd if i'll keep him
+[9/21][8:21:56p] <**GADMIN**> well i dont care about that anymore :p
+[9/21][8:22:12p] <**GADMIN**> i just dont want him to steal ppl ;; this latest thing was highly unusual.. my 'hdtv is gone'
+[9/21][8:22:24p] <**GADMIN**> and then he comes on with a bnc he got after the fact and still @ linknet.. so ;;
+[9/21][8:22:25p] <**SITEOP1**> [01:22:17] <@*SITE*-BOT> [ NATV ]-[PRE(All): 12 ]-[Mth PRE: 12 ]-[Total: 3.71GB ]-[Pred(Mth): 3.71GB ]-[Pred(Wk): 2.01GB ]-[Files(All): 255 ]-[Files(Mth): 255 ]-[Files(Wk): 255 ]-[ TV-XVID ]-[Nukes: 9 ]
+[9/21][8:22:34p] <**GADMIN**> sledneck spammed him originally
+[9/21][8:22:45p] <**GADMIN**> but i mean losing either isn't a big loss ;;
+[9/21][8:22:50p] <**SITEOP1**> yeah
+[9/21][8:22:53p] <**SITEOP1**> principle
+
+Session Time: Sat Sep 25 00:00:00 2010
+[9/25][7:00:38p] <**SITEOP1**> :o
+[9/25][7:00:40p] <**SITEOP1**> [23:27:17] * themadcap (madcapLau@*) has joined *
+[9/25][7:00:41p] <**SITEOP1**> [23:28:32] * themadcap (madcapLau@*) has left *
+[9/25][7:00:41p] <**SITEOP1**> [23:28:44] * themadcap (madcapLau@*) has joined *
+[9/25][7:00:41p] <**SITEOP1**> [23:29:06] <themadcap> !news
+[9/25][7:00:44p] <**SITEOP1**> ^
+[9/25][7:00:55p] <**SITEOP1**> jus been added to a natv affil site
+[9/26][1:59:56a] <**GADMIN**> told him he's a pos for wasting my time ^^ 
+[9/26][2:11:15a] <**GADMIN**> but i guess it's good we got rid of him now vs later
+[9/26][2:20:34a] <**GADMIN**> did he drop ur site already for better ones?
+[9/26][2:20:35a] <**GADMIN**> lol
+[9/26][2:20:35a] <**GADMIN**>  FiRST ]-[ TV-XVID ]-[ Main.Street.Mysteries.S01E10.HDTV.XviD-NATV ]-[ botzcar @ 13.2MB/s ]-[ Expecting 195.0MB In 13 Files ]-
+[9/26][2:20:37a] <**GADMIN**> ~_~
+[9/26][2:20:40a] <**GADMIN**> hillarious :P
+[9/26][6:16:38a] <**SITEOP1**> was that here? rofl?
+[9/26][6:52:51a] <**SITEOP1**> yeah pre'd empty dir
+[9/26][6:53:05a] <**SITEOP1**> he asked me for 2 ratio slots, i jus ignored him
+
+So, he manages to steal an unsuspecting newbie. No big deal, but still a bit lame.
+Most of our evidence on sledneck is as shady as the nfo NATV pred. He manages to maintain 3 separate identities (often all on the same site)
+
+This concludes our reply. Please stop chatting shit. X-360, you were given chance after chance and blew it. Don't then come crying and making shit up
+when you've been purged. Perhaps you should take a look in the mirror before talking to us about being childish.

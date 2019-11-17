@@ -1,0 +1,54 @@
+[L] site aldn 1000
+[L] 200- ## User         Tagline                  Files   Amount
+[L] 200- [ 1] n3m3sis                               14805     262.8GB
+[L] 200- [ 2] dragonarm                              7442     167.1GB
+[L] 200- [ 3] ahmed                                  3744     134.5GB
+[L] 200- [ 4] xFeArMex                               5543      90.3GB
+[L] 200- [ 5] TheOne                                 4316      82.3GB
+[L] 200- [ 6] liu511                                 4165      81.8GB
+[L] 200- [ 7] luke         lamer                     3543      71.8GB
+[L] 200- [ 8] xero                                   5912      67.9GB
+[L] 200- [ 9] m0e                                    5110      52.8GB
+[L] 200- [10] ovar                                   3552      46.6GB
+[L] 200- [11] Christina    im so Lame                3090      44.7GB
+[L] 200- [12] antasma                                2105      40.7GB
+[L] 200- [13] GRIZZ                                  1770      40.3GB
+[L] 200- [14] nellbeau                               2210      31.5GB
+[L] 200- [15] optik                                  1572      28.0GB
+[L] 200- [16] venom                                  1941      26.9GB
+[L] 200- [17] MOViES                                 1103      23.6GB
+[L] 200- [18] vibe                                    815      23.2GB
+[L] 200- [19] killacam                               1305      23.2GB
+[L] 200- [20] Galahad                                1012      20.3GB
+[L] 200- [21] stavroz                                 905      16.7GB
+[L] 200- [22] UNITED                                  650      14.6GB
+[L] 200- [23] flaw                                    508      13.3GB
+[L] 200- [24] mostwanted                              510      11.9GB
+[L] 200- [25] Krazie                                  614      11.0GB
+[L] 200- [26] nextra                                  750      10.2GB
+[L] 200- [27] kyfho                                   343       9.8GB
+[L] 200- [28] ping                                    585       9.7GB
+[L] 200- [29] emoXcore                                358       9.2GB
+[L] 200- [30] jackedin     .                          375       8.7GB
+[L] 200- [31] RuckOver                                639       8.6GB
+[L] 200- [32] Nameless                                703       7.9GB
+[L] 200- [33] hassan                                  495       7.1GB
+[L] 200- [34] AlKhOlIc                                427       6.2GB
+[L] 200- [35] raistlin                                523       5.7GB
+[L] 200- [36] boozy                                   285       4.1GB
+[L] 200- [37] BiLLz                                   284       4.0GB
+[L] 200- [38] tigrow                                  203       2.9GB
+[L] 200- [39] CRX_ZC                                   59       2.6GB
+[L] 200- [40] chips                                   167       2.5GB
+[L] 200- [41] boxfrog                                 194       2.4GB
+[L] 200- [42] GNM                                      68       1.1GB
+[L] 200- [43] aLbaTrOSs                                10     193.4MB
+[L] 200- [44] n2o                                       1       6.6KB
+[L] 200- [45] havokator                                 2        406B
+[L] 200- [46] drftpd                                    0          0B
+[L] 200- [47] sitebot                                   0          0B
+[L] 200- [48] coon                                      0          0B
+[L] 200- [49] ICeMaNz                                   0          0B
+[L] 200  ---------------------------------
+[L] 230-   ?²²?? ???  ?         SiTEOPS .... Div,R0cky,The|One,M0         ?  ??? ??²²?
+nfb.servebeer.com:60660

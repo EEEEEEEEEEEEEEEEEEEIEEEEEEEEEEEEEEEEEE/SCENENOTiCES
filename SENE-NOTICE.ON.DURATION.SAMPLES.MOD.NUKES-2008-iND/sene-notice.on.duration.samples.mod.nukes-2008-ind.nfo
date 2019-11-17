@@ -1,0 +1,63 @@
+I think a lot of people noticed a huge flow of nukes like this: reencoded_duration.samples.mod.is.different.from.0. Now, on the one hand fighting reencodes is a noble cause. On the other, there is a danger of overdoing it.
+
+The way I see this, 99.9% of nukers do not have ANY information regarding two things:
+1. How do you check for that kind of problem?
+2. Is there scientific proof that this method is reliable and can be trusted?
+
+The only information I could manage to find in different nuke nets is the answer to first question only.
+To check for such a nuke, one needs to:
+1. Load an .MP3 into foobar aka foobar2000 ( http://www.foobar2000.org/beta/index.html )
+2. Right click on a track, >PROPERTIES, then again >PROPERTIES. There you'll see a string called DURATION and particularly (xxxxxxxxxxxxx samples)
+3. Open your Windows Calculator, switch to SCIENTIFIC (important!) mode, enter the xxxxxxxx number (# of samples in step 2), press MOD and input 588 (so mod OF 588), then press =
+4. If the result is 0 it's not a reencode
+
+Well, so much for the method. I guess there's no utilities to simplify this right now. Moving on... A number of people ripped tracks from different CDs, check them using this methond and guess what. The result WAS NOT 0, meaning that those freshly ripped tracks were reencodes :| Well, so much for the reliability...
+
+Another interesting thing: nobody seems to know much about this new revolutionary nuke reason, BUT still, people let it slide. Can anyone explain this to me?! I mean, so now came the day when people can start nuking WITHOUT PROVIDING SCIENTIFIC PROOF and we ALLOW this???
+
+Also, apparently net siteops let those nukes slide, thinking that people who nuke have more information that they do. People, WAKE UP and start thinking for yourself! I mean, you see a flow of nukes and you have no idea how to even check for them, you have no information. HOW can you let this slide? Nuking is about insuring QUALITY, if people who nuke with this reason are so sure, MAKE THEM present proof! You all think that nuker always knows best or more, well, here's a news for ya, they might NOT, so please don't let such things slide.
+Funnily enough, it started with 1-2 nets nuking with this, but then other joined. Like F*****NET. Guys, do you even know it's valid? Do you have any info on that? Or do you simply know how to check and doing it like stupid-ass sheeps???
+
+
+
+So here's a little overview of the whole situation the way I see it, some facts and observations:
+1. Supposedly there is a new methond for checking if an mp3 is a reencode
+2. 99.9% people can't even say HOW it's checked (well, not after this notice I guess)
+3. There is no scientific proof (Hydrogenaudio Forums discussions, articles, etc) of:
+ a. that this method is valid
+ b. that it is consistent = can be trusted and works in all cases
+4. Great number of people ripped CDs, then checked them using the method and it did not work = result was not 0, so it was a reencode
+5. Nobody could present any proof of validity of this method
+6. Net ops are reluctant to unnuke, because they think the nuker knows more about this
+
+Now, please pay attention to #4. People, including myself, ripped tracks off various CDs and then checked them using this methond and they FAIL. This proves that the method is absolutely inconsistent and CAN NOT be trusted!
+
+I know we live in troubled times where many groups reencode, and we really should fight this. But this methond should NOT be one of the weapons, since it seems to be pretty inconsistent and thus puts a shadow on INNOCENT groups as well. Net siteops, how can you let this happen? How can you allow nukes you are NOT sure are valid? Or do you really think the other person is always right?
+
+
+
+
+
+Finally, I might be wrong. There might be proof that this method really IS valid. Well then, to the person who started this mess: WRITE A NOTICE AND SHOW US ALL. So if anyone knows better, please share with the scene, help us make sense of it. But please, mind the PROOF, since we all can talk a good game, but unfortunately it means nothing really.
+
+So here's a thought:
+1. People who started this, let us know where did you get your facts from
+2. Net owners, DO NOT allow those nukes UNTIL you are SURE that they can be trusted
+
+And again, rip a few tracks from different CDs and check them. They MIGHT not pass and cases like that happened.
+
+Anyhow, I've written enough, but my point remains: we can not allow nukes that have no real basis behind them. If they do have anything to proof they are valid, feel free to share the knowledge with the rest.
+
+
+
+
+
+
+
+
+Regards and LONG LIVE THE SCENE!
+
+
+
+P.S. I am NOT a member of any groups that got nuked for this. My group have no such nukes. I'm writing this, because the situation is a sorry ass mess and it seems nobody is wiling to do ANYTHING about it.
+P.P.S. I bet there are people who say if this method works in majority of cases, it's good enough. I completely disagree. If there is a chance that good and honest groups can be nuked without a good cause, can we REALLY use this??

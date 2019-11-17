@@ -1,0 +1,176 @@
+Ok lets do this,
+
+it begins with a site called TQP and there was a nfo about it "New.HU.paysite.FiCO.QCF.Japan.X.affill.PROOF.iNSIDE-PWND"
+when its exposed, owners closed it, and renamed to rapture 
+
+tqp info: sitebot was ^silence
+
+-----------------------------------------------
+~ # telnet 79.172.193.152 2403
+Trying 79.172.193.152...
+Connected to 79.172.193.152.
+Escape character is '^]'.
+
+
+^silence  (Eggdrop v1.6.19+SSL (C) 1997 Robey Pointer (C) 2008 Eggheads)
+
+-----------------------------------------------
+
+
+(13:19:53)  —› Bologn is "Bolognaise" (~bolo@81.18.256.256)
+(13:19:53)  —› Bologn using link-net.org (LinkNet IRC Network)
+(13:19:53)      —› raw 320: Bologn is an SSL Encrypted Client
+(13:19:53)  —› Bologn has been idle for 4mins 45secs
+(13:19:53)  —› Bologn signed on 3wks 3days 4hrs 8mins 22secs ago
+
+
+(11:35:06) <*****> hey 
+(11:35:16) (Bologn) yo 
+(11:35:35) <*****> can u purge me on tqp 
+(11:35:41) (Bologn) may i ask why 
+(11:35:47) (Bologn) and whats ur site id 
+(11:35:55) <*****> also ***** 
+(11:36:22) <*****> we are changeing location with *****, we are homos, moving to the same place 
+(11:36:31) <*****> so i will have no internet 
+(11:36:35) (Bologn) haha 
+(11:37:03) (Bologn) purged 
+(11:37:08) (Bologn) whats up though 
+(11:37:10) (Bologn) tbnc is no good ? 
+(11:37:19) <*****> well 
+(11:37:23) <*****> u should know it 
+(11:37:39) (Bologn) know what 
+(11:38:05) <*****> your site is running on 79.172.193.152 right ?
+(11:38:26) (Bologn) its tbnc for the real box
+(11:38:28) <*****> and what is running on 79.172.193.151 :)
+(11:40:03) (Bologn) .151 is test gl 
+(11:40:09) (Bologn) or what do u mean
+(11:40:42) (Bologn) i can showto u.. it has nothing on it
+(11:40:49) (Bologn) was just for testing some scripts
+(11:42:47) <*****> testing how to shell leech slots?:)
+(11:42:55) <*****> sell* 
+(11:43:36) (Bologn) w8 i am checking now.. 
+
+
+
+
+after this, the site is closed and renamed to rapture, how do i know that ? just connected to eggdrop again
+
+
+rapture info: sitebot was ^rapture
+-----------------------------------------------
+~ # telnet 79.172.193.152 2403
+Trying 79.172.193.152...
+Connected to 79.172.193.152.
+Escape character is '^]'.
+
+
+^rapture  (Eggdrop v1.6.19+SSL (C) 1997 Robey Pointer (C) 2008 Eggheads)
+
+-----------------------------------------------
+
+ ~ # telnet 79.172.193.152 2403
+Trying 79.172.193.152...
+Connected to 79.172.193.152.
+Escape character is '^]'.
+
+
+^rapture  (Eggdrop v1.6.19+SSL (C) 1997 Robey Pointer (C) 2008 Eggheads)
+
+Please enter your nickname.
+TEST
+You don't have access.
+
+-----------------------------------------------
+telnet 79.172.193.152 2403
+Trying 79.172.193.152...
+Connected to 79.172.193.152.
+Escape character is '^]'.
+
+
+^rapture  (Eggdrop v1.6.19+SSL (C) 1997 Robey Pointer (C) 2008 Eggheads)
+
+Please enter your nickname.
+Bologn
+
+Enter your password.
+-----------------------------------------------
+with Bologn it ask for pass
+
+
+yesterday i got pm from a friend saying he got a new .hu site with good archive, so i just told him "i hope the bot name isnt "^rapture"
+he told me unfortunately it is.
+
+Also i asked him "who invited you to there?" answer was "Pizzab0y"
+
+
+I just start playing with a different nick at this morning:
+
+
+(13:20:06)  —› Pizzab0y is "Pizza" (~sy@LinkNet-804dbf12a8.ihaspizza.com)
+(13:20:06)  —› Pizzab0y using link-net.org (LinkNet IRC Network)
+(13:20:06)      —› raw 320: Pizzab0y is an SSL Encrypted Client
+(13:20:06)  —› Pizzab0y has been idle for 16mins 44secs
+(13:20:07)  —› Pizzab0y signed on 2days 18hrs 9mins 29secs ago
+
+(09:37:10) <poobe> hi dude, here? 
+(10:10:09) (Pizzab0y) hi 
+(10:11:01) (Pizzab0y) who are u 
+(10:15:10) <poobe> i just looking for a site with nice archive, my friend told me, maybe you could help me 
+(10:15:14) <poobe> i can support it well 
+(10:17:43) (Pizzab0y) which friend 
+(10:18:46) <poobe> taste 
+(10:30:15) (Pizzab0y) ah. 
+(10:30:22) (Pizzab0y) msg to BigDaddy 
+(10:30:31) (Pizzab0y) on linknet 
+(10:30:52) <poobe> ok thx 
+
+
+"taste" was an active trader on TQP, so i just used it, didnt excepted it will work..
+
+
+
+(13:20:26)  —› BigDaddy is "BigDaddy" (BigDaddy@2001:470::g)
+(13:20:27)  —› BigDaddy using link-net.org (LinkNet IRC Network)
+(13:20:27)      —› raw 320: BigDaddy is an SSL Encrypted Client
+(13:20:27)  —› BigDaddy has been idle for 28mins 11secs
+
+(10:31:12) (poobe) hi dude, here?
+(10:32:19) (BigDaddy) hi
+(10:32:54) *** FiSH: Sent my DH1080 public key to BigDaddy, waiting for reply ...
+(10:32:55) *** FiSH: Key for BigDaddy set to *censored*
+(10:33:06) (BigDaddy) u wanna to race my site ? 
+(10:33:10) <poobe> yes 
+(10:33:16) (BigDaddy) its .hu 
+(10:33:24) (BigDaddy) gbit 
+(10:33:53) (BigDaddy) one question.. are u on site called **CENSORED** ? 
+(10:34:13) <poobe> no 
+(10:34:23) (BigDaddy) ok good 
+(10:34:24) (BigDaddy) addline 
+(10:35:16) <poobe> site adduser poobe s3cr3tP4ss poobe@**CENSORED** 
+(10:35:45) (BigDaddy) Rapture: NL-Entry - 79.170.88.34:8796 
+(10:36:34) (BigDaddy) irc linknet :) 
+(10:36:44) <poobe> ok thx 
+(10:36:49) <poobe> i will support it hard:) 
+(10:39:38) (BigDaddy) good :D 
+(10:39:42) (BigDaddy) use stat -l to make dirlist 
+(10:41:27)      —› invite: (^rapture) invites you to join (#rapture)
+(10:41:27)      —› invite: (^rapture) invites you to join (#rapture.spam)
+(10:44:25) <poobe> it has nice xbox archive 
+(10:44:34) (BigDaddy) thanks 
+(10:44:39) (BigDaddy) its mount from pizza's .uk archivse 
+(12:03:54)      —› kick: (poobe) was kicked by (BigDaddy:#rapture) (poobe)
+(12:04:01)      —› kick: (poobe) was kicked by (BigDaddy:#rapture.spam) (poobe)
+(12:09:03) <poobe> why do you kick me ? 
+(12:09:14) <poobe> i did something wrong? 
+(12:09:16) (BigDaddy) u leak info 
+(12:09:28) <poobe> what ? 
+(12:09:37) (BigDaddy) [10-08-22 09:46:06] e[BigDaddy] its mount from pizza's .uk archivse 
+(12:09:39) (BigDaddy) this im told only to u 
+(12:09:45) (BigDaddy) nobody else know it 
+(12:10:35) (BigDaddy) so how do other people know that now ? 
+
+
+
+easy to get into there...so people beware what is going on around us
+
+

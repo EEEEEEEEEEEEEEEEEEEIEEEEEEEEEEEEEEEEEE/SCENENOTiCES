@@ -1,0 +1,71 @@
+So... what do we got here. P2P-user, that have leaked over 4GB scene-pres 
+in average EVERY DAY the last 597 days. IN AVERAGE! 
+
+This is an expose you dont see everyday, luckily and sadly enough. :~
+
+We weren't even looking for this guy, this was just a coincidence we caught 
+him with his pants down. Anyhow, we thought this was so interesting that we 
+might even give it a very own notice. 
+You see, there is those bad guys taking places in notices, thats uploading
+fast with low pretimes.. and of course, these should be removed from our 
+beloved scene. These guys seems to be leaking for a short time, then getting
+exposed or went home to mama or something. 
+Then we got guys leaking a lot for a long time... these guys are also a huge 
+security-issue. Not only are they leaking new releases, they also seed them 
+for a long time. 
+
+
+Ok, lets cut the crap. Here is what we got: 
+
+We found this guy on a huge swedish torrent-site, Swebits. He were seeding
+with the ip 84.55.75.93, and we scanned our sites for it. 
+Oh, tada, we got a match! 
+
+DEBUG 10 okt 2006 00:00:00 [FtpConn thread 21278 from 84.55.75.93] 
+net.sf.drftpd.master.BaseFtpConnection.service  - << USER nex
+
+So, we checked what we got on the user, and found this. 
+(of course things are cencored.. one of the things cencored is his currygroup, 
+who immediately took repudiation from the behavior of their 'member'.)
+
+[1] (23:54:02) site user nex
+[1] (23:54:02) 200- Username: nex                  Created: xxxxx
+[1] (23:54:02) 200- Comment: P2P-user              Last seen: xxxxx
+[1] (23:54:02) 200- Total logins: xxxxx            Idle time: 45
+[1] (23:54:02) 200- Ratio: 3.0                     Credits: xxxxx
+[1] (23:54:02) 200- Max logins: 3                  From same IP: 3
+[1] (23:54:02) 200- Max sim uploads: 2             Max sim downloads: 1
+[1] (23:54:02) 200- Group / Leech slots: 0   0     Group Min/Max Ratio: 3.0/3.0
+[1] (23:54:02) 200- Total uploaded: xxxxxx         Total downloaded: xxxxxx
+[1] (23:54:02) 200- Times nuked: xxxxxx            Bytes nuked: xxxxxx
+[1] (23:54:02) 200- Primary group: xxxxx           Banned: false
+[1] (23:54:02) 200- Extra groups: []               Banned Until: 
+[1] (23:54:02) 200- IP masks: *@84.55.75.*
+[1] (23:54:02) 200- Weekly Allotment: 0
+[1] (23:54:02) 200- IRC Ident: xen!~nex@LinkNet-3436c9888c.cust.bredbandsbolaget.se
+[1] (23:54:02) 200- Tagline: xxxxxx
+
+You can see that his IRC-nick is "xen", and when you whois him, you get the following.. 
+
+xen is ~nex@LinkNet-3436c9888c.cust.bredbandsbolaget.se * nex
+xen using irc.glassbilen.net [Glassbilen Networks IRCD]
+xen is an SSL Encrypted Client
+xen is actually ~nex@c-f23472d5.013-8-736b7610.cust.bredbandsbolaget.se [213.114.52.242]
+xen End of /WHOIS list.
+
+
+So, he is logging into ftp-sites with his p2p-seed-IP, and probably uses a bouncer 
+for irc-use. 
+
+People of The Scene! Take this information, see the sceenshots and act upon it. 
+We know this guy is running sites and is opping a serveral. (only on LinkNet 
+he is opping 9 chans, 3 of the looks like sitechans.. 
+Remember, if you support this guy, you are indirect a supporter of P2P.. we dont want 
+that, now do we? :~
+
+
+The Scene IS NOT SECURE until these leaks are sorted out. Leaks and whores should never
+ever be allowed to stay on The Scene. YOU are responible to act with this information. 
+
+Hang on tight, more notices incoming. We have heard that a member of a swedish dvdr-group 
+is long-time admin on a torrentsite.. stay tuned! 

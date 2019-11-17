@@ -1,0 +1,53 @@
+Many of you will close your eyes like you always have done and dont give a shit to this info.
+Few of you will prolly take the blue pill and open your eyes for all the security risk these kinda sceners are to us all.
+
+A few weeks ago, some friends started to dig information based on the related link between some people running this site and public 0sec https.
+According to many other sceners, they run more sites like this at sweden and netherlands, but since theres no evidences will stick to the proofs on this one.
+
+So i decided to push one fake release into this site in order to run some serious investigation. Site is named NovaCore aka NOC. Their 13tb box is located at Ukraine rented gbit link.
+Their entry bncs goes like this:
+
+(@NOC) bnc > 1. DE at 88.198.50.212:35561
+(@NOC) bnc > 2. CZ at 147.231.98.53:35561
+(@NOC) bnc > 3. NL at 145.97.224.217:35561
+
+but their real ip goes through: 212.113.33.66
+
+Shamefull some grps like 1KING ATRium BPM BSiDE CBR D2H gnvr H5N1 HB HFT iHF mbs OMA ONe NRG PTC RHYTHMIC SiBERiA SiRE UKHx UME VOiCE WUS wWs DYNAMiCS MONO give them support by affiliating the site.
+
+Site is staffed by:
+
+voco is "voco" (~voco@LinkNet-6815a76568.eko.com.ua)
+voco using link-net.org (LinkNet IRC Network)
+
+noxer (~noxer@LinkNet-6815a76568.eko.com.ua)
+noxer using link-net.org (LinkNet IRC Network)
+
+infernus (~infernus@LinkNet-6815a76568.eko.com.ua)
+infernus using link-net.org (LinkNet IRC Network)
+
+neo is "moo" (~mr@LinkNet-b735a09804.ip.erdves.lt)
+neo using link-net.org (LinkNet IRC Network)
+
+bro is "mr" (skull@LinkNet-6a9ca9841a.ktu.lt)
+bro using link-net.org (LinkNet IRC Network)
+
+gh0st is "unbel" (unbel@LinkNet-6bf702a5fd.sshunet.nl)
+gh0st using link-net.org (LinkNet IRC Network)
+
+gh0st (unbel@LinkNet-e5ce5bcf62.server4you.de)
+gh0st using link-net.org (LinkNet IRC Network)
+
+After fake release hitted site, it got spread to http : http://0day.musicore.net after almost 1 min.
+Didnt take long, only 8-10 min after, to get it mirored over countless shared sites, as google can easily and cleary show.
+
+Included few prtscreens so you can enjoy and have fun. Too bad we will have to expose all these fellows, maybe they will learn the lesson and care for what sites they take in the future.
+
+http://0day.musicore.net/ aka http://load2.me and NovaCode hosted on same Ukraine ISP
+http://dnstools.com/?count=1&lookup=on&wwwhois=on&arin=on&portNum=80&target=0day.musicore.net&submit=Go!
+http://dnstools.com/?count=1&lookup=on&wwwhois=on&arin=on&portNum=80&target=212.113.33.66&submit=Go!
+http://i48.tinypic.com/vo3itf.jpg
+http://i50.tinypic.com/29f6yhu.jpg
+http://i49.tinypic.com/2ptw4qr.jpg
+http://i50.tinypic.com/2cyf877.jpg
+http://i46.tinypic.com/10glcol.jpg

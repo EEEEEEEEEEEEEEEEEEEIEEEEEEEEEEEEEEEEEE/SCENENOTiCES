@@ -1,0 +1,168 @@
+
+
+                  \"-._ _.--"~~"--._
+                   \   "            ^.    ___
+                   /                  \.-~_.-~
+            .-----'     /\/"\ /~-._      /
+           /  __      _/\-.__\L_.-/\     "-.
+         /.-"  \    ( ` \_o>"<o_/  \  .--._\
+        /'      \    \:     "     :/_/     "`
+                /  /\ "\    ~    /~"
+                \_I  \/]"-._ _.-" 
+
+                     .---..-..-..---.
+                     `| |'| .` |`| |'
+                      `-' `-'`-' `-' 
+
+On Jan 20 2007 TNT was alerted to some users in its DB. They where 
+suspected of being members of a FXP Board / FXP Team. After looking
+into this matter the claims where in fact true.
+
+After purging these users, one named eth0 went on a mad hacking 
+sprey. They found a security whole somehow in glftpd and broke into
+a siteop account. After doing this they added *@* to thier own
+account and issues a site wide nuke command on the entire site.
+
+Once they had nuked everything they purged all sitebots on the 
+server and purged their own account so userdb record could now be
+pasted in this report.
+
+The users are part of a group called DNM which is an FXP team on
+www.wareznet.net This site is used to publish the info for hacked
+dumps around the world. The owner of this group is Princey. He
+was introduced to our group as a server owner looking to link 
+with out site. After looking around his site we could not find
+any evidence of activities that would put us of from using his
+server. The server was linked fine for three months and Princey
+even donated some $$$ to help with one of our colo server's.
+
+After last nights attack I went onto his server and did some 
+research and found symlinks from our section folders to a second
+glftpd installation which had a userbase of over 400 leech slots.
+I can only assume these where paid leech slots.
+
+Here is a list of irc nicks and hosts for the users involved.
+
+eth0 - (eth0) (eth0@cpc3-clif5-0-0-cust372.nott.cable.ntl.com)
+Princey - (Princey) (princey@host81-153-14-117.range81-153.btcentralplus.com)
+Sync - (Sync) (muslic69@cc626649-a.assen1.dr.home.nl)
+s-h-a-k-a- (s-h-a-k-a-)/(gogo@go.blow.yourself)
+[sp4wn] / [sp4wn|bnc] - ([Sp4wn|BNC])/(TanTrum@217.170.21.106)
+
+I have the whois reports for other DNM members not directly involved with this
+incident and will post them at the end of this report.
+
+What is a real security concern is [sp4wn] was running a pre bot for our group
+and he was also running pre bots in open public unsecured / unfished channels
+for this DNM group and other FXP Team groups. I can only assume that he does
+the same for other sure groups.
+
+The info on this bot is, (|TNT-PRE|)/(TNT-PRE@217.170.21.106)
+
+From what I can see / have been told his does have addpre chan access bot for
+most of his bot he just echo's from other pre spam channels.
+
+The network these teams hang out on is irc.overflow.org
+I was informed today that overflow is also the name of a kiddy group on efnet
+which like to root scene server's for their own fxp teams and DDoS sites who
+dont allow them in. They mostly use of the shelf exploits and dont use thier
+custom wrote explits which means rhunter will find them if you have had
+dealings with these kiddies in the past.
+
+They where unable to root our server's but they did try for several hours.
+
+Here is a log from when I first saw the attack taking place.
+
+(+|XXX|) [SYSOP] - (hidden) killed Quest (PID: 3288).
+(+|XXX|) [SYSOP] - (hidden) added ip *@* to eth0.
+(+|XXX|) [SYSOP] - (hidden) added user eth0.
+(+|XXX|) [DEFAULT] + /site was nuked 10x by (hidden) - reason: fucku - nukees: (hidden)
+(+|XXX|) [SYSOP] - (hidden) deleted (hidden).
+
+(+|XXX|) [SYSOP] - (hidden) added ip *@* to eth0.
+(+|XXX|) [SYSOP] - (hidden) added user eth0.
+(+|XXX|) [DEFAULT] + /site was nuked 10x by (hidden) - reason: fucku - nukees: (hidden)
+
+(+|XXX|) [SYSOP] - (hidden) added ip *@* to eth0.
+(+|XXX|) [SYSOP] - (hidden) added user eth0.
+(+|XXX|) [LOGIN] - (hidden) could not login, invalid password.
+(+|XXX|) [DEFAULT] + /site was nuked 10x by (hidden) - reason: fucku - nukees: (hidden)
+
+I wont paste the entire log as its pritty much the same for four server's
+in total.
+
+This group is not to be trusted and should be banned from every group they
+are in. I know they have access to other topsite's as their speeds and pre
+times where matching those of legit racers. I would erge every site to look
+at the ip's i have listed and purge / ban every one of them to safe gaurd
+your site and users.
+
+Here is a list of other members from this and other FXP team's that i found
+on irc.overflow.org - there where over 20 hacked sites hosted under one channel
+all running serv-u root kits and offering content. 
+
+(alextybob) (alxtb@0verfl0w-B083DCCA.brig.cable.ntl.com)
+(Big_Boy) (big_bos_bo@0verfl0w-77F97EF5.access.telenet.be)
+(Butcher) (chAos@0verfl0w-14C2FF05.freedom2surf.net)
+(Freeke) (free_flip_@0verfl0w-25FFAC9E.adsl-dyn.isp.belgacom.be)
+(icu2l8) (icu@0verfl0w-32E586B6.static.rdns-uclo.net)
+(Jonkol) (sander.ber@admin.overfl0w.org)
+(Pinkie) (vanholland@0verfl0w-FD80C3D5.direct-adsl.nl)
+(pr0wn3r) (Unknown@0verfl0w-2F56B920.dsl.telepac.pt)
+(psyduck1) (psyduck@0verfl0w-C8CE5FA6.dbsch1.nb.home.nl)
+(zane) (in_zane01@213.219.173.52.adsl.dyn.edpnet.net)
+
+Some of their OPEN AND UNPROTECTED CHANNELS INC PRE CHANS
+
+now talking in (#pre)
+—› topic: Official Overfl0w Network PRE Channel || Interested in pre bot in your channel? Contact Princey
+—› set by: Sync (Sunday, December 24th 2006, 07:48:25)
+—› users: 2 users, 0 ops (0%), 0 voiced (0%), 2 regulars (100%)
+—› join synced in: (0.02) second(s)
+
+    —› now talking in (#owners)
+((
+     —› users: 3 users, 0 ops (0%), 0 voiced (0%), 3 regulars (100%)
+     —› join synced in: (0.01) second(s)
+((
+     —› mode: (ChanServ) sets mode (+oq Quest Quest)
+     —› topic: (ChanServ) changes topic to ()
+     —› mode: (ChanServ) sets mode (+oq Quest Quest)
+
+(Bob) (Blah@0verfl0w-BE711508.ppp0.singnet.com.sg)
+(VJTD3) (VJTD3@0verfl0w-37A88E85.net267.fl.sprint-hsd.net)
+(Sven) (Sven@0verfl0w-D77BD4F6.bredband.skanova.com)
+(ShangMan) (ShangMan@0verfl0w-727A39B2.ma.us.rogers.com)
+
+#DNM-Team
+((
+     —› now talking in (#DMN-team)
+((
+     —› topic: .:| Team[DMN] |::| Use Boardnick |::| English Only |::| Board [UP] |::| #DMN-Pre [UP] |:. Need ppl, who can upload php shell to linux b0x, /q infexibl3
+     —› set by: infam0us^m4n (Tuesday, January 16th 2007, 12:39:18)
+     —› users: 6 users, 1 ops (17%), 5 voiced (83%), 1 regulars (17%)
+     —› join synced in: (0.02) second(s)
+
+#DNM
+((
+     —› now talking in (#DMN-Pre)
+((
+     —› topic: [PRE] #DMN-Pre announcement channel! .::. !pre , !dupe , !group , !predb
+     —› set by: VaaG (Sunday, January 7th 2007, 04:50:47)
+     —› users: 27 users, 1 ops (4%), 1 voiced (4%), 25 regulars (93%)
+     —› join synced in: (0.03) second(s)
+((
+
+#DNM-PRE
+#JONKOL-FTP
+(hidden) !help
+(LGBesBEsM) -=:[Commands]:=- - !search *Ordner* - !free - !speed - !stats - !status - !users - !info - !uptime -
+(hidden) !free
+(LGBesBEsM) [HDD-Status] - 2 - [C: 25.29GB/35.25GB] - [D: 1.35GB/1.95GB]
+     —› quit: ([Jonkol-Ftp]-040) (SYSTEM@5636A6A.F1A02D89.1471A4C8.IP) (User has been permanently banned from Overfl0w (no reason))
+     —› quit: (LGBesBEsM) (da_jonkol@0verfl0w-859CD916.quattron.de) (User has been permanently banned from Overfl0w (no reason))
+
+As you can see from these logs - this is some very disturbing info which should
+not be taken lightly.
+
+Thanks - a VERY concerned siteop

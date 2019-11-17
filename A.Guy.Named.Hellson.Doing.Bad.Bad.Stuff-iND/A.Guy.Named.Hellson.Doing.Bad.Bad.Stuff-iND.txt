@@ -1,0 +1,66 @@
+Ok, heres how it goes. 
+
+I come accross some recent evidence of a noob dealing with xdcc bots. Rooting them, and supplying dumps etc for them. I have no proof of that, ive just seen it.
+
+Now the proof that hes dealing in warez xdcc channels, as below.
+
+The IRc Server = irc.gigairc.net - Chan = #btb-warez
+
+As you will see, hes sitting in #brb-chat hiding from the warez channel, trying to be smart. But as lovely logs tell, hes in there.
+
+[14:03] <****> Session Start: Wed Feb 2 02:11:33 2005
+[14:03] <****> Session Ident: #btb-chat
+[14:03] <****> [02:11] * Now talking in #btb-chat
+[14:03] <****> [02:11] * Topic is '2,3Search Command: 6!Search 12-4=12- 9Search Bot = 4[9OFFLINE4]   1¤ 8Website 0www.btb-warez.tk We need more bots! Rooters Contact a 4! 0if you can provide bots or 0sec files. Happy New Year! ~ Wanna Serv? type !i want to serv : BASS IS OUT!'
+[14:03] <****> [02:11] * Set by Hellson on Wed Feb 2 01:34:14
+[14:03] <****> [02:16] <XDCC|BTB-H|004> #1  1673x [ 48M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics: pics.part1.rar
+[14:04] <****> [02:31] <XDCC|BTB-H|004> #4   560x [ 48M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics part 4: pics.part4.rar
+[14:05] <****> [02:40] <Hellson> i swear the admins on this network just skrew other chans to make there chans betta
+[14:05] <****> [02:40] <Hellson> yer we used to be number 2
+[14:05] <****> [05:38] <unfit> 12• 11Thanks for the +v 12•
+[14:05] <****> [05:38] <unfit> !i want to serv
+[14:05] <****> [05:39] <Hellson> Thx unfit For Serving, Need XDCC Setup Help? www.btb-warez.tk
+[14:06] <****> [16:30] <Khaos|{x}> Hellson
+[14:06] <****> [16:30] <Khaos|{x}> is there space on that dump? lol
+[14:06] <****> [16:39] <Khaos|{x}> hah
+[14:06] <****> [16:40] <Khaos|{x}> [02:07] <CC-400> [ CC-400 ][ DUPE : MOVIEZ : 05-P0RN/Droolin.And.Toolin-PEEPSHOW/CD2 ][ Khaos/ADMINS/cmon ho suck it ]
+[14:06] <****> [16:40] <Khaos|{x}> lmao
+[14:06] <****> [16:40] <Khaos|{x}> they must stay up @ night
+[14:06] <****> [16:40] <Khaos|{x}> thinking of release titles
+[14:06] <****> [16:40] <Khaos|{x}> ahahahaha
+[14:07] <****> [16:40] <Hellson> Im trying to crack another one now, im having hassles since ours went down
+
+Now theres proof hes dealing with search bots and dealing with xdcc channels.
+
+Heres proof he has access to the bots.
+
+14:11] <****> [02:16] <XDCC|BTB-H|004> ** 6 packs **  4 of 5 slots open, Record: 59.2KB/s
+[14:11] <****> [02:16] <XDCC|BTB-H|004> ** Bandwidth Usage ** Current: 32.0KB/s, Record: 59.9KB/s
+[14:11] <****> [02:16] <XDCC|BTB-H|004> ** To request a file, type "/msg XDCC|BTB-H|004 xdcc send #x" **
+[14:11] <****> [02:16] <XDCC|BTB-H|004> ** To request details, type "/msg XDCC|BTB-H|004 xdcc info #x" **
+[14:11] <****> [02:16] <XDCC|BTB-H|004> #1  1673x [ 48M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics: pics.part1.rar
+[14:11] <****> [02:16] <XDCC|BTB-H|004> #2    24x [ 48M] ACTUALLY PART2.RAR NOW: pics.part2.rar
+[14:12] <****> [02:16] <XDCC|BTB-H|004> #3   839x [ 48M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics part 3: pics.part3.rar
+[14:12] <****> [02:16] <XDCC|BTB-H|004> #4   560x [ 48M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics part 4: pics.part4.rar
+[14:12] <****> [02:16] <XDCC|BTB-H|004> #5   642x [ 28M] -Porn- Hellsons New 5 Part Pics Rar's consists of 3000 porn pics part 5: pics.part5.rar
+[14:12] <****> [02:26] <XDCC|BTB-H|002> #3   547x [7.4M] -Mp3- if ur stoned get this funny shit part 2 :hellson in his spare time 2.mp3
+
+[14:15] <****> Session Start: Wed Feb 2 02:11:33 2005
+[14:15] <****> Session Ident: #btb-warez
+[14:15] <****> [02:11] * Now talking in #btb-warez
+[14:15] <****> [02:11] * Topic is '11,1Happy New Year! 14Now Servin: 8The_Game-The_Documentary-2005-RNS.rar, Evil.Remains.LIMITED.SCREENER-POT,4Darkness.TELESYNC-MaTinE,10The.Life.Aquatic.with.Steve.Zissou.DVD.SCREENER.SVCD-TheFly,7Meet.The.Fockers.INTERNAL.TS-POT,12Spanglish.VCD.TELESYNC-FRA,14Half-Life_2_Retail-VENGEANCE'
+[14:15] <****> [02:11] * Set by Hellson on Sat Jan 08 00:12:01
+[14:15] <****> [02:11] * Hellson sets mode: +v XDCC|BB-013
+[14:16] <****> 02:22] * pvsnlk has joined #btb-warez
+[14:16] <****> [02:22] * Hellson sets mode: +o BassBoy
+
+Theres him in an op in the channel, him obviously on the bots.
+
+This is the same guy as the same guy on some various sites in the .us scene. 
+
+This guy is a risk, hes currently in a curry grp i wish not to name, but i hope they see this and make the right decision.
+
+Up to all you siteops, and ring owners out there to deal with this trash. 
+
+
+

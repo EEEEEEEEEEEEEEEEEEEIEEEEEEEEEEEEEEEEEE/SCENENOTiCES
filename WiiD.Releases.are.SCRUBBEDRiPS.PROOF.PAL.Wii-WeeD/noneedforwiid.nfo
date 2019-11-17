@@ -1,0 +1,38 @@
+Hello guys!
+
+You may have noticed the latest WiiD pres or probably been nuked for trading them.
+Lets first define what Scrubbed and Rip mean:
+
+Rip: Data (Game data like intros, outros, unwanted language files or system updates) have been removed ("ripped")
+Scrubbed: Each Wii disk contains a filesystem that doesn't use up all the space of the disk leaving the remaining
+          bytes in an undefined state, which looks like random bytes, so that the compression rate of the backup
+          is rather low. The so called Wii Scrubber replaces those bytes that aren't used by files of the
+          filesystem with 0xff, so that the compression rate of the backup is increased.
+
+Now lets look at the filesystem of some wii backups:          
+
+wii1.png - Animal.Crossing.Lets.go.to.the.City.PAL.Wii-LoCAL
+wii2.png - Animal_Crossing.PAL.RERiP.Wii-WiiD
+wii3.png - My_Fitness_Coach_PAL_Wii-WiiERD
+wii4.png - My.Fitness.Coach.PAL.RERiP.READNFO.Wii-WiiD
+
+You should be able to see that the partition containing system updates in the WiiD releases is removed.
+WiiD is telling you in their nfo: "To clear this thing up: THESE ARE *NO* RIPS!"
+So you now have 2 proofs that their pres are rips, if you don't believe us try it by yourself, get a so called
+"rerip" of them and the full and valid release of it and compare it with a tool that is able to show you the
+filesystem like Wiiscrubber or wiifuse.
+
+If you take a look at the .iso file of WiiD with a hexeditor like WinHex you will notice that
+a lot of the bytes contain the value 0x00, Wiiscrubber can generate an iso file of a complete wii dump the same
+way, just having 0xff bytes instead of 0x00. If you want to patch Wiiscrubber 1.40 to replace the not used bytes
+in the image with 0x00 instead of 0xff, open the WIIScrubber.exe in a hexeditor and replace the 0xff byte at the
+offset 0xE3DE with 0xff (containing the data byte of assembler instruction .text:0040E3DD push 0FFh). Now you can
+use Wiiscrubber to generate isos with the same result like WiiD has with their rerips. So not having random
+looking bytes in the WiiD iso shows that the backup got scrubbed on the fly by the new dumper they seem to use.
+Who can tell if a game cant detect that it got scrubbed?
+
+So you got proven that WiiD is preing scrubbed rips of wii games which already have been pred weeks to years ago.
+Their nfos contain just shit talk without any proof. If you want to reduce the size of your wii archive, just
+scrubb the games yourself.
+
+Siteops should think about letting a group affil that does not even know what they are releasing.

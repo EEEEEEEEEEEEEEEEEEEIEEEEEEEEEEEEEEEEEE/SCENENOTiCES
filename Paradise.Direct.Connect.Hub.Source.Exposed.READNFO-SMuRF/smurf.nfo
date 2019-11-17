@@ -1,0 +1,105 @@
+We are currently going through a phase in the scene where a lot of IDIOTS are starting to get involved and have no sense of security at all, and ontop of that they actually think they are important because they have a 100mbit in Sweden (shock:O).
+
+One of the people that came to me with information has tried to do something about these specific bunch of idiots many times but has failed to do so lacking the right contacts to make a difference.
+
+Now, some idiots, including some of the readers may be wondering... why the hell does everyone have such a big problem with P2P? Well, the authorities world wide are starting to view p2p as a bigger threat than "the scene", since thats how the majority of the releases spread to the different "copyright terrorists" (as they think of every consumers), so now they are starting to to monitor p2p more closely and since most of the users in this specific story are to do with Sweden.. there have been a few busts in sweden relating to p2p (DC and BitTorrent specifically). They may have not gone bust-crazy (yet), but the busts come in waves every year or so worldwide (so that the numbers are higher, therefor making them look cooler). So they catch the "seeders" (as we will call the 'uploaders' on these DC hubs), they stop the public circulation slightly -- but then... they want to take the source as well, and thats how we get security holes in the scene.. someone gets busted for sharing on DC++/BitTorrent and then they go after his sources. Now, the chances are that most sites have some sort of idiot on them that shares stuff on DC++, but the chances of him getting busted are.. well, 0.
+
+Now, thats the basic concept behind insecurity because of p2p. What we have here in this case is much worse. We have a DC hub that has releases definitly under 30 min from pre, and rumor has it some releases are on there before pre even (pre leaking, you will understand why soon).
+
+The DC Hub in question is called "Paradise" (prds.mine.nu:22000), a PRIVATE!! hub with only a few thousand accounds on it, attached to this "release" is a text file "hubusers.txt" which was optained from their secure hub software, which people involved in the writing of this notice have no idea how it works really (now just think, some authorities in Sweden do this for a living..).
+
+*BTW - For anybody here that is reading this and has DC++ open (shame on you ffs), yes.. it really is this easy to get all that info*
+
+Now, lets look closely how this hub gets its releases...
+
+They have got 2 100mbit, and 13 10mbit "dumps" to which they fxp different kinds of releases (for what kind of releases, open up the hubusers.txt file, search for "#Dump", and look at the description. The Dump sites are located in #DiseUmp on LinkNet, and they have some sort of system to automatically share new fxp'd releases.
+
+Now the juicy information... the source! (may come as a shock to some people).. now I know writing a site name and bnc is a big NO in "notices", but this is not a regular notice and much thought and research was put into this, besides.. by the time you get to the end of reading this file, you will realize this "notice" leaking the bnc is the least of the worries.
+
+Site Name: SMURF
+Site Channel: #SmurfVillage (LinkNET)
+BNC: nodesmurf.mine.nu:56813
+SiteBot: \Node
+Affil List (maybe this isn't recent):
+[AFFILS] APPS: ETH0
+[AFFILS] DVDR: aAF HIPPOS iYF MONKEYBIZ SQC TiFF
+[AFFILS] DVDR-TV: aAF iYF MONKEYBIZ NiLE TiFF
+[AFFILS] TV: aAF APB GORE GR0GG MARiNES SQC
+[AFFILS] TV-DVDRIP: aAF SQC
+[AFFILS] XVID: aAF
+--
+I apologise to the groups for having their group name in here, but I have been told several of these affils have been warned about it quite a while ago and none of them cared, mostly the small swedish groups (but hey... DC++ is part of the scene in their mind).
+
+Now, a list of hub operators/siteops of SMURF:
+
+----------------
+IRC Nick: Gizmoz (siteop at smurf)
+IP: 213.114.158.143
+Main DC++ Nick: [#OP]CyberAL [hubop at DC HUB / sharing 1TB on DC++]
+CyberAL is AL@LinkNet-b88c3b3814.cust.bredbandsbolaget.se * get a grip
+^^ hmm :P
+----------------
+
+----------------
+IRC Nick: Match (siteop at smurf)
+IP: 80.75.16.223
+Main DC++ Nick: [#OP]Orphankiller [hubop at DC HUB]
+----------------
+
+----------------
+IRC Nick: metalman (siteop at smurf)
+IP: 81.234.229.240
+Main DC++ Nick: [vip]metalman
+----------------
+
+----------------
+IRC Nick: wild (siteop at smurf)
+IP: 83.248.129.225
+Main DC++ Nick: [vip]wild
+----------------
+
+----------------
+IRC Nick: DrKaka/Lazone/L1me/FFQC (Leech account at SMURF)
+FFQC is D1g1t47@LinkNet-4271a5520c.tbcn.telia.com * Lazone
+^^ new nick as of today
+IP: 81.233.20.20
+Main DC++ Nick: [VIP]Iskall
+----------------
+
+----------------
+IRC Nick: euphoric (Leech account at SMURF)
+IP: 195.198.252.73
+Main DC++ Nick: [#OP]Nagini
+----------------
+
+
+----------------
+IRC Nick: Jejson (Leech account at SMURF)
+IP: 82.183.136.155
+Main DC++ Nick: [vip]Jason
+----------------
+
+----------------
+IRC Nick: lUffAreN (?????)
+IP: 193.11.208.182
+Main DC++ Nick: [vip]lUffAreN
+----------------
+
+These are pretty much most of the people involved with both smurf and the hub, there may be a few more siteops on the site, but no information linking them to the hub was found.
+
+
+As you can see, most of the SMURF siteops are the hub ops as well... not much more has to be said, review the hubusers.txt file, also search by reversed ip and you will find quite a few accounts added to the same ip.. try Gizmos (c-8f9e72d5.020-97-6e6b701.cust.bredbandsbolaget.se).
+
+Attached are 3 screenshots of the hub.
+
+Shortly before this notice spreads, this was seen on the hubop chat:
+<[#OP]CyberAL> we are fucked
+<[#OP]CyberAL> siten är exposed
+<[#OP]CyberAL> allt åt helvete
+
+As for closing this message, p2p has nothing to do with the scene. Even having 2 gbit sites doesnt make you part of the scene, the scene are the groups that contribute releases, laying their ass on the line every day and all they get in return are idiots re-encoding their hard work, maybe add a few subtitles to it (without even asking for permission from the group that contributed the original release -- there are some groups that only use a source with permission, congrats.), and these morons even have the strength to call themselvies part of the scene, and even try to make themselvies sound important.. "the swedish scene", WE DONT GIVE A SHIT ABOUT YOU, GO BACK TO DC++ AND STAY THERE!!!
+
+Thanks for reading this, we would like to ask siteops to go through the hubusers.txt and find racers etc on your sites that match any of the info and remove them from your site. Would also like to take the chance to say that information is being gathered about another hub similar to this one.
+
+Greetz to all the scene groups (..and i'm not talking SWELiTE/RBA/NEBULOSA here..) (btw, swelite stole their new group name RBA even, it used to be an SVCD group that seemed to contribute at some point).
+

@@ -1,0 +1,28 @@
+While we appreciate VNG's approach to this release, we can't accept that
+this goes unnoticed, simply because they are wrong.
+
+
+We have played this game for a while, and other sceners have also done so.
+This would be *impossible* if VNG's reported "an awful lot of these" were true. 
+
+
+Following VNG's approach, we're also offering a bit of education in our nfo.
+
+1. Launch IDA
+2. Select our crack
+3. Click on manual load, then ok.
+4. When the option appears, select Load file header
+
+Now you have a better picture of the file you are analyzing. Go over that 
+mysterious location "10900110h" (btw: did you happen to wonder why that location
+is the same on all calls). And start investigating what this might be doing.
+If you can't figure it out, pull out the good ol' softice debugger and start
+single-stepping. Magic you say?
+
+As you stated, the fact that this was NOT a random process, should have clued
+you into thinking that it was meant to be that way.
+
+Also, we would have appreciated if the person responsible for this attack on
+our reputation made sure they were right before doing so.
+
+Sincerely

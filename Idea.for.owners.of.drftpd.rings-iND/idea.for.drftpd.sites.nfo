@@ -1,0 +1,41 @@
+Hey I'm a site owner and I had an idea that might make racing
+between sites much faster.
+
+This is how drftpd used to behave, prior to version 2.0, and I'm not
+not sure if its a good idea or not but it doesn't seem to have any
+downsides, I may just not be seeing something.
+
+It makes the ftp server report the file as 0 bytes until it has been
+completed.  This way the racers will skip the file until it is complete,
+and then it will be raceable.  Often you might find yourself waiting
+until one racer racing at a very slow speed finishes a file, which bottlenecks
+the entire chain (a file is being transfered as its being uploaded, slowing
+the speed of the file to whoever is transferring it initially).  Doing this
+will remove that bottleneck and every file should be raced at full speed,
+or at least your site won't slow down other sites.
+
+This can't be accomplished if just one site does it, it has to be a very
+large number of sites (as many as possible).  This cannot be accomplished
+client side.  If you can think of any reason not to do this please e-mail me.
+
+Thank you.
+
+
+HOWTO:
+in the file:
+/src/net/sf/drftpd/master/command/plugins/DataConnectionHandler.java
+
+comment out the line that reads:
+_transferFile.setLength(status.getTransfered());
+
+to comment, add a # before the line, so it looks like this:
+#_transferFile.setLength(status.getTransfered());
+
+It's before line 1273 (svn 1414): if (status.isFinished()) {
+
+Then recompile with ant and restart your master.
+I've done this on my site without issue.
+
+There's no real point to making a diff patch because this is so simple
+
+Please e-mail me and discuss: race@hush.com

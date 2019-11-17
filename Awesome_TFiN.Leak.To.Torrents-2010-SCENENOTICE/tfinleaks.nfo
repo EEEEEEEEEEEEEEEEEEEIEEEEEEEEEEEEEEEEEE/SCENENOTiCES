@@ -1,0 +1,33 @@
+Ok, we were alerted to the fact that one of our affils' pres had hit torrents awfully fast after pre. These days, unforunately,
+most things leak very quickly. In this case, 175MB in a little over a minute.
+
+What made it a little more suspicious is that this is the only site this affil pres on. One way or another, the leak came from here.
+
+Now, this pre got raced around quite well, considering the grp was born 4 days ago and have 6 pres to their name. It could've been
+raced from presite > site B > torrents, right? It wasn't necessarily sent directly from presite > seedbox.
+
+Still, we did a little digging. Turns out that http://layer13.ath.cx/?p=rls&id=177537 says Sceneaccess got the rls first, before
+other torrent sites. If you have a look around the net, they're regarded as one of the fastest torrent sites in terms of time
+between pre and leak.
+
+So we asked around and a friend (thanks for the help, you know who you are), who used to be a scener but doesn't have time to
+contribute any more, so went over to the dark side, has an account on there. So we asked him to grab us the IPs from the swarm,
+and guess what we found? We found an IP of a user (actually a whole grp) that also affils our site.
+
+We're pretty proactive on the security front. We block all known rented ranges for one. We recognise that some sites use rented
+traffic bouncers though, and some groups use rented boxes as group dumps etc, so in those instances we can make allowances,
+and whitelist certain IPs for people we trust. Guess we were too trusting.
+
+We checked the IPs on the swarm against our UDB's addips. No dice. :(
+
+Then, just on the off chance, we checked the IPs against the whitelisted rented IPs. Bingo!
+
+Turns out that one of the IPs we'd whitelisted, a group's dump, was in the peer list of the torrent. The release was being seeded
+from TFiN's group dump.
+
+That's right, TFiN were seeding this release on one of the biggest scene leaking torrent sites, SceneAccess. We've no idea what
+scale they've been leaking on, or which one of them was responsible for it, but they are a security risk, that's just fact.
+
+94.23.28.185 is the IP of their dump. tfinleakscreenshot.jpg shows their box in the swarm. No more proof needed.
+
+Purge these idiots.

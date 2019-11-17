@@ -1,0 +1,23 @@
+
+
+      Hi all,
+
+      perhaps  this  little release will piss a lot of people - we followed
+      the discussion on major sites. In this point the scene is split. Some
+      people  like  the idea, some people damn it. So belive and opinion is
+      not  our  goal  - our goal is to show it's possible. So nobody should
+      longer  believe  in  snake oil. The crypter was a nice try, but sorry
+      guys  you  don't  know much about crypto - even stressing such mighty
+      algorithms like AES with 256-bit keys, the system is bad,cause it has
+      (obviously)  major flaws in concept and implementation. So enjoy this
+      proof  of concept and dont blame us for doing it - if the scene wants
+      to  set up such a system, first the scene should agree about it - and
+      if  all  major  groups  speak  and  think  with  one  voice  - a good
+      cryptosystem  can be set up and implemented, but then with respect to
+      ALL  groups  and  not  to one group deciding who participates and who
+      not.  Enough  "ethics"  now,  major  thought is proof of concept - no
+      worse  thing  than belive in wrong security - it could be done, so it
+      was done and it will be done as long, as it's weak and not global.
+
+      xor37h & mac[TMG]
+      

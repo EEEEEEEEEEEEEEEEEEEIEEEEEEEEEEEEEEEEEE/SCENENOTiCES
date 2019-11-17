@@ -1,0 +1,80 @@
+Well, this was an interesting release...
+
+After preing this game, a bunch of our sites started killing files off,
+claiming bad sfv... when we looked at our sfv, we found something VERY 
+interesting - 
+
+mir-biaeib.r66 669925B8
+mir-biaeib.r67 91AE1CD4
+mir-biaeib.r68 B43531DE
+mir-biaeib.r69 0551B02C
+mir-biaeib.r70 0551B02C
+mir-biaeib.r71 0551B02C
+mir-biaeib.r72 0551B02C
+mir-biaeib.r73 0551B02C
+mir-biaeib.r74 0551B02C
+mir-biaeib.r75 0551B02C
+mir-biaeib.r76 0551B02C
+mir-biaeib.r77 0551B02C
+mir-biaeib.r78 0551B02C
+mir-biaeib.r79 0551B02C
+mir-biaeib.r80 0551B02C
+mir-biaeib.r81 0551B02C
+mir-biaeib.r82 0551B02C
+mir-biaeib.r83 0551B02C
+mir-biaeib.r84 0551B02C
+mir-biaeib.r85 0551B02C
+mir-biaeib.r86 0551B02C
+mir-biaeib.r87 0551B02C
+mir-biaeib.r88 0551B02C
+mir-biaeib.r89 B28A8DF7
+mir-biaeib.rar BB0EB11B
+SFcure.SFNM.rar 830AF6FB
+
+Files 69-88 have the same checksum? WTF???
+
+
+well we thought the sfv utility was to blame, especially since it unrars 
+just fine, so we got some of our other MIR members together, and resfv
+the files, turns out the files have the same exact checksum, on 
+different machines AND different sfv creation programs. 
+
+We then decide, ok let's try and repack it. well I repacked the files
+store compression, 50mb files, standard settings, kept the filenames 
+the same, then resfv it, and this is what I get - 
+
+mir-biaeib.r66 C55C7E1B
+mir-biaeib.r67 452B4320
+mir-biaeib.r68 4C0BD810
+mir-biaeib.r69 11BA98A5
+mir-biaeib.r70 11BA98A5
+mir-biaeib.r71 11BA98A5
+mir-biaeib.r72 11BA98A5
+mir-biaeib.r73 11BA98A5
+mir-biaeib.r74 11BA98A5
+mir-biaeib.r75 11BA98A5
+mir-biaeib.r76 11BA98A5
+mir-biaeib.r77 11BA98A5
+mir-biaeib.r78 11BA98A5
+mir-biaeib.r79 11BA98A5
+mir-biaeib.r80 11BA98A5
+mir-biaeib.r81 11BA98A5
+mir-biaeib.r82 11BA98A5
+mir-biaeib.r83 11BA98A5
+mir-biaeib.r84 11BA98A5
+mir-biaeib.r85 11BA98A5
+mir-biaeib.r86 11BA98A5
+mir-biaeib.r87 11BA98A5
+mir-biaeib.r88 11BA98A5
+mir-biaeib.r89 40BB0F3F
+mir-biaeib.rar BAEA971C
+
+Our best guess is that the files are soo similar that the sfv's match 
+in them, but there is enough differences in the files itself to unrar
+and work properly. there isn't much anyone can do except update their
+site scripts, and awe at the coolness of the sfv files for this 
+release. Just for the curious, the crc differences on the sfv is 
+because my WinRAR version is different from the original 
+packer's WinRAR. The game works fine anyway, so Enjoy!
+
+-Team MiRROR

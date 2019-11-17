@@ -1,0 +1,222 @@
+[L] 200- .--------------------------------------------------------------------=-.
+[L] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[L] 200- |-=-------------------------------------------------------------------=-|
+[L] 200- [01] Zeitlos      No Tagline Set          56,429 1,815,02MB    244K/s
+[L] 200- [02] Claudy       No Tagline Set          30,333 1,181,93MB   3742K/s
+[L] 200- [03] silk         No Tagline Set          29,497  624,499MB    354K/s
+[L] 200- [04] djjaysx      and the winner is ...   29,888  601,630MB    213K/s
+[L] 200- [05] main         No Tagline Set          25,551  569,768MB    302K/s
+[L] 200- [06] ChrisTheBond No Tagline Set          27,260  505,828MB    215K/s
+[L] 200- [07] Zyntherius   No Tagline Set          19,677  486,630MB    491K/s
+[L] 200- [08] schnuffel    piu piu                 40,405  475,895MB    338K/s
+[L] 200- [09] Korki        go away                 22,609  468,058MB    284K/s
+[L] 200- [10] syndrom      No Tagline Set          13,427  347,329MB    294K/s
+[L] 200- [11] mypalGOO     No Tagline Set          35,119  344,712MB    249K/s
+[L] 200- [12] shizzle      No Tagline Set          32,807  336,796MB    330K/s
+[L] 200- [13] ezcape       No Tagline Set          25,257  328,266MB    180K/s
+[L] 200- [14] drG0nz0      No Tagline Set          21,039  316,649MB    249K/s
+[L] 200- [15] igor         No Tagline Set          14,345  303,252MB    301K/s
+[L] 200- [16] X0NiC        No Tagline Set          32,610  300,792MB    206K/s
+[L] 200- [17] ogrnb        No Tagline Set          37,697  291,608MB     85K/s
+[L] 200- [18] Luzifer      Elvis has left the pla  13,136  280,454MB    528K/s
+[L] 200- [19] mufel        No Tagline Set          10,819  272,629MB    495K/s
+[L] 200- [20] Mario        bACK tO tHE rOOTS ...   13,053  258,109MB    484K/s
+[L] 200- [21] HaYaBuZa     No Tagline Set          15,250  257,149MB    348K/s
+[L] 200- [22] blubor       GDC-RuLeZ               27,599  254,926MB    970K/s
+[L] 200- [23] 187          No Tagline Set          50,635  248,770MB     62K/s
+[L] 200- [24] fuselito     No Tagline Set           9,814  245,795MB    582K/s
+[L] 200- [25] TcO          No Tagline Set          21,408  244,941MB    645K/s
+[L] 200- [26] rexus        No Tagline Set          12,701  242,106MB     90K/s
+[L] 200- [27] BiZaR        No Tagline Set          22,783  240,159MB    714K/s
+[L] 200- [28] TForce       BiTCHCLUB               21,088  234,855MB    297K/s
+[L] 200- [29] ProlyX       No Tagline Set          15,817  228,095MB    199K/s
+[L] 200- [30] mrsoul       No Tagline Set          18,394  209,019MB    172K/s
+[L] 200- [31] djmns        No Tagline Set          23,519  206,162MB    350K/s
+[L] 200- [32] pwder        bleh                    13,163  200,805MB    402K/s
+[L] 200- [33] Endi         No Tagline Set           8,252  197,476MB   1086K/s
+[L] 200- [34] robotz       No Tagline Set           5,912  195,896MB    325K/s
+[L] 200- [35] phantomdx    MILF-Hunter              9,038  187,533MB    575K/s
+[L] 200- [36] ownage       No Tagline Set          20,030  183,123MB   1925K/s
+[L] 200- [37] nick         honeymoon with my shel  13,893  182,599MB    257K/s
+[L] 200- [38] Liquid       No Tagline Set          13,163  182,580MB    815K/s
+[L] 200- [39] nashgul      No Tagline Set           8,115  181,204MB    223K/s
+[L] 200- [40] DoNtI        H4RiB0-0WnZ             14,334  179,567MB    656K/s
+[L] 200- [41] samael       2 Fast 4 U              16,181  171,964MB    337K/s
+[L] 200- [42] dargon       ICDMP3                  10,995  171,937MB    614K/s
+[L] 200- [43] nicodemo     No Tagline Set          20,583  170,243MB    498K/s
+[L] 200- [44] banzaii      No Tagline Set           7,981  168,211MB    870K/s
+[L] 200- [45] giga         WTF                     25,436  153,546MB    529K/s
+[L] 200- [46] Stets        No Tagline Set          17,890  153,082MB    362K/s
+[L] 200- [47] sQUEEz       its all about the game  11,107  145,430MB    148K/s
+[L] 200- [48] delarius     No Tagline Set           9,350  144,062MB    115K/s
+[L] 200- [49] RnBstyles    OSCBABY                 10,615  143,703MB     96K/s
+[L] 200- [50] kaitracid    No Tagline Set           6,962  140,537MB    331K/s
+[L] 200- [51] pit_1        No Tagline Set          14,111  118,367MB    130K/s
+[L] 200- [52] YOungmann    No Tagline Set           5,985  117,371MB     89K/s
+[L] 200- [53] EmT3C        No Tagline Set           9,305  112,947MB    439K/s
+[L] 200- [54] Juvenile     SEHR DiCKE HODEN         6,075  112,913MB    197K/s
+[L] 200- [55] MasterS      No Tagline Set          17,989  111,064MB    718K/s
+[L] 200- [56] extazyz      No Tagline Set           2,877  110,295MB    101K/s
+[L] 200- [57] arkusP       pussylecker              8,246  110,071MB    396K/s
+[L] 200- [58] CDi          No Tagline Set          12,718  107,447MB    330K/s
+[L] 200- [59] skylink      No Tagline Set           4,272  104,262MB   1886K/s
+[L] 200- [60] PiNCH        gone.busy.till.may05    12,818  100,861MB    516K/s
+[L] 200- [61] prozak       No Tagline Set          10,748  100,672MB    480K/s
+[L] 200- [62] jaws         mkdir not war           12,843   99,692MB    992K/s
+[L] 200- [63] juicy        No Tagline Set          10,741   95,725MB    204K/s
+[L] 200- [64] jannis       No Tagline Set          13,618   95,395MB    407K/s
+[L] 200- [65] DouBl3K      No Tagline Set           6,375   91,380MB    320K/s
+[L] 200- [66] sksic        No Tagline Set           3,507   90,724MB    193K/s
+[L] 200- [67] SuperK       No Tagline Set           4,718   89,877MB    194K/s
+[L] 200- [68] mckenna      No Tagline Set           2,846   88,079MB    212K/s
+[L] 200- [69] fr33z3       No Tagline Set           4,344   82,288MB    319K/s
+[L] 200- [70] eloi         :)                      12,281   74,888MB   1368K/s
+[L] 200- [71] oderus       unf                      2,835   73,227MB     75K/s
+[L] 200- [72] jigga        wHeN i mOvE yOu mOvE     4,710   65,979MB    206K/s
+[L] 200- [73] weezill      egowego                 11,586   62,819MB     85K/s
+[L] 200- [74] djwarp       No Tagline Set          16,545   62,650MB    399K/s
+[L] 200- [75] fbgoth       No Tagline Set          10,019   60,079MB    198K/s
+[L] 200- [76] MakaMusic    No Tagline Set           7,524   57,679MB    122K/s
+[L] 200- [77] SC           No Tagline Set           3,102   56,850MB    118K/s
+[L] 200- [78] esprite      No Tagline Set           2,916   56,767MB    395K/s
+[L] 200- [79] jette        No Tagline Set           2,867   56,178MB    465K/s
+[L] 200- [80] iguane       No Tagline Set           9,478   56,156MB    871K/s
+[L] 200- [81] Licht        No Tagline Set           4,608   55,728MB    194K/s
+[L] 200- [82] Oidi         No Tagline Set           3,538   52,241MB   1615K/s
+[L] 200- [83] dread        No Tagline Set           1,348   49,257MB     70K/s
+[L] 200- [84] nopnop       No Tagline Set           1,613   48,163MB    335K/s
+[L] 200- [85] trap         the smoking-weed-at-th   8,034   45,866MB    542K/s
+[L] 200- [86] MishAK47     No Tagline Set           5,780   44,046MB     89K/s
+[L] 200- [87] drugsunny    good night               2,069   42,837MB   1903K/s
+[L] 200- [88] Plastic      No Tagline Set           5,276   42,741MB    254K/s
+[L] 200- [89] SlashZero    No Tagline Set           2,770   40,072MB    220K/s
+[L] 200- [90] elin_g       No Tagline Set           5,082   39,581MB    126K/s
+[L] 200- [91] youngman     Roasted Turkey Kidney    4,124   38,496MB    294K/s
+[L] 200- [92] blackman     ALLAH AL AKBAR           8,121   38,252MB    516K/s
+[L] 200- [93] mucka        Computah sez no          2,716   34,279MB    290K/s
+[L] 200- [94] torch        Tagline Set              3,464   33,559MB    605K/s
+[L] 200- [95] faceface     No Tagline Set           4,059   33,464MB    120K/s
+[L] 200- [96] ASG          No Tagline Set           2,571   33,404MB    290K/s
+[L] 200- [97] HazardX      No Tagline Set             892   30,562MB    433K/s
+[L] 200- [98] zyni         No Tagline Set           2,252   29,193MB    106K/s
+[L] 200- [99] kimezy       No Tagline Set           1,161   28,961MB    287K/s
+[L] 200- [100] turbo        People can fly           3,143   28,899MB    438K/s
+[L] 200- [101] Burnie       No Tagline Set             591   26,506MB   4037K/s
+[L] 200- [102] MNS-GADM     No Tagline Set             967   24,550MB    157K/s
+[L] 200- [103] cvs          No Tagline Set           1,461   24,447MB    328K/s
+[L] 200- [104] bloodrush    Not For Sale             2,120   24,098MB    652K/s
+[L] 200- [105] 0an          No Tagline Set           3,420   24,067MB    279K/s
+[L] 200- [106] v00id        No Tagline Set           3,365   23,365MB    993K/s
+[L] 200- [107] tc           No Tagline Set           2,328   23,085MB    203K/s
+[L] 200- [108] n0fear       No Tagline Set           1,117   23,055MB    251K/s
+[L] 200- [109] kraffs       No Tagline Set             956   22,931MB    204K/s
+[L] 200- [110] mk2k         No Tagline Set             940   22,856MB    359K/s
+[L] 200- [111] Popedius     odi et amo               4,020   22,603MB    718K/s
+[L] 200- [112] AvO          No Tagline Set           1,333   22,275MB    119K/s
+[L] 200- [113] Canzer       blowme...                2,500   22,261MB    744K/s
+[L] 200- [114] kaos         No Tagline Set           1,087   21,055MB    311K/s
+[L] 200- [115] br0wnc0w     No Tagline Set           1,102   20,532MB    132K/s
+[L] 200- [116] resQue       No Tagline Set             823   20,008MB   1760K/s
+[L] 200- [117] phiction     No Tagline Set           1,180   17,980MB    287K/s
+[L] 200- [118] djmystic     No Tagline Set             431   17,843MB    117K/s
+[L] 200- [119] EnirP        No Tagline Set             427   17,677MB    103K/s
+[L] 200- [120] nightim      No Tagline Set             553   16,644MB    470K/s
+[L] 200- [121] djkos        No Tagline Set             467   16,001MB     68K/s
+[L] 200- [122] RaYdeN       No Tagline Set             526   15,403MB    683K/s
+[L] 200- [123] PirUiui      No Tagline Set             748   14,725MB    295K/s
+[L] 200- [124] aka          No Tagline Set             666   13,651MB    109K/s
+[L] 200- [125] xhatex       No Tagline Set           1,047   12,580MB    131K/s
+[L] 200- [126] A-plus       No Tagline Set             475   12,531MB    407K/s
+[L] 200- [127] Killergoldfi No Tagline Set           1,656   12,470MB    970K/s
+[L] 200- [128] digitech     No Seeds No Stems No S   2,240   12,170MB   1316K/s
+[L] 200- [129] vibe         site adduser vibe neve     694   12,147MB   2299K/s
+[L] 200- [130] rats         Scene detective.           543   11,958MB    217K/s
+[L] 200- [131] FTU          No Tagline Set             918   11,860MB     83K/s
+[L] 200- [132] razpy        No Tagline Set           1,168   11,242MB     85K/s
+[L] 200- [133] lone         No Tagline Set             805   11,023MB    542K/s
+[L] 200- [134] illusion     No Tagline Set           1,923   10,820MB    408K/s
+[L] 200- [135] nitrous      No Tagline Set           1,838   10,584MB    416K/s
+[L] 200- [136] rick         No Tagline Set             235   10,366MB    415K/s
+[L] 200- [137] djm          No Tagline Set           1,093    9,244MB     23K/s
+[L] 200- [138] t3vion       No Tagline Set             958    9,193MB    556K/s
+[L] 200- [139] PhalanX      No Tagline Set           1,269    8,531MB    792K/s
+[L] 200- [140] fudge        No Tagline Set           1,231    8,434MB    212K/s
+[L] 200- [141] tHeGamE      OverRiding The Khaos       276    8,128MB    198K/s
+[L] 200- [142] pok          No Tagline Set             410    7,886MB    164K/s
+[L] 200- [143] vorsoth      No Tagline Set             498    7,697MB    690K/s
+[L] 200- [144] theloosa     No Tagline Set           1,379    7,623MB    864K/s
+[L] 200- [145] quicksand    No Tagline Set             343    7,464MB    312K/s
+[L] 200- [146] dcipher      No Tagline Set             652    7,277MB    180K/s
+[L] 200- [147] hooli        r0x                      1,136    7,074MB    694K/s
+[L] 200- [148] theROC       RACE WITH THE WIND       1,134    6,962MB   1081K/s
+[L] 200- [149] drmatik      chr0matik fantasy          259    6,272MB    101K/s
+[L] 200- [150] citizen      HK4EVER                    346    5,926MB    223K/s
+[L] 200- [151] es24         No Tagline Set             487    5,847MB     78K/s
+[L] 200- [152] mikerlit     No Tagline Set             489    5,600MB    740K/s
+[L] 200- [153] DVT-ONE      No Tagline Set             552    5,510MB    600K/s
+[L] 200- [154] prawn        No Tagline Set             473    4,758MB   1239K/s
+[L] 200- [155] dos4gw       No Tagline Set             274    4,696MB    725K/s
+[L] 200- [156] gotti        d00t                       675    4,688MB   1304K/s
+[L] 200- [157] tekstor      No Tagline Set             568    4,630MB    111K/s
+[L] 200- [158] discover     No Tagline Set             824    4,232MB    146K/s
+[L] 200- [159] neur0n       No Tagline Set             211    3,812MB    125K/s
+[L] 200- [160] west         No Tagline Set             123    3,307MB    678K/s
+[L] 200- [161] 4RN-PRE      No Tagline Set             252    3,209MB     72K/s
+[L] 200- [162] silverice    No Tagline Set             505    2,737MB     86K/s
+[L] 200- [163] jpmad4it     No Tagline Set             231    2,629MB     28K/s
+[L] 200- [164] kitt         No Tagline Set             889    2,617MB    343K/s
+[L] 200- [165] quik         No Tagline Set              57    2,558MB    781K/s
+[L] 200- [166] Fend         No Tagline Set             263    2,518MB   1260K/s
+[L] 200- [167] direkt       No Tagline Set             419    2,182MB    393K/s
+[L] 200- [168] fantastic    No Tagline Set              44    1,946MB    463K/s
+[L] 200- [169] cadence      No Tagline Set             509    1,824MB    870K/s
+[L] 200- [170] payaso       No Tagline Set              45    1,744MB    951K/s
+[L] 200- [171] FLN-GADM     No Tagline Set             135    1,735MB   1054K/s
+[L] 200- [172] Trance       No Tagline Set             108    1,501MB    235K/s
+[L] 200- [173] noone        No Tagline Set             106    1,486MB     37K/s
+[L] 200- [174] c2           No Tagline Set             106    1,435MB    520K/s
+[L] 200- [175] matter       No Tagline Set             369    1,424MB    280K/s
+[L] 200- [176] chiller      No Tagline Set             104    1,114MB    694K/s
+[L] 200- [177] Madman       No Tagline Set              65    1,007MB     90K/s
+[L] 200- [178] klu          No Tagline Set              26    1,004MB    159K/s
+[L] 200- [179] punkstar     PURE TRADING ONLY          320    1,000MB    171K/s
+[L] 200- [180] marcel       No Tagline Set             130      956MB     70K/s
+[L] 200- [181] edelweiss    - = LT = -                 268      845MB    625K/s
+[L] 200- [182] kytron       - LT -                     138      814MB    806K/s
+[L] 200- [183] tzatziki     No Tagline Set              32      802MB    349K/s
+[L] 200- [184] holden       No Tagline Set             100      752MB    250K/s
+[L] 200- [185] falcon       No Tagline Set              26      733MB    217K/s
+[L] 200- [186] sick         No Tagline Set              80      723MB     71K/s
+[L] 200- [187] Andain       No Tagline Set             116      706MB    304K/s
+[L] 200- [188] voven        LONG CHOW PRODUCTIONS      121      700MB   1112K/s
+[L] 200- [189] defiler      Money Is Power Motherf      91      537MB    674K/s
+[L] 200- [190] Qutiz        No Tagline Set               9      429MB    623K/s
+[L] 200- [191] outsider     No Tagline Set              24      420MB    906K/s
+[L] 200- [192] ubik         No Tagline Set              66      376MB    128K/s
+[L] 200- [193] phatjudge    JUST:DGN:CHR:AES            49      327MB    238K/s
+[L] 200- [194] Zanix        No Tagline Set               7      294MB    207K/s
+[L] 200- [195] nok          No Tagline Set              63      262MB    483K/s
+[L] 200- [196] tijlman      No Tagline Set              38      250MB    281K/s
+[L] 200- [197] greytapes    No Tagline Set              47      219MB    282K/s
+[L] 200- [198] mrzed        aod=all4114themself         53      185MB    506K/s
+[L] 200- [199] twch0re1     No Tagline Set              39      184MB    593K/s
+[L] 200- [200] rage         No Tagline Set              18      136MB    313K/s
+[L] 200- [201] aznoh        No Tagline Set              25      105MB    104K/s
+[L] 200- [202] blink        PASSIONE PER IL TRINE       15       82MB    546K/s
+[L] 200- [203] snspre       No Tagline Set               9       56MB    773K/s
+[L] 200- [204] crox         No Tagline Set              15       53MB    774K/s
+[L] 200- [205] DiG-PRE      No Tagline Set               2       47MB    158K/s
+[L] 200- [206] lat          No Tagline Set               3       28MB    113K/s
+[L] 200- [207] nOBeLium     No Tagline Set               4       22MB    331K/s
+[L] 200- [208] zerocool     No Tagline Set               1       14MB    431K/s
+[L] 200- [209] cypher       No Tagline Set               6       11MB     30K/s
+[L] 200- [210] slave        No Tagline Set               1       10MB   2210K/s
+[L] 200- [211] Zwielicht    No Tagline Set               8        9MB    778K/s
+[L] 200- [212] Arcade       No Tagline Set               2        1MB    165K/s
+[L] 200- [213] speed        No Tagline Set               2        0MB     16K/s
+[L] 200- [214] m00sci       No Tagline Set               1        0MB     10K/s
+
+80.86.185.123:52518
+81.169.175.161:62352
+
+delarius Qks _Zeitlos

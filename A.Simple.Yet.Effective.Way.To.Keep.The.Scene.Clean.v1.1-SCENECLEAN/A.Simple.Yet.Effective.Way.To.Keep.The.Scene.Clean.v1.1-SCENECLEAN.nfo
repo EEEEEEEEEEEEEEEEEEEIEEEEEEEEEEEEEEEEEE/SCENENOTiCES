@@ -1,0 +1,48 @@
+Release Date...: 07.21.2010
+ 
+ Release Notes..:
+ 
+ Updated version, with freshly added IP ranges.
+ 
+ Creator Notes..:
+ 
+ First off,
+ 
+ Yes I stole the 'oh so beautiful' sceneclean banner. Props to the maker (you know who you are)! 
+ 
+ Now lets get back to business...
+ 
+ There are still too many scene warnings and notices. We should all put an end to this.
+ 
+ The solution against colo/rented sites is simple. Simply don't support them anymore!
+ Now you may ask yourself, how? Well, that's simple as well.
+ 
+ *nix this nifty feature called 'iptables', which allows you to set traffic rules.
+ 
+ This little release contains a list of colo/rented providers (such as Leaseweb and OVH) and once applied,
+ it blocks all incoming and outgoing traffic to them.
+ 
+ This way, so called 'lame racers' cannot trade with your beloved private site anymore from their 'insecure' sites.
+ 
+ A simple, yet effective way!
+ 
+ I would like to encourage all siteops/sitetechs to add these rules to their iptables. All you have to do is add the
+ execute flag (chmod +x fix.sh) and you might need to convert it to unix format (dos2unix fix.sh) and run it.
+ 
+ To add them to your existing set of iptables rules, you need to append them. You should know how to do that yourself.
+ 
+ After applying to script, all traffic from and to these ip ranges is blocked. Now how do you find out if someone is 
+ racing from a rented site? Most likely 0byte files, as the connection is dropped. Next you tell this racer either to 
+ stop racing from this source or you tell him/her to fuck off!
+ 
+ If you start getting querys about racers not being able to send from your site anymore, that explains as well. And 
+ last but not least; 'I can't login anymore!11!!ONE' Damn right you fuck! Don't even dare to log in from a colo/rented
+ box!
+ 
+ Easy as pie huh?
+ 
+ You can find some additional info in the script itself!
+ 
+ Play it forward, improve this release if you like and re-release it.
+ 
+ I hope this release will help the scene to stay secure a little bit more!

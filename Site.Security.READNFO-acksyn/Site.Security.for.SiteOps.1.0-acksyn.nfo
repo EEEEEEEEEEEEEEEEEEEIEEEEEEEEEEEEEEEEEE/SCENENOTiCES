@@ -1,0 +1,55 @@
+         ÉÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍ»
+         º                               Site.Security.for.SiteOps.1.0-acksyn                    º
+         ÈÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍ¼
+
+
+SiteOP Site Security
+
+This guide is less explanatory, hopefully your Siteop is knowledgeable and doesn’t send the FBI DVDs of him doing motorcycle tricks.  (Too soon?)
+
+If you are a siteop and do not understand some of the concepts, read the Basic Security Guide.
+
+Passwords
+1.Create strong passwords, and do not give out root unless explicitly needed.
+2.Create user accounts with the correct permissions, instead of giving them root.
+
+SSH Keys
+1.  Use SSH Auth keys AND password verification.  If root password is leaked, SSH access cannot be granted without the SSH Auth key stored on the local computer.
+
+Logging
+1.Disable all logging on the site regarding FTP/FXP, SSH, TELNET connections. 
+2.Remove cron jobs for any system logging, especially /var/www* logs
+3.Disable any logs not needed for a PreDB or traders.
+
+Location Anonymity
+1.If you have access to WHOIS/DNS records, mangle them and create false entries.
+2.Disable ICMP Pings, and responses to lookup cmds (nslookup, tracert, etc…)
+
+Bots
+1.Do not store the bot/db/script in the default location, or with a default name.  If you have the source, (which you better) change the args to allow for your different name/location.
+2.Do not run as root.  Create a separate user for each bot with privileges instead of allowing them root access.
+
+FTPDs
+1.Use the latest stable version, especially DrFTPD sites, read the site about known exploits and fix them.
+2.Do not spread to unknown sites that are not trusted.
+3.Trust your slaves, do not spread to an untrusted slave.
+4.Use AUTH TLS, do not allow any unsecure connections.
+5.Make the daemon run on a random high port number.
+
+IDS/IPS
+Intrusion Prevention/Detection
+1.Implement a severe IDS/IPS policy, disallow any attempts for protocol service request.
+2.Disable service version request info/acksyn/icmp or anything else a skiddie would use with nmap.  Block the connection that attempted the scan, permanently.  If it is trusted, they will notify you.
+3.Read your logs, but have them removed in some fashion.
+
+Hard Drive Encryption
+1.Encrypt your hard drives, create hidden volumes for sensitive data.
+2.Do not store the keys on the server, preferably not in your house either.
+
+IRC
+1.Create a channel on LinkNet or a trusted server with IRCd.
+2.Do not name it the name of the site.
+3.Generate FiSH and channel keys, for the channel.  Use Pre-Shared Keys, do not rely on FiSh’s on-the-fly encryption.  Change the channel to invite only.  If these keys are known by the wrong person everything
+is readable, making this pointless.  (2-3 times a month to be safe)  If someone gets mad at the channel and leaks the key, you’re done for.
+4.Ensure all users have FiSH installed and working.
+

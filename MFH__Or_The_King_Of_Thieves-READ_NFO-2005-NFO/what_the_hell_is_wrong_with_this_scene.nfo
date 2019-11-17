@@ -1,0 +1,290 @@
+THE INCREDIBLE TUESDAY NIGHT SCENE SOAP OPERA:
+
+"The king of theives"
+
+Starring MFH, the artist most likely (but not confirmedly) formerly known
+as DJT.
+
+Howdy, fellow NFO-readers, nukers, groupleaders, sops and people involved.
+What in the fucking hell is going wrong these days in this here mp3 scene?
+Here's what went down a few days ago in the world's most illegal soap opera.
+
+--+--
+ACT 1: Something's up. Way up
+--+--
+
+It all starts off calm on a cold day in February. On  0221,  shit hits the
+fan. By fan, I mean site, and by shit, I mean
+
+Ryan_Leslie_Ft_Snoop_Dogg_-_Just_Right-CDS-2005-MFH
+
+Mere minutes after this release is out, group OMC complains about the songs
+being stolen from them, namely from
+
+Ryan_Lelie_Ft_Snoop_Dogg-Just_Right-Promo-Vinyl-2005-OMC (dirfixed later).
+
+
+So I proceeded to check this claim. Looking at the tracklists:
+
+01_a1_ryan_leslie_feat_snoop_dogg-just_right_(main)-omc.mp3      9090096b
+02_a2_ryan_leslie-just_right_(album_version)-omc.mp3             7874148b
+03_a3_ryan_leslie-just_right_(inst)-omc.mp3                      7566625b
+04_b1_ryan_leslie-the_way_that_you_move_girl_(main)-omc.mp3      6461794b
+05_b2_ryan_leslie-the_way_that_you_move_girl_(inst)-omc.mp3      6237595b
+06_b3_ryan_leslie-the_way_that_you_move_girl_(acapella)-omc.mp3  6787897b
+
+vs
+
+01_ryan_leslie_ft_snoop_dogg_-_just_right_main-mfh.mp3           9090040b
+02_ryan_leslie_ft_snoop_dogg_-_just_right_album_version-mfh.mp3  7874099b
+03_ryan_leslie_ft_snoop_dogg_-_just_right_inst-mfh.mp3           7566585b
+
+Hoo boy, that's pretty close if you ask me. I pick one file per release and
+strip out ID3 tags.
+
+STRIPPED 03_a3_ryan_leslie-just_right_(inst)-omc.mp3             7566405b
+STRIPPED 03_ryan_leslie_ft_snoop_dogg_-_just_right_inst-mfh.mp3  7566405b
+
+Well, who would have thought, a perfect match. Even though it's not really
+needed, I compare peak lines in ACID. Attached: "what_a_retag_no_way.jpg"
+
+Well, of course that should be enough, but bear with me. I use lametag 
+to extract information from these files (this will be important later).
+The result:
+
+U:\03_a3_ryan_leslie-just_right_(inst)-omc.mp3
+Tag revision:       0
+Version string:     3.97a
+Quality:            97 (V0 and q3)
+Music length:       7.566.405 bytes
+Music CRC:          BFA7
+
+U:\03_ryan_leslie_ft_snoop_dogg_-_just_right_inst-mfh.mp3
+Tag revision:       0
+Version string:     3.97a
+Quality:            97 (V0 and q3)
+Music length:       7.566.405 bytes
+Music CRC:          BFA7
+
+Now what a curious version of Lame! Those files are identical, bit for bit.
+
+--+--
+INTERLUDE: Nuking to and fro
+--+--
+
+What follows now is a rather complicated process. I believe OMC that the
+file was stolen and, on my site, nuke the MFH release. Later that night
+I find out that OMC pre'd another stolen release that very day (CDS of
+Samy Deluxe, stolen from DAW nearly a month ago) and distrust ensues. At
+the very same time, I get a hint that the leader of MFH has provided a
+coverscan as proof for his claims. A member from OMC confirms that there
+was, indeed, a stolen release. All this culminates in the MFH release
+getting unnuked and the OMC folders being nuked for group request, stolen.
+
+--+--
+ACT 2: Fishy schemes and what the fuck
+--+--
+
+Suspicious shit happens. The day after (that's 0222), I get a message from
+someone at OMC. They want to prove that their rip is legit and proceed to
+do so with a metric fuckton of pictures. In less than 20 minutes, I get the
+vinyl releases in question photographed from about 20 angles, with someone
+holding up "RIPPED BY OMC" post-its and even measuring the record with a
+ruler to prove it's a 12-inch. The blame is on MFH again, because the evi-
+dence OMC provides is waterproof. Plus, they have six tracks with the same
+quality level and the same codec. What in the glorious fuck is going on?
+
+Please find attached: 
+KIF_2934.JPG
+KIF_2935.JPG
+KIF_2955.JPG
+KIF_2963.JPG
+KIF_2971.JPG
+KIF_2977.JPG
+KIF_2981.JPG
+(Selection from about 40 OMC proof pictures)
+
+I was then contacted by a good friend who had a talk with the supposed
+leader of MFH. Ladies and gentlemen, I'd like to welcome you to the highlight
+reel of their conversation. I'll keep this NFO free of nicks, though; the
+person who sent this log will be referred to as "Neutral". Whereever parts
+of the conversation are missing because they would not contribute to the
+information, I put (...) markers. Here goes the best-of!
+
+--------------------------
+
+[17:09] <MFH_Leader>  we got proves
+[17:10] <MFH_Leader> about omc shit
+(...)
+[17:12] <MFH_Leader> dude
+[17:12] <MFH_Leader> we got the real cd
+(...)
+[17:14] <Neutral> we are not talking about identical as in "oh they sound quite the same"
+[17:14] <MFH_Leader> the dont use same encoding
+[17:14] <Neutral> we're talking about identical as in "the hash-values MATCH"
+[17:14] <Neutral> and oh boy do they ever!
+[17:15] <MFH_Leader> i know that crc and md5
+(...)
+[17:16] <MFH_Leader> if you rip vinyl to cds
+[17:16] <MFH_Leader> and you rip cds
+[17:16] <MFH_Leader> you get the same crc
+[17:16] <MFH_Leader> as vinyl to mp3
+[17:16] <MFH_Leader> do you agree
+[17:16] <Neutral> that is entirely untrue, and let me explain to you why that is so.
+[17:17] <MFH_Leader> dude
+[17:17] <MFH_Leader> vinyl is analog true
+[17:17] <Neutral> first of all, a cds is made from a glass master, not a vinyl.
+[17:17] <MFH_Leader> dude
+[17:17] <MFH_Leader> your wrong here
+(...)
+[17:17] <MFH_Leader> vinyl is first source
+[17:18] <MFH_Leader> and its encoded to cds until a label records i
+[17:18] <Neutral> so you're telling me instead of putting a mix on a cd with 
+                  means every common household has readily available today, 
+                  producers FIRST produce a vinyl track which is THEN processed 
+                  into a cd?
+[17:19] <Neutral> and you don't see the logic flaw in this?
+[17:19] <MFH_Leader> dude
+[17:19] <Neutral> but whatever your logic is in this process, there is not a single 
+                  possibililty that an analogue source and a digital file ripped from 
+                  two different mediums by two different groups
+[17:19] <MFH_Leader> its store cd
+[17:19] <Neutral> have the SAME encoder in a 20 minute timeframe
+[17:19] <Neutral> and a completely outlandish lame version at that!
+[17:20] <MFH_Leader> i dont know how the hell they made it
+[17:20] <Neutral> it is not
+[17:20] <MFH_Leader> i just rip it 
+(...)
+[17:22] <MFH_Leader> DUDE
+[17:22] <MFH_Leader> WHEM U RIP CD
+[17:22] <MFH_Leader> WITH THE SAME ENCODER
+[17:22] <MFH_Leader> U GET SAME CRC
+[17:22] <MFH_Leader> WTF U WANT
+(...)
+[17:27] <MFH_Leader> i just say mine isnt stolen
+[17:27] <MFH_Leader> its real
+[17:27] <MFH_Leader> from store
+[17:27] <Neutral> good grief please don't make a fool of yourself
+[17:28] <MFH_Leader> we  both have it real
+[17:28] <Neutral> dont you understand that the files are identical
+[17:28] <Neutral> there is thwarting evidence against you!
+[17:28] <MFH_Leader> nobody sould get nuked
+[17:28] <MFH_Leader> MAN
+[17:28] <MFH_Leader> I TOLD U
+[17:28] <MFH_Leader> THAT
+[17:28] <Neutral> what do you mean, "nobody should get nuked"
+[17:28] <MFH_Leader> I 
+[17:28] <MFH_Leader> F
+[17:28] <Neutral> the files are _identical_
+[17:28] <MFH_Leader> U RIP
+[17:28] <MFH_Leader> SAME CDS
+[17:28] <Neutral> don't start that again
+[17:28] <MFH_Leader> SAME ENC
+[17:28] <Neutral> yes, it can happen that if you rip the same CD
+[17:28] <MFH_Leader> U GET THAT SAME CRC
+[17:29] <Neutral> with the same encoder
+[17:29] <Neutral> but NOT
+[17:29] <Neutral> if you rip a vinyl
+[17:29] <Neutral> (which the pics clearly show)
+[17:29] <Neutral> and a CD
+[17:29] <Neutral> even using the same encoder
+[17:29] <MFH_Leader> BUT MY CD IS RIPPED FROM VINYL TOO
+[17:29] <Neutral> then it's not from the store
+[17:29] <MFH_Leader> IT IS
+(...)
+[17:32] <MFH_Leader> VINYL IS FIRST SOURCE
+[17:32] <Neutral> the chain is master->vinyl and master->cd
+[17:32] <Neutral> not master->vinyl->cd
+[17:32] <MFH_Leader> DUDE DONT SHIT ME WITH THAT THEORETICAL
+(...)
+[17:40] <Neutral> so your last and final statement on this issue is that your 
+                  release is absolutely legit, comes from a cd and that OMC somehow 
+                  produced identical files from an analogue source
+[17:41] <MFH_Leader> IM TELLING U
+[17:41] <MFH_Leader> THAT
+[17:41] <MFH_Leader> MY CD
+[17:41] <MFH_Leader> PROBABLY
+[17:41] <MFH_Leader> RECORDED FROM THAT VINYL
+[17:41] <MFH_Leader> THATSWHY
+(...)
+[17:59] <MFH_Leader> i think u should unnuke omc 
+[17:59] <Neutral> why is that
+[17:59] <MFH_Leader> cause nobody stolen anything
+[17:59] <Neutral> is that so
+[18:00] <MFH_Leader> there are just 2 versions
+[18:00] <Neutral> i'll leave that up to the nukers
+[18:00] <MFH_Leader> vinyl and cd
+
+--------------------------
+
+Hello and welcome back from this trainwreck of a conversation. As you see,
+the leader of MFH stands by his point that the release I talked about at the
+beginning was not stolen from OMC and that there were different sources and that
+OMC should be unnuked because they have vinyl and that the world would be a better
+place if only. What a blessing for the scene he is. But then again, while the
+group is still young, let's have a look at the amazing release list of MFH for
+shits and giggles.
+
+0222 VA_-_Randb_Party_Riddim_Vol.2-Vinyl-2005-MFH 18.6MB
+0221 VA_-_Club_Favorites_Vol.2-Vinyl-2005-MFH 26.3MB
+0221 VA_-_Febrero_2005_RCA-Retail-2005-MFH 67.8MB
+0221 Ryan_Leslie_Ft_Snoop_Dogg_-_Just_Right-CDS-2005-MFH 23.4MB
+0220 O_Ryan_FT._J-Kwon_-_Shorty-CDS-2004-MFH 26.5MB
+0220 VA_-_Rnb_Party_(The_Djs_Choise)_Vol.1-Vinyl-2005-MFH 26.4MB
+0220 DJ_Darnel_-_Tout_Moun_Aux_Pas_(Megamix_Military_Riddim)-CDR-2005-MFH 38.4MB
+0220 DJ_Simon_-_180_Bpm_and_A_East_Ok_and_Dream-2005-MFH 15.1MB
+0220 Shuko_-_Endlich-Promo-DE-2005-MFH 10.2MB
+0219 VA-Der_Deutsche_Disco_Fox_Hit_Mix-DE-2005-MFH 89.8MB
+0219 VA-Die_Mega_Party-DE-2005-MFH 100.2MB
+
+For this list sets the scene for our third and final act.
+
+
+--+--
+ACT 3: Going down down baby
+--+--
+
+There appears to be a problem right now: I don't trust this group anymore. And why,
+I got a comparison chart with some OTHER releases and I'll let the dear reader
+judge for himself. Pretimes in front, the rest should be easy to figure out:
+
+18:31 VA_-_Febrero_2005_RCA-Retail-2005-MFH                 (12F 67.8MB)
+22:28 VA-Febrero_2005-RCA-Promo-READ_NFO-2005-DGN           (12F 67.8MB)
+
+14:29 Ryan_Leslie_Ft_Snoop_Dogg_-_Just_Right-CDS-2005-MFH      (3F 23.4MB)
+14:22 Ryan_Lelie_Ft_Snoop_Dogg-Just_Right-Promo-Vinyl-2005-OMC (6F 42MB)
+      (first three tracks - see ACT 1)
+
+20:19 O_Ryan_FT._J-Kwon_-_Shorty-CDS-2004-MFH                  (4F 26.5MB) 
+21:28 O_Ryan-Shorty_Bw_She_Loves_the_Club-Promo-Vinyl-2004-OMC (8F 54.7MB)
+      (first four tracks)
+
+08:25 DJ_Simon_-_180_Bpm_and_A_East_Ok_and_Dream-2005-MFH         (3F 15.1MB)
+09:19 Dj_Simon-180_Bpm_And_A_East_Ok_And_Dream_160-Promo-2005-DGN (3F 15.1MB)
+
+22:04 VA-Der_Deutsche_Disco_Fox_Hit_Mix-DE-2005-MFH        (18F 89.8MB)
+20:52 VA-Der_Deutsche_Disco_Fox_Hit_Mix_2005-DE-2005-VOiCE (18F 89.8MB)
+
+
+I think I see a trend here, folks! Unless VOiCE, DGN and OMC suddenly decided to
+start stealing releases all at the same time, this is pretty obvious. Time to call
+in reinforcements! Luckily, I didn't even have to call. Someone from group VOiCE
+stepped forward and provided me with coverscans of the releases that MFH took
+from them. Plus, and I think this settles the issue, a screenshot of MFH caught
+red-handed on a US site they affiled while moving a DGN release into their predir.
+To see the theives in action, please view "mfh.caught.jpg" (made by site staff)
+
+Also, find attached: proof.zip (Coverscans from VOiCE releases stolen by MFH) 
+
+What and why in the everloving shit this group thought they were doing and how
+exactly they were going to get through with it is beyond me. Then again, what
+isn't.
+
+Thank you for reading this through, have a good week.
+
+Yours truly.
+
+
+
+
+

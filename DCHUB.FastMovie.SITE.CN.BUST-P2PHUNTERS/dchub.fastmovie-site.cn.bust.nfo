@@ -1,0 +1,144 @@
+
+P2PHUNTERS STRIKES BIG
+
+
+This nfo gives you some proof about a DC-Hub connected to a site called CN.
+Vi started to track some ip-addresses that spread scenereleases to p2p very fast.
+A lot of releases was on p2p after about 15-20 minutes from pre.
+We did some serching on those ip-addresses and found some of them connected to a DC-Hub and a scenesite.
+After som resolving on that no-ip address we got a big bang hit:
+
+dns: resolving (lightvalley.no-ip.org)... 12·
+dns: resolved (lightvalley.no-ip.org) to (80.65.203.71)
+
+That ip belongs to a sceneuser named Misan:
+
+[FtpConn thread 60 from 80.65.203.71] net.sf.drftpd.master.BaseFtpConnection.service  - << USER Misan
+
+
+
+site user Misan
+Username: Misan                Created: xxx
+Comment: Added by xxxxxx       Last seen: xxx
+Total logins: xxxxx            Idle time: 300
+Ratio: 3.0                     Credits: xxxxxx
+Max logins: 3                  From same IP: 4
+Max sim uploads: 3             Max sim downloads: 1
+Group / Leech slots: 0   0     Group Min/Max Ratio: 3.0/3.0
+Total uploaded: xxxxxGB        Total downloaded: xxxxTB
+Times nuked: 0                 Bytes nuked: xxx
+Primary group: xxx             Banned: false
+Extra groups: [deleted]        Banned Until:
+IP masks: *@80.65.203.*
+Weekly Allotment: 0
+IRC Ident: Misan!~misan@80.65.256.256
+Tagline: no tagline
+200 Command okay
+
+
+
+DC-Hub owner [Arkiv]Sveden AKA Misan, user on CN.
+see Fast.movie.hub.jpg
+
+
+The portscanning of Misans ip-address confirmed our suspicions.
+We found a couple of ports opened for DirectConnect, see: Misan_ip_port_scan_1.jpg, Misan_ip_port_scan_2.jpg and Misan_ip_port_scan_3.jpg
+
+
+We managed to connect some more high positioned DC-Hub members to CN and two Swedish Custom groups:
+
+
+
+[OP]Abbo AKA Grape, CN siteop and member of MightyGuys
+see Fast.movie.hub.jpg
+
+
+
+site user Grape
+Username: Grape                Created: xxx
+Comment: Added by xxxxx        Last seen: xxx
+Total logins: xxx              Idle time: 300 
+Ratio: 3.0                     Credits: xxxxGB 
+Max logins: 3                  From same IP: 4
+Max sim uploads: 3             Max sim downloads: 1
+Group / Leech slots: 0   0     Group Min/Max Ratio: 3.0/3.0 
+Total uploaded: xxxxGB         Total downloaded: xxxxGB 
+Times nuked: 0                 Bytes nuked: xxx 
+Primary group: xxxxx           Banned: false 
+Extra groups: [deleted]        Banned Until: 
+IP masks: *@213.112.65.* 
+Weekly Allotment: 0 
+IRC Ident: Grape!~skitduide@LinkNet-68008e4c7a.cust.bredbandsbolaget.se 
+Tagline: no tagline 
+
+
+
+
+[Konsult]Lazy AKA Zlapp, CN user and member of MightyGuys and ZlaZher
+see Fast.movie.hub.jpg
+
+
+site user Zlapp
+Username: Zlapp                Created: xxx 
+Comment: Added by xxx          Last seen: xxx
+Total logins: xx               Idle time: 300 
+Ratio: 3.0                     Credits: xxxGB 
+Max logins: 3                  From same IP: 4 
+Max sim uploads: 3             Max sim downloads: 1 
+Group / Leech slots: 0   0     Group Min/Max Ratio: 3.0/3.0 
+Total uploaded: xxxxGB         Total downloaded: xxxxGB 
+Times nuked: 0                 Bytes nuked: 0 
+Primary group: xxxxx           Banned: false 
+Extra groups: [deleted]        Banned Until: 
+IP masks: zz@85.228.97.* 
+Weekly Allotment: 0 
+IRC Ident: Zlapp!Zlapp@LinkNet-e4ad24d1e0.cust.bredbandsbolaget.se 
+Tagline: no tagline
+
+
+
+
+[OP]Tatuering AKA  NalleBjorn, user on CN and a tracked IP from torrent
+see Fast.movie.hub.jpg
+
+[OP]Tatuerings ip from the hub is not the same as Nallebjorns site ip.
+He is using different isps. Remoting maybe? But who the fuck gives a shit about that.
+Purge the sucker!!
+
+
+
+site users NalleBjorn
+Username: NalleBjorn           Created: xxx
+Comment: Added by xxx          Last seen: xxxx
+Total logins: xxx              Idle time: 300
+Ratio: 3.0                     Credits: xxxGB
+Max logins: 3                  From same IP: 4
+Max sim uploads: 3             Max sim downloads: 1
+Group / Leech slots: 0   0     Group Min/Max Ratio: 3.0/3.0
+Total uploaded: xxxxGB         Total downloaded: xxxGB
+Times nuked: 15                Bytes nuked: xxx
+Primary group: xxx             Banned: false
+Extra groups: [deleted]        Banned Until:
+IP masks: *@213.114.79.251, *@213.114.79.155
+Weekly Allotment: 0
+IRC Ident: NalleBjorn!NalleBjorn@LinkNet-7997db280c.cust.bredbandsbolaget.se
+Tagline: no tagline
+200 Command okay
+
+
+
+Thats all for now, but we continue the hunt for P2P fucker on the scene.....
+
+We Will Be Back With More...
+
+Have a nice Purge day ;)
+ 
+
+[Arkiv]Sveden  -   FastMovie DC-Hub owner             AKA  Misan      - user on scensite CN
+
+[OP]Abbo       -   Member of MightyGuys               AKA  Grape      - siteop on scensite CN
+
+[Konsult]Lazy  -   Member of MightyGuys and ZlaZher   AKA  Zlapp      - user on scensite CN
+
+[OP]Tatuering  -   Admin on Torrent sites ??          AKA  NalleBjorn - user on scensite CN
+

@@ -1,0 +1,341 @@
+[1] 200-            ____            _____              __          ______
+[1] 200-         ___|   \   _____   |   |    _____   _(__)____  ___|   _/_
+[1] 200- ........ |  `    \__|   |   |   |____|   |__ |    `   \/   `    _/_ ..........
+[1] 200- :::::::: |   :      .   |___:   `   ._   __/_|        \/   .___.   \ :::::::::
+[1] 200- ........ |___|\____/|   `   _______/ |       .____:   ||   |   |____\ ........
+[1] 200-                    |______/         |______/     |___||___|         
+[1] 200- +----+--------------+---------------+---------+------------------+-----------+
+[1] 200- | No |     User     |     Group     |  Files  |       Megs       |   Speed   |
+[1] 200- +----+--------------+---------------+---------+------------------+-----------+
+[1] 200- | 01 | prinsick     | MYTH          |   5,126 |         95,686MB |   4027k/s |
+[1] 200- | 02 | staryang     | CaC           |   4,019 |         90,101MB |    483k/s |
+[1] 200- | 03 | lantz        | iLH           |   5,050 |         87,460MB |    255k/s |
+[1] 200- | 04 | mores        | iND           |   3,934 |         85,325MB |   1439k/s |
+[1] 200- | 05 | kanami       | iND           |   4,371 |         80,209MB |    393k/s |
+[1] 200- | 06 | NOWT         | ArEs          |   4,947 |         79,148MB |    537k/s |
+[1] 200- | 07 | kazeboy      | EPTiSO        |   4,302 |         78,564MB |    569k/s |
+[1] 200- | 08 | lazyaka      | CaC           |   3,627 |         70,991MB |   1042k/s |
+[1] 200- | 09 | svwf         | iND           |   3,698 |         69,687MB |   1147k/s |
+[1] 200- | 10 | Anger        | ArEs          |   4,172 |         69,533MB |   1334k/s |
+[1] 200- | 11 | ToYa         | GHOST         |   3,628 |         66,204MB |    451k/s |
+[1] 200- | 12 | syz          | NVT           |   3,237 |         63,644MB |    428k/s |
+[1] 200- | 13 | dinho        | GHOST         |   2,913 |         63,125MB |    265k/s |
+[1] 200- | 14 | _XoX_sz      | TeamX         |   2,715 |         62,443MB |    396k/s |
+[1] 200- | 15 | sav          | OTKiSO        |   3,573 |         58,404MB |    847k/s |
+[1] 200- | 16 | guy          | DSr           |   3,614 |         57,198MB |   1775k/s |
+[1] 200- | 17 | shg          | AcTiSO        |   3,850 |         56,946MB |   1884k/s |
+[1] 200- | 18 | devin        | OTKiSO        |   3,366 |         56,316MB |    677k/s |
+[1] 200- | 19 | bobos        | iLH           |   3,056 |         54,546MB |   1352k/s |
+[1] 200- | 20 | GDmen        | NVT           |   2,367 |         54,182MB |   1037k/s |
+[1] 200- | 21 | clandrea     | ArEs          |   2,547 |         53,353MB |   1524k/s |
+[1] 200- | 22 | durian       | TiANiSO       |   2,876 |         51,093MB |    367k/s |
+[1] 200- | 23 | AnthOnysh    | AcTiSO        |   2,306 |         49,918MB |   1234k/s |
+[1] 200- | 24 | tulazhu      | CaC           |   2,259 |         47,845MB |   1101k/s |
+[1] 200- | 25 | ooo          | NVT           |   2,989 |         47,597MB |   1398k/s |
+[1] 200- | 26 | finn         | ArEs          |   2,410 |         47,132MB |   1278k/s |
+[1] 200- | 27 | esprite      | TiANiSO       |   2,609 |         46,799MB |    957k/s |
+[1] 200- | 28 | xx           | RFF           |   2,305 |         46,656MB |    308k/s |
+[1] 200- | 29 | deathboy     | NVT           |   2,993 |         43,551MB |    501k/s |
+[1] 200- | 30 | fronk        | EPTiSO        |   2,851 |         43,026MB |    249k/s |
+[1] 200- | 31 | ujin         | cATiSO        |   2,173 |         42,102MB |    134k/s |
+[1] 200- | 32 | feitan       | REMiND        |   2,018 |         41,734MB |   1166k/s |
+[1] 200- | 33 | derek        | DSr           |   2,474 |         41,611MB |     77k/s |
+[1] 200- | 34 | anthrax      | cATiSO        |   2,302 |         41,545MB |   1132k/s |
+[1] 200- | 35 | jarjar       | TOWiSO        |   2,094 |         41,155MB |   1957k/s |
+[1] 200- | 36 | ash          | AcTiSO        |   1,968 |         38,838MB |    317k/s |
+[1] 200- | 37 | Avril        | GHOST         |   1,941 |         38,198MB |    944k/s |
+[1] 200- | 38 | covert       | EPTiSO        |   1,918 |         35,997MB |    844k/s |
+[1] 200- | 39 | sintex       | iND           |   1,735 |         35,637MB |    809k/s |
+[1] 200- | 40 | Midgard      | AVALON        |   1,052 |         34,123MB |   1337k/s |
+[1] 200- | 41 | axlthecat    | DSr           |   1,676 |         33,851MB |   1462k/s |
+[1] 200- | 42 | lemon        | EPTiSO        |   1,629 |         33,115MB |    245k/s |
+[1] 200- | 43 | HeZZe        | RFF           |   1,452 |         32,127MB |   1117k/s |
+[1] 200- | 44 | rara         | RFF           |   1,513 |         29,875MB |   1489k/s |
+[1] 200- | 45 | Pr0t0n       | MNMiSO        |   1,228 |         29,334MB |    301k/s |
+[1] 200- | 46 | super        | MNMiSO        |   1,570 |         27,849MB |   1404k/s |
+[1] 200- | 47 | tu1ip        | RFF           |   1,397 |         26,913MB |   1121k/s |
+[1] 200- | 48 | dijital      | mYm           |   1,877 |         26,531MB |    231k/s |
+[1] 200- | 49 | cake         | TYPHOON       |   1,327 |         26,419MB |   1273k/s |
+[1] 200- | 50 | KatHr7n      | iND           |   1,136 |         25,043MB |   1107k/s |
+[1] 200- | 51 | madoka       | TFFiSO        |   1,060 |         24,994MB |    927k/s |
+[1] 200- | 52 | ian_c        | TYPHOON       |   1,233 |         24,802MB |   1082k/s |
+[1] 200- | 53 | sprite       | NVT           |   1,062 |         24,351MB |   1319k/s |
+[1] 200- | 54 | cuff         | HEROiN        |   1,137 |         23,541MB |   1190k/s |
+[1] 200- | 55 | nubela       | REMiND        |   1,043 |         21,341MB |   1160k/s |
+[1] 200- | 56 | mgmoe        | TiANiSO       |   1,493 |         20,492MB |   1786k/s |
+[1] 200- | 57 | tpa          | NVT           |     723 |         20,094MB |   1155k/s |
+[1] 200- | 58 | XBloodX      | aDLiB         |   1,267 |         19,538MB |   1129k/s |
+[1] 200- | 59 | mb9716       | CaC           |     919 |         18,276MB |   1233k/s |
+[1] 200- | 60 | tammy        | TOWiSO        |     823 |         17,989MB |    946k/s |
+[1] 200- | 61 | nju          | FRiENDS       |     853 |         17,644MB |   1573k/s |
+[1] 200- | 62 | Doubt        | iND           |     830 |         17,555MB |    755k/s |
+[1] 200- | 63 | racerx       | iND           |     655 |         17,385MB |   1330k/s |
+[1] 200- | 64 | ono          | SARSiSO       |     500 |         16,652MB |   1303k/s |
+[1] 200- | 65 | fatbee       | cATiSO        |     751 |         16,117MB |    138k/s |
+[1] 200- | 66 | orc          | iND           |     945 |         15,933MB |   1782k/s |
+[1] 200- | 67 | shr00ms      | iND           |     831 |         15,389MB |    474k/s |
+[1] 200- | 68 | uou          | CaC           |     704 |         15,114MB |    992k/s |
+[1] 200- | 69 | cypher       | MYTH          |     554 |         14,760MB |   7964k/s |
+[1] 200- | 70 | gagami       | TiANiSO       |   1,024 |         14,362MB |   1352k/s |
+[1] 200- | 71 | Prism        | iND           |     633 |         13,936MB |    865k/s |
+[1] 200- | 72 | CastorTroy   | EPTiSO        |     736 |         13,899MB |    771k/s |
+[1] 200- | 73 | kutmetperen  | SoSISO        |     276 |         13,290MB |   1201k/s |
+[1] 200- | 74 | boink        | EPTiSO        |     698 |         11,897MB |    106k/s |
+[1] 200- | 75 | simonman     | ArEs          |     625 |         11,866MB |   1220k/s |
+[1] 200- | 76 | burner       | AVCD          |     700 |         11,504MB |    407k/s |
+[1] 200- | 77 | sinzit3ru    | iLH           |     655 |         10,716MB |   1040k/s |
+[1] 200- | 78 | luckman      | iND           |     337 |         10,514MB |   1323k/s |
+[1] 200- | 79 | Ryo          | ArEs          |     569 |         10,056MB |    845k/s |
+[1] 200- | 80 | chips        | NVT           |     594 |         10,013MB |   1055k/s |
+[1] 200- | 81 | maude        | ArEs          |     664 |          9,907MB |    466k/s |
+[1] 200- | 82 | qt999        | cATiSO        |     450 |          9,542MB |   2017k/s |
+[1] 200- | 83 | NoRaCe       | FRiENDS       |     647 |          9,428MB |   2198k/s |
+[1] 200- | 84 | divide0      | iND           |     421 |          9,200MB |    371k/s |
+[1] 200- | 85 | vampire      | iND           |     380 |          9,144MB |   1363k/s |
+[1] 200- | 86 | cocolee      | TUN           |     348 |          9,036MB |   1233k/s |
+[1] 200- | 87 | vibor        | iND           |     432 |          8,741MB |    505k/s |
+[1] 200- | 88 | allen        | FRiENDS       |     275 |          8,675MB |    911k/s |
+[1] 200- | 89 | geanuri      | iND           |     351 |          8,618MB |    597k/s |
+[1] 200- | 90 | chinh        | iND           |     370 |          8,421MB |    835k/s |
+[1] 200- | 91 | paolohu      | aSxiSO        |     458 |          8,370MB |   1039k/s |
+[1] 200- | 92 | renx         | TiANiSO       |     343 |          6,511MB |   2109k/s |
+[1] 200- | 93 | narf         | iND           |     280 |          6,316MB |    405k/s |
+[1] 200- | 94 | random01     | DEF           |     198 |          6,267MB |   1059k/s |
+[1] 200- | 95 | Gladiator    | EPTiSO        |     282 |          6,264MB |    713k/s |
+[1] 200- | 96 | pareto       | OTE           |     449 |          6,146MB |   1303k/s |
+[1] 200- | 97 | smiles       | HEROiN        |     234 |          6,031MB |   1209k/s |
+[1] 200- | 98 | vargas       | iND           |     467 |          5,918MB |    979k/s |
+[1] 200- | 99 | jbc          | FRiENDS       |     336 |          5,719MB |   2399k/s |
+[1] 200- | 100 | Baracuda     | DivXfacTory   |     349 |          5,507MB |   1413k/s |
+[1] 200- | 101 | calango      | FX            |      19 |          5,248MB |  10559k/s |
+[1] 200- | 102 | mycat        | CaC           |     176 |          5,145MB |   1513k/s |
+[1] 200- | 103 | zeratul      | iND           |      15 |          4,988MB |   1681k/s |
+[1] 200- | 104 | azure        | TUN           |      21 |          4,837MB |    194k/s |
+[1] 200- | 105 | wesley       | aSxiSO        |     227 |          4,827MB |   1053k/s |
+[1] 200- | 106 | verry        | Carbon        |     260 |          4,739MB |    401k/s |
+[1] 200- | 107 | Abraham      | TiANiSO       |     276 |          4,736MB |    976k/s |
+[1] 200- | 108 | nv           | FRiENDS       |     261 |          4,516MB |   1482k/s |
+[1] 200- | 109 | schdex       | FRiENDS       |     144 |          4,446MB |    439k/s |
+[1] 200- | 110 | kinetixs     | CaC           |     174 |          4,428MB |    872k/s |
+[1] 200- | 111 | MacKaquE     | STINKYCUBE    |     265 |          4,074MB |    330k/s |
+[1] 200- | 112 | NGs          | iND           |     175 |          4,029MB |    813k/s |
+[1] 200- | 113 | duotype      | PARADOX       |     177 |          3,779MB |    675k/s |
+[1] 200- | 114 | ctr          | RFF           |     192 |          3,652MB |   1016k/s |
+[1] 200- | 115 | BiZ          | SoSISO        |     129 |          3,631MB |    739k/s |
+[1] 200- | 116 | claustro     | TOWiSO        |     158 |          3,257MB |    776k/s |
+[1] 200- | 117 | vici         | TRiAL         |     241 |          3,034MB |    345k/s |
+[1] 200- | 118 | c0meba1k     | NVT           |     173 |          2,848MB |   1477k/s |
+[1] 200- | 119 | miz          | FRiENDS       |     109 |          2,723MB |   2863k/s |
+[1] 200- | 120 | Cha05        | TOWiSO        |      80 |          2,386MB |   1445k/s |
+[1] 200- | 121 | kitt         | LT            |     542 |          2,337MB |   1433k/s |
+[1] 200- | 122 | hgun         | FRiENDS       |     113 |          2,202MB |   2391k/s |
+[1] 200- | 123 | alario       | FRiENDS       |      79 |          2,148MB |   1572k/s |
+[1] 200- | 124 | punkstar     | LT            |     427 |          2,016MB |   1792k/s |
+[1] 200- | 125 | code         | cATiSO        |     108 |          1,836MB |   1992k/s |
+[1] 200- | 126 | JaSeR        | TFFiSO        |      95 |          1,778MB |    874k/s |
+[1] 200- | 127 | VeStAxUK     | iND           |      24 |          1,719MB |    538k/s |
+[1] 200- | 128 | manhood      | SZiSO         |     126 |          1,707MB |   2267k/s |
+[1] 200- | 129 | intox        | MYTH          |      70 |          1,611MB |    288k/s |
+[1] 200- | 130 | t3st1fy      | AGX           |      16 |          1,559MB |    553k/s |
+[1] 200- | 131 | vst          | UVZ           |      77 |          1,466MB |    904k/s |
+[1] 200- | 132 | Narcisse     | iLH           |      23 |          1,375MB |   5869k/s |
+[1] 200- | 133 | ruski        | MYTH          |     206 |          1,243MB |    208k/s |
+[1] 200- | 134 | axn          | TiANiSO       |      56 |          1,218MB |   1695k/s |
+[1] 200- | 135 | citizen      | MYTH          |      50 |          1,182MB |    177k/s |
+[1] 200- | 136 | sinna        | FRiENDS       |      55 |          1,118MB |   1711k/s |
+[1] 200- | 137 | archon810    | HEROiN        |      65 |          1,094MB |   1044k/s |
+[1] 200- | 138 | sp1int3r     | SARSiSO       |      57 |          1,066MB |    710k/s |
+[1] 200- | 139 | xiaoji       | FRiENDS       |      39 |            998MB |   3109k/s |
+[1] 200- | 140 | fr0st        | DSr           |      32 |            944MB |    789k/s |
+[1] 200- | 141 | Siul+        | FRiENDS       |      61 |            869MB |    952k/s |
+[1] 200- | 142 | skylla       | VL            |      19 |            860MB |   1175k/s |
+[1] 200- | 143 | scuzio       | DivXfacTory   |      55 |            730MB |    486k/s |
+[1] 200- | 144 | bola         | TOBiSO        |      21 |            681MB |    419k/s |
+[1] 200- | 145 | scal         | PARADOX       |      26 |            670MB |    710k/s |
+[1] 200- | 146 | _global_     | TOWiSO        |      21 |            637MB |    605k/s |
+[1] 200- | 147 | kenshin      | FRiENDS       |      24 |            596MB |   3056k/s |
+[1] 200- | 148 | emkei        | FRiENDS       |      34 |            558MB |   1293k/s |
+[1] 200- | 149 | th0r         | STINKYCUBE    |      34 |            486MB |    508k/s |
+[1] 200- | 150 | demisoda     | TOWiSO        |      25 |            441MB |    522k/s |
+[1] 200- | 151 | strike       | UVZ           |       9 |            429MB |   1281k/s |
+[1] 200- | 152 | bulpae       | FRiENDS       |      32 |            419MB |    747k/s |
+[1] 200- | 153 | Charcoal     | FRiENDS       |      20 |            386MB |    657k/s |
+[1] 200- | 154 | butcher      | MYTH          |      26 |            354MB |    210k/s |
+[1] 200- | 155 | sympt        | STINKYCUBE    |       5 |            353MB |   2259k/s |
+[1] 200- | 156 | steel        | UVZ           |      25 |            349MB |    479k/s |
+[1] 200- | 157 | SpeedZone    | SZiSO         |      15 |            277MB |   6306k/s |
+[1] 200- | 158 | nyu          | OTTO          |      14 |            267MB |    749k/s |
+[1] 200- | 159 | LancerMX     | WjR           |       5 |            238MB |    196k/s |
+[1] 200- | 160 | Killer       | iND           |      15 |            231MB |    169k/s |
+[1] 200- | 161 | r0wdy        | FRiENDS       |      17 |            229MB |    280k/s |
+[1] 200- | 162 | polms        | BROTHER       |      12 |            211MB |    214k/s |
+[1] 200- | 163 | brintly      | FRiENDS       |       5 |            205MB |    560k/s |
+[1] 200- | 164 | auron        | OTKiSO        |       5 |            190MB |   1156k/s |
+[1] 200- | 165 | mamoru       | STARCUBE      |       5 |            190MB |    388k/s |
+[1] 200- | 166 | sle          | DEF           |       8 |            181MB |   1048k/s |
+[1] 200- | 167 | Joeny        | QUANTUM       |       1 |            163MB |   2707k/s |
+[1] 200- | 168 | proxy        | iND           |       4 |            157MB |    926k/s |
+[1] 200- | 169 | fiend        |               |       6 |            152MB |   1883k/s |
+[1] 200- | 170 | hanig481     | FRiENDS       |       3 |            143MB |   1285k/s |
+[1] 200- | 171 | sou1         | NAS           |      11 |            143MB |    631k/s |
+[1] 200- | 172 | thy          | AGX           |       7 |            138MB |    322k/s |
+[1] 200- | 173 | caboom       | SoSISO        |       6 |            119MB |    825k/s |
+[1] 200- | 174 | kublai       | FRiENDS       |       5 |             97MB |    113k/s |
+[1] 200- | 175 | k7andy       | TeamX         |       2 |             95MB |    167k/s |
+[1] 200- | 176 | silo         | FRiENDS       |       3 |             90MB |    310k/s |
+[1] 200- | 177 | buckshot     | FRiENDS       |       5 |             71MB |   3855k/s |
+[1] 200- | 178 | djmns        | OTTO          |       1 |             47MB |    236k/s |
+[1] 200- | 179 | franza292    | FRiENDS       |       1 |             47MB |   2034k/s |
+[1] 200- | 180 | xero_cool    | XiSO          |       1 |             47MB |    233k/s |
+[1] 200- | 181 | hts          | RFF           |       1 |             33MB |   3414k/s |
+[1] 200- | 182 | erd          | FRiENDS       |       8 |             32MB |   2551k/s |
+[1] 200- | 183 | Irish        | Carbon        |       1 |             14MB |   2441k/s |
+[1] 200- | 184 | solidsnake   | TUN           |      10 |             14MB |    897k/s |
+[1] 200- | 185 | outsider     | MYTH          |       0 |              4MB |      0k/s |
+[1] 200- | 186 | gryphon      | mVz           |       3 |              0MB |     67k/s |
+[1] 200- | 187 | badegg10     | LiB           |       1 |              0MB |      7k/s |
+[1] 200- +----+--------------+---------------+---------+------------------+-----------+
+[1] 200- | ::::::::::::::::: [ Site Alup ] - Alltime Top Uploaders :::::::::::::::::: |
+[1] 200- +----------------------------------------------------------------------------+
+
+67.133.122.101:32451
+
+
+#SP33DZ0NE otilx[aw] H+ unkown@p15111008.pureserver.info :0 John Sellers
+#SP33DZ0NE CharcoalB H+ Charcoal@usen-219x113x184x34.ap-US.usen.ad.jp :5 Charcoal Buddy
+#SP33DZ0NE Sinna- H+ ~sinna@219.255.26.30 :5 sinna
+#SP33DZ0NE [-GaMo-] H+ FerrA@61.79.27.130 :5 FerrA
+#SP33DZ0NE DeMoNPauL H+ stavroz@fuckdapolice.com :3 DemonPaul
+#SP33DZ0NE |GHI| H@ ~|GHI|@200.73.36.120 :3 |GHI|
+#SP33DZ0NE |DEF| H@ ~|DEF|@200.73.36.120 :3 |DEF|
+#SP33DZ0NE war44 H+ ~war@iniquity.net :5 war
+#SP33DZ0NE manhood H@ manhood@218.233.119.107 :4 salut
+#SP33DZ0NE s4v H+ ~s4v@sex.please.kthnx.info :4 s4v
+#SP33DZ0NE Pr0n_ H+ ~poop@ip68-102-54-183.ks.ok.cox.net :6 zboz
+#SP33DZ0NE _ash H+ replay@72.20.2.54 :3 ash
+#SP33DZ0NE Thy-Masta H+ darkjedi@Fuckoff.Or.Your.Goingdown.biz :0 Bond
+#SP33DZ0NE bRn H+ nairb@im.so.sex-y.org :6 nairb
+#SP33DZ0NE niju H+ ~ujin@202.39.224.31 :6 ggyy
+#SP33DZ0NE LsaL H+ ~LsaL@210-64-176-212.adsl.dynamic.seed.net.tw :3 LsaL
+#SP33DZ0NE chipsly H+ ~chips1mm@219.128.163.181 :2 chips1mm
+#SP33DZ0NE VeStAxUK H+ vestax60@try.to.drop.me.and.get.0wned.info :4 vestax
+#SP33DZ0NE videogirl H+ XiRc_V261@211.193.48.131 :5 ...........
+#SP33DZ0NE wwolf H+ wolfie@my.grandmother.uses.her.wheelchair.to.wheelie.com :0 wolfie
+#SP33DZ0NE Pareto H+ fade@CPE006008a2e32d-CM001225423b6a.cpe.net.cable.rogers.com :6 Pareto
+#SP33DZ0NE ||Soul|| H+ soul@slyna.org :3 soul
+#SP33DZ0NE mar_ H+ ~mar@61.153.50.243 :3 mar
+#SP33DZ0NE fr0st H+ fr0st@CPE-70-92-70-1.new.res.rr.com :4 fr0st
+#SP33DZ0NE GDmen H+ ~GDmen@218.63.195.253 :5 GDmen
+#SP33DZ0NE [Fudd] H+ Fudd@cable-68-114-106-253.sli.la.charter.com :4 Fudd
+#SP33DZ0NE Codeine- H+ derek@24-155-111-50.dyn.grandenetworks.net :4 Invincible by Xtry
+#SP33DZ0NE uni9u3 H+ ~ooo@218.28.45.164 :5 ooo
+#SP33DZ0NE trevoc H+ ~NT@c-24-118-248-232.hsd1.mn.comcast.net :4 Mad Max
+#SP33DZ0NE |SYZS| H+ syzs@219.145.163.166 :2 s
+#SP33DZ0NE super[a] H+ super@219.250.127.232 :2 SUPER^
+#SP33DZ0NE MK2^^ H+ ~Cyclone@218.38.19.33 :2 MK2
+#SP33DZ0NE SvwF H+ pukas@smoothsteel.workin.info :5 Rain
+#SP33DZ0NE wesley00 H+ wesley@CPE00062509d26b-CM00080d35c244.cpe.net.cable.rogers.com :6 wesley|ho
+#SP33DZ0NE vici H+ ~zoomz@64.31.163.21 :7 zoom
+#SP33DZ0NE DRDUKE H+ DRDUKE@201.11.140.107 :6 RAFASFSD
+#SP33DZ0NE ][mp H+ birdie@idle.20years.com :5 Me
+#SP33DZ0NE _badegg10 H+ false@211.43.195.71 :5 badegg10
+#SP33DZ0NE cicon H+ cicon@h234n8c1o994.bredband.skanova.com :2 cicon
+#SP33DZ0NE Biznz H+ pukas@stfu.n00b.cause.ima.leet-hacker.net :4 bizbot
+#SP33DZ0NE schdex H@ xedhcs@i.will.tell.u.some.hotstories.de :4 i2
+#SP33DZ0NE cartoon H+ ~pcscott@61.151.239.85 :2 cartoon
+#SP33DZ0NE kaminari H@ binega@218.145.171.25 :3 binega
+#SP33DZ0NE geanuri H+ sokaris@lamest.script.ws :3 geanuri
+#SP33DZ0NE |MoRE| H+ more@218.145.171.25 :8 mmoore
+#SP33DZ0NE Archon810 H+ archon@ppp-67-126-222-122.dsl.scrm01.pacbell.net :4 A|R|C|H
+#SP33DZ0NE Kibe H+ kibe@200.193.151.20 :6 Kibe
+#SP33DZ0NE mgc H+ ~mygodcat@61.129.42.45 :6 mycat
+#SP33DZ0NE alphazip H+ ~alphazip@202.67.215.58 :3 alphazip
+#SP33DZ0NE video_ H+ video@irchelp.us :6 video
+#SP33DZ0NE MacKaquE H+ someone@unixlovers.info :4 I'm not giving any infos
+#SP33DZ0NE DoRan^ H+ doran@222.100.36.155 :2 DoRan^
+#SP33DZ0NE Abraham H+ A6raham@221.236.22.123 :6 A6raham
+#SP33DZ0NE polms H+ polms@im.teh.l33t.h4xx.z0rz.com :5 polms
+#SP33DZ0NE xero_cool H+ xero@67.19.130.10 :7 xero_cool
+#SP33DZ0NE AnthOnySh H+ AnthOnysh@222.64.27.7 :2 AnthOnySh
+#SP33DZ0NE linoxx H+ ~linoxx@adsl-065-012-178-027.sip.asm.bellsouth.net :3 Unknown
+#SP33DZ0NE ShadoW0lf H+ chrysalis@adsl-68-253-46-226.dsl.ipltin.ameritech.net :4 piglywgly
+#SP33DZ0NE Persian0 H+ sokaris@mafia.with.a.left-eye.org :2  billy
+#SP33DZ0NE tulazhu H+ 1980kemp@219.128.197.193 :3 tulazhu
+#SP33DZ0NE splin H+ sokaris@66.90.92.173 :5 splin
+#SP33DZ0NE devindude H+ thAdUdE@69.50.174.62 :5 d3vindud3
+#SP33DZ0NE nguard H+ ~nguard@165.229.167.137 :6 nguard
+#SP33DZ0NE tulip H+ ~l3ad5@202.101.165.233 :4 l3ad5
+#SP33DZ0NE _zeratul H+ zeratul@b1nary.net :4 zeratul
+#SP33DZ0NE k0alLaH H+ lilly@211.209.148.118 :4 k0alLaH
+#SP33DZ0NE cab00m H+ SoS@my.dick.dont.like.fatchick.org :3 caboom
+#SP33DZ0NE [franza] H+ magnum@serv04.tecshells.de :0 franza
+#SP33DZ0NE |SPEED| H@ prinsick@prinsick.dual-oc256.net :4 |SPEED|
+#SP33DZ0NE |randy| H+ ~rady@drunkninja.net :6 rady
+#SP33DZ0NE SoGoMo H+ ~maude@211.144.142.98 :2 maude
+#SP33DZ0NE orac1e H+ ruthless@oracle.rootbox.co.uk :5 its kylin
+#SP33DZ0NE av_ H+ w00t@204.8.222.130 :8 meow mofo
+#SP33DZ0NE c__ H+ ~ilmw@202.105.21.21 :5 bbb
+#SP33DZ0NE divide0 H+ kingmoe@rooted.her.panties.cx :4 none
+#SP33DZ0NE Un1c0rn H+ ruthless@get.smart.and.fucking-google-it.com :6  ruthless
+#SP33DZ0NE DoggyOff H+ donkey@i.yaddle.you.yaddle.we.yaddle.com :3 BaDDoG
+#SP33DZ0NE prinsick H@ prinsick@szbnc.net :3 prinsick
+#SP33DZ0NE tigrow H+ simple@janes.addicti0n.net :5 tigrow
+#SP33DZ0NE _Edgar H+ ~F@218.154.75.160 :3 _Edgar
+#SP33DZ0NE notrox H+ ~notrox@adsl-66-141-210-150.dsl.tulsok.swbell.net :7 Unknown
+#SP33DZ0NE DEaTH-BoY H+ deathboy@mmmkay.who.smoked.my.yowie.org :4 deathboy
+#SP33DZ0NE h|t H+ ~HiGH@69.64.33.57 :4 jewbish
+#SP33DZ0NE Mam1laz H+ m4m1laz@I-Pay-For-A.1-dolla-blowjob.info :4 Mam1laz
+#SP33DZ0NE |cdub| H+ ~cdub@hector.bigworm.org :4 C DUB
+#SP33DZ0NE finding H+ ~inn@203.194.135.200 :4 inn
+#SP33DZ0NE HEo2zZA H+ ~Prism@61.109.244.233 :2 HEo2zZA
+#SP33DZ0NE |S_C| H+ SC@218.75.82.6 :2 A___k
+#SP33DZ0NE n4rf_ H+ ~narf@209.67.61.238 :5 narf
+#SP33DZ0NE iRacer H+ mr@pr0n.star.net :5 race.or.die - "to race or not to race?"
+#SP33DZ0NE _esp_ H+ deikd@gsg-9.net :0 Esprite
+#SP33DZ0NE MrStats H+ Anonymous@cpe-65-29-101-67.twmi.res.rr.com :8 DontAsk
+#SP33DZ0NE ScAL H+ dvt@arguing.over.irc.just.gets.you.humiliated.org :3 Scallywag
+#SP33DZ0NE ||clc|| H+ |clc|@superskunk.from-the.nl :5 Fly-Host.net bouncer [www.fly-host.net]
+#SP33DZ0NE kut H+ scumbag@working-for-the.1337mafia.info :3 kut
+#SP33DZ0NE |nova| H+ ~staryang@eu.hackei.a.m1cr0s0ft.nl :5 staryang
+#SP33DZ0NE ^durian H+ durian@202.102.3.62 :5 durian
+#SP33DZ0NE claustro- H+ claustro@windmill.piuhateam.com :5 cla
+#SP33DZ0NE |BOT| H@ prinsick@216.127.71.13 :4 |BOT|
+#SP33DZ0NE |MASTER| H@ prinsick@216.127.71.13 :4 |MASTER|
+#SP33DZ0NE mortal H+ mortal@beat.eu.org :4 GAYSCRIPT
+#SP33DZ0NE mns H+ duck@85.88.1.71 :5 mns
+#SP33DZ0NE Irishbeef H+ ~Richy1972@64.251.25.60 :4 Irishbeef
+#SP33DZ0NE gotmoor H+ ~kickass@64.251.25.60 :4 xylofono
+#SP33DZ0NE cadence H+ cadence@goliath.digitallyperfect.com :5 cadence
+#SP33DZ0NE _^X_x_X^ H+ B2@unix.box.ae :5 holy shit! heh
+#SP33DZ0NE |ABC| H@ prinsick@200.73.81.122 :3 |ABC|
+#SP33DZ0NE |SZONE| H@ prinsick@prinsick.dual-oc256.net :3 |SZONE|
+#SP33DZ0NE ian_ H+ ian@147.46.125.158 :3 ian_curtis
+#SP33DZ0NE lantz H+ ~lantz@lphlox2.yeungnam.ac.kr :3 lantz
+#SP33DZ0NE global__ H+ global@www.psycontrol.de :3 global
+#SP33DZ0NE jarjar666 H+ TheForce@loves.to.idle.with.tow-on-the.net :3 jarjar666
+#SP33DZ0NE Tam_my H+ tammy@pimped.out.by.tow-on-the.net :3 Tammy
+#SP33DZ0NE GoDoT^NA H+ ~moo@147.46.136.164 :3 WHO R YOU...
+#SP33DZ0NE verryxber H+ verry@smokes.a.big.Jamaican.Joint.with.tow-on-the.net :3 verryxber
+#SP33DZ0NE _allen_ H+ mirckorea@loves.to.idle.with.tow-on-the.net :3 allen
+#SP33DZ0NE ||_GuY_|| H+ ~foshow66@rikos.plus.com :3 kuya
+#SP33DZ0NE _Z0NE_ H@ ZONE@szbnc.net :3 _Z0NE_
+#SP33DZ0NE GaryZelda H+ ~GaryZelda@67.19.130.10 :6 your
+#SP33DZ0NE Durabrite H+ ~jblow@c-67-169-227-212.hsd1.ca.comcast.net :6 Joe Blow
+#SP33DZ0NE gatgame H+ gat@i.got.the.best.whacky-vhost.biz :6 gatgame
+#SP33DZ0NE smls H+ ~smls@undercover.spook.ws :6 smls
+#SP33DZ0NE ujin H+ ~ujin@202.39.224.31 :6 ujin
+#SP33DZ0NE vargas102 H+ insomnia@CPE000c41bb934d-CM00e06f1b0ec0.cpe.net.cable.rogers.com :6 v
+#SP33DZ0NE sunnybwoy H+ ayatoll@c-66-176-109-110.hsd1.fl.comcast.net :5 sunnybwoy
+#SP33DZ0NE renx H+ ~thief@220.73.222.91 :5 ThiEf
+#SP33DZ0NE bobos H+ ~bobos@lphlox2.yeungnam.ac.kr :5 bobos
+#SP33DZ0NE axn H+ axn@202.102.3.60 :2 axn
+#SP33DZ0NE b___ H+ bird@213.9.67.205 :2 Wiggle your big toe.
+#SP33DZ0NE |Smoke| H+ Smoke@g0.fuck-off-and-die.info :2 Smoke
+#SP33DZ0NE offline- H+ allenliu@My.keyboard.is.slipping.away.Lookin.at :4 offline-
+#SP33DZ0NE CUFF H+ citizen@citizen.im1337.com :5 wha
+#SP33DZ0NE demisoda H+ s1anifi@148.245.92.146 :5 demisoda
+#SP33DZ0NE s] H+ ~abc@61.175.193.198 :2 abc
+#SP33DZ0NE ajttwzA H+ aj@145.94.50.208 :5 aj
+#SP33DZ0NE _SZiS0_ H@ SZiSO@szbnc.net :5 _SZiS0_
+#SP33DZ0NE vibor H+ obie@got.your.passwords.thanks-to.jack-the.ripper.jp :5 vibor
+#SP33DZ0NE End of /WHO list.

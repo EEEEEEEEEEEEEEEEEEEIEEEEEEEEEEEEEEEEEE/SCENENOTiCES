@@ -1,0 +1,83 @@
+[L] site aldn 1000
+[L] 200-      ______________._________   .  _________________.___  ___
+[L] 200-   __.\____   ___    \_   _   \ _:__\____   ___   _____  \|   | _.__
+[L] 200- _ _|____ /   \/  |   /  _____/__|___;_ /   \/    _\_|_   \   |__|_ __
+[L] 200-  ___|__ /     \  |  //   | ___|_._|__ //    \   /    // \    | ___|_
+[L] 200-     __|_\_____/_____\    | _|___|___|.\_____/_______/___|\   |._|_
+[L] 200-  .------------------.\___|  ALLTiME DOWNLOADERS...     \__|  :-----.
+[L] 200- .--------------------------------------------------------------------=-.
+[L] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[L] 200- |-=-------------------------------------------------------------------=-|
+[L] 200- [01] maphia       No Tagline Set           1,674   26,785MB   1112K/s
+[L] 200- [02] DexterIV     -= KAMiKAZE RACiNG =-    1,398   26,137MB   1865K/s
+[L] 200- [03] supastud     No Tagline Set             726   21,118MB    325K/s
+[L] 200- [04] natalie      No Tagline Set           1,031   18,304MB    604K/s
+[L] 200- [05] ping         pwned                    1,107   17,263MB   1431K/s
+[L] 200- [06] sleepingbag  DEVOTiON                   777   12,892MB   2708K/s
+[L] 200- [07] checker      No Tagline Set             425   11,521MB   1546K/s
+[L] 200- [08] grizzo       fD                         573   11,492MB   2453K/s
+[L] 200- [09] kopykat      No Tagline Set             663   10,861MB    230K/s
+[L] 200- [10] cr           No Tagline Set             275    9,205MB   2247K/s
+[L] 200- [11] ieatpussy    No Tagline Set             254    9,150MB   1054K/s
+[L] 200- [12] q413         do not race me             240    8,623MB    316K/s
+[L] 200- [13] Kmart        No Tagline Set             618    8,346MB    185K/s
+[L] 200- [14] tijus        No Tagline Set             383    7,988MB   2366K/s
+[L] 200- [15] fragm        No Tagline Set             321    7,472MB   1851K/s
+[L] 200- [16] cookies      No Tagline Set             204    7,171MB   1040K/s
+[L] 200- [17] aMa          No Tagline Set             406    6,145MB    790K/s
+[L] 200- [18] chin2k       No Tagline Set             318    6,060MB    961K/s
+[L] 200- [19] bface        DEVOTiON                   284    5,798MB   2142K/s
+[L] 200- [20] Da_L         No Tagline Set             327    5,474MB   1644K/s
+[L] 200- [21] zakryc       movie junkie               259    5,438MB    228K/s
+[L] 200- [22] morcheeba    No Tagline Set             273    5,246MB    818K/s
+[L] 200- [23] chrispen     PoW'aH                     249    4,237MB   2162K/s
+[L] 200- [24] cemi         No Tagline Set             200    4,136MB   1796K/s
+[L] 200- [25] sajgon       No Tagline Set             167    4,102MB   1303K/s
+[L] 200- [26] gsus         DEVOTiON                   170    4,065MB   1737K/s
+[L] 200- [27] technolog    No Tagline Set             136    3,907MB   1847K/s
+[L] 200- [28] celik        No Tagline Set             223    3,497MB   1544K/s
+[L] 200- [29] amus         No Tagline Set             142    3,392MB   1068K/s
+[L] 200- [30] eger         .                          129    2,933MB    768K/s
+[L] 200- [31] rev          To Sagline Net             137    2,890MB   1401K/s
+[L] 200- [32] prime        No Tagline Set             111    2,813MB   1318K/s
+[L] 200- [33] GNM          Daddy Oh                   121    2,548MB   1119K/s
+[L] 200- [34] raz0r        mkdir not war              140    2,491MB    547K/s
+[L] 200- [35] ikari        SDM                        158    2,145MB   5691K/s
+[L] 200- [36] piglo        No Tagline Set             151    2,094MB   1295K/s
+[L] 200- [37] tsj          DEVOTiON                   138    2,003MB    318K/s
+[L] 200- [38] woffen       No Tagline Set             132    2,003MB   1152K/s
+[L] 200- [39] p1mp         No Tagline Set             146    1,882MB   4172K/s
+[L] 200- [40] FGZ          No Tagline Set              50    1,856MB   1143K/s
+[L] 200- [41] ombr3ux      No Tagline Set              96    1,810MB   1652K/s
+[L] 200- [42] Kehpri       PhArAcYdE                   92    1,774MB    906K/s
+[L] 200- [43] salomon      No Tagline Set              71    1,599MB   1803K/s
+[L] 200- [44] Joker        LGD                        108    1,564MB   1293K/s
+[L] 200- [45] Snowy        No Tagline Set              57    1,505MB   2342K/s
+[L] 200- [46] beaver       All Beavers In Danger      107    1,374MB   3599K/s
+[L] 200- [47] TheDeaMon    No Tagline Set              72    1,311MB    850K/s
+[L] 200- [48] bboy         No Tagline Set              95    1,298MB    463K/s
+[L] 200- [49] Against      No Tagline Set              63    1,141MB    662K/s
+[L] 200- [50] Taz7         No Tagline Set              67      928MB   1164K/s
+[L] 200- [51] N1ght        No Tagline Set              45      619MB   2645K/s
+[L] 200- [52] nosf         No Tagline Set              45      534MB    697K/s
+[L] 200- [53] orbith       No Tagline Set              20      500MB   1180K/s
+[L] 200- [54] mariak       No Tagline Set              35      479MB   1734K/s
+[L] 200- [55] nitro        No Tagline Set              23      280MB   3093K/s
+[L] 200- [56] Bl4z         No Tagline Set               6      238MB   1085K/s
+[L] 200- [57] dying        No Tagline Set              26      228MB    935K/s
+[L] 200- [58] granis       No Tagline Set              11      181MB   1315K/s
+[L] 200- [59] Ondskan      Suck Fuck Swallow           11      157MB   9478K/s
+[L] 200- [60] Katana       No Tagline Set              11      105MB   6329K/s
+[L] 200- [61] jonte        No Tagline Set               9       76MB   4622K/s
+[L] 200- [62] blade        No Tagline Set               5       71MB    342K/s
+[L] 200- [63] abyss        No Tagline Set               4       51MB   2194K/s
+[L] 200- [64] DisT         No Tagline Set               6        0MB      5K/s
+[L] 200- [65] denni        No Tagline Set               3        0MB      8K/s
+[L] 200- [66] lrc          No Tagline Set               1        0MB      4K/s
+[L] 200- `-=-------------------------------------------------------------------=-'
+
+
+217.112.88.230:36148
+83.149.96.9:36148
+
+DoNE, HafVCD, HLS, LRC, MPT, SMR ·

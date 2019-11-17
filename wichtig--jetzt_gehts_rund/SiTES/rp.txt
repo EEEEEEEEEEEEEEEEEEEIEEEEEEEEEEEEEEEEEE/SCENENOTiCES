@@ -1,0 +1,87 @@
+[R] 200- .--------------------------------------------------------------------=-.
+[R] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[R] 200- |-=-------------------------------------------------------------------=-|
+[R] 200- [01] Smuk         Beffen, daar heb ik zi  70,397 1,910,93MB    300K/s
+[R] 200- [02] necro-man    No Tagline Set          42,461 1,338,45MB   5554K/s
+[R] 200- [03] DuDe         Snurk                   45,037 1,054,91MB    154K/s
+[R] 200- [04] maincolt     blaat                   34,964  952,048MB    446K/s
+[R] 200- [05] xtreme       Bla                     28,389  913,733MB   3558K/s
+[R] 200- [06] Mr_Otzi      burp                    31,287  691,424MB    206K/s
+[R] 200- [07] Thugst3r     please die :~           23,385  658,777MB    291K/s
+[R] 200- [08] chill        chill                   25,877  604,283MB    139K/s
+[R] 200- [09] peda         burp                    28,526  579,147MB    218K/s
+[R] 200- [10] YRZ          -=eNRAGE=-              13,959  468,471MB   1482K/s
+[R] 200- [11] paranoia     No Tagline Set          16,555  412,707MB    226K/s
+[R] 200- [12] IgLamma      ik hou van bier         15,894  406,374MB    591K/s
+[R] 200- [13] oracle       qX                      14,527  377,537MB    453K/s
+[R] 200- [14] Uzumaki      ..:: Global World Trad  12,083  357,260MB    335K/s
+[R] 200- [15] JRippey      -= BBQ_TIME =-          12,230  295,250MB    458K/s
+[R] 200- [16] buster       No Tagline Set          16,330  292,800MB    173K/s
+[R] 200- [17] meltdown     KTDVDr                  12,881  284,240MB   1456K/s
+[R] 200- [18] Drack        Jupiler...mannen weten   8,775  276,957MB    161K/s
+[R] 200- [19] Shaggy       Smuk rules               9,312  272,677MB    551K/s
+[R] 200- [20] beertje      what enforced...not ta   8,130  262,265MB    672K/s
+[R] 200- [21] XENTiC       please nog 1 druppeltj  12,165  260,102MB    565K/s
+[R] 200- [22] pav0         lets.pimp                7,656  256,826MB    841K/s
+[R] 200- [23] Kamos        Hum Hai Laajawab        12,045  254,534MB    635K/s
+[R] 200- [24] Ruffneck     dont.fucking.bother.me   9,729  243,456MB    728K/s
+[R] 200- [25] atmoz        yes?                     6,327  233,840MB    265K/s
+[R] 200- [26] mh255        MH255 wuz here           8,593  233,710MB    343K/s
+[R] 200- [27] pwise        hmm..just empty          8,373  231,450MB    393K/s
+[R] 200- [28] DaMonkey     ale.manneke.das.nun.le   5,714  223,981MB    446K/s
+[R] 200- [29] Wappie       Strak in het kontje      5,703  222,986MB    484K/s
+[R] 200- [30] FdaF         Quirex                  10,425  210,696MB    737K/s
+[R] 200- [31] Qutiz        ..::GWT::..             12,267  204,704MB    309K/s
+[R] 200- [32] Smully       .badmuts.               12,612  202,589MB    940K/s
+[R] 200- [33] Pyro         FISH ARE FRiENDS NOT F   8,354  202,325MB    809K/s
+[R] 200- [34] The_extra    WIJ LEVEN VOOR BIER      5,403  191,994MB    522K/s
+[R] 200- [35] Razor        .....blah....            9,472  187,890MB    935K/s
+[R] 200- [36] mopreme      Still Crusin             6,074  180,878MB    684K/s
+[R] 200- [37] fnz          mC^ ugly ducki be        9,114  179,914MB   1348K/s
+[R] 200- [38] koskos       DiViNiTY                 7,515  155,686MB    227K/s
+[R] 200- [39] kk           ik ben geil              8,176  154,564MB    300K/s
+[R] 200- [40] rene         bla                      4,698  150,812MB    136K/s
+[R] 200- [41] Doopy        nie lulle, site vulle    7,551  142,639MB    574K/s
+[R] 200- [42] id3fix       CWi                      6,654  140,252MB    498K/s
+[R] 200- [43] ARE-T        [-EDC-]                  6,171  131,355MB    465K/s
+[R] 200- [44] ferry        bla                      5,013  130,110MB    180K/s
+[R] 200- [45] bocca        qX biatch                4,219  125,116MB   1011K/s
+[R] 200- [46] patch-       KNiGHTS                  5,040  107,446MB    816K/s
+[R] 200- [47] Bomb         >> FREQuency <<          3,435   97,237MB   1314K/s
+[R] 200- [48] matrixx      ---===GwT===---          3,016   96,207MB   1137K/s
+[R] 200- [49] Kurious      site tagline             3,521   90,271MB    632K/s
+[R] 200- [50] vin          ..:: FREQ ::..           4,102   89,031MB    831K/s
+[R] 200- [51] PerpleX      GGS                      3,860   86,725MB   2640K/s
+[R] 200- [52] Diesel       Got No Brainz            3,367   86,596MB   1045K/s
+[R] 200- [53] baz          don't hold back          3,161   72,229MB    483K/s
+[R] 200- [54] droop        (.Y.)                    3,558   65,137MB    548K/s
+[R] 200- [55] chris        hollywood                1,376   61,585MB    474K/s
+[R] 200- [56] Daggart      Who's your daddy         1,681   60,073MB    456K/s
+[R] 200- [57] qartz        blaa                     1,852   47,555MB   1367K/s
+[R] 200- [58] Trilogy      TOC                      1,651   42,555MB    522K/s
+[R] 200- [59] SONofSAM     boe                      1,637   35,324MB    745K/s
+[R] 200- [60] itagaa       help                       916   33,192MB    324K/s
+[R] 200- [61] SiVE         My finger is on the bu   1,707   31,828MB    215K/s
+[R] 200- [62] BrEeD        bleh                     1,178   25,190MB   1458K/s
+[R] 200- [63] MAkAVeLLi    Get.This.Right.Bitch       517   20,942MB    730K/s
+[R] 200- [64] ub3r         blah                     1,142   19,942MB   2716K/s
+[R] 200- [65] leonardo     kijkt en huivert..         457   17,989MB    248K/s
+[R] 200- [66] DarkWhite    Slow Deep & Hard           964   16,502MB    911K/s
+[R] 200- [67] Tembaco      taglines suck              555   15,668MB    684K/s
+[R] 200- [68] DaTJ         typisch ich                517   14,942MB    975K/s
+[R] 200- [69] legranda     lik mijn bolle bassie      834   13,694MB    604K/s
+[R] 200- [70] aysun        KillerTown                 468    9,520MB   1800K/s
+[R] 200- [71] danny        boe                        248    7,306MB    131K/s
+[R] 200- [72] speedstar    blub                       188    5,662MB    358K/s
+[R] 200- [73] Perplex      hoi                         70    2,796MB   6321K/s
+[R] 200- [74] BKilla       >> FREQuency <<             97    2,407MB   1913K/s
+[R] 200- [75] wookie       MOoOoOo                     81    1,833MB   1857K/s
+[R] 200- [76] rzr          enforced taglines SUCK     110    1,159MB    379K/s
+[R] 200- [77] solarx       Hacking life since 198      21      223MB     77K/s
+[R] 200- [78] flipmo       eNRAGE                       5      188MB    321K/s
+[R] 200- [79] kt-FAC       psst i'm here                4        0MB     11K/s
+[R] 200- [80] chratnox     router died, redoing n       1        0MB      1K/s
+[R] 200- `-=-------------------------------------------------------------------=-'
+
+rp1.servebeer.com:1870
+SMUKfriet thugster

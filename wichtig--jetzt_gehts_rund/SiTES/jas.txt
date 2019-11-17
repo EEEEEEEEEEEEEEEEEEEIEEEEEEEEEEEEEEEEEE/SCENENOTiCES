@@ -1,0 +1,75 @@
+#jas tech- H ~tech@217.33.256.256 :0 tech
+#jas hyp3r HS hyp3r@Linknet-b6d53519b5.telia.com :0 hyp3r
+#jas webdrugs HS enox@Linknet-edc4548c37.ekt.thalamus.net :0 -
+#jas kidman HS kidman@Linknet-d706457000.massa.knark.net :0 kidman
+#jas radical HS radical@Linknet-e4f4bb0c01.rsn.bth.se :0 radical
+#jas deffy HS DEFiANCE@Linknet-012e0431df.um.bonet.se :0 DEFiANCE
+#jas Orion|69 HS flexitong@Linknet-2626d6ac72.xs4all.nl :0 dude
+#jas ^Gambit^ HS Gambit@217.78.256.256 :0 gambit
+#jas Elrich HS Elrich@Linknet-aab928841d.cust.bredbandsbolaget.se :0 Hagane no Renkin Jutsushi
+#jas _Cirdan HS uknow@Linknet-cc18d8493f.1000000000.net :0 Gandalf
+#jas bluie_ HS bluie@Linknet-a99293d05d.RoDiSO.biz :0 bluie
+#jas magik HS magic@Linknet-f73b939fdb.RoDiSO.biz :0 magic
+#jas sairus HS sairus@Linknet-dc4ed10010.team.h-a-r-e-m.net :0 Sairus
+#jas Satcom HS satcom@Linknet-71de0a2c88.practicing.ownage.dk :0 BSA OWNZ YOU
+#jas booten HS booten@Linknet-1c2a464697.bredband.skanova.com :0 /dev/null
+#jas dwarf HS friar@Linknet-c9b6828d03.student.utwente.nl :0 needs food badly
+#jas stoffe HS boffe@Linknet-97c2670532.localhosted.net :0 stoffeboffe
+#jas |primus| HS nw@Linknet-f5d88e5d00.jlug.fi :0 primus
+#jas Apan HS@ ~nobody@Linknet-3996635b57.telia.com :0 nobody
+#jas dcen HS mx@Linknet-5cf8408fde.student.utwente.nl :0 .
+#jas Cazz HS Cazz@Linknet-8039146cf1.adsl.cybercity.dk :0 Svend Jensen
+#jas Ch4ng1ng HS musk@Linknet-45e29e37f3.school.suckz.dk :0 musk
+#jas Gambitius HS Gambit@217.78.256.256 :0 gambit
+#jas Chicks HS bah2@Linknet-3de599dda5.pharacyde.ws :0 chicks2
+#jas captain HS legolaz@Linknet-5def3e502f.nuke.spoof.se :0 legolaz
+#jas eek HS fwuser@Linknet-fe0ac11a24.cust.bredbandsbolaget.se :0 < name goes here >
+#jas sleeepy HS rambo@Linknet-7bc5af48fe.hentai.no :0 rambo
+#jas poltroon HS poltroon@Linknet-344c8bf822.eviladmins.info :0 scene sucks for all.
+#jas eles HS ls@Linknet-810f26cf81.amnmp3.com :0 LS
+#jas ^POPS^ HS pungkula1@Linknet-d7d09342fa.pharacyde.ws :0 pops
+#jas _gflozzy HS gflozzy@Linknet-c0a7bfe0b0.betty-bou.com :0 every man dies, not every man lives.
+#jas estopa HS once@217.78.256.256 :0 once
+#jas boggywoo HS juice@Linknet-cab33c6ea9.bredband.skanova.com :0 SO WHAT YA WANT?
+#jas Sera^^ HS sera@Linknet-3c90e2253a.betty-bou.com :0 sera
+#jas ncore HS ncore@Linknet-9d89901fa9.betty-bou.com :0 ncore
+#jas AssGuard HS asgard@Linknet-fabb11d304.pharacy.de :0 Asgard
+#jas Repsol HS test@130.89.256.256 :0 test
+#jas r_a_g_a HS raga@Linknet-cd80a89041.netrunner.nu :0 Raga Zemule
+#jas _Beaver HS beaver@Linknet-1598f0ac2e.syphil.is-from.cz :0 _Beaver
+#jas Buxton HS buxton@Linknet-883c832577.owns-you.org :0 buxton
+#jas ArneSune HS@ sslapa@Linknet-f9eb3fc6d8.gavlegardarna.gavle.to :0 nobody
+#jas enox HS enox@Linknet-b75c6fa29f.WideOpenBSD.ORG :0 I beat old women for pills
+#jas Arne HS@ ~nobody@Linknet-10b022888c.aname.net :0 nobody
+#jas molok- HS pngvin@Linknet-a36b8bfb94.hgo.se :0 pngvin
+#jas WrzCrawlR HS eh@Linknet-d66b9c7ead.g.bonet.se :0 eh
+#jas _banzai HS anders@Linknet-dc3bd8e908.fiber-is.net :0 URK
+#jas Erich HS erich@Linknet-f7e3fb3d0b.bredband.comhem.se :0 erich
+#jas |^a^| HS a@Linknet-f784a99a71.amnmp3.com :0 a
+#jas Vandelay HS Vandelay@Linknet-0b0c498ffd.HOSAKA.NET :0 Art Vandelay
+#jas Skoll HS frost@Linknet-ad42ccc5f5.farted.us :0 Skoll
+#jas DaFoX HS DaFoX@81.8.256.256 :0 RavenLord
+#jas Elvis666 HS elvis@Linknet-6cd7750fe5.gavlegardarna.gavle.to :0 elvis666
+#jas Boiidan HS Pyshan@Linknet-9dd7e594e6.bredband.skanova.com :0 APnapa
+#jas JAS HS@ jas@Linknet-23ee8206ec.gavlegardarna.gavle.to :0 jas
+#jas zklw HS ~zaka@h72n4c1o253.bredband.skanova.com :0 Zakalwe
+#jas adhd| HS ~nonon@213.204.256.256 :0 nonon
+#jas _devm- HS bla@Linknet-8727de772c.campus.luth.se :0 wtf
+#jas Polisen HS@ polisen@Linknet-d0d1a70e44.cable.soderhamn-net.com :0 nobody
+#jas Mackan HS jedi@Linknet-753a519b7e.cust.bredbandsbolaget.se :0 jedi
+#jas Old_Dirty HS@ user@Linknet-6ca866cdd0.yall.betta.org :0 user
+#jas a80 HS@ snapper@Linknet-630119b1b3.vara.olydiga.net :0 f33r m3
+#jas K____ HS ingen@Linknet-b90462c7a7.trandansen.se :0 Saku39
+#jas W-- HS kriggi@Linknet-e732a4c42e.from.dt-posse.com :0 weed0x
+#jas shoj HS johs@Linknet-11fa303954.lamerz.net :0 johs
+#jas s^LOGiC HS@ ~logic@Linknet-9b32e64524.on.penguin.st :0 nobody
+#jas mrIdle HS kemik@Linknet-922a16d781.from.mutantgringos.com :0 kemik
+#jas _treV HS Trev@207.44.256.256 :0 Trev
+#jas _RWoods81 HS ~ace@Linknet-a265e36ac4.slophog.org :0 mike hunt
+#jas End of /WHO list.
+[21:00:51] -JAS- list of bnc's for JAS
+[21:00:51] -JAS- jas1.ath.cx:3333 - UP
+[21:00:52] -JAS- jas2.ath.cx:3333 - UP
+Work Accounts :
+buxton:charlie
+kidman:270587

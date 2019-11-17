@@ -1,0 +1,248 @@
+Here it is the info you all been waiting for..
+this is copied straightly from the webpage
+of Antipiratbyran.com (those who did the bust at bahnhof few days ago)
+i didnt have time to translate it feel free to do that to but here it is
+in swedish....
+
+
+
+
+Hej och välkomna till AUHs nya hem i cyberrymden!
+
+Vi har flyttat in här efter de förra ägarna blev utstötta från internet
+likt en kropp som stöter bort döda och oönskade organ.
+Vi har liksom er undrat mycket om vad som egentligen hände hos Bahnhof
+och eftersom vi är, förutom unga, väldigt arga så känner vi oss uppmanade
+att dela denna informationen men så många som möjligt. Allt för att ni
+också ska kunna bli arga, och att era vänner ska bli arga och deras vänner
+och så vidare tills internets gator är fulla av en arg mob som skallar
+AUH! AUH! AUH! och kräver Ponténs blod!
+
+
+
+
+
+From: Garfield, Dean
+Sent: Friday, March 11, 2005 12:02 PM
+To: Ponten, Henrik
+Cc: Tilbury, Chad
+Subject: FW: EREC-05-007: Sweden: Authorities seize major pirate servers at Stockholm ISP
+
+Henrik, this is truly phenomenal. We are all very proud of you. I am
+sure you are a bit unpopular with the pirate community in Sweden right
+now. Great work.
+
+
+Vi börjar lite lätt med att låta nån Peter summera läget.
+
+From: peter@anti-piracy.se
+Sent: Thursday, March 10, 2005 9:29
+To: Tilbury, Chad; Seymour, Dan; Winter, Craig
+Subject: Swedish pirates busted!
+
+Hi guys!
+
+After 2 years of infiltrations our work finally paid of today with a
+successful raid on Sweden's oldest and largest ISP named Bahnhof.
+Bahnhof has been a source for top level piracy for several years and
+hosting some of the biggest and fastest servers in Europe.
+
+
+Hej där Peter!
+Det ska bli spännande att se vad det är för infiltration som ni sysslat med!
+
+Vi kommer snabbt fram till att Peter är ganska elak och att det är dax att
+infiltrera infiltratören. För övrigt så har vi infiltrerat er, era siter, eran
+mail och eran aktivitet sen vi snodde era lösenord genom SONG för 4 år sen.
+Det borde göra att vi har mer machopoäng än er, va? 
+
+Från: Anders Nilsson [mailto:anders.nilsson@antipiratbyran.com]
+Skickat: den 10 mars 2005 17:09
+Till: 'Peter Bergström'
+
+Peter, kan du skicka mig lite irc-loggar?
+
+
+Intressant! Peter mailar IRC-loggar till Antipiratbyrån.
+Skulle detta kunna betyda.. att Peter är skurken i dramat?
+Ja, vi letar vidare och ser vad vi hittar!
+
+Received: from pc003 ([80.217.208.156]) by amsfep13-int.chello.nl
+(InterMail vM.6.01.03.04 201-2131-111-106-20040729) with ESMTP
+id <20050310182216.IHDS11192.amsfep13-int.chello.nl@pc003>
+for <anders.nilsson@antipiratbyran.com>;
+Thu, 10 Mar 2005 19:22:16 +0100
+From: =?iso-8859-1?Q?Peter_Bergström <peter@anti-piracy.se>
+To: "'Anders Nilsson'" <anders.nilsson@antipiratbyran.com>
+Subject: SV:
+Date: Thu, 10 Mar 2005 19:22:11 +0100
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+
+Ska samma ställa lite loggar och dumpar, går dock inte att använda
+publikt.
+
+
+
+
+From: Mac Greevy, Dara
+Sent: Friday, March 11, 2005 10:08 AM
+To: Sunderland, Jane
+Cc: Malcolm, John; Garfield, Dean; Tilbury, Chad
+Subject: RE: EREC-05-007: Sweden: Authorities seize major pirate servers at Stockholm ISP
+
+Dear Jane
+
+"The Swede" was central to this operation. He even shared coffee at one
+stage with the operators of the servers at the ISP's premises
+(ironically located in the same building as the Swedish program)!
+
+
+
+Nämen.. Fy skäms Peter!
+Att maila hemifrån när man är undercover är precis det man ska göra för
+att bli avslöjad!
+
+156.208.217.80.in-addr.arpa domain name pointer c80-217-208-156.cm-upc.chello.se.
+
+Tjoho! En chelloadress i stockholm!
+Eftersom chello är en ISP och I står för Internet så vet AUH allt som händer på
+Chello. Efter lite databastrix har vi översatt ip-adressen till en fysisk adress
+och detta är mycket riktigt en man vid namn Peter Bergström. 
+
+Bergström, Peter Markus
+Gillerbacken 28 4tr
+124 64 Bandhagen
+
+Personnummer: 750915-9237
+
+Eftersom Peter är en ordentligt ful fisk, kriminell på många vis, fler än två,
+så vill vi bara påpeka att det inte är säkert att Peter faktiskt bor kvar på
+den här adressen. Han är nämligen rädd för fogden. Ironiskt va?
+
+Så, vad vill vi mer veta?
+Hans handle såklart!
+Vad kallar han sig på stora datanätet! Mycket spännande detta.
+
+Nu vet vi vad han heter och att han sitter på IRC.
+En fin feature med mIRC är att det har en inbyggd Ident server.
+Den kan man aktivera antingen bara när man ansluter eller så kan man ha
+den på alltid. Eftersom läckan förmodligen ansluter till siterna också
+så är det väldigt troligt att han har mIRCs identserver aktiverad hela
+tiden så att siterna han ansluter mot kan styrka hans identitet ännu mera.
+
+$ telnet 80.217.208.156 113
+1, 1
+1, 1 : USERID : UNIX : rouge
+
+Ojdå! Låter lite som ett warez-nick om du frågar mig!
+Vi behöver nu hitta nån med ident rouge på IRC...
+Eftersom vi befunnit oss på Internet ett tag så har vi givetvis bakdörrar
+inplanterade i IRC-servrar på flera olika nät.
+Det enda raka i en sån här situation är att använda dessa bakdörrarna för
+att hitta alla användare med ident "rouge".
+
+rougie [ rouge@has.no.credz.cos.his.a.leecher.nu ]
+ircname [ rouge ]
+server [ irc.banetele.no - No more fucking Rock'n'Roll ]
+
+DCC CHAT request sent to rougie
+DCC CHAT connection with rougie [80.217.208.156 port 58040] established
+DCC lost chat to rougie
+
+rouge.has.no.rightz.to.live.cos.he'z.a.narc.nu
+No more fucking Rock'n'Roll for you, baby!
+AUH iz in da houze! LOL! pwnd! ..
+
+
+Om du vill veta mer smaskigt om APB och deras intriger så håll ögonen öppna
+efter nummer två av det högklassiga magazinet "The Conspiracy" som kommer 
+att släppas senare i vår!
+Som en teaser ger vi er dessa smaskiga bitar!
+
+--- Missa inte!
+
+APB, Microsoft m.fl ska starta tvprogram!
+
+Från: Maria Tjärnlund [mailto:maria.tjarnlund@mdts.se]
+Skickat: den 9 mars 2005 11:00
+Till: henrik.ponten@antipiratbyran.com; estrunke@ea.com; hoscarsson@activision.co.uk;
+jens.alex@nordiskfilm.com; john.hall@vugames.se; klingborg@konami.com;
+MLangley@microsoft.com; martin.sirc@atari.com; peter.levin@panvision.com;
+peter.weile@ubisoft.dk;
+Subject: PONG ELLER EJ??
+
+Hej Alla
+Maria här,
+
+Jag tycker att det är en programserie på 12 program som appellerar rakt in
+i målgruppen 16-30 och har en High Chapparall touch.
+Mitt problem är att jag tycker inte det skall vara nödvändigt att
+vi/ni skall rikta 4-5 miljoner i annonsmedel till kanal 5 för att detta
+skall bli av. Det är dags att kanalerna inser att denna bransch är
+tillräckligt lockande som den är.
+
+--- Missa inte heller att fler folk vill gola ner sina polare!
+
+Från: "info torg.se" <infotorg@gmail.com> Till: anders.nilsson@antipiratbyran.com
+
+Hej pratade med dig över telefon tidigare idag.
+
+DMZat som servrarna hostas på har +2Gbit backbone
+ett stort antal hushåll ligger på DMZ och
+har obegränsad Mbyte/gräns 100mbit (begränsad 10mbit mot internet)
+En DC hubb samt enligt en av ägarna
+själva så ligger även en "Topsite" på deras servrar
+även en stor FTP server (har sett konto listan på FTP servern & den ar
+kring +1000andvändare) Flera TB trafik passerar därigenom
+dagligen enligt uppgift.
+
+vet ej namnet på ISP.
+
+Jag är däremot en fattig man
+och med tanke på trafiken som
+genereras dära så tänker jag inte
+ge mera uppgifter innan jag med säkerhet
+vet att någon ersättning kan landa hos mig.
+
+IP andressen mejlet kommer från
+kan INTE heller spåras tillbaka direkt till mig.
+(öppet wlan + annan anslutning).
+enda sättet att kontakta mig är via
+denna mejladress som registrerats
+via samma wlan + publicerade "gmail invites"
+
+Tänker inte heller acceptera några "skam bud" som ersättning
+tänk även på att detta är något ni aldrig skulle få tag på
+utan någon som mig, samt att känner jag att det blir för svettigt
+att någon skulle ha någon aning om vem jag är så
+kommer allt jag vet samt all information jag har om detta raderas..
+
+Vill inte se någon som helst information
+som kan hänleda till min information publicerat
+eller ens höra något om något gällade denna epost adress.
+
+Måste bara försäkra mig om att detta inte kan slå tillbaka på mig.
+
+Kolla upp vad du behöver kolla sedan mejla
+kommer kolla mejlen då jag har wlan tillgängligt
+Mvh "Infotorg.se"
+
+Hej Infotorg.
+Vi måste tyvärr meddela att APB misslyckades med att inte publicera
+något om dig eller din epostadress. 
+AUH kommer fortsätta att publicera namnuppgifter på ALLA som blir
+inblandade i sånt här. Om APB erbjuder dig lätta pengar för att gola
+ner lite polare så har vi en sak du ska tänka på, AUH vet.
+Och vi kommer se till att alla vet. Dina vänner, din familj. Alla.
+
+PS. Alla ni på "scenen"! Fast vi kanske hackar era siter ibland så är det
+bara för att slanga lite 0-day, vi gillar er egentligen och hoppas ni inte
+låter APB skrämma er att sluta. 
+Upp med pekfingret och fortsätt wareza!
+
+
+
+
+
+Arga Unga Hackare // 2k5 // revenge is sweet
+

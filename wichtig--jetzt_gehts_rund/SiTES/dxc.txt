@@ -1,0 +1,177 @@
+(23:02:14)     —› (/who) ef~e_H_m (~ehhmm@81.208.123.198) Slick haired Luigi.
+(23:02:14)     —› (/who) ef~SiVE (xentic@vindt.aapjes.liev.nl) SiVe
+(23:02:14)     —› (/who) ef~_snap (sentenza@lets-make-a.b00m.biz) Sentenza
+(23:02:14)     —› (/who) ef~Doopy-X- (xentic@vindt.aapjes.liev.nl) Doop
+(23:02:14)     —› (/who) ef~_Atilla (binladen@80.247.212.3) Atilla
+(23:02:14)     —› (/who) ef~Skyforce (mewtow@the.computerpretender.com) Skyforce
+(23:02:14)     —› (/who) ef~rukkert (dope@bin.laden.sux.be) energie
+(23:02:14)     —› (/who) ef~__hg (haag@connection.reset.by.irc2.net) __[hg]_
+(23:02:14)     —› (/who) ef~_BomB (Bomb@a83-132-184-7.netcabo.pt) cr0atia p0w3r
+(23:02:14)     —› (/who) ef~Vertical (kevin@ip3e83854b.speed.planet.nl) kevin
+(23:02:14)     —› (/who) ef~_|cfour (bnc@is.fucking.yourdumbdaughter.com) c00ler
+(23:02:14)     —› (/who) ef~[-Ghost-] (ghost@damn-you.n00b.usegoogle.info) Ghost
+(23:02:14)     —› (/who) ef~[Bugsy] (1007@c0redump.its-s.tudelft.nl) bugsy
+(23:02:15)     —› (/who) ef~mg (nlf@is.een.devslet.nl) mg
+(23:02:15)     —› (/who) ef~piglo (piglo@hoev215.athome236.wau.nl) piglo
+(23:02:15)     —› (/who) ef~sn34k (sn34k@i.am.f.ucked.co.uk) sn34k
+(23:02:15)     —› (/who) ef~_--____ (hollowmang@try.to.race.me.n00b.hotshells.de) _--_
+(23:02:15)     —› (/who) ef~task_ (gvt02@gathering.vpk.bme.hu) devil
+(23:02:15)     —› (/who) ef~pwise (xentic@dns.polution.servicez.org) pwise
+(23:02:15)     —› (/who) ef~Waffen (primigenia@you-are.akilled.info) Waffen
+(23:02:15)     —› (/who) ef~spiv (spiv@ghybel215.grm.hia.no) spiv
+(23:02:15)     —› (/who) ef~Repsol (test@zappelin.student.utwente.nl) test
+(23:02:15)     —› (/who) ef~DaMonkey (damonkey@62.212.84.81) DaMonkey
+(23:02:15)     —› (/who) ef~|ViNCeNT| (sharkbait@193.19.79.11) sharkbait
+(23:02:15)     —› (/who) ef~OpA (dope@zn.cpu.isheet.be) OpA
+(23:02:15)     —› (/who) ef~m1naret (~technolog@d.is.tance.nl) Johnny Blaze
+(23:02:15)     —› (/who) ef~bustah (buster-@sperminator.nl) bustah
+(23:02:15)     —› (/who) ef~Kam0s (kam0s@l337.nl) Kam0s
+(23:02:15)     —› (/who) ef~Sp1derAFK (pushkin@80.247.212.3) Sp1derb1t
+(23:02:15)     —› (/who) ef~legranda (wrath@is.een.devslet.nl) legranda
+(23:02:15)     —› (/who) ef~sloeri (wrath@l337.nl) luuft
+(23:02:15)     —› (/who) ef~XENTiC (xentic@sperminator.nl) XENTiC
+(23:02:15)     —› (/who) ef~_Poesje (nbg@your.sister.got.hustled.by.a.playah.org) stfu
+(23:02:15)     —› (/who) ef~Ophinos (wooolf@damnit.info) Ophinos
+(23:02:15)     —› (/who) ef~D3mon (BlaBla@orhan.demon.nl) Polaris One
+(23:02:15)     —› (/who) ef~Roman (ask@ik.weet.al.jouw.persoonlijke.info) Roman
+(23:02:15)     —› (/who) ef~csc^1 (fargo@buero5a.jkh.uni-linz.ac.at) csc
+(23:02:15)     —› (/who) ef~_eXtreme_ (tma@83.97.97.14) extreme13
+(23:02:15)     —› (/who) ef~Caoimhin (pushkin@shell3.skyberate.net) Watje
+(23:02:15)     —› (/who) ef~_punisher (punisher@r0x0rs.info) punisher
+(23:02:15)     —› (/who) ef~_____4 (q413@62.113.132.220) q413
+(23:02:15)     —› (/who) ef~z0nk0r (youradress@godhate.us) z0nk0r
+(23:02:15)     —› (/who) ef~ViN (diesel@129pc219.sshunet.nl) VIN
+(23:02:15)     —› (/who) ef~[-rKr-] (web21@217.172.187.142) RKR
+(23:02:15)     —› (/who) ef~nitr0` (rootbox@elite.scene-whore.co.uk) nitr0`
+(23:02:15)     —› (/who) ef~_Cirdan (Gandalf@spr1-with1-5-0-cust9.bagu.dial-up.nl) Gandalf
+(23:02:15)     —› (/who) ef~AssGuard (asgard@213.204.192.87) Asgard
+(23:02:15)     —› (/who) ef~Van10n (qX@195.207.150.44) fnz
+(23:02:15)     —› (/who) ef~|henry_ (gvt02@gathering.vpk.bme.hu) henry
+(23:02:15)     —› (/who) ef~FAiLSAFE (~RiZ@automated.d.is.tance.nl) distance
+(23:02:15)     —› (/who) ef~Knijn_ (robbin@day.dreaming.org) knijn
+(23:02:15)     —› (/who) ef~piero (Pyro@day.dreaming.org) Pyro
+(23:02:15)     —› (/who) ef~Flipmoo (~flipmo@enrage.demon.nl) flipmo
+(23:02:15)     —› (/who) ef~teadaze (teadaze@1dolla.com) teadaze
+(23:02:15)     —› (/who) ef~warre (kn1prm@mayonaise.met.friet.net) assaulter
+(23:02:15)     —› (/who) ef~sPENKMAN (~spenkman@ip3e830990.speed.planet.nl) sPENKMAN
+(23:02:15)     —› (/who) ef~Heraz (~heraz@wannabee.trader.at.d.is.tance.nl) heraz
+(23:02:15)     —› (/who) ef~ScAL (dvt@arguing.over.irc.just.gets.you.humiliated.org) Scallywag
+(23:02:15)     —› (/who) ef~]Mike[ (mike@smith.rootbox.co.uk) mike
+(23:02:15)     —› (/who) ef~pav0 (pavo@2001:1af8:2:3:20e:a6ff:fe01:d509) pavo
+(23:02:15)     —› (/who) ef~[Amon] (~Amon@213.193.228.85) Amon
+(23:02:15)     —› (/who) ef~[DXC] (1008@c0redump.its-s.tudelft.nl) dxc
+(23:02:15)     —› (/who) ef~Kehpri (~Kehpri@skyberate.net) Kehpri
+(23:02:15)     —› (/who) ef~MrBorG (sairus@living-at.b0llywood.info) borg
+(23:02:15)     —› (/who) ef~Blet (~inov@inov.is.a.leet.trad0r.of.d.is.tance.nl) inov
+(23:02:15)     —› (/who) ef~hAMPy_ (1007@c0redump.its-s.tudelft.nl) hampy
+(23:02:16)     —› (/who) ef~hAMPy (pietporno@baltar.lan.ipv6.endoria.net) hAMPy
+(23:02:16)     —› (/who) ef~pinda (~pinda@217.67.231.248) pinda
+(23:02:16)     —› (/who) ef~SyCoZ (theepot@baltar.lan.ipv6.endoria.net) SyCoZ
+(23:02:16)     —› (/who) ef~[-h_] (jonny71@schoolgirls.love.surprisesex.us) [-h_]
+(23:02:16)     —› (/who) ef~satchmo (satchmo@127x0x0x1.localhost.at) satchmo
+(23:02:16)     —› (/who) ef~Y| (~sletje@cheap.freelesbianporn.nl) sletje
+(23:02:16)     —› (/who) ef~Dudemans (~dudemans@fia184-67.dsl.hccnet.nl) Dude
+(23:02:16)     —› (/who) ef~Zan (bounce@81.171.97.40) Zan
+(23:02:16)     —› (/who) ef~hele (barbar@usaregs.com) pepper
+(23:02:16)     —› (/who) ef~avalon (x3n@houdt.van.beertj.us) x3n
+(23:02:16)     —› end of (/who) list for (#ef~#-thecenter-)
+@dxc1.ath.cx:34244
+
+bustah:doggystyle
+hAMPy:joopie
+
+[1] 200- [01] hAMPy        .iNd.                    7,687  175,877MB    585K/s
+[1] 200- [02] duuplo       bonken bonkenn           6,010  167,258MB    361K/s
+[1] 200- [03] scal         No Tagline Set           3,933  130,590MB   4436K/s
+[1] 200- [04] neno         No Tagline Set           3,347   98,088MB    370K/s
+[1] 200- [05] hudson_h     No Tagline Set           2,697   75,275MB   2111K/s
+[1] 200- [06] YRZ          No Tagline Set           2,360   74,906MB    324K/s
+[1] 200- [07] sPENKMAN     No Tagline Set           4,144   65,469MB    250K/s
+[1] 200- [08] Bomb         >> FREQuency <<          2,211   62,911MB   1662K/s
+[1] 200- [09] Dude         No Tagline Set           2,318   60,709MB    766K/s
+[1] 200- [10] HaaG         GRAViTY                  2,228   48,880MB   1311K/s
+[1] 200- [11] ViNCeNT      GRAViTY WHORE            1,840   48,327MB   1764K/s
+[1] 200- [12] Pyro         pimped                   1,737   48,084MB   2070K/s
+[1] 200- [13] fnz          No Tagline Set           1,994   46,784MB   1906K/s
+[1] 200- [14] RKR          No Tagline Set           1,373   39,846MB   1423K/s
+[1] 200- [15] Kamos        Hum Hai Laajawab         1,458   36,470MB   1631K/s
+[1] 200- [16] DaMonkey     No Tagline Set             935   34,805MB    356K/s
+[1] 200- [17] luna         No Tagline Set             848   34,357MB    652K/s
+[1] 200- [18] punisher     mister.mkdir             1,652   34,273MB   1953K/s
+[1] 200- [19] pav0         lets.pimp                1,362   34,189MB   2312K/s
+[1] 200- [20] XENTiC       please nog 1 druppeltj   1,155   31,347MB   1252K/s
+[1] 200- [21] konijntje    No Tagline Set           1,265   28,314MB   1614K/s
+[1] 200- [22] FdaF         Quirex                   1,106   27,899MB    879K/s
+[1] 200- [23] Sentenza     No Tagline Set           1,165   27,576MB   1396K/s
+[1] 200- [24] Atilla       No Tagline Set           1,225   27,500MB   1234K/s
+[1] 200- [25] Sp1derb1te   No Tagline Set             855   24,597MB   1244K/s
+[1] 200- [26] Roman        The Roman Way            1,097   24,018MB    870K/s
+[1] 200- [27] warre        go                       1,024   23,313MB    214K/s
+[1] 200- [28] wookie       No Tagline Set             984   22,824MB   1734K/s
+[1] 200- [29] Kehpri       PhArAcYdE                  810   22,190MB   1254K/s
+[1] 200- [30] coltaine     No Tagline Set             678   20,733MB   1988K/s
+[1] 200- [31] arie         No Tagline Set             722   18,849MB     96K/s
+[1] 200- [32] hele         No Tagline Set             532   17,376MB    567K/s
+[1] 200- [33] technolog    No Tagline Set             503   15,841MB   1148K/s
+[1] 200- [34] BKilla       >> FREQuency <<            912   15,111MB   1414K/s
+[1] 200- [35] sn34k        No Tagline Set             709   15,052MB    538K/s
+[1] 200- [36] piglo        DST                        507   14,818MB   1155K/s
+[1] 200- [37] Smuk         Mmmmm Lekker beffen        571   14,554MB   1295K/s
+[1] 200- [38] Ghost        No Tagline Set             518   14,037MB   1671K/s
+[1] 200- [39] demon        No Tagline Set           1,094   13,898MB    628K/s
+[1] 200- [40] SiVE         My finger is on the bu     618   12,713MB   1365K/s
+[1] 200- [41] Hillebrand   No Tagline Set             588   12,277MB   9923K/s
+[1] 200- [42] Skyforce     Guess Whoos Back           431   11,776MB   1198K/s
+[1] 200- [43] Mike         No Tagline Set             634   11,669MB   1346K/s
+[1] 200- [44] legranda     No Tagline Set             306   11,441MB   1387K/s
+[1] 200- [45] Asgard       ugh                        436   11,094MB   2172K/s
+[1] 200- [46] ARE-T        No Tagline Set             449   10,615MB   1878K/s
+[1] 200- [47] Doopy        i am gay                   479   10,417MB   1077K/s
+[1] 200- [48] vin          No Tagline Set             381   10,113MB   3511K/s
+[1] 200- [49] eross        No Tagline Set             415    9,103MB    159K/s
+[1] 200- [50] ckin         u sir are ghey             708    8,435MB   1225K/s
+[1] 200- [51] q413         No Tagline Set             200    7,727MB   3381K/s
+[1] 200- [52] pwise        No Tagline Set             442    7,471MB   1866K/s
+[1] 200- [53] zonk         delivery101                282    7,464MB   1711K/s
+[1] 200- [54] Trilogy      No Tagline Set             290    6,923MB   1872K/s
+[1] 200- [55] c00ler       --> H/,RE//, <--           329    6,805MB   1449K/s
+[1] 200- [56] flipmo       No Tagline Set             200    6,752MB   1595K/s
+[1] 200- [57] leonardo     kijkt en huivert..         152    6,585MB   1610K/s
+[1] 200- [58] ehHmm        Slick haired Luigi.        310    6,483MB   1711K/s
+[1] 200- [59] mozofok      No Tagline Set             276    6,390MB   1819K/s
+[1] 200- [60] p4u1         No Tagline Set             204    6,382MB   1511K/s
+[1] 200- [61] Uzumaki      On holiday till 8 May      241    6,010MB   1417K/s
+[1] 200- [62] satchmo      No Tagline Set             194    5,957MB   2189K/s
+[1] 200- [63] ub3r         blah                       196    5,033MB   3330K/s
+[1] 200- [64] piet         No Tagline Set              97    4,374MB   9142K/s
+[1] 200- [65] dying        rarely aviable cuzof s     197    4,332MB   2258K/s
+[1] 200- [66] spiv         No Tagline Set             181    3,897MB     38K/s
+[1] 200- [67] Waffen       No Tagline Set             303    3,574MB    986K/s
+[1] 200- [68] Cybergod     -=-.:Spades 2005:.-=-      265    3,384MB   1757K/s
+[1] 200- [69] lamborgin    No Tagline Set              96    3,279MB   3338K/s
+[1] 200- [70] Heraz        No Tagline Set              86    3,168MB   1742K/s
+[1] 200- [71] pinhead      No Tagline Set             106    2,829MB   1546K/s
+[1] 200- [72] jigga        No Tagline Set             123    2,796MB   1514K/s
+[1] 200- [73] cemi         No Tagline Set             159    2,777MB   1937K/s
+[1] 200- [74] GMith        No Tagline Set             122    2,604MB   2662K/s
+[1] 200- [75] extreme13    No Tagline Set             109    2,592MB   1998K/s
+[1] 200- [76] xavier       No Tagline Set             197    2,579MB    377K/s
+[1] 200- [77] Zanix        ..:: GwT ::..              133    2,356MB   1359K/s
+[1] 200- [78] KAT          -->||+\002\00312OverRi      98    2,314MB   3011K/s
+[1] 200- [79] nitro        No Tagline Set             145    2,164MB   4432K/s
+[1] 200- [80] Poesje       No Tagline Set             168    2,050MB    419K/s
+[1] 200- [81] inovation    No Tagline Set             134    1,823MB    501K/s
+[1] 200- [82] Flash-X      No Tagline Set              85    1,107MB    739K/s
+[1] 200- [83] HellFire     No Tagline Set             101      986MB    684K/s
+[1] 200- [84] Silverstone  No Tagline Set             106      824MB   7094K/s
+[1] 200- [85] Bugsy        No Tagline Set              53      806MB   1800K/s
+[1] 200- [86] prisoner     No Tagline Set              47      793MB   1580K/s
+[1] 200- [87] VegitoSSJ    No Tagline Set              69      476MB    402K/s
+[1] 200- [88] devil        No Tagline Set              13      371MB   1814K/s
+[1] 200- [89] henry        No Tagline Set              14      257MB   2197K/s
+[1] 200- [90] 50cent       No Tagline Set              25      252MB   9593K/s
+[1] 200- [91] jeper        No Tagline Set              11      223MB   3052K/s
+[1] 200- [92] slymer       No Tagline Set               9      171MB   7031K/s
+[1] 200- [93] FAiLSAFE     No Tagline Set               8       95MB   1343K/s
+[1] 200- [94] Dreaddie     No Tagline Set               3        0MB      7K/s
+[R] 200 Command Successful.

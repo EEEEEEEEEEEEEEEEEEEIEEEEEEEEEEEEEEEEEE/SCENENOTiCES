@@ -1,0 +1,233 @@
+Today on t** .kr there was a security issue that resulted in someone gaining access to accounts password files and other system info including user files for the sitebot and other files and also stealing some scripts and other files off the site.
+
+This user goes by the irc name meh and races either under the same name meh or orc he is also a surposed member of the release group STD.
+
+He was quickly removed from this site and everything was taken as a precauctionary measure.
+
+
+If any site has STD or a user meh or orc on their site it is advised to remove them at once.
+
+This is the userinfo he uses on irc atm 
+
+Whois info for: meh
+Address: orc@dupecheck.org
+IRC Name: aa
+
+
+Following are logs from the site from a .bash_history of one of the boxes in question that he breeched
+
+root@xxxxxx:/root# more EVIDENCE
+passwd
+ls
+ls -la
+pwd
+cat /etc/passwd
+cd /home
+ls
+cd xxxxxx/
+ls
+cd /glftpd/
+ls
+ls -la
+cd etc
+ls -la
+cd ..
+cat affils.conf
+locate bnc
+pico /glftpd/ftp-data/misc/bnclist.msg
+ls -la
+cd /glftpd/ftp-data/
+ls
+locate eggdrop
+locate eggdrop
+pico /home/*******/eggdrop/xxxxxx.conf
+cat /bin/bnc.sh
+locate bnc.sh
+pico /glftpd/bin/bnc.sh
+pico /glftpd/bin/okdmtools.conf
+locate bnc.sh
+pico /root/glftpd/bin/bnc.sh
+pico /glftpd/ftp-data/logs/bnc.log
+w
+pico /glftpd/ftp-data/logs/bnc.log
+cat /glftpd/ftp-data/logs/bnc.log
+cd /glftpd/ftp-data/
+ls
+cd text
+ls
+cd ..
+cd users
+ls
+w
+locate glftpd
+cd /glftpd/
+ls
+ls
+cd site
+ls
+cd private/
+ls
+ls -la
+cd Prelogs/
+ls
+cat GUEST.nfo
+ls -la
+cat prelist.nfo | grep STD
+pico GUEST.nfo
+cd ..
+ls -la
+cd ../ft
+ls
+cd ..
+ls
+cd ../ftp-data/
+cd users/
+ls
+cat t
+cat texas
+cat texas
+sudo -s
+su *******
+locate eggdrop
+locate eggdrop | more
+locate eggdrop | grep conf
+cat /home/*******/eggdrop/scripts/psxc-imdb-conf.tcl
+/root/eggdrop/xxxxxx.conf | grep "#"
+cat /home/*******/eggdrop/scripts/psxc-imdb-conf.tcl
+cat /root/eggdrop/xxxxxx.conf | grep "#"
+cat /root/eggdrop/xxxxxx.conf | grep "#*******"
+cat /root/eggdrop/xxxxxx.conf | grep "+"
+locate eggdrop | grep conf
+ps aux
+ps aux | grep egg
+locate T**.conf
+locate T**
+find --help
+find / T**.conf
+find --help
+locate T**.conf
+cd /home/*******/
+ls
+ls
+cd eggdrop/
+ls
+pico T**.conf
+pico T**.chan
+cat T**.chan
+sudo -s
+cat T**.chan
+pico cat T**.chan
+pico T**.chan
+ps x | grep egg
+ps aux | grep egg
+kill -HUP 26793
+su *******
+ls
+pico T**.user
+su *******
+w
+ls -la
+telnet
+ps aux | grep egg
+kill -1 19883
+cd /home/*******/
+cd /home/*******/
+ls
+cd eggdrop/
+ls
+cat T**.chan
+kill -9 19883
+su *******
+locate SSL
+cd scripts/
+ls
+ls -la
+pico BotNuker.tcl
+ls -la
+pico okdmtool.tcl
+ls
+pico invite.tcl
+cd ..
+ls
+pico T**.user
+ls
+pico T**.conf
+ocate glftpd.conf
+cat /etc/glftpd.conf | grep ***
+cat /root/glftpd.conf | grep ***
+ls /site/MP3/_PRE/***
+cd /site
+cd /
+ls
+ls -la
+locate GROUPS
+cd /glftpd/
+cd site
+cd GROUPS/
+ls
+cd ..
+ls
+cd MP3
+cd _PRE
+ls
+ls -la
+mkdir ***
+sudo -s
+telnet 218.54.***.***
+ps x |grep egg
+kill -HUP 5274
+ls -la
+w
+who
+locate sudo
+cat /etc/init.d/sudo
+cat /usr/share/lintian/overrides/sudo
+cat /var/lib/dpkg/info/sudo.list
+locate eggdrop
+cd /home/T**/eggdrop/
+ls
+pico T**.user
+ls -la
+ls | grep chan
+cat xxxxxx.chan
+ps aux | grep egg
+cat T**.conf | Grep chan
+cat T**.conf | grep chan
+pico T**.chan
+cat /etc/passwd
+cd /home/xxxxxx
+ls
+ls
+ls -la
+cat .bash_history
+pico .bash_history
+ls -la
+cd pftpfxp-mew/
+ls
+cd ..
+cat .bash_history
+w
+who
+cat /etc/passwd
+locate orc
+cd /glftpd
+ls
+cd ftp-data
+ls
+cd users
+pico orc
+ls -la
+cat xxxxxx
+cat orc
+cd /home/xxxxxx/
+s
+pico T**.chan
+cp T**.chan T**.chan~bak
+ps aux | grep egg
+kill -HUP 5274
+sudo -s
+who
+ssh 200.27.***.***
+
+
+

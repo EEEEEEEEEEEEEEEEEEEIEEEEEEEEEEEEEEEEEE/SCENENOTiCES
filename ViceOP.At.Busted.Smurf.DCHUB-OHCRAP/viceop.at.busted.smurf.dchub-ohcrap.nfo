@@ -1,0 +1,36 @@
+X_x
+
+
+I dont think many people have missed the stuff about smurf this evenening.
+And im here to bring you some updates. I started to look at the nicks, and i found
+the nick pingy in the db. That was interesting, cause i've seen it somewhere else.
+Whatever, i whoised him on linknet.
+ping-y is "wtf?" (teh@LinkNet-ce82b5c7c5.cust.bredbandsbolaget.se)
+Right there i saw the first common thing.
+The ident the was also used for description in dc-hub (Description: TEH)
+
+User: [#ViceOP]pingy
+ID: 1609
+Description: TEH
+Host: c100.a112.gbg.bahnhof.net
+Firewall: n
+Client: DC++0.674
+Hubs: 1
+Slots: 1
+Sharing: 1544.78 GB
+Online at the time of export: y
+Last Connected: 2005-12-2 23:36:10
+
+Then i checked his hosted and resolved the ip " 213.80.112.100 ".
+And i couldnt match that with nothing, but after a while i got
+luck. I did swho on a site, and that's when things started to
+happen, i got the ip 213.80.112.207. Still not the same ip aight?
+But if you do a little ip-check on ripe you can easily see
+that both of the ip's belong to "Brf Lottingelund".
+Do you really think there are 2 people that are nicking 
+pingy on "Brf Lottingelund" and use teh as description.
+I dont think so really. Well that's about it, and i hope stuff 
+like this wont happen.The whole thing is a mess, and i think this 
+information needs to get out.
+
+Over And Out.

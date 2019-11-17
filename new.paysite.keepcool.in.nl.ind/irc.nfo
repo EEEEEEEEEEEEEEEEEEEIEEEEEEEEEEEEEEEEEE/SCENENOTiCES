@@ -1,0 +1,28 @@
+Hallo Leute,
+
+nach langer Arbeit haben wir uns nen IRC Server installiert auf dem alle die Lust haben Joinen können.
+
+Dort ist es definiv verboten eigene Channels zu erstellen. Sollten diese mal gefunden werden dann werden 
+die auch direkt wieder gelöscht.
+
+IRC-Server Daten:
+
+IP: 217.20.127.215
+Port: 6667
+SSL-Port: 7000
+
+
+in die Channels kommt ihr aus Sicherheitsgründen nur per Server command rein.
+
+
+Startet einen RAW command und gebt dann "site invite nickname" ein.
+
+der nickname wird logischerweise durch den namen ersetzt den ihr auf dem IRC benutzt und die " werden weg gelassen.
+
+wenn Ihr in eurem Mirc die Option Auto Join on Invite einschaltet werdet ihr sofort in die passenden Channels verfrachtet.
+Solltet ihr das nicht eingeschaltet haben bekommt ihr in dem IRC Status Fenster angezeigt in welche Channels ihr invited wurdet
+und muesst diese per Hand mit /join #channel joinen (channelname steht in dem status fenster).
+
+MfG
+
+Suzuki

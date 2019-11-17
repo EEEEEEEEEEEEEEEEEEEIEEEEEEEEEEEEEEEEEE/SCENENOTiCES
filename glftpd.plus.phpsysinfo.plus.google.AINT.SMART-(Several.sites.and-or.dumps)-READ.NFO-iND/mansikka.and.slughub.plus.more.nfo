@@ -1,0 +1,33 @@
+Greetings, fellow sceners!
+
+
+In light of some scene-notices, I began fiddling with some google queries to see how easy it would be
+to find a site who's owner/techs didnt care much about security.. it took me less then 1min (!)
+
+If you're on a site called mansikka(/paljon) (.fi ISP) with a hub-site called slughub (.se ISP) SLAP
+the site owner/tech SILLY and tell him how STUPID he/she is for leaving a phpsysinfo out in the open
+for google's robot to find.
+Even eth0 traffic graphs are available, and if you compare popular pre's to the timeline Im sure that
+it'll tell you something about this sites sections. Didnt bother to look more into it, felt like
+sleeping tight tonight, not having nightmares about stupid ppls stupdid sites :\
+
+LEAVE this site if you care about your own but also the safety of your fellow sceners.
+
+
+The website I found; http://mansikka2.no-ip.com/phpSysInfo-2.1/index.php was found among other sites, 
+but most of the hits look like private dumps or non-scene sites - Never the less, check them all out
+and go around the same slapping procedure if you spot a known site!
+
+To get to see other glftpd's out there with the same simple method, try searching for the following
+phrase: "/glftpd/site/"+"System Information"+"System Vital"
+
+
+ps to the owner of the web site(s); Dont bother checking you apache's access.log in an attempt to
+backtrace this - you'll only find proxy IPs that cant legally or easily be traced back :)
+
+
+Peace out!
+
+-Concerned iND'r
+
+                                     ...this rls passed the security gates of [RL]

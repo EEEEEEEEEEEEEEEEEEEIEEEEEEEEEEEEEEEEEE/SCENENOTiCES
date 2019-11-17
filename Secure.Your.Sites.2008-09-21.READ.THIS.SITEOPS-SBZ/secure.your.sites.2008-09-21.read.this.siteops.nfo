@@ -1,0 +1,39 @@
+@BEGIN_FILE_ID.DIZ-----------------------------------------------------------
+               Secure Your Sites 2008-09-21
+              sitescripts for those who care
+[01/01]-------------------------------------------[01x01mb]
+@END_FILE_ID.DIZ
+
+more and more unsecure traders/siteops/users flooding our beloved scene
+
+its up to the real-siteops to get the scene more secure by:
+ - banning freaky traffic 
+ - controlling the users AND traders
+
+If you dont know, WHAT to ban, our little "scanjet" might be something for you.
+its a graphical shell-friendly frontend (using dialog (curses)) to analyze
+your sysop.log
+
+Easy check, where your current onliners transfer files to and from. 
+Scanjet displays: upload/download - remote IP - remote ISP country - remote ISP
+You can scan the other site for open ports, torrents ports or whatever.
+Its also possible to make a traceroute. More details are described 
+within scanjet. (perhaps doesnt run under all *nix systems, but should
+do under suse/debian....) 
+
+PLEASE REMEMBER! YOUR server-IP is also logged on the other sites, where
+your users transfer from or to! Might be a good idea **not** to have your IP
+in logs of rented servers or russian mp3 selling platforms. *wink*
+
+-> scanjet3.2.sh = 	original version
+-> scanjet3.3.sh = 	3rd party modified version (using glftpds stats binary instead sitewho)
+
+-> rangecheck1.sh = 	will analyze your sysop.log to check if there are transfer to or from
+		    	known unsecure site locations - this script will show you the reality 
+
+got some ideas? drop us a line: byterz@hush.com
+
+History: 
+2008-09-21 Secure.Your.Sites.2008-09-21-READ.THIS.SITEOPS-SBZ
+2008-02-02 Secure.Your.Sites.2008-02-02.READ.THIS.SITEOPS-iND
+2006-04-17 Secure.Your.Sites.READ.THIS.SITEOPS-iND

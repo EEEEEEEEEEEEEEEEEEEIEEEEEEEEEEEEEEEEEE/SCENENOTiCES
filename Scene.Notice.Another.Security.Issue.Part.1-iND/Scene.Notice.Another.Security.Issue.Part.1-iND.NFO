@@ -1,0 +1,36 @@
+---SCENE NOTICE---
+
+Any timestamps are EST.
+
+On 10-28-04 ****.us had a security breach when 2 users SmOt-PoKeR _SmOt-PoKe!x@d66-183-241-255.bchsia.telus.net/@66.183.241.255
+and JDogg x@stolen.panties.are.mine-now.us/@68.185.235.20 completely sabotaged and wiped a site upon which they were siteops.
+
+[28/05:37] <******> 15INVITE: _SmOt-PoKe!x@d66-183-241-255.bchsia.telus.net failed to invite himself as smot<- Added 
+this so you can see that he was a user at one point and that the info we give about him is true.
+
+The site in question experienced a full site wipe and almost lost the entire userdb. Luckily the site was shut down before
+total damage was done. ie. full userdb loss.  
+
+There are logs that prove they smot repeatedly added NEW users and gave them numerous logins with 0 ratio without consulting
+anyone.
+
+Also other examples show  him "giving free" credits to other people as hgh as 90GB. 
+
+They also make other backdoor accounts with siteop as sec grp.
+
+There are logs of JDogg and smot who created backdoor accounts,backdoors appearing to be affil users, 
+and system accounts "drftp" instead of "drftpd" There was a pre user that had siteop as secondary grp and *@* ip.
+
+They used these accounts to go into the site and deleting/purging every user as well as 
+site wiping ALL the site. Anyone has these users are strongly advised to deluser and kick/ban them. 
+
+They frequently give themselves ridiculous things like 10 leech slots with num_logins 10 10 and they add users with leech 
+all the time without consulting anyone or having permission to do so.
+
+There is also proof that they tried to cover their tracks by editing the log files on the master. ie. 24h+ chunks of log 
+missing for some strage reason.
+
+The second nfo with the logs to back all this up will follow.
+
+We decided that we should get this first part out ASAP to try and stop the spread of damage being caused by these individuals.
+

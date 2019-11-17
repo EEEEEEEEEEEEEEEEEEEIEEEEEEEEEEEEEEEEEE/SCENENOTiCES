@@ -1,0 +1,375 @@
+[06:34] <A1> !slaves
+[06:34] <@MDM> MDM11: ( UP: 0 @ 0B/s )-( DN: 1 @ 6.1KB/s )-( DF: 73.2GB/967.8GB ) 
+[06:34] <@MDM> MDM12: ( UP: 0 @ 0B/s )-( DN: 1 @ 802.0KB/s )-( DF: 73.8GB/967.9GB ) 
+[06:34] <@MDM> MDM13: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 50.4GB/967.9GB ) 
+[06:34] <@MDM> MDM14: ( UP: 0 @ 0B/s )-( DN: 1 @ 130.0KB/s )-( DF: 23.9GB/967.9GB ) 
+[06:34] <@MDM> MDM15: ( UP: 0 @ 0B/s )-( DN: 1 @ 438.2KB/s )-( DF: 997.7MB/967.8GB ) 
+[06:34] <@MDM> MDM17: ( UP: 0 @ 0B/s )-( DN: 1 @ 268.6KB/s )-( DF: 21.0GB/967.8GB ) 
+[06:34] <@MDM> MDM18: ( UP: 0 @ 0B/s )-( DN: 1 @ 299.1KB/s )-( DF: 89.8GB/966.8GB ) 
+[06:34] <@MDM> MDM19: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 15.2GB/967.9GB ) 
+[06:34] <@MDM> MDM2: ( UP: 1 @ 610.9KB/s )-( DN: 5 @ 5.1MB/s )-( DF: 68.1GB/967.9GB ) 
+[06:34] <@MDM> MDM20: ( UP: 0 @ 0B/s )-( DN: 1 @ 74.7KB/s )-( DF: 14.3GB/967.8GB ) 
+[06:34] <@MDM> MDM21: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 53.4GB/967.8GB ) 
+[06:34] <@MDM> MDM22: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 9.9GB/967.9GB ) 
+[06:34] <@MDM> MDM23: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 28.1GB/966.8GB ) 
+[06:34] <@MDM> MDM24: ( UP: 0 @ 0B/s )-( DN: 3 @ 907.3KB/s )-( DF: 24.3GB/966.8GB ) 
+[06:34] <@MDM> MDM26: ( UP: 1 @ 912.4KB/s )-( DN: 3 @ 10.1MB/s )-( DF: 41.5GB/967.8GB ) 
+[06:34] <@MDM> MDM27: ( UP: 0 @ 0B/s )-( DN: 2 @ 918.2KB/s )-( DF: 40.6GB/982.3GB ) 
+[06:34] <@MDM> MDM28: ( UP: 1 @ 549.4KB/s )-( DN: 1 @ 55.8KB/s )-( DF: 52.7GB/967.9GB ) 
+[06:34] <@MDM> MDM29: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 957.1MB/966.8GB ) 
+[06:34] <@MDM> MDM3: ( UP: 0 @ 0B/s )-( DN: 1 @ 125.1KB/s )-( DF: 55.9GB/967.8GB ) 
+[06:34] <@MDM> MDM30: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 297.0GB/983.2GB ) 
+[06:34] <@MDM> MDM31: ( UP: 2 @ 897.4KB/s )-( DN: 5 @ 3.1MB/s )-( DF: 359.5GB/982.4GB ) 
+[06:34] <@MDM> MDM32: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 472.6GB/966.8GB ) 
+[06:34] <@MDM> MDM33: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 485.1GB/966.8GB ) 
+[06:34] <@MDM> MDM4: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 99.7GB/966.6GB ) 
+[06:34] <@MDM> MDM5: ( UP: 0 @ 0B/s )-( DN: 1 @ 186.3KB/s )-( DF: 42.6GB/967.8GB ) 
+[06:34] <@MDM> MDM6: ( UP: 0 @ 0B/s )-( DN: 1 @ 331.6KB/s )-( DF: 56.0GB/967.8GB ) 
+[06:34] <@MDM> MDM7: ( UP: 0 @ 0B/s )-( DN: 1 @ 50.0KB/s )-( DF: 44.5GB/967.9GB ) 
+[06:34] <@MDM> MDM8: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 38.5GB/967.9GB ) 
+[06:34] <@MDM> MDM9: ( UP: 1 @ 923.7KB/s )-( DN: 1 @ 1.2MB/s )-( DF: 68.8GB/967.9GB ) 
+[06:34] <@MDM> MP-34: ( UP: 2 @ 1.4MB/s )-( DN: 2 @ 214.5KB/s )-( DF: 1.3TB/1.4TB ) 
+
+
+[05:51] <A1> !leechers
+[05:51] <@MDM> WHO: bertie -> DN: panorama.special.shannon.she.mother.of.all.lies.ws.pdtv.xvid-ftp.r26 @ 122.1KB/s from MDM33.
+[05:51] <@MDM> WHO: raider -> DN: rep-thewomen.r63 @ 457.7KB/s from MDM11.
+[05:51] <@MDM> WHO: shane -> DN: nympho-dk2.r03 @ 192.6KB/s from MDM13.
+[05:51] <@MDM> WHO: shane -> DN: nympho-dk2.r04 @ 83.4KB/s from MDM11.
+[05:51] <@MDM> WHO: LEE -> DN: pcn-marson.part043.rar @ 165.0KB/s from MDM11.
+[05:51] <@MDM> WHO: LEE -> DN: vortex-mtr.r58 @ 191.2KB/s from MDM23.
+[05:51] <@MDM> WHO: Eone -> DN: rm-tpxp.r62 @ 205.3KB/s from MDM7.
+[05:51] <@MDM> WHO: Eone -> DN: sw-warhbm.r59 @ 171.1KB/s from MDM4.
+[05:51] <@MDM> WHO: weareqpr -> DN: ps-tc3a.r23 @ 453.3KB/s from MDM23.
+[05:51] <@MDM> WHO: Redmosquito -> DN: alli-babyad-dvdr.r41 @ 158.8KB/s from MDM7.
+[05:51] <@MDM> WHO: Redmosquito -> DN: monkeybiz-ccwmdf.r26 @ 171.2KB/s from MDM17.
+[05:51] <@MDM> WHO: presario67 -> DN: p-eeye-cd2.r11 @ 204.9KB/s from MDM23.
+[05:51] <@MDM> WHO: LEE -> DN: ctu-x264-legend.of.the.seeker.107.r22 @ 178.2KB/s from MDM33.
+[05:51] <@MDM> WHO: patches -> DN: ahs-cd.r03 @ 495.1KB/s from MDM8.
+[05:51] <@MDM> WHO: jumpingroo -> DN: 02-empire_of_the_sun--walking_on_a_dream_(sam_lamore_12__remix)-wus.mp3 @ 3.8KB/s from MP-34.
+[05:51] <@MDM> WHO: dgwebbie -> DN: quark.101.dvdrip.xvid-ositv.rar @ 448.9KB/s from MDM19.
+[05:51] <@MDM> WHO: charlieboy -> DN: cm-shm.r57 @ 309.0KB/s from MDM30.
+[05:51] <@MDM> WHO: woowoos -> DN: 05.mp3 @ 375.9KB/s from MDM30.
+[05:51] <@MDM> WHO: arispale -> DN: 07-new_york_ska-jazz_ensemble-step_forward.mp3 @ 173.6KB/s from MP-34.
+[05:51] <@MDM> WHO: flrappleton3 -> DN: p-eeye-cd2.r32 @ 207.8KB/s from MDM18.
+[05:51] <@MDM> WHO: Andz -> DN: zer0-kscmg.r33 @ 242.1KB/s from MDM9.
+[05:51] <@MDM> WHO: Nefarious -> DN: xpress-deathrace.r72 @ 1.8MB/s from MDM14.
+[05:51] <@MDM> WHO: elysees -> DN: 215-laid_back_-_sunshine_reggae.mp3 @ 469.3KB/s from MDM31.
+[05:51] <@MDM> WHO: Lockinvar -> DN: 0x0008-wowwoflk.r04 @ 6.1KB/s from MDM2.
+[05:51] <@MDM> WHO: A1 -> DN: su-wmjam.r14 @ 317.2KB/s from MDM7.
+[05:51] <@MDM> WHO: pugwash -> DN: alli-babyad-dvdr.r16 @ 3.7KB/s from MDM4.
+[05:51] <@MDM> WHO: beenieman -> DN: lo.s6d3.tof.part022.rar @ 243.4KB/s from MDM7.
+[05:51] <@MDM> WHO: BongMan -> DN: hsm2.pal-delerium.r09 @ 599.1KB/s from MDM24.
+
+[15:32] <A1> !leechers
+[15:32] <@MDM> WHO: LEE -> DN: m-mkwii.r80 @ 190.6KB/s from MDM15.
+[15:32] <@MDM> WHO: LEE -> DN: imars-igorw.r04 @ 181.0KB/s from MDM22.
+[15:32] <@MDM> WHO: prince368 -> DN: prison.break.411.408.hdtv-lol.r01 @ 65.8KB/s from MDM28.
+[15:32] <@MDM> WHO: Redmosquito -> DN: alli-mirrors-dvdr.r67 @ 261.9KB/s from MDM2.
+[15:32] <@MDM> WHO: beenieman -> DN: lo.s6d5.tof.part076.rar @ 450.6KB/s from MDM6.
+[15:32] <@MDM> WHO: paultheone -> DN: MAD.Christmas.Collection.Dvd.24.r81 @ 175.9KB/s from MDM7.
+[15:32] <@MDM> WHO: Lockinvar -> DN: 0x0008-wowwoflk.r06 @ 6.1KB/s from MDM17.
+[15:32] <@MDM> WHO: arispale -> DN: refined-flashbacks-blu720p.r54 @ 211.0KB/s from MDM19.
+[15:32] <@MDM> WHO: paultheone -> DN: MAD.Christmas.Collection.Dvd.23.rar @ 88.2KB/s from MDM29.
+[15:32] <@MDM> WHO: paultheone -> DN: MAD.Christmas.Collection.Dvd.22.r78 @ 186.3KB/s from MDM12.
+[15:32] <@MDM> WHO: bar -> DN: 02-casting_curses-second_coming-gw.mp3 @ 0B/s from MP-34.
+[15:32] <@MDM> WHO: shane -> DN: zer0-kscmg.r55 @ 72.1KB/s from MDM2.
+[15:32] <@MDM> WHO: shane -> DN: zer0-kscmg.r54 @ 75.4KB/s from MDM12.
+[15:32] <@MDM> WHO: Codfather -> DN: broken-asbak.r03 @ 157.8KB/s from MDM15.
+[15:32] <@MDM> WHO: elysees -> DN: 01-ricky_rivaro_feat_joan_-_tell_me_(radio_edit).mp3 @ 214.7KB/s from MP-34.
+[15:32] <@MDM> WHO: johnny -> DN: flik-x2.r75 @ 746.7KB/s from MDM12.
+[15:32] <@MDM> WHO: show -> DN: fle-ill7d2a.r13 @ 205.8KB/s from MDM12.
+[15:32] <@MDM> WHO: addict -> DN: xds-tywas.dvdr.r33 @ 38.2KB/s from MDM4.
+[15:32] <@MDM> WHO: Andz -> DN: wii-dtf.r03 @ 34.9KB/s from MDM2.
+[15:32] <@MDM> WHO: sir -> DN: nympho-spov4.cd2.r39 @ 528.7KB/s from MDM3.
+[15:32] <@MDM> WHO: bar -> DN: 02-dislexsick_serna-time_of_arrival.mp3 @ 0B/s from MP-34.
+[15:32] <@MDM> WHO: haribo -> DN: 04.mp3 @ 251.2KB/s from MDM2.
+[15:32] <@MDM> WHO: addict -> DN: xds-tywas.dvdr.r36 @ 36.0KB/s from MDM29.
+[15:32] <@MDM> WHO: mercz -> DN: msd-htts.r36 @ 172.9KB/s from MDM14.
+[15:32] <@MDM> WHO: andyjs -> DN: the.x.factor.s05e27.semifinal.ws.pdtv.xvid-nosegment.r06 @ 76.8KB/s from MDM21.
+[15:32] <@MDM> WHO: Riddick -> DN: nympho-mr4.cd2.r12 @ 767.1KB/s from MDM7.
+[15:32] <@MDM> WHO: duke -> DN: WR179.part32.rar @ 51.5KB/s from MDM7.
+[15:32] <@MDM> WHO: TaZ -> DN: emd-livefree.r38 @ 108.7KB/s from MDM24.
+[15:32] <@MDM> WHO: Billy -> DN: alli-babyad-dvdr.r49 @ 310.1KB/s from MDM20.
+[15:32] <@MDM> WHO: carpet -> DN: ctu-x264-ugly.betty.310.r02 @ 196.7KB/s from MDM2.
+[15:32] <@MDM> WHO: Billy -> DN: alli-babyad-dvdr.r48 @ 298.0KB/s from MDM11.
+[15:32] <@MDM> WHO: A1 -> DN: wzrd-dstsp.r88 @ 89.8KB/s from MDM5.
+[15:32] <@MDM> WHO: Andz -> DN: vmt-mow-dvdr.r68 @ 35.7KB/s from MDM14.
+[15:32] <@MDM> WHO: Bigfatmerv -> DN: Guns n Roses - Track 14.mp3 @ 538.8KB/s from MDM4.
+ 15:32] <@MDM> WHO: kdglass -> DN: fico-faw08.r28 @ 616.6KB/s from MDM18.
+[15:32] <@MDM> WHO: weareqpr -> DN: fle-ttc3a.r32 @ 101.2KB/s from MDM2.
+[15:32] <@MDM> WHO: haribo -> DN: 03.mp3 @ 274.2KB/s from MDM24.
+[15:32] <@MDM> WHO: tailz -> DN: nympho-oc4a.r11 @ 73.3KB/s from MDM28.
+[15:32] <@MDM> WHO: tat -> DN: mgpda2k74.part32.rar @ 156.4KB/s from MDM5.
+[15:32] <@MDM> WHO: trapran -> DN: nero9.r21 @ 54.3KB/s from MDM17.
+[15:32] <@MDM> WHO: prince368 -> DN: Simply Red - Go Now.mp3 @ 149.0KB/s from MDM12.
+[15:32] <@MDM> WHO: coolgrap -> DN: 01_dj_spawn-furious_mix_(agora_fm)-sat-12-06-2008-us
+r.mp3 @ 284.5KB/s from MP-34.
+
+[07:01] <A1> !cut
+[07:01] <@MDM> [ TOP 20 - 19 Racers This Week, These People Will Not Make It (27 Days Remaining) (Minimum 25.0GB) ]
+[07:01] <@MDM> [ 01 ] loopy/iND ( 9.5GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 02 ] aSuS/iND ( 7.2GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 03 ] RoCCoBR/iND ( 5.1GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 04 ] bar/iND ( 4.0GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 05 ] CrackWhore/iND ( 3.7GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 06 ] Runno/iND ( 2.7GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 07 ] LifeWast3d/iND ( 2.4GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 08 ] J0K3R/iND ( 1.7GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 09 ] kaiser/iND ( 1.4GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 10 ] BongMan/iND ( 1.2GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 11 ] FireBlazE/iND ( 1.1GB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 12 ] maddog/iND ( 896.5MB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 13 ] indianboy/iND ( 781.2MB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 14 ] t4ng/iND ( 313.6MB Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 15 ] Dody/iND ( 0B Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 16 ] drater/iND ( 0B Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 17 ] carling/iND ( 0B Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 18 ] evil/iND ( 0B Up ) is currently FAILING for Next Week.
+[07:01] <@MDM> [ 19 ] RedGT/iND ( 0B Up ) is currently FAILING for Next Week.
+
+
+[11:46] <A1> !bnc
+[11:46] <@MDM> [MDM]-[Our BNCs]:
+[11:46] <@MDM> [MDM]-[data.mdm-global.net:41210]-[ONLINE]-[ 1 ms]
+[11:46] <@MDM> [MDM]-[exact.mdm-global.net:41210]-[ONLINE]-[ 0 ms]
+[11:46] <@MDM> [MDM]-[eu2.mdm-global.net:40000]-[OFFLINE]-[ ]
+[11:46] <@MDM> [MDM]-[eu.mdm-global.net:40000 stat -al]-[ONLINE]-[ 122 ms]
+[11:46] <@MDM> [MDM]-[uk.mdm-global.net:50088 stat -al]-[ONLINE]-[ 124 ms]
+
+
+[05:59] <A1> !monthdn 
+[05:59] <@MDM> [ 1] A1           no tagline                3431     117.0GB 377.2KB/s
+[05:59] <@MDM> [ 2] prince368    no tagline                2653     111.7GB 679.7KB/s
+[05:59] <@MDM> [ 3] Eone         no tagline                1031      77.6GB 250.8KB/s
+[05:59] <@MDM> [ 4] show         no tagline                3105      49.9GB 429.4KB/s
+[05:59] <@MDM> [ 5] paultheone   no tagline                 982      47.5GB 356.7KB/s
+[05:59] <@MDM> [ 6] mick         no tagline                1312      37.0GB 458.8KB/s
+[05:59] <@MDM> [ 7] trapran      no tagline                1916      35.4GB  1.4MB/s
+[05:59] <@MDM> [ 8] wwood        no tagline                 752      33.9GB 583.4KB/s
+[05:59] <@MDM> [ 9] coolgrap     no tagline                 850      24.6GB  2.3MB/s
+[05:59] <@MDM> [10] flrappleton3 no tagline                1299      23.5GB 241.5KB/s
+[05:59] <@MDM> [11] DB7713       no tagline                 591      19.1GB 951.1KB/s
+[05:59] <@MDM> [12] Prowler      MDM                       1149      18.4GB 817.5KB/s
+[05:59] <@MDM> [13] Bigfatmerv   no tagline                1305      18.3GB  1.1MB/s
+[05:59] <@MDM> [14] magicpie     no tagline                 298      17.8GB 246.0KB/s
+[05:59] <@MDM> [15] carlito      no tagline                 408      15.5GB  1.9MB/s
+[06:00] <@MDM> [16] roman59      no tagline                 541      14.9GB  1.4MB/s
+[06:00] <@MDM> [17] jumpingroo   no tagline                 995      13.1GB 50.8KB/s
+[06:00] <@MDM> [18] dgwebbie     no tagline                 719       9.6GB 499.1KB/s
+[06:00] <@MDM> [19] h8ytr        no tagline                 450       8.6GB 29.7MB/s
+[06:00] <@MDM> [20] midnight     no tagline                 185       8.1GB 384.1KB/s
+[06:00] <@MDM> [21] ipben        no tagline                 572       7.7GB 117.8KB/s
+[06:00] <@MDM> [22] miley        no tagline                 660       7.1GB 106.0KB/s
+[06:00] <@MDM> [23] minkston     no tagline                 179       6.5GB    - k/s
+[06:00] <@MDM> [24] ukpot        no tagline                 741       6.0GB 262.7KB/s
+[06:00] <@MDM> [25] tat          no tagline                 281       5.5GB 237.4KB/s
+[06:00] <@MDM> [26] Bumper2000   no tagline                 217       2.5GB 787.4KB/s
+[06:00] <@MDM> [27] andyjs       no tagline                  64       1.4GB 430.5KB/s
+[06:00] <@MDM> [28] beakymark    no tagline                  53     750.4MB 343.4KB/s
+[06:00] <@MDM> [29] bobby        no tagline                  37     434.6MB    - k/s
+[06:00] <@MDM> [30] spymonkey    no tagline                  44     230.2MB 29.4KB/s
+[06:00] <@MDM> [31] kellyman     no tagline                  19      93.5MB 396.7KB/s
+[06:00] <@MDM> [32] Wizard       no tagline                   8      11.0MB 140.1KB/s
+[06:00] <@MDM> [33] test         no tagline                   0          0B    - k/s
+[06:00] <@MDM> [34] andygee      no tagline                   0          0B    - k/s
+[06:00] <@MDM> [35] markjh84     no tagline                   0          0B    - k/s
+[06:00] <@MDM> [36] skiddadale   no tagline                   0          0B    - k/s
+[06:00] <@MDM> [37] buda2008     no tagline                   0          0B    - k/s
+[06:00] <@MDM> [38] rosedundee   no tagline                   0          0B    - k/s
+[06:00] <A1> !monthdn 6000 MDM
+[06:00] <@MDM> [ 1] johnny       no tagline                5619     264.1GB  1.4MB/s
+[06:00] <@MDM> [ 2] shane        no tagline                4063     141.9GB 216.5KB/s
+[06:00] <@MDM> [ 3] Smoke        MDM                       2810     114.0GB 784.8KB/s
+[06:00] <@MDM> [ 4] Andz         MDM                       2459     112.4GB 718.5KB/s
+[06:00] <@MDM> [ 5] prince368    no tagline                2653     111.7GB 679.7KB/s
+[06:00] <@MDM> [ 6] GrimLok      no tagline                4546     106.6GB  6.8MB/s
+[06:00] <@MDM> [ 7] LEE          no tagline                2948     100.9GB 235.2KB/s
+[06:00] <@MDM> [ 8] beenieman    MDM                       2184      99.0GB  1.0MB/s
+[06:00] <@MDM> [ 9] HurleyInt    no tagline                5898      86.1GB  1.8MB/s
+[06:00] <@MDM> [10] Riddick      MDM                       3719      78.1GB 988.1KB/s
+[06:00] <@MDM> [11] Eone         no tagline                1031      77.6GB 250.8KB/s
+[06:00] <@MDM> [12] Mega_Byte    no tagline                1443      65.3GB 14.4MB/s
+[06:00] <@MDM> [13] psycho2k5    MDM                       2092      64.5GB  1.0MB/s
+[06:00] <@MDM> [14] arispale     no tagline                6922      64.2GB 284.9KB/s
+[06:00] <@MDM> [15] Redmosquito  MDM                       1444      63.5GB 408.1KB/s
+[06:00] <@MDM> [16] LoLo_        MDM                       1376      63.4GB 837.9KB/s
+[06:00] <@MDM> [17] weareqpr     MDM                       2192      63.3GB 513.4KB/s
+[06:00] <@MDM> [18] hidden       no tagline                4166      63.2GB  1.8MB/s
+[06:00] <@MDM> [19] roadie       MDM                       2278      63.0GB 477.5KB/s
+[06:00] <@MDM> [20] vantheman    MDM                       2930      62.6GB  1.4MB/s
+[06:00] <@MDM> [21] push         no tagline                4070      62.3GB  1.8MB/s
+[06:00] <@MDM> [22] Ephesius     no tagline                2394      61.8GB  1.7MB/s
+[06:00] <@MDM> [23] Error        no tagline                2985      61.5GB  1.8MB/s
+[06:00] <@MDM> [24] Codfather    no tagline                3798      60.7GB 548.6KB/s
+[06:00] <@MDM> [25] Node         no tagline                2325      60.0GB 782.8KB/s
+[06:00] <@MDM> [26] shacka36     no tagline                3208      59.5GB 975.5KB/s
+[06:00] <@MDM> [27] timg         MDM                       1215      58.7GB 796.9KB/s
+[06:00] <@MDM> [28] ImDaOne      no tagline                2013      58.3GB  4.1MB/s
+[06:00] <@MDM> [29] haribo       MDM                       1883      55.3GB 405.9KB/s
+[06:00] <@MDM> [30] alastos      MDM                       3660      54.0GB 210.4KB/s
+[06:00] <@MDM> [31] Bliiper      no tagline                3597      53.3GB  2.1MB/s
+[06:00] <@MDM> [32] pugwash      MDM                       2138      53.0GB 363.4KB/s
+[06:00] <@MDM> [33] Crock        MDM                       1964      52.7GB  2.3MB/s
+[06:00] <@MDM> [34] ahperfectstorm MDM                       2564      52.5GB 371.1KB/s
+[06:00] <@MDM> [35] R0NiN        no tagline                2479      51.6GB 648.3KB/s
+[06:00] <@MDM> [36] roger        MDM                       1059      51.6GB  1.9MB/s
+[06:00] <@MDM> [37] squeege      MDM                       1398      50.4GB  3.5MB/s
+[06:00] <@MDM> [38] puma         no tagline                1539      50.2GB 439.2KB/s
+[06:00] <@MDM> [39] Renty        MDM                       2381      50.0GB  1.2MB/s
+[06:00] <@MDM> [40] jandj        no tagline                1123      49.9GB 642.3KB/s
+[06:00] <@MDM> [41] show         no tagline                3105      49.9GB 429.4KB/s
+[06:00] <@MDM> [42] elysees      no tagline                3635      48.2GB  3.7MB/s
+[06:00] <@MDM> [43] raider       MDM                       1482      48.0GB 645.8KB/s
+[06:00] <@MDM> [44] cracklyn     no tagline                1838      47.6GB  2.4MB/s
+[06:00] <@MDM> [45] paultheone   no tagline                 982      47.5GB 356.7KB/s
+[06:00] <@MDM> [46] thegreen     MDM                       1439      47.4GB  3.4MB/s
+[06:00] <@MDM> [47] bigron121    MDM                       1229      47.1GB 593.7KB/s
+[06:00] <@MDM> [48] phoenix      MDM                       1118      46.4GB 18.0MB/s
+[06:00] <@MDM> [49] duke         MDM                       3339      45.7GB 790.8KB/s
+[06:00] <@MDM> [50] dyno         MDM                       4781      43.6GB 803.0KB/s
+[06:00] <@MDM> [51] apathy       MDM                        926      43.0GB 557.1KB/s
+[06:00] <@MDM> [52] spuppy1      no tagline                1576      42.9GB  1.2MB/s
+[06:00] <@MDM> [53] Billy        MDM                       1216      42.8GB 331.4KB/s
+[06:00] <@MDM> [54] Fawk         MDM                       1373      42.5GB 579.3KB/s
+[06:00] <@MDM> [55] patches      MDM                       2882      40.1GB  1.6MB/s
+[06:00] <@MDM> [56] buggerritt   no tagline                3173      39.5GB 149.5KB/s
+[06:00] <@MDM> [57] newman       no tagline                2785      38.0GB 564.3KB/s
+[06:00] <@MDM> [58] upper        no tagline                1181      37.3GB  1.2MB/s
+[06:00] <@MDM> [59] mick         no tagline                1312      37.0GB 458.8KB/s
+[06:00] <@MDM> [60] ChErNoBiL    MDM                        642      36.7GB 34.3MB/s
+[06:00] <@MDM> [61] trapran      no tagline                1916      35.4GB  1.4MB/s
+[06:00] <@MDM> [62] Dynamite     MDM                       2326      34.8GB 996.1KB/s
+[06:00] <@MDM> [63] GadgetMan    no tagline                1904      34.3GB 483.7KB/s
+[06:00] <@MDM> [64] Scorpion44   MDM                       1059      34.3GB 593.2KB/s
+[06:00] <@MDM> [65] wwood        no tagline                 752      33.9GB 583.4KB/s
+[06:00] <@MDM> [66] perroj       no tagline                 876      33.3GB 994.1KB/s
+[06:00] <@MDM> [67] zeeter       MDM                       1223      33.0GB  1.2MB/s
+[06:00] <@MDM> [68] rebel        MDM                        765      32.8GB  2.0MB/s
+[06:00] <@MDM> [69] mercz        MDM                        818      31.5GB  1.4MB/s
+[06:00] <@MDM> [70] Lockinvar    no tagline                 493      29.8GB 124.3KB/s
+[06:00] <@MDM> [70] Lockinvar    no tagline                 493      29.8GB 124.3KB/s
+[06:00] <@MDM> [71] mmp          MDM                       3626      29.0GB 374.6KB/s
+[06:00] <@MDM> [72] g4mac_uk     MDM                       1287      28.6GB 269.7KB/s
+[06:00] <@MDM> [73] TaZ          no tagline                 802      28.6GB 424.3KB/s
+[06:00] <@MDM> [74] Nefarious    MDM                       1440      28.1GB  1.9MB/s
+[06:00] <@MDM> [75] EFES         MDM                        832      27.6GB  1.4MB/s
+[06:00] <@MDM> [76] pajube       no tagline                 543      26.4GB  3.3MB/s
+[06:00] <@MDM> [77] tAnt         MDM                       1974      25.7GB  1.0MB/s
+[06:00] <@MDM> [78] B4lr0g       MDM                        611      25.6GB  2.3MB/s
+[06:00] <@MDM> [79] sabk21       no tagline                 536      25.4GB 180.3KB/s
+[06:00] <@MDM> [80] coolgrap     no tagline                 850      24.6GB  2.3MB/s
+[06:00] <@MDM> [81] manny        no tagline                 913      23.9GB 747.4KB/s
+[06:00] <@MDM> [82] flrappleton3 no tagline                1300      23.5GB 241.5KB/s
+[06:00] <@MDM> [83] moneyc       no tagline                1132      22.7GB 509.8KB/s
+[06:00] <@MDM> [84] devil2       MDM                        451      22.1GB 696.7KB/s
+[06:00] <@MDM> [85] charlieboy   MDM                       1849      21.1GB 494.7KB/s
+[06:00] <@MDM> [86] sir          MDM                       1548      21.1GB  1.8MB/s
+[06:00] <@MDM> [87] boro3371     MDM                        502      21.0GB 10.7MB/s
+[06:00] <@MDM> [88] DB7713       no tagline                 591      19.1GB 951.1KB/s
+[06:00] <@MDM> [89] Bigfatmerv   no tagline                1305      18.3GB  1.1MB/s
+[06:00] <@MDM> [90] percman      no tagline                1389      17.8GB 609.0KB/s
+[06:00] <@MDM> [91] magicpie     no tagline                 298      17.8GB 246.0KB/s
+[06:00] <@MDM> [92] fuze         no tagline                1209      16.5GB 868.8KB/s
+[06:00] <@MDM> [93] brown        no tagline                 277      16.4GB 256.5KB/s
+[06:00] <@MDM> [94] woowoos      MDM                       2075      16.0GB 507.2KB/s
+[06:00] <@MDM> [95] areg         no tagline                 536      15.3GB  2.5MB/s
+[06:00] <@MDM> [96] Soyo         no tagline                 218      15.3GB 40.1MB/s
+[06:00] <@MDM> [97] sharpie      MDM                        854      15.1GB  2.0MB/s
+[06:00] <@MDM> [98] Datavampire  no tagline                1916      15.0GB 166.7KB/s
+[06:00] <@MDM> [99] roman59      no tagline                 541      14.9GB  1.4MB/s
+[06:00] <@MDM> [100] juicer       MDM                        726      14.8GB  1.3MB/s
+[06:00] <@MDM> [101] presario67   no tagline                 786      14.4GB 296.8KB/s
+[06:00] <@MDM> [102] kaiz0ku      no tagline                 571      13.4GB 267.9KB/s
+[06:00] <@MDM> [103] jumpingroo   no tagline                 995      13.1GB 50.8KB/s
+[06:00] <@MDM> [104] carpet       MDM                        652      13.0GB    - k/s
+[06:00] <@MDM> [105] frosty       no tagline                1721      12.5GB 891.8KB/s
+[06:00] <@MDM> [106] sparta3      MDM                        795      12.3GB  1.1MB/s
+[06:00] <@MDM> [107] craigwillhunt MDM                        863      12.3GB 175.9KB/s
+[06:00] <@MDM> [108] McG          no tagline                 323      11.4GB 18.7MB/s
+[06:00] <@MDM> [109] revalat      no tagline                 478      11.2GB 158.2KB/s
+[06:00] <@MDM> [110] mrjosh       MDM                        296      10.9GB 397.0KB/s
+[06:00] <@MDM> [111] dgwebbie     no tagline                 719       9.6GB 499.1KB/s
+[06:00] <@MDM> [112] blowme       MDM                        197       9.5GB 380.1KB/s
+[06:00] <@MDM> [113] AndeC        MDM                        554       9.5GB 743.5KB/s
+[06:00] <@MDM> [114] truspeed     MDM                        199       9.4GB 807.7KB/s
+[06:00] <@MDM> [115] Jimbo        no tagline                 170       8.9GB 446.5KB/s
+[06:00] <@MDM> [116] dox          MDM                        640       8.7GB  2.1MB/s
+[06:00] <@MDM> [117] dean         no tagline                 621       8.7GB 392.7KB/s
+[06:00] <@MDM> [118] h8ytr        no tagline                 450       8.6GB 29.7MB/s
+[06:00] <@MDM> [119] enf          no tagline                 303       8.3GB  5.5MB/s
+[06:00] <@MDM> [120] sensfanvone  no tagline                 248       8.3GB  5.5MB/s
+[06:00] <@MDM> [121] midnight     no tagline                 185       8.1GB 384.1KB/s
+[06:00] <@MDM> [122] ipben        no tagline                 572       7.7GB 117.8KB/s
+[06:00] <@MDM> [123] miley        no tagline                 660       7.1GB 106.0KB/s
+[06:00] <@MDM> [124] rhinn        no tagline                 194       6.9GB  1.4MB/s
+[06:00] <@MDM> [125] justagal     MDM                        234       6.8GB    - k/s
+[06:00] <@MDM> [126] Therapor     MDM                        342       6.7GB  8.0MB/s
+[06:00] <@MDM> [127] minkston     no tagline                 179       6.5GB    - k/s
+[06:00] <@MDM> [128] ukpot        no tagline                 741       6.0GB 262.7KB/s
+[06:00] <@MDM> [129] jim216       no tagline                 348       5.9GB 169.6KB/s
+[06:00] <@MDM> [130] tat          no tagline                 281       5.5GB 237.4KB/s
+[06:00] <@MDM> [131] d0ug         no tagline                 361       5.1GB  4.2MB/s
+[06:00] <@MDM> [132] seamus       MDM                        642       4.7GB 19.7KB/s
+[06:00] <@MDM> [133] maz          no tagline                 116       4.7GB    - k/s
+[06:00] <@MDM> [134] leftsidemafia MDM                        151       4.5GB    - k/s
+[06:00] <@MDM> [135] bertie       MDM                        292       4.0GB 176.0KB/s
+[06:00] <@MDM> [136] Hasbro       MDM                         83       3.3GB 446.6KB/s
+[06:00] <@MDM> [137] native       MDM                        219       3.1GB 164.1KB/s
+[06:00] <@MDM> [138] ARCTiC       MDM                        277       3.0GB 324.5KB/s
+[06:00] <@MDM> [139] benn         MDM                        216       2.9GB 847.8KB/s
+[06:00] <@MDM> [140] trls         MDM                        302       2.8GB 431.9KB/s
+[06:00] <@MDM> [141] njvamp       no tagline                 121       2.6GB    - k/s
+[06:00] <@MDM> [142] Bumper2000   no tagline                 217       2.5GB 787.4KB/s
+[06:00] <@MDM> [143] jannine      no tagline                 596       2.3GB 187.7KB/s
+[06:00] <@MDM> [144] landsend     MDM                        113       1.6GB 346.0KB/s
+[06:00] <@MDM> [145] andyjs       no tagline                  64       1.4GB 430.5KB/s
+[06:00] <@MDM> [146] repton       MDM                        112       1.2GB  5.0MB/s
+[06:00] <@MDM> [147] nymph        no tagline                 244       1.1GB  1.4MB/s
+[06:00] <@MDM> [148] toombs33     MDM                         59     775.8MB 824.1KB/s
+[06:00] <@MDM> [149] beakymark    no tagline                  53     750.4MB 343.4KB/s
+[06:00] <@MDM> [150] PheoNix      no tagline                  15     650.0MB 783.8KB/s
+[06:00] <@MDM> [151] bobby        no tagline                  37     434.6MB    - k/s
+[06:00] <@MDM> [152] spymonkey    no tagline                  44     230.2MB 29.4KB/s
+[06:00] <@MDM> [153] D            no tagline                  15     180.5MB    - k/s
+[06:00] <@MDM> [154] green        MDM                         12     165.0MB 376.5KB/s
+[06:00] <@MDM> [155] kellyman     no tagline                  19      93.5MB 396.7KB/s
+[06:00] <@MDM> [156] igot         MDM                         17      90.6MB    - k/s
+[06:00] <@MDM> [157] kryus        MDM                          1      50.0MB 33.2KB/s
+[06:00] <@MDM> [158] Wizard       no tagline                   8      11.0MB 140.1KB/s
+[06:00] <@MDM> [159] colly        MDM                          1      11.0KB    - k/s
+[06:00] <@MDM> [160] s0nd0rad0    no tagline                   0          0B    - k/s
+[06:00] <@MDM> [161] wilson       no tagline                   0          0B    - k/s
+[06:00] <@MDM> [162] test         no tagline                   0          0B    - k/s
+[06:00] <@MDM> [163] Sam          MDM                          0          0B    - k/s
+[06:00] <@MDM> [164] jclaudewong  MDM                          0          0B    - k/s
+[06:00] <@MDM> [165] Jrn          MDM                          0          0B    - k/s
+[06:00] <@MDM> [166] andygee      no tagline                   0          0B    - k/s
+[06:00] <@MDM> [167] able         no tagline                   0          0B    - k/s
+[06:00] <@MDM> [168] Midland      MDM                          0          0B    - k/s
+[06:00] <@MDM> [169] sat1         no tagline                   0          0B    - k/s
+[06:00] <@MDM> [170] markjh84     no tagline                   0          0B    - k/s
+[06:00] <@MDM> [171] ddawg        MDM                          0          0B    - k/s
+[06:00] <@MDM> [172] danger       no tagline                   0          0B    - k/s
+[06:00] <@MDM> [173] skiddadale   no tagline                   0          0B    - k/s
+[06:00] <@MDM> [174] Anodyne      no tagline                   0          0B    - k/s
+[06:00] <@MDM> [175] buda2008     no tagline                   0          0B    - k/s
+[06:00] <@MDM> [176] JiM          no tagline                   0          0B    - k/s
+[06:00] <@MDM> [177] rebelink     MDM                          0          0B    - k/s
+[06:00] <@MDM> [178] bbqgrillz    no tagline                   0          0B    - k/s
+[06:00] <@MDM> [179] niceup       MDM                          0          0B    - k/s
+[06:00] <@MDM> [180] rosedundee   no tagline                   0          0B    - k/s
+[06:00] <@MDM> [181] tonicity010308 no tagline                   0          0B    - k/s
+[06:00] <@MDM> [182] DaRL         MDM                          0          0B    - k/s
+
+This site is a super mega leecher site all racer affild leave before i give ip to that feds
+This is warning 
+
+
+MDM old site called   ,PIA,DSL 
+
+if you need a leech slot pm A1   irc.mdm-global.net +9990
+i used to be a old racer there
+
+
+

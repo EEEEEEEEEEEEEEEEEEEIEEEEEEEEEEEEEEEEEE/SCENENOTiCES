@@ -1,0 +1,207 @@
+User Clarion/Clarion2004 extrem aktiver hackedtrader plus xdcc chan mitbesitzer/trader..schlimmer gehts wohl nich
+Beweise anbei, kickt diese h00re von eurer site so schnell wie moeglich runter, ein größeres Sicherheitsrisiko gibts kaum
+Bin kein Mann großer worte, hf
+
+
+
+
+
+
+-------server/chan.daten--
+
+distro chans
+server=irc.WonderNet.nu:7000
+/join #psssst ruheda
+/join #playroom 4play
+xdcc chan:
+/join #together FuCkTh3gVu
+
+--------------------------------ftp ini eines distros
+FTP CFG eines Distros aus den chans oben, Clarion Domain Acc user wohl angemerkt!
+
+[GLOBAL]
+Version=6.0.0.0
+ProcessID=1276
+SocketRcvBuffer=99999
+SocketSndBuffer=99999
+PacketTimeOut=300
+[EXTERNAL]
+EventHookDll1=irc-u.dll
+Version=6.0.0.0    
+Invisible=TRUE
+OpenFilesUploadMode=Shared
+MaxNrUsers=10
+AntiHammer=1
+AntiHammerBlock=180
+PacketTimeOut=300
+SocketKeepAlive=1
+allowpassive=1
+SocketInlineOOB=1
+SocketRcvBuffer=64512
+SocketSndBuffer=64512
+BlockAntiTimeOut=1
+DirCacheSize=20
+DirCacheTime=1200
+ProcessID=2060
+[DOMAINS]
+Domain1=0.0.0.0||2121|xxxxxxxxxxx|1|0|0
+[Domain1]
+MDTMCanChange=0
+SignOff=C:\WINNT\system32\wbem\cons.mof
+DirChangeMesFile=C:\WINNT\system32\wbem\ch.mof
+DirChangeMesFile2=C:\WINNT\system32\wbem\ch.mof
+ReplyHello=Microsoft FTP Service (Version 5.0)
+ReplyHelp=no help available
+ReplyNoAnon=User anonymous cannot log in.
+ReplySYST=FTP Service (Version 5.0)
+ReplyTooMany=to much user
+ReplyDown=Microsoft FTP Service shuting down
+ReplyOffline=Microsoft FTP Service is offline
+LogSystemMes=0
+LogSecurityMes=0
+LogGETs=0
+LogPUTs=0
+LogFileSystemMes=0
+LogFileSecurityMes=0
+LogFileGETs=0
+LogFilePUTs=0
+
+User1=Master|1|0
+User2=Bone|1|0
+SQLListAll=
+SQLListName=
+SQLListSort=
+SQLDelete=
+SQLInsert=
+SQLUpdate=
+User3=lolo|1|0
+User4=JesseJames|1|0
+VirPath1=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|c:\winnt\system32\dllcache\dll\svc|+03+][ Disk C
+VirPath2=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|c:\winnt\system32\dllcache\dll\svc|+04+][ Disk D
+VirPath3=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|c:\winnt\system32\dllcache\dll\svc|+05+][ Disk E
+VirPath4=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|c:\winnt\system32\dllcache\dll\svc|+06+][ Disk F
+User5=Clarion|1|0
+User6=Jumpa|1|0
+User7=CapCom|1|0
+User8=APK|1|0
+User9=Shadowman|1|0
+User10=Karlo666|1|0
+User11=Copy of Karlo666|1|0
+User12=Brave|1|0
+User13=foxi|1|0
+
+
+
+[USER=Bone|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Access1=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access2=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access3=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access4=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access5=c:\winnt\system32\dllcache\dll\svc|RWALCP
+[USER=JesseJames|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Access1=c:\winnt\system32\dllcache\dll\svc|RWALCP
+Access2=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access3=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access4=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access5=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+[USER=Master|1]
+Password=*censored*
+HomeDir=c:\
+LoginMesFile=c:\winnt\system32\wbem\log.mof
+AlwaysAllowLogin=1
+ChangePassword=1
+TimeOut=1800
+SessionTimeOut=72000
+Maintenance=System
+Access1=C:\|RWAMELCDP
+Access2=D:\|RWAMELCDP
+Access3=E:\|RWAMELCDP
+Access4=F:\|RWAMELCDP
+Access5=G:\|RWAMELCDP
+Access6=H:\|RWAMELCDP
+Access7=I:\|RWAMELCDP
+Access8=J:\|RWAMELCDP
+Access9=K:\|RWAMELCDP
+Access10=L:\|RWAMELCDP
+Access11=M:\|RWAMELCDP
+Access12=N:\|RWAMELCDP
+Access13=O:\|RWAMELCDP
+Access14=P:\|RWAMELCDP
+Access15=Q:\|RWAMELCDP
+Access16=R:\|RWAMELCDP
+Access17=S:\|RWAMELCDP
+Access18=T:\|RWAMELCDP
+Access19=U:\|RWAMELCDP
+Access20=V:\|RWAMELCDP
+Access21=W:\|RWAMELCDP
+Access22=X:\|RWAMELCDP
+Access23=Y:\|RWAMELCDP
+Access24=Z:\|RWAMELCDP
+[USER=lolo|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+LoginMesFile=c:\winnt\system32\wbem\log.mof
+RelPaths=1
+TimeOut=600
+Access1=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access2=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access3=c:\winnt\system32\dllcache\dll\svc|RWAMLCDP
+Access4=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access5=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+[USER=CapCom|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Access1=c:\winnt\system32\dllcache\dll\svc|RWALCP
+Access2=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access3=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access4=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access5=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+[USER=APK|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Access1=c:\winnt\system32\dllcache\dll\svc|RWLP
+Access2=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access3=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access4=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access5=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+[USER=Shadowman|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Access1=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access2=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access3=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access4=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWALCP
+Access5=c:\winnt\system32\dllcache\dll\svc|RWALCP
+[USER=Clarion|1]
+Password=*censored*
+HomeDir=c:\winnt\system32\dllcache\dll\svc
+RelPaths=1
+TimeOut=600
+Maintenance=Domain
+Access1=c:\winnt\system32\dllcache\dll\svc|RWAMLCDP
+Access2=c:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access3=d:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access4=e:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+Access5=f:\System Volume Information\_restore{05F8F3DE-8BD9-4475-998D-A170463405F9}|RWAMLCDP
+....etc
+--------irc-u.cfg auszug------
+server=irc.WonderNet.nu:7000
+login=Str0
+nick=Uni-100-120
+channel=#psssst ruheda
+channel=#playroom 4play
+--Screenshots.anbei----

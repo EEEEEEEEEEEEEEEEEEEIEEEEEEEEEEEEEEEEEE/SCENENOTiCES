@@ -1,0 +1,60 @@
+#roxiso tech- H ~tech@217.33.145.132 :0 tech
+#roxiso Susi17 HS kram@zelda.likes.it.oldschool.at :0 kram
+#roxiso satchmo HS satchmo@e130.enemy.cx :0 satchmo
+#roxiso __|c4|_ HS cooler@Linknet-6547a20183.h-a-r-e-m.net :0 circle
+#roxiso ^Gambit^ HS Gambit@217.78.256.256 :0 gambit
+#roxiso dwarf HS friar@Linknet-c9b6828d03.student.utwente.nl :0 needs food badly
+#roxiso T_Almeida HS bono@hot.as.hell.at :0 Michael Corleone
+#roxiso FairyFart HS judge@Linknet-9b15d51564.c0oler.net :0 AnAsshole
+#roxiso [RoXiSO] HS@ rox@195.22.256.256 :0 You_Know_Who_You_Are
+#roxiso dvd-rw HS godness@193.6.256.256 :0 Sir Godness
+#roxiso feldhasi HS blah@eviladmins.info :0 blah
+#roxiso [Bandit] HS Bandit@you.better.change-your-mind.biz :0 Bandit
+#roxiso DarkAnge1 HS dark@cyclone.student.utwente.nl :0 Rickyboy
+#roxiso _neu_ HS neu@lomme.ugent.be :0 neu
+#roxiso strm HS storm@ip142166097024.nbtel.net :0 st0rm
+#roxiso Saumon HS mrfutur@Linknet-201c845c0f.toncul.org :0 mrfutur
+#roxiso Liquid_X_ HS liquidx@youaregay.org :0 ExUser
+#roxiso capri_ HS akt@ownz.it :0 akt
+#roxiso skif^off H ~skif@a05-0213d.kn.vutbr.cz :0 skif^
+#roxiso haschi HS harbinger@Linknet-f5f8c52d5a.ugent.be :0 harbinger
+#roxiso dcen HS mx@Linknet-5cf8408fde.student.utwente.nl :0 .
+#roxiso ^RW^ HS R0x0R@core.bbs.us :0 Peoples Whore
+#roxiso skyl4b HS koci@a05-0213d.kn.vutbr.cz :0 sepp
+#roxiso ___v H@ nis@cal005211.student.utwente.nl :0 ..will code for food..
+#roxiso invid HS invid@null.synflood.ws :0 null
+#roxiso LeGrand HS spectra@62.93.217.1 :0 Stefan Grand
+#roxiso _Houston H cadi@guru.pf.unipo.sk :0 H0ust0n
+#roxiso [ARRouaN] HS@ blacksun@Linknet-7276d6ccb3.cust.bredbandsbolaget.se :0 Local Secure User
+#roxiso b00ba HS y0shi@Linknet-30bd969f89.crack.r0cks.com :0 prout
+#roxiso kriggje HS kriggi@pharacy.de :0 kriggi
+#roxiso Gambitius HS Gambit@217.78.256.256 :0 gambit
+#roxiso ^argon^ HS argon@chimer.a.la :0 ^argon^
+#roxiso piglo HS piglo@the-bitter-end.biz :0 piglo
+#roxiso feldhase- HS blubb@killyou.fuckyou.damnyou.org :0 rabbit
+#roxiso cadi HS@ cadi@saeuft.wie.ein.loch.aber.kotzt.net :0 cadi
+#roxiso [FranK] HS blaaat@Linknet-c0ec0c8438.Err0r.be :0 Damn im bad...
+#roxiso sh0k^ HS sh0k@is.the.boss.of.the.russian.m-a-f-i-a.com :0 sh0k
+#roxiso Pepi HS@ arretelavo@Linknet-9a8676cdfa.Always.OnTheWeb.nu :0 drdevil
+#roxiso |^a^| HS a@Linknet-f784a99a71.amnmp3.com :0 a
+#roxiso Skoll HS frost@Linknet-ad42ccc5f5.farted.us :0 Skoll
+#roxiso [Fly] HS+ Super_Fly@a05-0213d.kn.vutbr.cz :0 Super_Fly
+#roxiso __Zro HS zrobione@solarstorm.tnw-s.tudelft.nl :0 wth!
+#roxiso ncore HS ncore@Linknet-9d89901fa9.betty-bou.com :0 ncore
+#roxiso gammler HS@ gammler@a05-0213d.kn.vutbr.cz :0 gammler
+#roxiso Fitik HS Fitik@158.194.188.37 :0 Fitik
+#roxiso [KaLaSH] HS@ blacksun@65.75.256.256 :0 Local Secure User
+#roxiso _turn HS turn@Linknet-29319cf960.student.utwente.nl :0 turntablz
+#roxiso _S3X_ HS s3x@lost-servers.net :0 S3X
+#roxiso praedator HS packetloss@Linknet-b2260a85ee.student.utwente.nl :0 unidentified
+#roxiso sirox HS sirox@glock.daghetto.net :0 sirox
+#roxiso [-ikari-] HS ikari@Linknet-120fec7fe2.ix-nap.net :0 ikari
+#roxiso mrsark HS cindy@nil.student.utwente.nl :0 cindy
+#roxiso _J|BNC HS juve@217.114.210.89 :0 juve
+#roxiso [BkSn] HS@ blacksun@Linknet-4e71ccca4d.On.hardwareshop.ch :0 BlackSun
+#roxiso End of /WHO list.
+[20:54:08] <[RoXiSO]> (ROX) >>US<< 69.64.38.1:26666>> STATUS: UP (Delay: 1.983secs)
+[20:54:10] <[RoXiSO]> (ROX) >>NL<< 145.94.90.251:26666>> STATUS: UP (Delay: 0.429secs)
+[20:54:12] <[RoXiSO]> (ROX) >>CR<< 161.53.128.93:26666>> STATUS: UP (Delay: 1.110secs)
+[20:54:14] <[RoXiSO]> (ROX) >>NO<< 62.70.14.3:26666>> STATUS: UP (Delay: 0.652secs)
+[20:54:16] <[RoXiSO]> (ROX) >>SE<< 130.240.203.245:26666>> STATUS: UP (Delay: 0.472secs)

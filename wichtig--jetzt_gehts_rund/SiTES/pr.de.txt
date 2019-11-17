@@ -1,0 +1,89 @@
+#Port-royale |_bw_| H ~ch@193.84.40.234 :0 chabs
+#Port-royale flurbo H turb@desert.dweller.from.arrakis.cz :5 flurbo
+#Port-royale _krizor H root@vs244211.vserver.de :3 kr1zz
+#Port-royale _hawk_ H hawk@achtung.hier.kommt.der.channelboss.de :0 hawk
+#Port-royale ACAB H acab@takedown.de :0 aca
+#Port-royale p\h\x H PhoeniX@64.246.23.131 :4 Mein Herz brennt
+#Port-royale |__PS__| H ~addicted@busted.ofuck.net :4 Hell
+#Port-royale euronymus H euronymous@chillin.with.gggs.thcgirls.com :3 euronymous
+#Port-royale Nic3- H@ shyguy@do.no.wh0is.de :3 Nic3-
+#Port-royale feldhase- H blubb@ooooowwww.my.gott.cx :2 rabbit
+#Port-royale hasi H jovi@we.enjoy.our-privacy.org :2 n/a
+#Port-royale minomess H memic@drunk.at :4 minomess
+#Port-royale n_o-k H nok@ToHuK.com :3 nok
+#Port-royale barock-- H none@66.90.107.108 :4 barock
+#Port-royale xyz-|2 H knecht@2001:618:1803::9 :3 knecht
+#Port-royale __r3ap3r_ H oham@banane.lai.la :2 r3ap3r
+#Port-royale MovieMM H moviemm@i-love-the.penguin.eu.org :2 MovieMatriX
+#Port-royale t3vt3v H t3vion@82.210.2.70 :3 /me is de bescht
+#Port-royale acidbr H acidbr@200-180-176-156.paemt7006.dsl.brasiltelecom.net.br :4 acidbr
+#Port-royale mksrpt H invisible@mein.vhost.is-1337.de :3 invisible
+#Port-royale dArtagnan H pda@i.dont.smoke.pot.im.a.crack-head.us :5 C S C P D A .. 2 0 0 3
+#Port-royale _haschi H harbinger@lomme.ugent.be :4 harbinger
+#Port-royale Port4 H@ sweet@fastpath.rz.uni-berlin.net :4 Pr1
+#Port-royale Port3 H@ cry@s-c-e-n-e.de :4 Pr3
+#Port-royale [sYsTraP] H sys@193.151.73.22 :4 sys
+#Port-royale [n8seen] H n8seen]@mein.vhost.is-1337.de :4 [n8seen]
+#Port-royale tinhead H borg@212.12.121.2 :3 BORG
+#Port-royale |DiSS| H DiSS@hat.viel-sex.de :3 |DiSS|
+#Port-royale aM0xACiLL H aM0x@prepare.for.the.rul3r.de :5 aM0xACiLL
+#Port-royale ^GoNZo^ H gonzo@213.133.108.141 :3 ^GoNZo^
+#Port-royale x-ric H blingbling@82.211.46.101 :3 x-ric
+#Port-royale __c H sic@62.225.139.62 :4 susi
+#Port-royale MoFoMan H ~RTL@v009.terions.de :4 RTL
+#Port-royale Oderus H+ fxbws238@nrw.hoteurope.de :4 -
+#Port-royale caedmon H+ davy@nrw.hoteurope.de :4 -
+#Port-royale M|n|stry H ministry@amiga.os.ist.mein.b3triebssystem.de :3 ....... ....... ......
+#Port-royale Skyy H ulc@faehrt.zum.chillen.immer.nach.poggemuehlen.de :4 Skyy
+#Port-royale Prinz|awo H+ hallo@shell7.powershells.de :2 Bernd Peter
+#Port-royale shoj H johs@cyclone.student.utwente.nl :4 johs
+#Port-royale specht H artwork@owns.a.atom.b0mb.org :4 fink
+#Port-royale __Viper H party666@wants.angelina.jolie.to.be.his.girlfri3nd.de :4 party666
+#Port-royale feldmaus H s0m31@p47110915.offline.dial-in.org :4 lebbi
+#Port-royale awakiki H sbroc@62.101.85.91 :4 bios
+#Port-royale graVAC H TOFF@c5100A599.sdsl.catch.no :4 gra@fucke.me
+#Port-royale cona H+ cona@world.domination.0ld-europe.de :4 ...
+#Port-royale hubabuba H hummel@213.146.166.179 :4 hubabuba
+#Port-royale zyanide- H unkown@killyou.fuckyou.damnyou.org :4 zyanide
+#Port-royale Z3nith H+ z3nith@shell7.powershells.de :4 Z3nith
+#Port-royale God_afk H godhunter@waffenfabrik.de :4 I think I have one, yes
+#Port-royale _arghside H hardcore@kann.script.kiddies.nicht-leiden.de :4 _arghside
+#Port-royale heino H heino@mein.vhost.is-1337.de :3 heino
+#Port-royale WT|AWAY H ~webby@wants.to.be.r00t.la :3 webby
+#Port-royale kabelage H spud@bob.poddle.net :4 kaba
+#Port-royale [ExToR] H input@pt134.internetdsl.tpnet.pl :2 extor
+#Port-royale _camp H Lehmy@i0p.de :4 Lehmy
+#Port-royale RiC0 H rico@nitrogen.fused.us :3 RiCO
+#Port-royale xeli H ilex@idle.efnet.jp :4 ilex
+#Port-royale _chamel_ H chamel@80.190.109.49 :4 chameleon
+#Port-royale Rast3r H@ raster@80.190.109.49 :4 Rast3r
+#Port-royale G__- H kalle@wenn.der.penis.bricht.gibts.geschrei.de :4 VERSACE
+#Port-royale axess H axess@core.bbs.us :4 just a kid..
+#Port-royale evio_ H oink@mein.vhost.is-1337.de :4 oink
+#Port-royale Sham[a]n H psx@hacked.your.shell.and.got.r00t66.org :5 psx
+#Port-royale aic H harper@i0p.de :3 harper
+#Port-royale orox H holy@lives.in.the.nexus.of.lucernal.org :4 holy
+#Port-royale _Hussein H ~Hussein@teamoxid.de :4 Hussein
+#Port-royale [snowman] H snowman@mein.vhost.is-1337.de :4 snowman
+#Port-royale acidline- H+ pupi@mein.vhost.is-1337.de :4 pupi
+#Port-royale ManiacT H ManiacT@66.90.84.109 :5 ManiacT
+#Port-royale atzplzw H ~atzplzw@211.101.203.22 :4 atzplzw
+#Port-royale Port1 H@ cry@s-c-e-n-e.de :2 Pr1
+#Port-royale rastii H rasti@faehrt.zum.chillen.immer.nach.poggemuehlen.de :5 rastii
+#Port-royale slashy H slashy@life.sucks.without.unreality.cc :5 SlashZero
+#Port-royale bobedaeng H sickboy@i0p.de :5 sickboy
+#Port-royale evillad H lad11@62.93.217.104 :4 pingpong
+#Port-royale used H used@dr0gen.com :3 USED
+#Port-royale h3x3r H yes@mein.vhost.is-1337.de :4 yes
+#Port-royale ^x|x^ H xsx@2001:1638:304:2::1 :5 ^xSx^
+#Port-royale [Kent] H kent@server2.unitedservers.de :5 lzo
+#Port-royale pestilenz H pest@zentarim.0wnz.at :4 pestilenz
+#Port-royale fuselito H ~fusel@213.228.205.205 :3 slut hunter
+#Port-royale pt- H platinum@rootsex.net :4 platinum
+#Port-royale LeGrand H legrand@MEDx.Core-II.lab.fisun.ru :4 Stefan Grand
+#Port-royale t3rmi H Termin-X@cl-34.ams-01.nl.sixxs.net :3 Termin-X
+#Port-royale BiTCH_X H shyguy@hat.im.keller.n.bums.maschinsche.de :4 neverask
+#Port-royale Port2 H@ cry@s-c-e-n-e.de :2 Pr2
+#Port-royale End of /WHO list.
+195.58.191.44:3306
+217.20.118.148:31000

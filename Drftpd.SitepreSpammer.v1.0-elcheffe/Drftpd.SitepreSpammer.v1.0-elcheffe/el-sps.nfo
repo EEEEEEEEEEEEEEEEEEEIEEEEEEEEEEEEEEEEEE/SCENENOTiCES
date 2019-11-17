@@ -1,0 +1,11 @@
+u know why!
+
+1. copy src into drftpd workspace
+2. edit channel in SitepreSpammer.java line 19
+(2.1) add new channel in irc.conf
+3. recompile master
+4. restart master
+5. site loadplugin net.elcheffe.plugins.sitepre.SitepreSpammer
+
+no private extensions for u!
+dont ask about anything!

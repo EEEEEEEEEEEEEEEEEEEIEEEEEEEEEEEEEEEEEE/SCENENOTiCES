@@ -1,0 +1,87 @@
+GENERAL INFO
+- Source:		DVD (PAL)
+- Movie Offset:		2 sec
+- CD Overlap seconds:	Yes, 2 sec
+- Startup delays:	Video: 180 ms Audio 1: 180 msAudio 2: 180 ms
+- Video format:		PAL
+- Length:		01:39:23
+- CD Images:		2
+
+IMDB INFO:
+Movie title:		
+User rating:		
+Directed by:		
+Writing credits:	
+Genre:			
+Tagline:		
+Plot outline:		
+
+VIDEO INFO:
+- Encoder:		Cinema Craft Encoder 2.50.1.0
+- Encoding mode:	Multipass VBR
+- Passes:		1
+- Max. bitrate:		2450
+- Avg. bitrate:		1961
+- Min. bitrate:		300
+- Bias:	20
+- Image Quality Prio:	17
+- Antinoise filter:	No
+- Linear quant. scale:	Yes
+- Zigzag scan order:	Yes
+- Upper field first:	No
+- Progressive frames:	Yes
+- iDCT Algorithm:	32-bit SSE MMX
+- Deinterlace:		None
+- Pulldown:		No
+- Width:		480
+- Height:		576
+- Matrix:
+			Intra:
+			 8 16 19 22 26 27 29 34 
+			16 16 22 24 27 29 34 37 
+			19 22 26 27 29 34 34 38 
+			22 22 26 27 29 34 37 40 
+			22 26 27 29 32 35 40 48 
+			26 27 29 32 35 40 48 58 
+			26 27 29 34 38 46 56 69 
+			27 29 35 38 46 56 69 83 
+			Non-Intra:
+			16 17 18 19 20 21 22 23 
+			17 18 19 20 21 22 23 24 
+			18 19 20 21 22 23 24 25 
+			19 20 21 22 23 24 26 27 
+			20 21 22 23 25 26 27 28 
+			21 22 23 24 26 27 28 30 
+			22 23 24 26 27 28 30 31 
+			23 24 25 27 28 30 31 33 
+
+AVISYNTH SCRIPT:
+Import("D:\SVCD\RESAMP~1.AVS")
+LoadPlugin("D:\EFTERL~1\Utils\DVD2SVCD\AVISYN~1\Mpeg2dec\mpeg2dec.dll")
+LoadPlugin("D:\EFTERL~1\Utils\DVD2SVCD\AVISYN~1\AVISYN~2.DLL")
+mpeg2source("D:\SVCD\DVD2AV~1.D2V")
+BicubicResize(480,432,0.0,0.6)
+AddBorders(0,72,0,72)
+AvisynthSubtitler("D:\SVCD\Subs\","permsubs.txt")
+ResampleAudio(44100)
+
+
+AUDIO INFO:
+- Audiostreams:		1
+- Audio 1 Language:	English
+- Audio 1 Bitrate:	224
+- Audio 1 Sample freq:	44100
+- Audio 1 Mode:		Stereo
+- Audio 1 Besweet:	"D:\EFTERLYST\Utils\DVD2SVCD\BeSweet\BeSweet.exe" -core( -input "D:\SVCD\Extracted_audio_1.ac3" -output "D:\SVCD\Encoded_audio_1.mp2" -logfile "D:\SVCD\Encoded_audio_1.log" ) -azid( -L -3db -c normal -s surround -g max ) -ota( -d -80 ) -shibatch( --rate 44100 ) -2lame( -e -b 224 -m s )
+
+SUBTITLE INFO:
+- Subtitlestreams:	1
+- Type:			Permanent Subtitles
+- Sub. 1 Language:	Svenska
+- Sub. 2 Language:	
+- Sub. 3 Language:	
+- Sub. 4 Language:	
+
+AUTHORING INFO:
+- CD Image program:	VCDXBuild
+- Entrysvd:		No

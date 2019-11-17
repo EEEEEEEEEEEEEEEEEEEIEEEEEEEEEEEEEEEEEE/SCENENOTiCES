@@ -1,0 +1,111 @@
+monthdn
+[R] 200-  (  1)       otaku / AVALON    pm me yr addlin 32582   500309  2006k/s  11.1
+[R] 200-  (  2)         csc / HAREM     ...             13651   243493  1946k/s   5.4
+[R] 200-  (  3)     godness / AVALON    No Tagline Set  11197   192878  1909k/s   4.3
+[R] 200-  (  4)    Scarface / TFAiSO    Kirsch Mafia Go 10739   182161  1572k/s   4.0
+[R] 200-  (  5)    Hyperi0n / DEVOTiON  Angel of CONTRO  9101   172311  1790k/s   3.8
+[R] 200-  (  6)        Mind / eNRAGE    incoming...     10615   160191  1543k/s   3.6
+[R] 200-  (  7)       argon / TFCiSO    No Tagline Set   8209   155758  1555k/s   3.5
+[R] 200-  (  8)      Doffen / AVALON    AVALON           8378   149900  1450k/s   3.3
+[R] 200-  (  9)        Zizi / ACT       two, no more th  6499   122539  1313k/s   2.7
+[R] 200-  ( 10)       droid / FD        For the Horde    7243   120919  2559k/s   2.7
+[R] 200-  ( 11)   bigkahuna / EPTiSO    big kahuna burg  6635   116194  1497k/s   2.6
+[R] 200-  ( 12)     silentk / DST       takes my pain a  6431   112469  1118k/s   2.5
+[R] 200-  ( 13)       GMith / eNRAGE    jaded            6275   106076  1149k/s   2.4
+[R] 200-  ( 14)       fronk / EPTiSO    No Tagline Set   6231    99576  2193k/s   2.2
+[R] 200-  ( 15)      Gingga / eNRAGE    No Tagline Set   5055    99230  1973k/s   2.2
+[R] 200-  ( 16)          Li / AVALON    VROO             4812    87770  2122k/s   1.9
+[R] 200-  ( 17)   technolog / DST       d-s-a-c-         4822    84882  1270k/s   1.9
+[R] 200-  ( 18)        epok / AVALON    PUSSY-RiDER      4501    81705  1217k/s   1.8
+[R] 200-  ( 19)      c00ler / HAREM     --> H/,RE//, <-  4546    78356  1586k/s   1.7
+[R] 200-  ( 20)    Dynamite / MiBiSO    I'M TNT I'M DYN  4197    75907  2072k/s   1.7
+[R] 200-  ( 21)     justinl / DST       No Tagline Set   4401    73973  1718k/s   1.6
+[R] 200-  ( 22)       mgmoe / iND       APPLE.FINAL.CUT  3588    72699  1696k/s   1.6
+[R] 200-  ( 23)        eske / AVALON    Chief Ideologis  3501    69944  1563k/s   1.6
+[R] 200-  ( 24)       dying / PCD       :)               3963    64263  1430k/s   1.4
+[R] 200-  ( 25)      gerwen / EPTiSO    on vacation til  4466    63679  1420k/s   1.4
+[R] 200-  ( 26)         pyx / TFAiSO    - Flame Arrow -  2876    60454  1188k/s   1.3
+[R] 200-  ( 27)        mate / iND       No Tagline Set   2947    58140  1301k/s   1.3
+[R] 200-  ( 28)        tric / AVALON    No Tagline Set   2260    48324  1664k/s   1.1
+[R] 200-  ( 29)     esprite / iND       No Tagline Set   2180    47386  1188k/s   1.1
+[R] 200-  ( 30)         rtc / AMNiSO    No Tagline Set   2985    45446  2710k/s   1.0
+[R] 200-  ( 31)   thesniper / AVALON    No Tagline Set   2645    44755  1377k/s   1.0
+[R] 200-  ( 32)      Wappie / TFAiSO    .                2088    44261  1152k/s   1.0
+[R] 200-  ( 33)      Os1rIs / ALLiANCE  Meep Meep        2385    43570  1373k/s   1.0
+[R] 200-  ( 34)       Fidel / AVALON    DEEP IN ESKE     1518    35408  1314k/s   0.8
+[R] 200-  ( 35)       ikari / SDM       SDM              2042    34716  1713k/s   0.8
+[R] 200-  ( 36)           q / SDM       R.I.P. henk/sof  1655    34275  1426k/s   0.8
+[R] 200-  ( 37)   cl0wnfish / AVALON    .                1932    33784  1197k/s   0.7
+[R] 200-  ( 38)       kibit / BBX       No Tagline Set   1527    31485  1684k/s   0.7
+[R] 200-  ( 39)       peter / AVALON    .:. AVALON .:.   1873    31468  1115k/s   0.7
+[R] 200-  ( 40)      beaver / DST       All Beavers in   1673    27873  2120k/s   0.6
+[R] 200-  ( 41)       flare / BBX       hey ho           1567    27569  1457k/s   0.6
+[R] 200-  ( 42)     Caribax / eNRAGE    No Tagline Set   1027    27267  1994k/s   0.6
+[R] 200-  ( 43)       g0tti / GRAViTY   ..GRAViTY..      1178    25049  1755k/s   0.6
+[R] 200-  ( 44)           s / iND       Security Over S  1398    24520  2168k/s   0.5
+[R] 200-  ( 45)     slashem / SDM       1 button tradin  1079    24068  1156k/s   0.5
+[R] 200-  ( 46)     captain / PCD       huh?             1328    23182  1353k/s   0.5
+[R] 200-  ( 47)    DaMonkey / ALLiANCE  *burp*           1158    22834  1377k/s   0.5
+[R] 200-  ( 48)     jumping / AVALON    trade for fun.   1314    21765   970k/s   0.5
+[R] 200-  ( 49)     mystere / FD        No Tagline Set   1187    21054  1505k/s   0.5
+[R] 200-  ( 50)     abacus2 / EPTiSO    eptiso            934    19999  1256k/s   0.4
+UP
+[R] 200-  (  1)       peter / AVALON    .:. AVALON .:.  38687   640377   404k/s   4.2
+[R] 200-  (  2)          Li / AVALON    VROO            23819   478589   435k/s   3.1
+[R] 200-  (  3)       otaku / AVALON    pm me yr addlin 23042   442022  1102k/s   2.9
+[R] 200-  (  4)       frost / GENESIS   No Tagline Set  28046   435694   296k/s   2.9
+[R] 200-  (  5)       snipe / KiF       nani?           22039   387717   295k/s   2.5
+[R] 200-  (  6)    Hyperi0n / DEVOTiON  Angel of CONTRO 23521   380113   335k/s   2.5
+[R] 200-  (  7)     godness / AVALON    No Tagline Set  21701   354747  1002k/s   2.3
+[R] 200-  (  8)         csc / HAREM     ...             20215   313220  1364k/s   2.1
+[R] 200-  (  9)        Mind / eNRAGE    incoming...     18441   290044  1043k/s   1.9
+[R] 200-  ( 10)        seal / AVALON    Die Kalisto Die 18405   286643  2451k/s   1.9
+[R] 200-  ( 11)      arkael / Replica   No Tagline Set  15970   284498   296k/s   1.9
+[R] 200-  ( 12)    Scarface / TFAiSO    Kirsch Mafia Go 16078   275869  1665k/s   1.8
+[R] 200-  ( 13)        tric / AVALON    No Tagline Set  15562   270132   818k/s   1.8
+[R] 200-  ( 14)       Fidel / AVALON    DEEP IN ESKE    11362   263374   223k/s   1.7
+[R] 200-  ( 15)    buckshot / ALLiANCE  No Tagline Set  16777   257858  1292k/s   1.7
+[R] 200-  ( 16)        epok / AVALON    PUSSY-RiDER     14273   252409   526k/s   1.7
+[R] 200-  ( 17)        Zizi / ACT       two, no more th 15263   248984   362k/s   1.6
+[R] 200-  ( 18)      Doffen / AVALON    AVALON          14096   240650   532k/s   1.6
+[R] 200-  ( 19)       argon / TFCiSO    No Tagline Set  13418   234858   333k/s   1.5
+[R] 200-  ( 20)         Sun / LOL       No Tagline Set  16277   233489   264k/s   1.5
+[R] 200-  ( 21)       quetz / AVALON    No Tagline Set  14378   208312  2832k/s   1.4
+[R] 200-  ( 22)       droid / FD        For the Horde   14954   205779   689k/s   1.3
+[R] 200-  ( 23)      musica / LOL       No Tagline Set   9060   201309   250k/s   1.3
+[R] 200-  ( 24)     silentk / DST       takes my pain a 12372   195478  1934k/s   1.3
+[R] 200-  ( 25)    Ukeoinin / LOL       No Tagline Set  12969   187452   191k/s   1.2
+[R] 200-  ( 26)        neil / UGN       No Tagline Set  12168   185738   352k/s   1.2
+[R] 200-  ( 27)        eske / AVALON    Chief Ideologis 10281   182123   605k/s   1.2
+[R] 200-  ( 28)   bigkahuna / EPTiSO    big kahuna burg 10439   172800   294k/s   1.1
+[R] 200-  ( 29)       mgmoe / iND       APPLE.FINAL.CUT 11209   169068  2136k/s   1.1
+[R] 200-  ( 30)      Walrus / RnY       No Tagline Set   8715   168434   113k/s   1.1
+[R] 200-  ( 31)          jd / LOL       No Tagline Set  11490   163935   174k/s   1.1
+[R] 200-  ( 32)        tlza / BBX       No Tagline Set  10472   161762   372k/s   1.1
+[R] 200-  ( 33)      outtie / AVALON    No Tagline Set  11637   160718   432k/s   1.1
+[R] 200-  ( 34)       dying / PCD       :)               8988   149817  1174k/s   1.0
+[R] 200-  ( 35)      newage / AVALON    No Tagline Set  10345   148702   623k/s   1.0
+[R] 200-  ( 36)         rtc / AMNiSO    No Tagline Set  11096   147914   171k/s   1.0
+[R] 200-  ( 37)       GMith / eNRAGE    jaded            9373   147494   421k/s   1.0
+[R] 200-  ( 38)      wicked / UGN       No Tagline Set   5229   144012   144k/s   0.9
+[R] 200-  ( 39)        scal / PARADOX   No Tagline Set   7960   142728   476k/s   0.9
+[R] 200-  ( 40)      swoony / BBX       No Tagline Set   4368   141194   224k/s   0.9
+[R] 200-  ( 41)         pyx / TFAiSO    - Flame Arrow -  7542   138873  1103k/s   0.9
+[R] 200-  ( 42)      c00ler / HAREM     --> H/,RE//, <-  8478   138793   688k/s   0.9
+[R] 200-  ( 43)    Dynamite / MiBiSO    I'M TNT I'M DYN  5560   136261   215k/s   0.9
+[R] 200-  ( 44)         ryo / LOL       No Tagline Set   7809   135170   109k/s   0.9
+[R] 200-  ( 45)         edz / Replica   No Tagline Set   8758   133943    24k/s   0.9
+[R] 200-  ( 46)       n64us / ANiMOTiO  ANiMOTiON / TOW  8265   131024   235k/s   0.9
+[R] 200-  ( 47)     ravenhk / LOL       No Tagline Set   9888   129431  3074k/s   0.8
+[R] 200-  ( 48)   thesniper / AVALON    No Tagline Set   8574   125074   640k/s   0.8
+[R] 200-  ( 49)     souraga / KiF       No Tagline Set   8318   118270   147k/s   0.8
+[R] 200-  ( 50)      Os1rIs / ALLiANCE  Meep Meep        5412   117501   710k/s   0.8
+
+bnc 
+193.6.243.33:25119
+213.9.66.95:25119
+
+[R] 230-   °  ??±°±????²   ³      (linknet) - site invite nick      ³   ²????±°±??  °
+[R] 230-   ° ??²°°??  ??   ³    key = wa7ch0u7 .... site showkey    ³   ??  ??°°²?? °
+[R] 200- current key: veTCOxHc5Nyls0wWwNbvGRsjfkDGD15rcYIvdwcxVGoYUTtKjE6cLdel6IyyoTuEo
+[R] 200 Command Successful.

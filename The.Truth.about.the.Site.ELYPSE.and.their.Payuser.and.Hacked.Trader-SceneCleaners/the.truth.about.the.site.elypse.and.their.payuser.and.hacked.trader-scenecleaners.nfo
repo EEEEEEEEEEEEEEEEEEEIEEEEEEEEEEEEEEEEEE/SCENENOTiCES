@@ -1,0 +1,90 @@
+Hallo Leute, froehliche Weihnachten!
+
+Haben mal wieder etwas nettes entdeckt, undzwar die site ELYPSE!
+
+Hier erst mal ein paar Daten zu ELYPSE:
+
+(@ELYPSE) [BW] TOTAL: 2 at 362.5KB/s | UP: 2 at 362.5KB/s | DN: 0 at 0B/s
+(@ELYPSE) [DISKFREE] We have 5.9TB free, with a total disk space of 6.2TB.
+(@ELYPSE) [FTP] :: [ elypse-ftp.kicks-ass.org:4711 ]
+(@ELYPSE) [SSL iRCD] :: [ nature-irc.ath.cx +7000 ]
+(@ELYPSE) [SSL BNC] :: [ nature-irc.ath.cx:+7077 Connect to BNC type /sbnc set server nature-irc.ath.cx +7000 and /sbnc set ssl on ]
+
+(Bot-E01) [ AFFILS ] MRF HRG BollyWooD PiXELS WCD HappyXXX Bluna HCN 3To1 AFH AJF AYN BetaInsiders CLXXX DiViDi FiXTv FZERO GEO GTi
+		     HACO Homely HP4F GTL HooD iNViCTA nDn NGE PkZ RACiMAGE RESERVOiR SiGHT TELEViEW
+(Bot-E01) [TGROUPS] FunnY GT EXE
+
+Key for #ELYPSE : daselypsenei
+
+Ihr kennt sicherlich noch East?
+
+Das war die Site mit den Hidden & Hacked Tradern usw. Sucht euch die NFO raus und lest se durch.
+ELYPSE hat heut eine Fusion mit den "Resten" von East vollzogen.
+Es kamen etliche Leute dazu (0-Upload-Leute (Payuser?!?)).
+Die Kiste ist ein heisses Teil, also delpurged sie. Leider sind viele bekannte
+Gesichter drauf, und ja, ich bin ein Arschloch der die Nicks nicht zensiert :)
+(zumindest die, die ich nicht kenne).
+
+Achja als beweis wie gesagt die Hacked Trader von East die jetzt auf ELYPSE sind,
+sowie das abschalten von INVITE Announces vom Sitebot + Vergleich von ALUP/DAYDN.
+
+[1] site daydn 4
+[1] 200-     ____  _____  ______  ____ _       ___   __
+[1] 200-    / __ \/   \ \/ / __ \/ __ \ |     / / | / /
+[1] 200-   / / / / /| |\  / / / / / / / | /| / /  |/ / 
+[1] 200-  / /_/ / ___ |/ / /_/ / /_/ /| |/ |/ / /|  /  
+[1] 200- /_____/_/  |_/_/_____/\____/ |__/|__/_/ |_/   
+[1] 200-                                               
+[1] 200-   ## User         Tagline                  Files   Amount     Speed
+[1] 200- [ 1] Rayman       No Tagline                 507       9.0GB 17.0MB/s
+[1] 200- [ 2] Wisky        no tagline                 893       8.6GB  2.0MB/s
+[1] 200- [ 3] nasty        no tagline                 463       3.1GB  3.2MB/s
+[1] 200- [ 4] Flanders     No Tagline                 467       2.6GB    - k/s
+[1] 200- 
+[1] 200  
+
+
+so nun schauen wir uns genauer alup von Rayman an:
+
+[1] site alup -Rayman
+[1] 200-    __  ______  __    ____  ___    ____  __________  _____
+[1] 200-   / / / / __ \/ /   / __ \/   |  / __ \/ ____/ __ \/ ___/
+[1] 200-  / / / / /_/ / /   / / / / /| | / / / / __/ / /_/ /\__ \ 
+[1] 200- / /_/ / ____/ /___/ /_/ / ___ |/ /_/ / /___/ _, _/___/ / 
+[1] 200- \____/_/   /_____/\____/_/  |_/_____/_____/_/ |_|/____/  
+[1] 200-                                                          
+[1] 200-   ## User         Tagline                  Files   Amount     Speed
+[1] 200- [ 1] Rayman       No Tagline                   0          0B    - k/s
+[1] 200  
+
+irgendwie komisch, egal vielleicht Zufall.
+
+Dann probieren wir mal, aehmmmmm.... Wisky:
+
+[1] site alup -Wisky
+[1] 200-    __  ______  __    ____  ___    ____  __________  _____
+[1] 200-   / / / / __ \/ /   / __ \/   |  / __ \/ ____/ __ \/ ___/
+[1] 200-  / / / / /_/ / /   / / / / /| | / / / / __/ / /_/ /\__ \ 
+[1] 200- / /_/ / ____/ /___/ /_/ / ___ |/ /_/ / /___/ _, _/___/ / 
+[1] 200- \____/_/   /_____/\____/_/  |_/_____/_____/_/ |_|/____/  
+[1] 200-                                                          
+[1] 200-   ## User         Tagline                  Files   Amount     Speed
+[1] 200- [ 1] Wisky        no tagline                   0          0B    - k/s
+[1] 200  
+
+jetzt wirds Paradox. Auch 0B Upload ?
+
+Und vorallem, warum sind eigentlich 63 Leute drauf mit 0byte Upload? Irgendwie komisch.
+
+Und hier noch etwas andres komisches:
+
+[1] 200- [ 7] zipzap       no tagline               15233     293.3GB  1.5MB/s
+[1] 200- [ 1] Impacto      no tagline               60693       1.0TB  2.4MB/s
+[1] 200- [ 2] Jumbo        no tagline               104206     963.7GB  1.4MB/s
+
+
+Waren das nicht die east admins?
+
+Haltet die Scene clean. Naja, dann noch Merry X-MAS :) Dank geht auch an *********** fuer die Infos :o)
+
+The Scenecleaner

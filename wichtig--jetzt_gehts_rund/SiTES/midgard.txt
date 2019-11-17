@@ -1,0 +1,112 @@
+[L] site aldn 100
+[L] 200-      ______________._________   .  _________________.___  ___
+[L] 200-   __.\____   ___    \_   _   \ _:__\____   ___   _____  \|   | _.__
+[L] 200- _ _|____ /   \/  |   /  _____/__|___;_ /   \/    _\_|_   \   |__|_ __
+[L] 200-  ___|__ /     \  |  //   | ___|_._|__ //    \   /    // \    | ___|_
+[L] 200-     __|_\_____/_____\    | _|___|___|.\_____/_______/___|\   |._|_
+[L] 200-  .------------------.\___|  ALLTiME DOWNLOADERS...     \__|  :-----.
+[L] 200- .--------------------------------------------------------------------=-.
+[L] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[L] 200- |-=-------------------------------------------------------------------=-|
+[L] 200- [01] kio          SSG                     16,921  299,648MB    265K/s
+[L] 200- [02] koal         mtc 2005                11,473  292,800MB    145K/s
+[L] 200- [03] Warrior76    fkkrocks                17,017  264,927MB     97K/s
+[L] 200- [04] thrawn       mh speck (c) Homer J.   16,782  257,058MB    191K/s
+[L] 200- [05] thepsycho    Suck It                 20,068  256,408MB    124K/s
+[L] 200- [06] GaTeCraSh    -> BRB <-               17,447  250,350MB    247K/s
+[L] 200- [07] kwasir       I ROCK, YOU SUCK        10,459  248,501MB    193K/s
+[L] 200- [08] Kirr         =NorthWind=             14,862  205,913MB    346K/s
+[L] 200- [09] omelette     got fainted?            10,263  179,295MB    197K/s
+[L] 200- [10] daddy        MTC                     11,809  178,957MB    160K/s
+[L] 200- [11] GangstaT     CR                       9,763  174,520MB    166K/s
+[L] 200- [12] z00t         goat cheese 4 the mass  10,831  171,266MB    101K/s
+[L] 200- [13] image216     FTD roolz                7,347  165,483MB    175K/s
+[L] 200- [14] The-Lady     FKK rocks               12,552  162,945MB    157K/s
+[L] 200- [15] jrk          MeinsMeinsMeinsMeinsMe  13,253  160,136MB    156K/s
+[L] 200- [16] mueslee      forbidden donut         14,608  158,393MB    558K/s
+[L] 200- [17] Jamster      wasguckstdu              9,836  153,398MB    212K/s
+[L] 200- [18] crewler      direkt aus dem knast d   9,557  147,704MB    305K/s
+[L] 200- [19] PsychoCowboy truely iNFECTED          8,342  147,064MB    166K/s
+[L] 200- [20] SlashZero    m0ep                    12,242  144,394MB    410K/s
+[L] 200- [21] Pulley       FKK rocks                9,911  141,419MB    100K/s
+[L] 200- [22] foreigner    Saint and Sinner         8,876  138,011MB    230K/s
+[L] 200- [23] scheik       On Your Marks, Get Set  10,970  118,726MB    742K/s
+[L] 200- [24] MaMMuth66    fkkrocks                 8,618  118,689MB     68K/s
+[L] 200- [25] m4k3r        erm                      3,504  111,534MB    123K/s
+[L] 200- [26] archer       ---:-)----               5,706  109,603MB   2585K/s
+[L] 200- [27] djjaysx      and the winner is ....   5,924  106,402MB   1212K/s
+[L] 200- [28] RaYdeN       Penguin Power            5,058  100,441MB    854K/s
+[L] 200- [29] t1ght        life.suxx                7,223   97,282MB    381K/s
+[L] 200- [30] platinum     KNiGHTS                  5,861   95,584MB    560K/s
+[L] 200- [31] optimum      sushi's FaN              4,989   95,204MB    435K/s
+[L] 200- [32] greyskies    ESC                      2,510   93,905MB    138K/s
+[L] 200- [33] abi          bitch                    5,562   91,635MB    868K/s
+[L] 200- [34] akro         krebs eigentum           9,507   90,471MB    203K/s
+[L] 200- [35] riddler      -                        3,524   90,140MB    537K/s
+[L] 200- [36] inimeg       jukuhu                   6,634   89,668MB    129K/s
+[L] 200- [37] tyree        my ass                   5,202   89,421MB    252K/s
+[L] 200- [38] mang0        can i get a whoop whoo   7,088   86,376MB    826K/s
+[L] 200- [39] chruez       I Love Fahrtwind         6,398   81,327MB    201K/s
+[L] 200- [40] thenop       Ich bin immer eins lee   6,339   80,527MB    190K/s
+[L] 200- [41] Ogostus      LiB                      3,387   79,749MB     98K/s
+[L] 200- [42] FTDpre       Fuck The Dumb            5,024   76,766MB    356K/s
+[L] 200- [43] razpy        dB                       6,104   69,500MB     83K/s
+[L] 200- [44] t0mmY        KrbZ                     7,207   69,340MB    153K/s
+[L] 200- [45] cerano       viribus unitis           3,962   65,394MB     81K/s
+[L] 200- [46] hermann      dieterHQ                 4,551   64,259MB    243K/s
+[L] 200- [47] kingkoor     ftd                      7,383   63,747MB    102K/s
+[L] 200- [48] darknikon    bleh                     2,441   62,095MB    329K/s
+[L] 200- [49] king-cut     kylie minogue rules..    4,653   61,621MB    178K/s
+[L] 200- [50] codex        die                      3,250   55,813MB     96K/s
+[L] 200- [51] HaYStacK     CR                       2,096   54,130MB    134K/s
+[L] 200- [52] littlebro    SSK GO GO GO             2,899   49,303MB    363K/s
+[L] 200- [53] Lambda1      jrk smells funny         4,810   49,086MB    114K/s
+[L] 200- [54] samael       2 Fast 4 U               3,766   47,351MB    595K/s
+[L] 200- [55] momurda      jah guide                4,739   47,208MB    183K/s
+[L] 200- [56] tinman       TEAM LUCiD               6,149   45,337MB     69K/s
+[L] 200- [57] lzn          bleh                     2,914   44,308MB    125K/s
+[L] 200- [58] verena       always.have.always.wil   3,539   42,671MB    535K/s
+[L] 200- [59] blackbeard   MGD Rocks                1,060   41,935MB     92K/s
+[L] 200- [60] bmik         Tagline Not Set          1,471   41,475MB    278K/s
+[L] 200- [61] beltway8     0MNI                     1,671   41,223MB     33K/s
+[L] 200- [62] icekicker    booyakasha               2,020   39,463MB    207K/s
+[L] 200- [63] ETA          db prefetish             3,604   39,190MB    180K/s
+[L] 200- [64] enzo         Woopa                    1,725   39,126MB    194K/s
+[L] 200- [65] light        H0T/KNiGHTS              2,504   38,861MB    412K/s
+[L] 200- [66] jimbob       JIMBOB                   2,132   38,697MB     50K/s
+[L] 200- [67] shade        outta my way im comin.   7,201   38,635MB   1063K/s
+[L] 200- [68] xivolver     .                        2,841   37,854MB    165K/s
+[L] 200- [69] liveD        I am young &need the c   2,882   36,734MB    106K/s
+[L] 200- [70] GameTight    CR                       2,040   35,164MB    132K/s
+[L] 200- [71] johnnyque    bla                      2,505   34,831MB     88K/s
+[L] 200- [72] Shielden     \0034You'll Never Walk   1,204   34,726MB    517K/s
+[L] 200- [73] Voodoo       .                        2,894   33,829MB     99K/s
+[L] 200- [74] gruvis       no tagline               4,663   33,546MB    118K/s
+[L] 200- [75] realist      -> /<-/-_(' 2005 <-      2,147   33,192MB     67K/s
+[L] 200- [76] Rookstar     whos bitchin             1,209   33,171MB    115K/s
+[L] 200- [77] coolhand     ---III---                2,323   31,476MB    606K/s
+[L] 200- [78] mosquit0     pokes you in the eye     2,250   31,234MB    128K/s
+[L] 200- [79] howi         mastered                 5,732   30,834MB    298K/s
+[L] 200- [80] nessie       qmi.owns                 1,619   29,698MB    136K/s
+[L] 200- [81] symmetry     i lub taglines           2,942   29,483MB    418K/s
+[L] 200- [82] Zyntherius   Light My Fire            1,759   29,109MB    939K/s
+[L] 200- [83] salomon      KiLL WiTH SKiLLZ         2,753   28,197MB     49K/s
+[L] 200- [84] mekanizm     ...                      2,160   28,091MB    162K/s
+[L] 200- [85] lad111       jeden tag eine gute ta   2,065   26,117MB    120K/s
+[L] 200- [86] WhiZAi       superduper                 941   24,463MB    550K/s
+[L] 200- [87] sausagef     Sausages 4ever           1,385   24,143MB     49K/s
+[L] 200- [88] panzer       .                          622   23,361MB    365K/s
+[L] 200- [89] bik78        -=SPACED OUT=-           1,828   23,310MB    207K/s
+[L] 200- [90] AloaGoa      QMI roxx                 1,700   23,208MB    221K/s
+[L] 200- [91] associate    CMS                      2,315   23,174MB    285K/s
+[L] 200- [92] h3ll         .                        1,065   22,684MB    422K/s
+[L] 200- [93] megara       1                        1,002   22,581MB    101K/s
+[L] 200- [94] mue          MOD slave                1,641   21,869MB   1470K/s
+[L] 200- [95] KingRasta    the legend ;-)           1,754   21,368MB    174K/s
+[L] 200- [96] mucka        643                      4,207   21,126MB   1767K/s
+[L] 200- [97] mobius       mansex=good              1,455   20,999MB    216K/s
+[L] 200- [98] tdk          Hardbass Rocker          1,145   20,981MB    876K/s
+[L] 200- [99] Sony         .:: SDMMP3 ::.           1,551   20,870MB    195K/s
+[L] 200- [100] NoIdent      dunno :P                2,647   20,242MB    286K/s
+
+onslaught3.ath.cx:23335

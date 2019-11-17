@@ -1,0 +1,432 @@
+
+
+
+This is a log from a meeting with the uploaders on http://www.softtorrents.org a big tracker in .se with estimated 15k users.
+
+
+
+Everybody talks about belmakor, thats the guy that gonna run the ftp. belmakor has a 24/24MBiT.se line.
+Hes not in the chan so i cant get his ip. belmakor is admin on softtorrents.
+
+
+
+I will try to make a short summary of the meeting in english:
+
+[18:00:17] <PAYload> vi vill köra en ftp som bara uploaders kan få ta del av.. där alla kan dela med sig av saker som man inte alltif hinner/kan ula
+English: Payload wants to run a ftp there sceners can upload stuff if they dont got time to make a .torrent of it. for example sceners can autotrade releases to it
+so they will come up on the tracker very fast. then any uploader can leech from the ftp and upload it to the tracker. And those sceners that dont have bandwith to upload
+to the tracker can fxp to the ftp and then some other uploader uploads to the tracker.
+All this is to make scene releases show up faster on the tracker than before.
+
+[18:01:00] <PAYload> många siter kör med en liknande sak soom det jag ber om
+English: Many other trackers got this system.
+
+[18:02:05] <PAYload> belmakor kör den .. men vi behöver spons för detta.. kanske en 10 lapp eller så
+[18:02:14] <blobocop> Inga problem.
+[18:02:24] <robban76> inga problem för mig.
+[18:50:30] <ArtBoy> Hej alla...jag har läst lite av era inlägg nu och stödjer detta fullt ut!
+
+English: Payload says that one of the softtorrents admin, belmakor, gonna run the ftp.
+blobocop, robban76 and Artboy says its a good idea.
+Payload says that they want uploaders to donate some money because the ftp needs a 300GB drive.
+
+[18:33:39] <Creative> Hur många här har access till siteringar?
+[18:33:47] <ZekE^> jag
+[18:34:14] <Creative> jag också, inga fler? :D
+
+English: Creative and ZekE^ declears that they have sceneaxx. Ofc its not only them, all uploaders got sceneaxx.
+[17:17:14] <ZekE^> hur många ulers e de på soften då?
+[17:18:44] <tatuering> 43 upploaders har vi faktiskt
+
+tatuering (admin on tracker) says that softtorrents got 43 uploaders, alot of them are leakers from the scene!
+
+
+
+
+
+Here´s the complete log for you who wants to read it, sorry its not in english:
+
+[14:51:42] * Topic is '(Site:Online) (Tracker: Online) Möte söndag klockan 18:00'
+[14:51:42] * Set by PAYload on Sat Sep 23 00:13:46
+
+[17:54:02] <RadioMaister> radion
+[17:54:08] <PAYload> han menar radion
+[17:54:31] <PAYload> 5 minuter till sen stänger vi kanalen
+[17:55:20] <PAYload> 59 så åker vi solo
+[17:57:45] <Hyponotic> brb
+[17:58:01] <RadioMaister> JESSY
+[17:58:29] <PAYload> okej.. jag här med kallar detta om ett möte öppet
+[17:58:36] <PAYload> är ni med ?
+[17:58:39] <egono> japp
+[17:58:39] <iceman73> ja
+[17:58:41] <eTxek> m
+[17:58:46] * Creative (Creative@me-94-114-233-83.3.cust.bredband2.com) has joined #uploader.softtorrents
+[17:58:53] <robban76> yes
+[17:58:59] * tatuering sets mode: +v Creative
+[17:59:00] <PAYload> okej. de som inte ko med får tala för sif själva
+[17:59:12] * blob (blob@152.55.227.87.static.ks.siw.siwnet.net) has joined #uploader.softtorrents
+[17:59:12] <PAYload> jag har en ide som kan ge oss en fördel
+[17:59:21] <PAYload> den vill jag dela med er
+[17:59:33] * blob is now known as blobocop
+[17:59:40] <ZekE^> och det är
+[18:00:17] <PAYload> vi vill köra en ftp som bara uploaders kan få ta del av.. där alla kan dela med sig av saker som man inte alltif hinner/kan ula
+[18:00:27] <PAYload> där har vi våran vinst
+[18:00:47] <ZekE^> hur åker dom upp på sidan sen då
+[18:00:57] <RadioMaister> Folk plockar dem från ftpn och ular där
+[18:01:00] <PAYload> många siter kör med en liknande sak soom det jag ber om
+[18:01:16] <iceman73> jag tycker att det låter bra
+[18:01:24] <ziggen> jag med
+[18:01:24] <robban76> låter super
+[18:01:29] <blobocop> Låter som en bra ide. Men vem ska stå för den servern?
+[18:01:36] <ZekE^> men vanliga users ska inte kunna komma åt siten eller vaåd
+[18:01:46] <idefix> [18:00:25] <PAYload> vi vill köra en ftp som bara uploaders kan få ta del av..
+[18:01:50] <ZekE^> mhm
+[18:02:00] <Henke> nu är jag här:)
+[18:02:03] <ZekE^> men, hur får users tag på de sen då
+[18:02:05] <PAYload> belmakor kör den .. men vi behöver spons för detta.. kanske en 10 lapp eller så
+[18:02:14] <blobocop> Inga problem.
+[18:02:24] <robban76> inga problem för mig.
+[18:02:24] <eTxek> ZekE^ e du trög lr?
+[18:02:27] <eTxek> ;P
+[18:02:28] <ZekE^> tydligen
+[18:02:29] <ZekE^> e ja de
+[18:02:30] <iceman73> lungt
+[18:02:32] <PAYload> ular ni dit så unllar den första som har bandbredd
+[18:02:44] <PAYload> det är det som är poången
+[18:02:50] <PAYload> ular
+[18:02:59] <PAYload> sta var som en häst !!
+[18:03:03] <ZekE^> ah så menar du
+[18:03:05] <ZekE^> i get it
+[18:03:11] <Henke> du har inte fått din öl än PAYload
+[18:03:14] <Henke> det är problemet:P
+[18:03:18] <RadioMaister> Steg1. Upploaders som inte vill/kan/har bandbredd för att lägga upp någonting på trackern för tillfället lägger uppdet på ftp. steg2. Ulare plcoakr det från ftpn och lägger upp det på trackern
+[18:03:35] <idefix> word
+[18:03:38] <ZekE^> de låter rätt bra
+[18:03:39] <PAYload> jagg RadioMaister
+[18:03:44] <blobocop> kalas.
+[18:03:46] <ZekE^> jag e på lett
+[18:03:49] <eTxek> '-'
+[18:03:53] <PAYload> hur många är med på dennna iden ?
+[18:03:55] <ZekE^> men 10 kr spons va de?
+[18:04:00] <ZekE^> aa jag e på
+[18:04:02] * RadioMaister *
+[18:04:02] <Henke> jag e med
+[18:04:03] <blobocop> Jag är med.
+[18:04:06] <Henke> absolut
+[18:04:07] <iceman73> jag är med på det
+[18:04:07] <PirateBoy^> låter okej :)
+[18:04:13] <robban76> räkna med mig
+[18:04:13] <egono> jag är med
+[18:04:14] <PAYload> vi kanske behöver en 300 giggare
+[18:04:21] <PAYload> typ 10 spänn var
+[18:04:24] <ZekE^> räcker nog bra
+[18:04:31] <blobocop> Bara att köra på :)
+[18:04:47] <PAYload> okej.. hur många säger ja ?
+[18:04:48] <ZekE^> ja skickar över en slant sen ikväll
+[18:04:51] <ZekE^> JA
+[18:04:52] <PirateBoy^> ja
+[18:04:52] <eTxek> ligger den på 100/100?
+[18:04:53] <iceman73> ja
+[18:04:53] <RadioMaister> PAYload . till vilket konto skall donationen?
+[18:04:54] <blobocop> ja
+[18:04:57] <robban76> när vill du ha cashen
+[18:05:02] <PAYload> 25/24 lina
+[18:05:12] <ZekE^> räcker gott
+[18:05:26] <PAYload> så fort jag får prata med belmakor
+[18:05:34] <PAYload> han ska ju köra servern
+[18:05:36] <ZekE^> ja måste dra å käka nu..
+[18:05:37] <Henke> e de 10:-/mån?
+[18:05:38] <ZekE^> men ja donerar sen
+[18:05:57] <PAYload> okej.. så de flesta gillar iden ?
+[18:06:02] <PirateBoy^> jupp
+[18:06:02] <robban76> ska vi skriva något speciellt på donationen
+[18:06:11] <egono> skicka ett pm hur mycket och vart du vil ha pengarna
+[18:06:13] <PAYload> nej.. donera inget
+[18:06:22] <PAYload> detta är utanför soft
+[18:06:26] <robban76> ok
+[18:06:45] <Henke> PAYload, det är per månad va?
+[18:06:50] <robban76> skickar du ett pm om hur och vart ni vill ha pengarna
+[18:06:53] <PAYload> vi gör detta för att vi ska vara snabbasst
+[18:07:29] <PAYload> detta är bara för at jag ville kolla ifall det fanns intresse
+[18:07:40] <PAYload> och det gör det ju
+[18:07:44] <PirateBoy^> verkar finnas gott om intresse :)
+[18:07:46] <PAYload> så nu kör v i
+[18:07:47] <blobocop> Kanon idé. Fixa info om betalning osv så har jag inga problem :(
+[18:07:51] <blobocop> :)*
+[18:07:53] <robban76> klart vi ska vara snabbast
+[18:07:53] <Hyponotic> =)
+[18:08:02] <RadioMaister> Hoppas det kommer bli lika mycket för radion snart också ;)
+[18:08:15] <PAYload> nu har jag en fråga till er alla
+[18:08:24] <robban76> kom igen
+[18:08:26] <blobocop> okej.
+[18:08:32] <Henke> happ, skit i mig då PAYload:P
+[18:08:34] * tatuering sets mode: +v blobocop
+[18:08:45] <PAYload> hur ska vi göra soften bättre.. ni har öppet ord grabbar
+[18:09:00] <eTxek> stäng registreringen
+[18:09:09] <blobocop> Jag tycker att sidan har vuxit väldigt den senaste 2 veckorna.
+[18:09:10] <Creative> håller med.
+[18:09:12] <Henke> japp, vi har tillräckligt med medlemmar nu
+[18:09:15] <Creative> endast invite
+[18:09:19] <robban76> kanske lägga upp mera kategorier
+[18:09:19] <eTxek> mjo
+[18:09:27] <RadioMaister> robban76 . som?
+[18:09:31] <robban76> 360 spel
+[18:09:31] <egono> vi måste vara bättre på att hålla kvar upploaders med bra lina
+[18:09:32] <Henke> fixa en bild till ebooks
+[18:09:41] <eTxek> kan man inte typ få 5 poäng per upload lr liknande
+[18:09:46] <Creative> Henke: ja det behövs. :)
+[18:09:50] <iceman73> jag håller med egono
+[18:09:51] <PirateBoy^> tycker endast invite så man får in bra user
+[18:09:51] <PruXeD> oj...
+[18:09:57] <PruXeD> är lite sen ser jag ^^
+[18:09:58] <PAYload> får jag säga nått ?
+[18:10:05] <robban76> yes
+[18:10:06] <tatuering> köra lite tävlingar i design o snygga till sidan är nog nått
+[18:10:06] <Henke> öppet orf
+[18:10:08] <Henke> ord
+[18:10:29] <Hyponotic> Utveckla alla kategorier
+[18:10:32] <PAYload> vi har redan bestämt att vi kommer att jöra reg efter 15k
+[18:10:39] <PAYload> köra
+[18:10:57] <Henke> 15k kommer bli svårt
+[18:11:00] <PAYload> så det kommer att bli så
+[18:11:02] <robban76> låter som en bra ide
+[18:11:03] <Henke> då många ny har svårt med ratio
+[18:11:18] <RadioMaister> Henke . tror jag inte :/ Registrerade användare 	14,251
+[18:11:25] <PAYload> vi gör detta för att vara hjälpsamma för er uploaders
+[18:11:25] <Henke> aha, jeflar
+[18:11:30] <Henke> senast jag kolla va de 11k
+[18:11:32] <Hyponotic> :D
+[18:11:46] <PAYload> vi är ju snart runt 15k
+[18:12:00] <druqs-> 14,252
+[18:12:04] <Hyponotic> ratio blir ju lättare för alla ju mer som kommer upp på trackern, igenom att utveckla alla kategorier så blir det lättare för folk att plocka hem det dom tycker 
+[18:12:12] <tatuering> Obekräftade användare 3,394 
+[18:12:20] <tatuering> räkna bort dem från 14000
+[18:12:26] <PAYload> sant
+[18:12:30] <PruXeD> kan ni inte fixa en psp kategori :
+[18:12:32] <PruXeD> :)
+[18:12:33] <PAYload> men vad ska vi göraq då ?
+[18:12:47] <Creative> Xbox360 och PSP kategori borde fixas.
+[18:12:52] <PruXeD> mm..
+[18:12:52] <Henke> japp
+[18:12:54] <Henke> håller med
+[18:12:54] <PAYload> aa.. vill ni ha en psp gren ?
+[18:12:56] <tatuering> jag har varit emot öppen regg hela tiden så jag tycker invite
+[18:13:02] <eTxek> jag med
+[18:13:03] <PruXeD> payloard: jupp
+[18:13:06] <Henke> finns det ngn som har bra tillgång till xbox 360 spel då?
+[18:13:07] <druqs-> håller med tatuering där
+[18:13:09] <blobocop> Xbox360 skulle jag uppskatta
+[18:13:09] <Hyponotic> psp, xbox360, utveckla musik-kategorierna med underkategorier samt film delen till underkategorier.
+[18:13:11] <PAYload> invite blir det tatuering
+[18:13:27] <Creative> Henke: Jag har tillgång till Xbox360
+[18:13:29] <RadioMaister> Musiken kan jag nog bidra en del till.
+[18:13:32] <Henke> Hyponotic, svårt med underkategorier på musik
+[18:13:35] <tatuering> jo jag vet när vi når 15000 men jag tycker invite redan nu
+[18:13:40] <Hyponotic> Henke why?
+[18:13:41] <PruXeD> invite höjer trackerns status :)
+[18:13:42] <Henke> då det inte e så stor del
+[18:13:48] <tatuering> o sen snygga upp sidan via lite design tävlingar
+[18:13:54] <PAYload> invite kommer per auto vid läge
+[18:13:59] <Hyponotic> Henke Det kan ju bli mer?
+[18:14:05] <PAYload> ps2 kommer oxå auto
+[18:14:11] <tatuering> o får vi fart på uppladdandet så vi är först så är vi snart bättre änn alla sidor igen
+[18:14:21] <Creative> håller med tatuering.. designtävlingar är en bra idé
+[18:14:25] <PruXeD> mm...
+[18:14:41] <PAYload> så alla gillar iden men ps2 ?
+[18:14:58] <robban76> och Xbox360.....snälla
+[18:15:02] <Creative> PSP och Xbox 360 :)
+[18:15:04] <Creative> hehe
+[18:15:10] <Henke> ps2 PAYload?
+[18:15:13] <blobocop> Jepps, Xbox 360 saknar jag också.
+[18:15:16] <PAYload> för givet så ular vi ifall nån vill ha?
+[18:15:23] <tatuering> klart vi ska ha fler kategorier släpps det rellar av nått så ska det ju ha en egen kategori
+[18:15:38] <robban76> tycker det jag med
+[18:15:50] <iceman73> musik dvd
+[18:15:51] <PAYload> kan inte gå med på fler categorier
+[18:15:58] <Hyponotic> why?
+[18:15:59] <Henke> en x264 kategori kanske?
+[18:16:04] <Henke> hepp:/
+[18:16:04] <PAYload> men vii ni ula så är jag game
+[18:16:40] <Hyponotic> hur kommer det sig att flera kategorier inte är på tal?
+[18:16:42] <druqs-> Kan ni inte lägga ihop Program/Mac och Program/Windows och göra en 0Day kategori istället?
+[18:16:44] <PAYload> däremot så ser jag hemskt gärna ul på alla sätt
+[18:16:59] <PAYload> jo ifs
+[18:17:00] <Creative> Vad är problemet med fler kategorier?
+[18:17:06] <druqs-> Ligger ju inga uploads i Program/Mac ändå
+[18:17:06] <tatuering> går inte o hålla igen nå vill userna ha fler kategorier så är det så är ju för dem sidan finns 
+[18:17:25] <PAYload> jag vill hga allt enkelt
+[18:17:26] <RadioMaister> och Film/SVCD
+[18:17:33] <Henke> en Omslag/Covers kategori är iaf given
+[18:17:36] <Creative> Det blir mycket enklare med fler kategorier, det tycker jag i alla fall
+[18:17:39] <Hyponotic> PAYload det blir väldigt enkelt för users om det finns fler underkategorier.
+[18:17:39] <Henke> sorry
+[18:17:41] <PAYload> inte smifigt att dela upp allt i oloka delar
+[18:17:43] <Henke> såg inte den
+[18:17:45] <Henke> sorry:/
+[18:17:48] <Henke> He He He
+[18:17:53] <Henke> <--blind
+[18:18:21] <PAYload> hor många rockar på ftå iden ?
+[18:18:30] <robban76> jag
+[18:18:31] <blobocop> jag
+[18:18:31] <PAYload> ftp'n
+[18:18:38] <druqs-> mm
+[18:18:42] <eTxek> sure
+[18:18:42] * RadioMaister *
+[18:18:42] <PirateBoy^> jupp
+[18:18:44] <Henke> absolut
+[18:18:47] <iceman73> japp
+[18:18:50] <Hyponotic> självklart
+[18:18:50] <egono> ja
+[18:18:59] <PAYload> okej.. så vi kör en sådan då?
+[18:19:05] <RadioMaister> (y)
+[18:19:05] <druqs-> mm
+[18:19:07] <PirateBoy^> mm
+[18:19:08] <robban76> det tycker jag
+[18:19:08] <iceman73> kör på
+[18:19:19] <eTxek> när kmr den upp?;P
+[18:19:28] <PAYload> det var ju det som mötet gick ut ppå
+[18:19:40] <druqs-> En rejäl genomkörare på alla felstavningar och grammatiska fel på sidan skulle inte vara fel heller.
+[18:19:54] <PirateBoy^> hihi
+[18:19:59] <robban76> lol
+[18:20:00] <PAYload> skitr ned dig ;.(
+[18:20:04] <PAYload> Laughing Out Loud
+[18:20:33] * ArtBoy (paiter100@62-20-157-177-no24.tbcn.telia.com) Quit (Ping timeout)
+[18:20:36] <ZekE^> när kommer den ftp upp då¨
+[18:20:46] <tatuering> så fort det går
+[18:20:49] <PAYload> när vi vill
+[18:20:54] <ZekE^> okej
+[18:21:01] <ZekE^> men PAYload: skulle behöva typ kontonr
+[18:21:20] <PAYload> sja bara prata med bellan
+[18:21:21] <tatuering> ni får all info när allt är klart
+[18:21:32] <PirateBoy^> bra bra
+[18:21:39] <eTxek> jag ska tydligen äta
+[18:21:41] <eTxek> brb
+[18:21:46] <ZekE^> ok PAYload
+[18:21:48] <PAYload> tack tatuering§
+[18:21:55] <ZekE^> hoppas det är fsb ^^
+[18:21:57] <Creative> En fråga, är det Endast scene som gäller på sidan? För det kommer upp en hel del Icke scene.
+[18:22:02] <RadioMaister> Vi e på gång. Vi e laddade vi e tända =D
+[18:22:09] * ZoaX (ZoaX@213-65-76-90-no91.tbcn.telia.com) has joined #uploader.softtorrents
+[18:22:19] <ZekE^> Creative om man ska lägga upp på deras ftp så lär de ju bara bli scen
+[18:22:38] <egono> ja varför
+[18:22:42] <Creative> jo, men nu menar jag Softtorrents.
+[18:22:45] <RadioMaister> Creative . jag tycker scene på "start" så att säga. Sedan om man rippar eget för request och man frågar personen som har requestat att det är okay så tycker jag inte det borde vara några problem
+[18:22:55] <tatuering> även rellar som är rippade efter scen är ok såsom GM4Y o OLWE med flera då dom gör bra rellar, men eget hemmarippat är inte ok
+[18:22:56] <PAYload> allt kommer att klarna
+[18:23:04] <druqs-> Bättre information till alla som frågar om dom kan bli uploaders kanske vore bra. Vad som igentligen får laddas upp osv.
+[18:23:25] <iceman73> bara det är bra rls
+[18:23:28] <ZekE^> ja ladda iofs bara upp prog å spel å lite tv
+[18:23:31] <ZekE^> har inte så bra ul
+[18:23:38] <PAYload> är ni så jävla elit så borde ni oxå hajja
+[18:23:42] <ZekE^> prog musk even
+[18:24:11] <druqs-> vad menar du PAYload?
+[18:24:25] <PAYload> ja, gråga du nån annan
+[18:24:42] <PAYload> ja, fråga nån annan
+[18:24:47] <PAYload> Laughing Out Loud
+[18:24:50] <tatuering> nää nu skiter jag i detta o glor på film istället
+[18:24:58] <PAYload> gott
+[18:25:02] <PAYload> tat
+[18:25:07] <PAYload> älskar dig
+[18:25:50] <PirateBoy^> det här kommer bli bra tror ja....
+[18:25:52] <PAYload> ifall mötet ska har gett nått så borde du fattat nått
+[18:25:52] <robban76> är det per månad som man ska betala eller?
+[18:26:04] <PAYload> inte betqlq
+[18:26:10] <PAYload> vq int e dum nu
+[18:26:14] <robban76> hehe
+[18:26:26] <robban76> skojar bara
+[18:26:35] <PAYload> vi vill bara ha hjälp med diskarna
+[18:26:47] <robban76> har fattat det
+[18:26:49] <PAYload> allt annat lan du drömma om
+[18:26:54] <druqs-> Men jag antar att det kommer ut ett PM eller liknande inom en snar framtid med mer information, så nu kilar jag med.
+[18:27:03] * egono (hej@c83-251-126-169.bredband.comhem.se) Quit (Quit: ( www.nnscript.de :: NoNameScript 4.02 :: www.XLhost.de ))
+[18:27:18] <PAYload> nej.. inte publik
+[18:27:25] <PAYload> bara uploaders
+[18:27:34] <Creative> givetvis förstår vi det
+[18:27:36] <Hyponotic> =)
+[18:27:42] <PAYload> viv vill inte störa users
+[18:27:50] * RadioMaister Spelar: VA - Groove Coverage - Let it Be [03:33m/200Kbps/44KHz/good Quality] <<->> http://radio.softtorrents.org:6886/listen.pls
+[18:27:51] <ziggen> en fråga
+[18:27:54] <PAYload> bara uploaders
+[18:28:01] <PAYload> kör på
+[18:28:05] <druqs-> Tror att vi har fattat det med PAYload
+[18:28:12] <PAYload> okewj
+[18:28:17] <Hyponotic> PAYload så det blir inga underkategorier?
+[18:28:33] <ziggen> om det nu är nicklas som driver sidan varför är han inte med här??
+[18:28:38] <PAYload> vad det gäller ftp så är det bara OSS
+[18:28:43] <PAYload> uploaders
+[18:28:52] <PAYload> bara vi
+[18:29:02] <ZekE^> jojo
+[18:29:14] <ziggen> okej
+[18:29:22] <PAYload> vad mer vukk du ha ?
+[18:29:27] <PAYload> cull
+[18:29:32] <PAYload> cull
+[18:29:33] <ZekE^> PAYload: men vi ska bara ha ftp då, ingen irc-kalal som den e kopplad till eller så?
+[18:29:39] <ZekE^> kanal
+[18:29:47] <RadioMaister> ZekE^ . vi har ju denna :S
+[18:29:47] <PAYload> ftp kör vi.. inte du..
+[18:29:51] <Henke> denna e det som är "kopplad"
+[18:29:56] <ZekE^> men ja tänkte mer så man ser va som kommer upp
+[18:30:09] <RadioMaister> Bara att titta in lite då och då kanske? ;)
+[18:30:12] <Henke> du får väl kolla på ftpn
+[18:30:23] <ZekE^> RadioMaister jo men de kan va lite jobbigt
+[18:30:32] <Creative> haha
+[18:30:34] <PAYload> det som uppas på servern uååas ju på¨tarackern.. problem med et =
+[18:30:35] <ZekE^> lättare om man bara har en irc kanal där man ser allt nytt som kommer upp
+[18:30:35] <ZoaX> Vill ursäkta att jag inte kom i tid till mötet men hade en middag men hela släkten ikväll, hoppas ni förlåter mig :)
+[18:30:48] <RadioMaister> PAYload . vad har du druckit ? =D
+[18:30:49] <PAYload> DET ÄR JU DET SOM ÄR POÅNGEN
+[18:31:12] <PAYload> £åügHîñg Øüt £öüÐ
+[18:31:34] <PirateBoy^> jag är på iaf. mat nu..later 
+[18:31:41] <Creative> är mötet avslutat?
+[18:31:45] <ZekE^> jaja, finns de nåt datum när den ftp kommer i bruk då
+[18:32:14] <PAYload> då kör vi så fort belmakor vaknar
+[18:32:18] <iceman73> ok
+[18:32:25] <PAYload> inget datum
+[18:32:28] <Henke> ska vi sortera det efter datum på ftpn?
+[18:32:38] <robban76> måste dra.........hörs alla uploaders
+[18:32:40] * robban76 (ST@c-c21ce655.62-2-64736c10.cust.bredbandsbolaget.se) Quit (Quit: SoftTorrents forever!)
+[18:32:44] <Henke> och sen kanske ändra filnamnet när man laddat upp den på soften
+[18:32:46] <PAYload> men det rockar så fort bellan är vaken
+[18:33:13] <Henke> PAYload, har du mig på ignore eller?
+[18:33:15] <ZekE^> men ni har burk, men ingen hårddisk?
+[18:33:29] <eTxek> får ju sortera allt i datum
+    
+          *************************
+
+[18:33:39] <Creative> Hur många här har access till siteringar?
+[18:33:47] <ZekE^> jag
+[18:34:14] <Creative> jag också, inga fler? :D
+
+          *************************
+
+[18:34:22] <eTxek> neo
+[18:34:25] <ZekE^> antagligen har väll de flesta de
+[18:34:32] <Creative> eller inte :)
+[18:34:43] <Henke> nope, men har andra bra källor
+[18:34:51] <Creative> Swebits? :D
+[18:34:54] <ZoaX> Dom flesta med bra lina har nog det men om man har dålig lina är det kanske inte så stor idé?
+[18:34:54] <Henke> He He He
+[18:34:55] <eTxek> :D
+[18:34:55] <Henke> NEJ
+[18:35:18] <eTxek> fixa in mig tack
+[18:35:41] <Henke> jag skulle ju inte tacka nej:P
+[18:35:48] <ZoaX> nej vem skulle det :D
+[18:35:49] <Creative> fixa in till vad?
+[18:35:58] <eTxek> till ringeN
+[18:36:00] * egono (po@c83-251-126-169.bredband.comhem.se) has joined #uploader.softtorrents
+[18:36:08] <Creative> hehe glöm det ;)
+[18:36:13] <eTxek> ;P
+[18:36:26] * egono (po@c83-251-126-169.bredband.comhem.se) has left #uploader.softtorrents
+[18:36:34] * egono (po@c83-251-126-169.bredband.comhem.se) has joined #uploader.softtorrents
+[18:36:55] * egono (po@c83-251-126-169.bredband.comhem.se) Quit (Quit: ( www.nnscript.de :: NoNameScript 4.02 :: www.XLhost.de ))
+[18:37:08] <blobocop> Nej, dags att dra sig vidare. Ha det gott folket.
+[18:37:18] <Creative> Äh, nu drar jag, cya!
+[18:37:23] * blobocop (blob@152.55.227.87.static.ks.siw.siwnet.net) Quit (Quit)
+[18:37:28] <ZekE^> ja me
+[18:37:31] * Creative (Creative@me-94-114-233-83.3.cust.bredband2.com) has left #uploader.softtorrents
+[18:37:39] <Henke> jahopp
+[18:37:46] <Henke> so much for that shit
+
+
+
+

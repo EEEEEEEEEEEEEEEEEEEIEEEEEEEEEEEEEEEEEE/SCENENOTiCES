@@ -1,0 +1,151 @@
+
+*** MagicKingdom AKA #MK ***
+
+about 2 weeks ago a paysite was discovered in NL.
+the site was found mirror'ing every release from a site called MK/FL/ARCH
+every release uploaded to MK was instantly mirror'd to the paysite.
+a few weeks ago a "look/look" account was floating around is to how this was found
+after logging in with this look/look account i noticed all the siteops from MK
+were also on this paysite.
+being " SootY joeSnow sp "
+SootY being the head guy was confronted with this.
+He took down the site instantly and this is what he has to say.
+--------
+<SootY> evening
+<SootY> all
+<SootY> all stand in line b4 u hit me with a thousand msgs
+<SootY> had a phone call today about something about a paysite and this site ... not true .. u all know me well enuff by now to know that i disagree with all that shit .. with that said .. i know there has been shit being mirrored from here
+<SootY> we did some inverstigation
+<SootY> we had some work done on boxes ... maintenance by leaseweb .. the guy who did maintenence found our site and thought it would be okay for him to "borrow" them by the looks of things
+<SootY> this has really annoyed me guys and all i can say is sorry but i didnt know it was happening .. and since maintenance we aint really checked anything on the boxes or we wouldve caught this shit b4 it got this far
+<SootY> the /etc/exports file contained each section exporting to a internal nic so we didnt notice traffic :/
+<SootY> needless to say we have fixed the problem and made sure (or joe is making sure) it cant and wont happen again ... but with that said im sure u are all pissed off with me already
+<xxxx> do you know how long this has been going on ?
+<SootY> yes we are positive that it has only happened since maybe 3 or 4 days ago when we had maintenance work done
+<SootY> the guy seen the lubberly warez and thought ill have a piece of that
+<SootY> infinity im pretty sure u are one of the guys who will know that im against all this kind of stuff
+<xxxx> what sorta stuff is joe doing to prevent this from happening again? and how do you know the maintenance guy isnt just going to report the box
+<SootY> root pas has changed now .. and will be changed after anymore maintenance .. also we are making sure all nfs mounting is disabled
+<SootY> also .. we will be unmounting the loop-aes stuff (usefiles etc etc b4 any maintenance
+<SootY> to encrypt a full box i.e contents of /site .. is very HIGH on resourcs .. so it makes sense only to encrypt things like userfiles etc etc should it fall into the wrong hands
+<SootY> and tbh its a little hard to phone leaseweb up and say look fella ya man who did ma maintenance has mounted all ma warez
+<SootY> key is like 5 thousand letters and shit .. i dont even know it tbh haha
+<SootY> yes because the guy was nfs mounting the contents of /site to an internal ip at leaseweb .. code
+<SootY> i fully understand ppl if they wanna leave site
+<SootY> in all my years at this shit it really hurts when this kinda stuff happens :/
+<SootY> first question
+<SootY> im not too good with really techie stuff but i will do ma best
+<xxx> well SootY
+<SootY> ask me xxx
+<xxx> i was browsing around in the demo account
+<xxx> and i saw some nicks
+<xxx> one of em was
+<xxx> sp
+<SootY> yes i have sp here
+<xxx> after that i raced a fake rls here
+<xxx> and i did !who
+<SootY> i can only think the guy has seen this nick and thought that would do .. and used it himself
+<xxx> [16:19:33] [|MK|]: +-----------------------------------------------------------------------+
+<xxx> [16:19:35] [|MK|]: | sp /STAFF | Idle: 00:00:37 | 0%: |
+<xxx> [16:19:37] [|MK|]: | hmmmmm | since 02:42:54 | file: |
+<xxx> [16:19:39] [|MK|]: +-----------------------------------------------------------------------+
+<xxx> and then i tough, maybe that guy is mirroring to an other site
+<SootY> nah cos users werent mirrored only sections
+<SootY> this is an account that was made by him on his own glftpd the one used for that look account
+<SootY> only thing i can think of is he just used nick cos he seen it here
+<SootY> sp hasnt done this he wouldnt know how to
+<SootY> pls ask me more questions cos i wanna clear this up (if possible) if not then i understand if u would all want to leave .. i feel real bad about this guys :/
+------ blah blah blah
+anyhow 3 days after they said they have fixed EVERYTHING and this would not be possible to happen again.
+I did some researching.
+w00t hacked paysite login once again
+and noticed MK is STILL being mirror'd
+so i personally confronted SootY once again.
+this is what happens next.
+He says sp which is the owner of FL and ARCH is the one who has been doing this ALL along.
+and now sp is deleted and MK loses 2 boxes.
+Great thinking we finally took these fags down.
+the paysite ip and MK ip both change.
+I do some research a couple days later and find the new ip for the paysite.
+I hack yet ANOTHER account and login to the paysite and first thing i check to see is if MK is still being mirror'd
+it is not.
+But here is a funny thing. MK starts allowing pr0nstars races all of a sudden.
+well all of a sudden pronstars releases start being sent to paysite INSTANTLY.
+-------
+outcome I think SootY is 100% responsible for this paysite.
+as SootY login works on the paysite
+I asked him about this and he says " maybe he is setting me up "
+bullshit
+SootY and joeSnow are both responsible for this paysite as much as sp is.
+----
+There is an attached jpg showing all the users on the paysite ect.
+If you notice adymags and baggy are both also on this paysite
+both are with cRacKPoTs i think both are same person honestly but i could be wrong.
+After the second time of questioning SootY he was asked about the cRacKPoTs members which also affil MK
+instantly SootY deletes/purges them from MK
+and instantly adymgs joins #MK with a new username same ident@ip how stupid these ppl think we are.
+Besides SootY if you were so innocent wouldnt you have questioned cRacKPoTs to find out why they were on this paysite
+guess not cause you knew all along thats why you readded him as a differant username.
+-----
+SootY has started to say he is about to close MK down and start a UK giga site. We can't allow this to happen.
+SootY has made SOOOOO much money selling leech he wants to move to .uk
+this is very bad for the scene.
+-----
+Also this paysite has 3 ftpds running all with payslots on them
+the one you will see in the jpeg is of 1 of the 3 paysites with 91 users
+the other 2 ftpds have roughly the same amount
+approximatly 250 users paying for leech.
+These people are making a killing.
+-----
+I was going to paste affil names in this nfo of MK but thats uncalled for. 
+If you affil MK or curry it please ask for a deluser/purge as you are risking your freedom
+to be on this site.
+-----
+Here is some technical information for those of you who know anything about it.
+ftp://lookt:look@yourftp.myftp.biz:37596/ - this was the original look/demo account which was being passed around for prospecting customers.
+Resolved 83.149.96.59 to yourftp.myftp.biz - this was the original ip of the paysite.
+3 ports were found open on this paysite all running glftpd
+port 37596
+port 1666
+port 12345
+All running glftpd all using differant userfiles.
+The same exact day MK gets an ip change the paysite also does the same thing.
+New ip's for paysite are as followed
+83.149.96.45
+83.149.96.22
+you can connect to either of those ips with the ports listed above and see glftpd running.
+now if you are a unix monkey you can login to a unix box and type
+showmount -e 83.149.96.45
+and you will see this
+Export list for 83.149.96.45:
+ /glftpd/site/tv 192.168.0.0/15
+ /glftpd/site/psp 192.168.0.0/15
+ /glftpd/site/gps 192.168.0.0/15
+ /glftpd/site/0day 192.168.0.0/15
+ /glftpd/site/svcd 192.168.0.0/15
+ /glftpd/site/anime 192.168.0.0/15
+ /glftpd/site/tvdvdr 192.168.0.0/15
+ /glftpd/site/ps2dvdr 192.168.0.0/15
+ /glftpd/site/pcgames 192.168.0.0/15
+ /glftpd/site/boxsets 192.168.0.0/15
+ /glftpd/site/xxx-dvdr 192.168.0.0/15
+ /glftpd/site/xboxdvdr 192.168.0.0/15
+ /glftpd/site/_archive_/tv 192.168.0.0/15
+ /glftpd/site/_archive_/svcd 192.168.0.0/15
+ /glftpd/site/_archive_/ps2dvdr 192.168.0.0/15
+ /glftpd/site/_archive_/pcgames 192.168.0.0/15
+ /glftpd/site/_archive_/xbox.archive/0-R 192.168.0.0/15
+every section that was and is on MK are exact mirror's to this paysite.
+-----------
+I've givin you plenty of chances to prove yourself SootY but I have came to the conclusion you are a liar 
+and are making money off the scene and are fucking lame and are now being scene banned.
+Im sure you will change your nick and talk your way back on sites like most people do.
+But i will nto be a part of MK or any sites selling leech. The only purpose of this nfo
+is to let all the ppl in MK you have been bullshitting know that you have been behind all this trash from the start.
+and that it is STILL going on.
+No matter how many times you have said you fixed.
+-----
+If more information is required for anyone just pre a nfo letting me know what you need :)
+Im out pz.
+                
+P.S. This is why leaseweb sucks ass. Fucking faggot leech sellers DIE!!

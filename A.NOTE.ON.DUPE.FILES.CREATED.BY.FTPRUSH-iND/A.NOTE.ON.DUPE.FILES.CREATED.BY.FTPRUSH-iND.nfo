@@ -1,0 +1,41 @@
+RELEASE NAME: A.NOTE.ON.DUPE.FILES.CREATED.BY.FTPRUSH-iND
+RELEASE DATE: 05 Jun 2008
+TYPE: INFORMATION
+PRIORITY: LOW
+FOR DUMB MOFOS: YES
+
+
+
+
+I'm noticing that a lot of people still have problems with FTPRush creating files that look like this:
+1. original file: filename.extension
+2. dupes that rush creates: filename(number).extension
+
+
+So number in the brackets changes and there can be many dupes of the same file. That goes for nfo, rars and any other file type.
+The problem is that by default, FTPRush is set to RENAME files if it sees a file with the same name, but which is larger than the original. And since a lot of people don't get into the settings, well, that's the reason for those fuckups.
+
+
+Why are those files "bad"? They:
+1. Make you waste your credits
+2. Make you waste site's traffic
+3. Waste site space
+4. Make you look like an imbecile. And a lame mofo too ;x
+
+
+Here's how to fix it. In FTPRush, to go
+1. TOOLS
+2. OPTIONS
+3. FILE EXISTS
+
+and change:
+TARGET FILE IS LARGER to AUTO OVERWRITE (default was: auto rename). For those who still unclear, see screenshot inside the .rar
+
+
+That's all you have to do. After that there will be no more filename(number).extension dupes.
+For those who know this already, sorry. For those who just discovered this: you lazy mofos!!!
+
+
+
+pz
+and long live the scene.

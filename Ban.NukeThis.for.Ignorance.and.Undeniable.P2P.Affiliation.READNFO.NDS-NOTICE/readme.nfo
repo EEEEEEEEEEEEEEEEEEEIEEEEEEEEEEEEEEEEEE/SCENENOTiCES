@@ -1,0 +1,81 @@
+NukeThis is a terrible group with no standards.  Their leading member,
+npickr, is so incredibly delusional, that even though he has absolutely no
+idea what he is talking about, his total confidence in his false rambling
+has secured him an undeserved position of authority in the section.
+
+While they have needlessly released dupe games under the tag "CLEAN" for
+several weeks, his recent activity is of more interest.  NukeThis
+characteristically has released one or two games each week, but last week,
+they released _six_ games in a single day.  What's even more interesting to
+know is that every single one of them were repacked from P2P.
+
+A quick search on Google reveals that a P2P romsite, "NDSUniverse", is the
+source of every release that NukeThis pre'd on July 15th.  The site contains
+a special section intended for donaters only, where the siteowners dump and
+host exlusive games in an attempt to lure more members to pay the $25-50 fee
+to leech repacked scene warez.  All of the following releases appeared on
+this http paysite a full day before their respective NukeThis pres:
+
+Think_Senses_EUR_NDS-NukeThis
+Think_Kids_EUR_MULTI2_READNFO_NDS-NukeThis
+The_Quest_Trio_EUR_NDS-NukeThis
+Samantha_Swift_and_the_Hidden_Roses_of_Athena_EUR_MULTi2_NDS-NukeThis
+Chronicles_of_Mystery_Curse_of_the_Ancient_Temple_
+                                           EUR_MULTi5_READNFO_NDS-NukeThis
+Agatha_Christie_The_ABC_Murders_EUR_MULTi5_READNFO_NDS-NukeThis
+
+[see 01.png , 02.png]
+
+This is not coincidence.  These games vary in region, publisher, and
+release date.  The only reason for this grouping is that they originate
+from a public P2P romsite.  Games that NukeThis did not pre have also
+appeared recently, packed as -iND.
+
+In addition to these P2P ties, the group appears to have zero knowledge of
+the workings of the NDS.  Their slew of releases yesterday further
+demonstrate their ignorance.  To begin, the obscurely tagged
+Dragon_Ball_Origins_2_USA_CLEAN_NDS_NukeThis includes this gem of wisdom:
+"this works on DSTWO and all CLEAN versions will work on future hardware.".
+It must be nice to live in the world of NukeThis, where they are somehow
+able to see into the future, and are able to confidently claim that sometime
+in the future, their uncracked garbage dupe release will work on hardware
+that is yet to exist.  The release contains anti-piracy checks that they
+did not remove, and, while we do not live in the future like NukeThis,
+know that in the present day, this release will fail on the majority of
+flashcarts currently available.  Similarly, 
+Petz_Hamsterz_Superstars_USA_NDS-NukeThis contains custom protection
+which they are probably unaware of, and make no effort to remove.
+They have no concern for whether their release even functions, as they
+would know that the game fails if they had bothered to test it.
+
+Further, the group is able to publicly contradict themselves on the same
+day.  If one looks at Imagine_Babyz_Fashion_USA_MULTi3_DSi_NDS-NukeThis_iNT,
+you will find the quote, "When DSi games are properly dumped you WILL get
+nuked so pre internal or regret it later :-P".  Unaware to NukeThis, DSi
+sections of games have already been correctly dumped and released by groups
+such as RFTD.  The NukeThis release lacks this data, so they have
+correctly tagged their incomplete garbage as Internal.  One might assume
+that if NukeThis is giving advice, they might follow it themselves.
+However, just hours beforehand, they released Toy_Story_3_USA_NDS-NukeThis,
+a DSi enhanced title.  This release is missing data and is incorrectly
+tagged.  If only someone had warned NukeThis to tag their release as
+Internal or else risk a nuke.
+
+And finally, in their most tremendous act of incompetence yet, we turn to
+Astro_Invaders_USA_CLEAN_NDS-NukeThis.  This SAME EXACT GAME was released
+the day before as Astro_Invaders_USA_NDS-SUXXORS.  The SUXXORS release
+works fine, and yet NukeThis decides to release a CLEAN version, an
+"untouched" copy for the collectors.  However, it seems as if their
+release is not as clean as they thought.  I invite any of you to open up
+the release in a hex editor.  Please scan to offset 0x00501C98 and read
+what you see there.  [03.png]  If that's not enough for you, why don't you
+play their "untouched" "clean" release for yourself.  Check out the credits.
+[04.png]  It must be embarrassing when you are so desperate for a release
+count you release a dupe, pretending it has merit through the fact that it
+is "clean", when in fact you are spreading P2P garbage that DIRECTLY CALLS
+YOU OUT AS P2P WITHIN THE FILE.
+
+He's been telling you himself for a long time with his group name.  I
+suggest that it's time to finally listen.  Please, "NukeThis" group's
+releases.  Deluser them from your sites, boot them from nukenets, and
+purge this ignorance.

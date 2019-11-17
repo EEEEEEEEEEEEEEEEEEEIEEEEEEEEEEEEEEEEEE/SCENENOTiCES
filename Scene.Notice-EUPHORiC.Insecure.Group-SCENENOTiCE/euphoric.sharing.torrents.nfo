@@ -1,0 +1,180 @@
+
+
+.....BACKGROUND.....
+
+So a new webgroup shows up, with members that nobody seems to know. Suspicions are raised
+but dismissed by some in the scene as being suspicions from jealous sceners, frustrated by this new
+groups willingness to pre lots of fresh Beatport material.
+
+Those who thought it about knew that strangers simply don't wander into the scene. They must have
+knowledge of it. They've either come from P2P networks, or they've been recruited by a scene group or 
+perhaps split from another scene group.
+
+Well EUPHORiC stank from the word go. A lot of Trance these days is freely available on P2P forums as
+leaked 320kbps mp3s way before the scene rel comes out. EUPHORiC's obsession with 320kbps raised our
+curiosity. They/He didn't seem to split from any known group. Could it be that they came from P2P?
+
+That itself isn't a huge crime, perhaps they've abandoned their P2P sharing and embraced the scene? Or
+perhaps they're still actively involved with P2P networks and forums and all things 320kbps.
+
+Well we done some digging and we can confirm that at least 1 EUPHORiC member is stupid enough to 
+still carry on uploading torrents of scene releases and take part in seeding these torrents on 
+TranceTraffic and Tranceroute.
+
+
+
+.....THE EVIDENCE.....
+
+IRC Servers: several IRC servers where we encountered the EUPHORiC member known as Jarryd
+
+* [jarryd] (riposte@im.jarryd): jarryd
+* [jarryd] is a registered nick
+* [jarryd] @#xbox360 #utorrent #trancetraffic #Pornbits #P2P-Net #oink @#MiNiMAL 
+* [jarryd] area51.us.p2p-network.net :P2P-NET
+* [jarryd] is using a Secure Connection
+* [jarryd] End of WHOIS list.
+
+irc.p2p-network.net:6667
+
+-----------------
+
+
+* [jarryd] (pancakes@im.jarryd.net): My real name?
+* [jarryd] efnet.xs4all.nl :homosexuals are gay
+* [jarryd] 85.17.216.33 :actually using host
+
+Efnet BNC
+
+-----------------
+
+* [siphonate] (siphonate@ppp121-45-235-156.lns10.adl6.internode.on.net): EGADS!
+* [siphonate] irc.easynews.com :your usenet, our world.
+* [siphonate] 121.45.235.156 :actually using host
+
+Efnet (taken before he pinged out, IP subsequently changed to 121.45.167.110 once he was back online)
+
+-----------------
+
+* [jarryd] (jarryd@ppp121-45-167-110.lns11.adl2.internode.on.net): jarryd
+* [jarryd] is a registered nick
+* [jarryd] #mp3shops %#BBC.Radio.1 #armind #afterhours 
+* [jarryd] anjuna.il.us.mixxnet.net :Anjunabeats MIXXnet IRC Server
+
+irc.mixxnet.net:6667
+
+-----------------
+
+Using his real IP address (121.45.167.110) we were able to browse his home server as he was openly
+running an Apache webserver. Note, he has a Dynamic IP address.
+
+----->	NOTE: check listing.htm this is the main index that Apache was serving.
+
+We already knew this guy was in EUPHORiC, siteops will also recognise the IP and Nickname. We were
+not looking for proof that this guy was in EUPHORiC but nonetheless found some small things
+anyway. There are many references to Jarryd in listing.htm. So we know that Jarryd = Siphonate.
+
+----->	NOTE: img001.jpg as listed in listing.htm is a hi-res scan of a release 
+	28.11.2007 VA-One_Love_Mobile_Disco-3CD-2007-EUPHORiC
+
+----->	NOTE: nforeplace dir was actually a EUPHORiC .nfo file creator with some php/java
+	scripting and forms to allow the input of Artist/Title etc. Sadly because it's
+	server side scripting i wasn't able to save the .php file since client users
+	can't see the code. So i can't prove it existed!
+
+Anyways, im happy that this guy belongs to EUPHORiC. Now onto the proof that he uploads and shares
+scene material on torrents.
+
+The moron actually has a screenshot on his own website.
+
+----->	NOTE: http://images.jarryd.net/theirsoryours.PNG
+-----> 	NOTE: image1.PNG (same image in case his website is closed)
+
+Says it all really. Trancetraffic and Tranceroute websites open showing him logged in to both.
+
+-----> 	NOTE: jarrydtt1.jpg
+-----> 	NOTE: jarrydtt2.jpg
+
+Images we've obtained ourself showing Jarryd sharing a whopping 329gb on Trancetraffic alone, with
+several torrents he's uploaded himself of scene releases.
+
+----->	NOTE: ttpriv-1.mrc.txt
+
+An MIRC script Jarryd uses for inviting to the Trancetraffic channel. You can see it listed in
+listing.htm.
+
+Now onto Jarryds friends!
+
+He's associated with a guy who's nickname is Silxx who i assume is a TranceTraffic Admin, so 
+well in fact that he's hosting Silxx's BNC on his own server @ Leaseweb.
+
+-----------------
+
+* [Silxx] (pancakes@really.silxx.net): Silxx
+* [Silxx] #fifa09 +#Stealth360 
+* [Silxx] efnet.xs4all.nl :Proudly relaying oper-only info for five years!
+* [Silxx] idle 05:20:43, signon: Mon Oct 20 16:21:36
+* [silxx] End of WHOIS list.
+
+Efnet BNC
+
+-----------------
+
+* [Silxx] (pancakes@trancetraffic.noobie): Silxx
+* [Silxx] is a registered nick
+* [Silxx] &#trancetraffic &#MiNiMAL ~#xbox360 
+* [Silxx] area51.us.p2p-network.net :P2P-NET
+* [Silxx] is using a Secure Connection
+* [silxx] End of WHOIS list.
+
+P2P-Net
+
+-----------------
+
+silxx.net resolves to 85.17.216.34, owned by Jarryd. Leaseweb offer 2 IP addresses for their 
+dedicated servers and Jarryd already has his own website at 85.17.216.33.
+
+Now a simple google search brings up many interesting links of Silxx + Trancetraffic
+
+----->	NOTE: http://www.google.co.uk/search?hl=en&q=silxx+trancetraffic&btnG=Google+Search&meta=
+
+Including this little gem: Trance Traffic 4th Aniversary Birthday Bash July 2008 - Mixed by Silxx,
+and this forum post: http://filesharingtalk.com/vb3/f-bittorrent-43/t-tt-mods-come-here-now-1-235972/ 
+about a TT user complaining his account is hacked and someone else responds that Silxx is the man to
+fix it!.
+
+----->	NOTE: silxx_only.txt
+
+also available at Jarryds website! http://www.jarryd.net/files/silxx_only.txt
+
+Appears to be a linux log file from commmand line showing Silxx how to encode .wav files and adding 
+ID3 tags to MP3s, they even used the EUPHORiC pre and .wavs they bought from Beatport as an example!.
+
+Good stuff EUPHORiC.
+
+----->	NOTE: silxxtt1.jpg
+----->	NOTE: silxxtt2.jpg
+
+Silxx uploading a whopping 4TB, probably nearly all scene releases.
+
+Is Silxx with EUPHORiC also? perhaps. Strange why Jarryd is showing Silxx how to encode .wav to .mp3 
+and using a EUPHORiC example. Regardless of Silxxs's activities, we've proven that Jarryd associates 
+with Silxx, a known TranceTraffic admin.
+
+
+
+.....CONCLUSION.....
+
+Jarryd = Siphonate
+
+He's active on TranceTraffic and Tranceroute websites. He's shared scene releases and
+continues to remain active on these torrent sites.
+
+He's associating himself with a TranceTraffic admin, Silxx, who may or may not be in EUPHORiC, but
+its quite possible that he is.
+
+His attitude to the security of himself and his group is non-existent. We obtained all this info
+with simple searches, IP whois' and NO HACKING.
+
+Do you really want these guys on your site? Or perhaps you were stupid enough to take them
+already without thinking first. WEB groups with no established scene members are the biggest
+risk to your site and the scene.

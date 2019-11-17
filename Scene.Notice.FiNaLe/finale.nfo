@@ -1,0 +1,200 @@
+Okay , after a breach in security at a site we investigated some things and found the GADMIN of FiNaLe was behind hacking
+a siteop account (we still dont know exactly waht happened our best educated guess is a socks proxy form an addline)
+this user is a massive security risk and if your site is affiliating FiNaLe i would reccommend highly that u drop them now.
+when confronted about this he acted dumb lol.
+i dont really want to go into Details so i have included a few logs from our encrypted archive for your viewing pleasure
+
+[1] site user dood
+[1] 200- User Comment: Added by CENSORED
+[1] 200- +=======================================================================+
+[1] 200- | Username: dood                     Created: 07-12-05                  |
+[1] 200- | Added by: CENSORED                    Expires: Never                     |
+[1] 200- | Time On Today: 01:10:27            Last seen: Thu Jul 14 15:30:22 2005|
+[1] 200- | Flags: 23                          Idle time: Disabled                |
+[1] 200- | Ratio: Unlimited                   Credits:    2111.2 MB              |
+[1] 200- | Total Logins: 26                   Current Logins: 0                  |
+[1] 200- | Max Logins: 2                      From same IP: Unlimited            |
+[1] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: 1               |
+[1] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[1] 200- | Times Nuked: 0                     Bytes Nuked:      0 MB             |
+[1] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[1] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[1] 200- | Tagline: No Tagline Set                                               |
+[1] 200- | Groups: *FiNaLe    <------- GADMIN OF FiNaLe                          |
+[1] 200- | Priv Groups:                                                          |
+[1] 200- +-----------------------------------------------------------------------+
+[1] 200- | IP0: *@68.109.29.*                 IP1:                               |
+[1] 200- | IP2:                               IP3:                               |
+[1] 200- | IP4:                               IP5:                               |
+[1] 200- | IP6:                               IP7:                               |
+[1] 200- | IP8:                               IP9:                               |
+[1] 200- +=======================================================================+
+[1] 200 Command Successful.
+.....
+SITE 1 :
+
+Wed Jul 13 15:10:30 2005 [10232 ] LOGOUT: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) "dood" "FiNaLe" "No Tagline Set"
+Wed Jul 13 17:29:43 2005 [22496 ] LOGIN: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) NONE "dood" "FiNaLe" "No Tagline Set"
+Wed Jul 13 17:42:10 2005 [22496 ] LOGOUT: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:13:16 2005 [17335 ] dood: *@sylvaner.parisgeo.cnrs.fr (193.55.107.11): Bad user@host.
+Thu Jul 14 03:17:21 2005 [18188 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:20:45 2005 [19287 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:21:04 2005 [19287 ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:22:45 2005 [19712 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:22:56 2005 [19712 ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:25:06 2005 [20108 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:26:31 2005 [20551 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:26:33 2005 [20551 ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:28:37 2005 [20993 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 03:29:57 2005 [20993 ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 06:24:15 2005 [26340 ] LOGIN: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 06:25:50 2005 [26660 ] LOGIN: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 06:27:09 2005 [26660 ] LOGOUT: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 06:31:51 2005 [26340 ] LOGOUT: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 06:35:19 2005 [15481 ] LOGIN: doodman@ip68-109-29-87.ri.ri.cox.net (68.109.29.87) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 07:45:26 2005 [4546  ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 07:46:29 2005 [5401  ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 07:46:31 2005 [5401  ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 07:48:40 2005 [4546  ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 07:58:20 2005 [11101 ] LOGIN: <UNKNOWN>@158.250.31.9 (158.250.31.9) NONE "dood" "FiNaLe" "No Tagline Set"
+Thu Jul 14 08:01:31 2005 [11101 ] LOGOUT: *@158.250.31.9 (158.250.31.9) "dood" "FiNaLe" "No Tagline Set"
+------------------------------------------------------------------------------------------------------------
+SITE 2: (wegrepped some other logs on another site to see if the IP's matched and found that the site ip was added by a site op and he is aware of this THE SECOND SITE WAS NOT HACKED (dood asked for the IP add))
+[ 14:48:59 ]  [ @**** ] ./sitebot.log:Thu Jul 14 09:00:35 CEST 2005 IRCConnection: RCV = :dooDman-0!none@158.250.31.9 PRIVMSG |CENSORED-SITENAME| :!invite dood getback
+[ 14:49:02 ]  [ @**** ] ./sitebot.log:Thu Jul 14 09:00:42 CEST 2005 IRCConnection: RCV = :irc.sh.cvut.cz 311 |CENSORED-SITENAME| dooDman-0 none 158.250.31.9 * :dooDman-0
+[ 14:49:06 ]  [ @**** ] ./sitebot.log:Thu Jul 14 09:00:42 CEST 2005 f00f.net.irc.martyr.util.ParameterIterator@1d0f3b: Params: ` |CENSORED-SITENAME| dooDman-0 none 158.250.31.9 * :dooDman-0'
+[ 14:49:08 ]  [ @**** ] ./sitebot.log:Thu Jul 14 09:00:47 CEST 2005 IRCConnection: RCV = :dooDman-0!none@158.250.31.9 JOIN :#CENSORED
+[ 14:49:11 ]  [ @**** ] ./sitebot.log:Thu Jul 14 09:09:00 CEST 2005 IRCConnection: RCV = :dooDman-0!none@158.250.31.9 QUIT :Quit: LinkNet IRC Network
+[ 14:49:15 ]  [ @**** ] ./debug.log:DEBUG 14 júl. 2005 12:48:28 - << site addip dood *@158.250.31.*
+
+
+SITE 1 GROUP FILE:
+[1] site users =FiNaLe
+[1] 200- Detailed User Listing...
+[1] 200- dood            FiNaLe     UL:    0MB      DL:  772MB      Credit:  2111MB
+[1] 200- nonphixion      FiNaLe     UL:    0MB      DL:  359MB      Credit:  1820MB
+[1] 200- Uploaded:       0MB Downloaded:    1131MB Files Up:     0 Files Down:    82
+[1] 200- SITEOPS=0, GADMINS=1, LEECH=1, DELETED=0
+
+[02:48am] ******** Woopie            !       w00pie@158.250.31.9                                                 [clients]
+
+[1] site user dood
+[1] 200- User Comment: Added by CENSORED
+[1] 200- +=======================================================================+
+[1] 200- | Username: dood                     Created: 07-12-05                  |
+[1] 200- | Added by: CENSORED                    Expires: Never                     |
+[1] 200- | Time On Today: 01:10:27            Last seen: Thu Jul 14 15:30:22 2005|
+[1] 200- | Flags: 23                          Idle time: Disabled                |
+[1] 200- | Ratio: Unlimited                   Credits:    2111.2 MB              |
+[1] 200- | Total Logins: 26                   Current Logins: 0                  |
+[1] 200- | Max Logins: 2                      From same IP: Unlimited            |
+[1] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: 1               |
+[1] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[1] 200- | Times Nuked: 0                     Bytes Nuked:      0 MB             |
+[1] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[1] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[1] 200- | Tagline: No Tagline Set                                               |
+[1] 200- | Groups: *FiNaLe                                                       |
+[1] 200- | Priv Groups:                                                          |
+[1] 200- +-----------------------------------------------------------------------+
+[1] 200- | IP0: *@68.109.29.*                 IP1:                               |
+[1] 200- | IP2:                               IP3:                               |
+[1] 200- | IP4:                               IP5:                               |
+[1] 200- | IP6:                               IP7:                               |
+[1] 200- | IP8:                               IP9:                               |
+[1] 200- +=======================================================================+
+[1] 200 Command Successful.
+
+01:00am] *********** dooDman-0         !         none@ip68-109-29-87.ri.ri.cox.net                                 [Ping timeout]
+
+SITE 1 (dood aka woopie trying to bribe the siteop)
+[ 08:10:44 ]  [ CENSORED ] yes siteop and home pc i think
+[ 08:10:57 ]  [ CENSORED ] [7:48am] <Woopie> Hi you here CENSORED?
+[ 08:11:11 ]  [ CENSORED ] [7:49am] > yeah hi
+[ 08:11:11 ]  [ CENSORED ] [7:49am] <Woopie> i had a few questions
+[ 08:11:11 ]  [ CENSORED ] [7:49am] > fire away
+[ 08:11:11 ]  [ CENSORED ] [7:49am] <Woopie> you noticed CENSORED-SITEOP's account got hacked?
+[ 08:11:11 ]  [ CENSORED ] * Looking up Woopie user info...
+[ 08:11:11 ]  [ CENSORED ] [7:50am] > ?
+[ 08:11:11 ]  [ CENSORED ] [7:50am] <Woopie> CENSORED-OP@SP
+[ 08:11:11 ]  [ CENSORED ] [7:50am] > who are you
+[ 08:11:11 ]  [ CENSORED ] [7:50am] <Woopie> the one responsible for it
+[ 08:11:11 ]  [ CENSORED ] [7:50am] > ok
+[ 08:11:11 ]  [ CENSORED ] [7:51am] <Woopie> if you want to, i can be your people security adviser
+[ 08:11:12 ]  [ CENSORED ] [7:53am] <Woopie> CENSORED?
+[ 08:11:26 ]  [ CENSORED ] [7:53am] > no thanks
+[ 08:11:27 ]  [ CENSORED ] [7:53am] <Woopie> then lets see it in a different way
+[ 08:11:28 ]  [ CENSORED ] [7:53am] <Woopie> i want a leech slot
+[ 08:11:28 ]  [ CENSORED ] [7:53am] <Woopie> or ill make every users user info public, including siteinfo, irc and ip
+[ 08:11:28 ]  [ CENSORED ] [7:55am] <Woopie> [1] (05:17:03) 200- +=======================================================================+
+[ 08:11:28 ]  [ CENSORED ] [7:55am] <Woopie> [1] (05:17:03) 200- | Username: CENSORED Created: 06-18-05 |
+[ 08:11:28 ]  [ CENSORED ] [7:55am] <Woopie> [1] (05:17:03) 200- | Added by: glftpd Expires: Never |
+[ 08:11:30 ]  [ CENSORED ] [7:55am] <Woopie> [1] (05:17:03) 200- | Time On Today: 02:53 Last seen: Thu Jul 14 04:54:01 2005|
+[ 08:11:42 ]  [ CENSORED ] [7:56am] <Woopie> 200- SITEOPS=9, GADMINS=41, LEECH=39, DELETED=10
+[ 08:11:43 ]  [ CENSORED ] [7:56am] <Woopie> 200 194 Total members.
+[ 08:11:43 ]  [ CENSORED ] [7:56am] <Woopie> need more proof?
+[ 08:11:43 ]  [ CENSORED ] [7:57am] <Woopie> CENSORED
+[ 08:11:43 ]  [ CENSORED ] [8:02am] <Woopie> ignoring doesnt help.
+[ 08:11:43 ]  [ CENSORED ] [8:02am] > let me think about it
+[ 08:11:43 ]  [ CENSORED ] [8:02am] <Woopie> noone will have to know about this
+[ 08:11:43 ]  [ CENSORED ] [8:02am] <Woopie> and i wont spread it
+[ 08:11:43 ]  [ CENSORED ] [8:03am] <Woopie> its up to you
+[ 08:11:43 ]  [ CENSORED ] [8:03am] > k come back later on tonight
+[ 08:11:43 ]  [ CENSORED ] [8:03am] <Woopie> Thats ok.
+[ 08:11:44 ]  [ CENSORED ] [8:04am] <Woopie> I can only say, think about it, and think about it again, people will leave if they see what info's i have atm
+[ 08:11:46 ]  [ CENSORED ] [8:04am] <Woopie> you site will noted as insecure all over the plance
+[ 08:11:47 ]  [ CENSORED ] [8:04am] <Woopie> place
+[ 08:12:38 ]  [ CENSORED ] 200- Thu Jul 14 05:04:55 2005 [7006 ] LOGOUT: *@sylvaner.parisgeo.cnrs.fr (193.55.107.11) "CENSORED-OP" "SiTEOP" "No Tagline Set"
+[ 08:12:39 ]  [ CENSORED ] 200- Thu Jul 14 05:04:59 2005 [7050 ] LOGIN: <UNKNOWN>@sylvaner.parisgeo.cnrs.fr (193.55.107.11) NONE "CENSORED-OP" "SiTEOP" "No Tagline Set"
+[ 08:12:49 ]  [ CENSORED ] [L] 200- Thu Jul 14 08:29:15 2005 [7938 ] CENSORED-OP: CENSORED-OP@CENSORED-HOST (**.**.**.**): Login failure. <------ we have taken out the op IP for sec reasons
+
+
+THE 2 PROXIES HE USED (NO DOUBT HACKED UNI PROXIES THAT ARE LOGGED BY DEFAULT SO THE UNI SYS ADMINS CAN SEE WHAT'S CONNECTING TO WHAT (SAFE HUH ... I DONT THINK SO !)
+
+http://www.dnsstuff.com/tools/whois.ch?ip=193.55.107.11
+http://www.dnsstuff.com/tools/whois.ch?ip=158.250.31.9
+
+MORE LOGS TO PROVE IT IS "dood" of FiNaLe who has asked for the iP add and not his hacked account:
+
+[ 15:45:42 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> i did add on dood he did pm me so he can pre on finale
+[ 15:45:43 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:05:43] K dooDman-0 [ i have a new bnc/shell, i love FiNaLe fans haha :)
+[ 15:45:45 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:05:55] K dooDman-0 [ anyways could you add it to my account, cause i cant get in like this
+[ 15:45:45 ]  [ @CENSORED-OP ] doodman sent that query
+[ 15:45:48 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:06:19] K dooDman-0 [ site addip dood *@158.250.31.*
+[ 15:45:50 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:06:45] K dooDman-0 [ 68.9.184.* can stay
+[ 15:45:53 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:08:35] K dooDman-0 [ ill be off now untill tonight, hope its done when im back, cause ill
+[ 15:45:56 ]  [ @CENSORED-ANOTHEROP2 ] be at my g/f's house.
+[ 15:45:59 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:09:06] K dooDman-0 [ and i've got to pre
+[ 15:46:01 ]  [ @CENSORED-ANOTHEROP2 ] The.Garbage.Pail.Kids.Movie.1987.DVDRip.XviD-FiNaLe today, so its on your hands hero ;)
+[ 15:46:04 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:09:11] K dooDman-0 [ cya tonight.
+[ 15:46:07 ]  [ @CENSORED-ANOTHEROP2 ] 16:40 <[CENSORED-ANOTHEROP> [09:09:21] [[ [dooDman-0] has quit irc (Quit: LinkNet IRC Network)
+[ 15:46:11 ]  [ @CENSORED-ANOTHEROP2 ] !pre The.Garbage.Pail.Kids.Movie.1987.DVDRip.XviD-FiNaLe
+[ 15:46:12 ]  [ @CENSORED-PREBOT] :: [PRE] :: DIVX :: The.Garbage.Pail.Kids.Movie.1987.DVDRip.XviD-FiNaLe :: [1h 33m 34s] :: 0714
+
+
+A WHOIS OF DOODMAN (LINKNET)
+
+[ /whois list for: [dooDman-0]
+[ address: none@158.250.31.9
+[ name: dooDman-0
+[ channels: #CENSORED-CHAN
+[ server: link-net.org, LinkNet IRC Network
+[ given host: an SSL Encrypted Client
+
+To summise , i know usually these scene notices are lame but 3 siteops aggreed this was the best course of action, especially in the hard tomes the scene is facing @ the moment due to security risks,
+all i ask is you consider dropping FiNaLe form your affiliates list as anyone with no regard for the safety of fellow affils (by releasing site info he would jeaprodise everyone) this just simply cannot happen
+...
+as we trawl our logs more we might pre some more proof , but for now i think this is enough
+
+Thanks for reading
+
+GREETZ - ALL TRUE SCENERS AND GROUPS KEEPING THE SITES AND SCENE ALIVE DURING THESE TESTING TIMES
+
+
+- A CONCERNED OP
+
+The logs used in this notice we're forwarded to me they have nothing to do with the siteops of the 2 CENSORED SITES
+
+LASTLY IF TRHIS IS ONE BIG MISTAKE (I DONT HTINK IT IS THOUGH) APPOLOGIES TO FiNaLe
+PLZ RESPOND TO THIS SCENE NOTICE TO CLEAR YOUR NAME
+

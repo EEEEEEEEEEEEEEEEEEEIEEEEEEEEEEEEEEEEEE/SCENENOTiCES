@@ -1,0 +1,61 @@
+                         ммммммммм
+             Аммллл      ппппппллллллллллммм
+           Аллп лллн лллм   ллн ллл ммм ппппмммллмм       ммммллмм
+          АВл  млллноллнлм оллн ллн ппп  лллллпппллл    лллллпппллл
+          Аллпп  лллолл плмолл оллн лллм  ллл   мллп     ллл   мллп
+          лллм   ллпллл  плллн ллл  ллл   оллнлллппллллл оллнлллпп
+           лпп       пп   ппп      пплл   оллн    лл   ллоллн
+                                           ллл      ммлп м лл
+                                                   ллппппп
+
+After a better look at people at Highland, we managed to trace back to another DC hub which was using highland as a source, but also has some of their own uploaders. As we close down the bigger hubs, the smaller hubs are quite a little bit harder to reveal since their sources are scattered and aren't organised as we saw with SMURF, so in order to trace these idiots we must rely on siteops to check if they got people on these ranges and remove them. We are however looking at more "organised" groups of people like SMuRF/Paradise, and we have some good leads for them (just hard to get hard evidence -- we will not post any sort of information unless we are 100% sure)..
+
+Honestly, if any one of these people are found on anything better than a 10mbit site, we will have a mass-suicide on danish beer.
+
+We also decided to expose two hubs in this "notice", since they both suck -- not gonna give them their own notice, that'll make them too important :)
+
+So the first hub is called "DvD-R Swedens 10Mbit"/"DVDR SWE", with bnc dvdr-10mbit.myftp.org:1411 (standard port i guess).. here are the people that make the things happen:
+
+Fragger - 213.114.60.23
+[Owner]Testbild - 148.160.32.29
+[#DUMP-CONSOLE]Bartan - 213.113.116.44 	
+[#DUMP-DVDR]JonPe - 213.112.23.25 	
+[#DUMP-DVDR]Mad_Vane - 81.170.205.66 [#DUMP-DVDR-GAMES-XXX-TV]Vro0m - 192.16.126.23 	
+[#DUMP-GAMES]Malik - 193.111.124.133	
+[#DUMP-TV]Sajfen - 85.194.50.156	
+[#uploader]Sweden - 213.113.63.201
+[#Uploader]Piggelin - 83.251.115.117
+[#Uploader]Spirax - 185.226.119.145
+
+For this hub, we decided maybe it's best to not publish the userlist (already hacked a few hubs these past few days, getting a bit repetetive..), you know.. showing some mercy to the little bastards (we bet the APB is having a fucking field day with all the info we released on the other hubs, but lets not make it too easy). If their sources aren't cut down and their hub closed (believe me, fuckers... you rename.. we find you), we WILL publish the full userlist with full ips etc (ala Paradise notice).
+
+Now the next hub, full user list with ip addresses given in screenshots (sorry). The sources behind this hub tell us that a few people are actually in some sites [and this will provide enough information for the siteops to find and purge them] (even though when we examined it they didnt seem to be sharing much, but maybe they're faking it -- honestly dont know how this shit works, and don't want to find out either)...
+
+The hub is called "NoName", whos security system which will keep away people is its randomly generated bnc... nn3mgj14nk1.serveftp.com:1313
+
+Please look at the five attached screenshots in the noname-ss folder for the users/ip addresses.
+
+We understand this information may not be quite helpful, but it should be enough to close them down. Any users purged from sites due to this information is a bonus (so please check at least that your box owners's ip ranges are not here).
+
+We are currently also gathering information about bigger hubs like Paradise/Highland, but since hubs like those are more organised, we must spend more time gathering information so it it as accurate as possible. We have a lot more than just DC Hubs being looked at.
+
+It has come to our attention a bunch of good for nothing 10mbit siteops are preing their own little notices which pretty much just repeat exactly what we are saying (hey, if they know what you're talking about.. they already read it from us, stop wasting your time). We do not like it when the "scene notice" concept is abused, if you see someone preing garbage that says nothing at all, purge that fucker too while u're at it, nobody will miss him, and the world will be a better place already.
+
+And now, for siteops that knowingly have people involved with DC++ but aren't sure about purging them (you're fucking idiots), we have included the "AntiP2P Purge The Mofo Test Suite 1.0 alpha 1.2" here:
+
+AntiP2P Purge The Mofo Test Suite 1.0 alpha 1.2
+-----------------------------------------------
+(If at least two of these apply to you, you must purge them):
+- You honestly think FiSH's DH1080 function secures your conversations (if you are being sniffed, the key negotiation happens by a plain text notice -- "they" already know the key)
+- You use a firewall because you honestly think it protects you
+- You run a 10mbit site
+-----------------------------------------------
+
+We are gathering information on more security holes, you may be next -- it's not worth it, give up.
+
+Stay tuned, we will try to only expose bigger and more organised groups of p2p sharers (including BitTorrent) from now on -- but also pay4leech sites and other security holes.
+
+Now go see if any of these fuckers' ips match any of your racers/box owners.. we'll be watching...
+
+Greetz to the real scene...
+P.S. get off our case about using more "return"/"enter" key, start using "word wrap", which even microsoft products include:P

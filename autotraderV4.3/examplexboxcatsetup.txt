@@ -1,0 +1,66 @@
+OK lets look at the example rules.....................
+
+1. Only PAL and USA releases.
+2. No PAL after USA/NTSC
+3. No Rips - Full CDs or DVD.
+4. MULTI dupes PAL and NTSC
+5. Current year releases ONLY
+
+Now i shall assume you have already added XBOX as a category and set FXPTO/FROM and pretime etc
+
+So here i shall try to explain about wildcards
+
+I prefer to use .PAL. for example instead of PAL incase of a release with PAL in the name.
+This of course makes it harder because the rlz could be -PAL- or _PAL_ or even _PAL- :p
+
+PLEASE NOTE: NONE OF THE CHECKS ARE CASE-SENSITIVE
+
+So lets get onto the rules:
+
+1. Only PAL and USA releases.
+=============================
+For this rule i would add the following to my ALLOW -> !.PAL. !_PAL_ !.NTSC !_NTSC_ !.USA. !_USA_
+Of course you could just add !PAL !USA !NTSC if you want.
+So as long as one of these is in the rlz name it will be allowed. Now i hear you say what if this is not in the rlz name.
+
+Because if you use wildcards 1 HAS TO BE FOUND for the rlz to pass the ALLOW check. It may still fail the DENY check tho.
+
+Heres where it gets difficult. Now if you know a group like ALLSTARS that always does PAL then add !-ALLSTARS to your allow.
+Now if you read my other little docs you will know that groups are added as -GRPNAME.
+You will notice here i have used a ! so its !-GRPNAME. This is because if i did -ALLSTARS then only ALLSTARS would be
+allowed. The ! means that -ALLSTARS is a wildcard so all ALLSTARS releases will be allowed.
+Simply if a group (-GRPNAME) is in allow and is not found then the release is ignored. So by adding as a wildcard this group
+is allowed but so are others as long as PAL/NTSC etc is in the rlz name. Of course its up to you how you set all this up.
+Hope you get it.
+After all that my ALLOW would be : !.PAL. !_PAL_ !.NTSC !_NTSC_ !.USA. !_USA_ !-ALLSTARS
+
+2. No PAL after USA/NTSC
+========================
+OK here you need a dupecheck. This also goes in ALLOW. Please note that this is only effective if you have INDEXED your site(s) from the FIND tab.
+Dupecheck simply works by specifying what to find in rlz name, followed by a | (shift \), then followed by what it dupes,
+if its a list just seperate each item with a comma.
+
+So for this example i would put .PAL.|.NTSC.,.USA.
+
+IMPORTANT: If you use .'s the script automatically compares . and _ and -. So please use them.
+
+3. No Rips - Full CDs or DVD.
+=============================
+My knowledge is poor here so i simply have !.RIP. in my DENY.
+
+4. MULTI dupes PAL and NTSC
+===========================
+
+So another dupecheck in ALLOW. And yes its as simple as .MULTI.|.PAL.,.USA.,.NTSC.
+
+5. Current year releases ONLY
+=============================
+
+Um only difficulty here is that every year you will need to update all your sites :p
+Simply add in your DENY <2006 as 2006 is the current year as i type. The script checks back about 60 years so if a date is
+in the release name then it will be ignored if less than 2006. I am aware xbox games rarely put the date in so obviously
+this probably will not work. But its worth adding to be on the safe side.
+
+And thats it. I hope you get all that and can use what you have learned here to apply to other categories.
+
+Thank you for reading and goodbye :p

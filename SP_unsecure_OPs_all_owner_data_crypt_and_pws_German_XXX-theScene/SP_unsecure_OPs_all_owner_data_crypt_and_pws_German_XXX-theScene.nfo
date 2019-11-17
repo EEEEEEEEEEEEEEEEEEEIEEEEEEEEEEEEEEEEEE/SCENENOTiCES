@@ -1,0 +1,219 @@
+ 
+  Hallo Gays ;)..
+
+So ich mache es mal kurz da es so heiss ist ;)..
+
+Location : Fr.
+Site : ScreenPlay (Sp)
+Reason : Partet die Site 
+
+Die Site ist Unsecure vom allerfeinsten aber macht euch ein eigenes bild von ....
+
+#######################
+### Master settings ###
+#######################
+
+#Port to accept Slave connections on
+master.bindport=32651
+
+#IP/Port to accept FTP connections on
+#Leave master.ip commented to listen on all interfaces)
+master.ip=91.121.81.121
+master.port=12151
+#Set the slaves to use SSL for the master connection as well
+master.slaveSSL=true
+
+--------so hier der master ------------------>
+
+Slave:	JENNY (MASTER): 1,5TB  DONE
+
+OWNER:	XXXXXXXXXXXXXXXXXXXXXXXX
+
+IP:	91.121.81.121:19364
+
+USER:	bt
+PW:	XXXXXXX
+
+ROOT-PW:f8ViZZSp&;
+
+CRYPT-PW:	
+SDA5:	cJ*L5=q+up-8t:am[>1n]N6gJwhD+xmx@<UmR_r+f6$@*>K+j+
+SDA6:	T,i),As)88Lb$xg[85$67%hcg]n+EdLs=eOnvIqTQ&Z.d8,qe9
+SDB:1	W8YwctM}A.9q0t=2tl!Di5oU&h=*CK#+Lrr7&AQE9O9LDz8lC2
+	
+Commands:cryptsetup luksOpen /dev/sda5 dat0
+	cryptsetup luksOpen /dev/sda6 dat7
+	cryptsetup luksOpen /dev/sdb1 dat8
+	mount /dev/mapper/dat0 /gl
+	mount /dev/mapper/dat7 /gl/slave/disk
+	mount /dev/mapper/dat8 /gl/slave/data
+
+
+Interface:	https://www.ovh.de/managerv3/index.pl
+
+User:	pa15153 oder pa-15153
+PW:	XXXXXXX
+
+
+
+######################
+### Slave settings ###
+######################
+
+#What you set the name as with "site addslave <slavename>" on the master
+slave.name=JENNY
+
+#root to serve contents from, is automatically created
+slave.root.1=/gl/slave/data
+#you can use several roots for striping files across
+#several harddrives without using RAID or similair.
+slave.root.2=/gl/slave/site
+
+# Master host/ip
+master.host=91.121.81.121
+#port to connect to the master
+master.bindport=29877
+#Set the master to use SSL for slave connections as well
+slave.masterSSL=true
+
+#pasv port range
+slave.portfrom=40000
+slave.portto=41000
+
+
+
+
+
+-------SLAVE--------------------------------->
+
+
+Slave:	1,5TB ARCHIV
+
+OWNER:	XXXXX
+
+IP:	91.121.91.51:22322
+
+USER:	dr
+PW:	XXXXXXXX
+
+ROOT-PW:	XXXXXXXXX
+
+CRYPT-PW:	_R@KjpKi!ww.!+8@04LdE<SlhmQu;QXZlFl,c}k,
+
+Commands:	cryptsetup -y -c aes-cbc-essiv:sha256 create crypt /dev/sdb2
+	        cryptsetup -y -c aes-cbc-essiv:sha256 create crypt1 /dev/sda3
+	        mount /dev/mapper/crypt1 /mnt/HDD2
+	
+Interface:
+
+https://www.ovh.com/managerv3/index.pl?ref=&language=de
+User: rm12125-ovh
+PW: XXXXXXX
+
+
+-------SLAVE--------------------------------->
+
+Slave:	NADINE: 700GB DONE
+
+OWNER:	XXXXXXX
+	
+IP:	91.121.82.124:22 :19364	
+
+USER:	bt	
+PW:  XXXXXXXXXX	
+
+
+CRYPT-PW:
+SDA5:	t$NYyUDE{T#[KgoO6+7RY)z}QPwRY9e*7,NOh7MFrB#€W%BSDk		
+SDA6:	4$J[]ey),GjCesw8Z<ZBK#I>Rgcy>gUC.q7GxD?Pc4p-%L!FS										
+Commands:cryptsetup luksOpen /dev/sda5 dat0
+cryptsetup luksOpen /dev/sda6 dat1					
+mount /dev/mapper/dat0 /gl							
+mount /dev/mapper/dat1 /gl/slave/site	
+
+Interface:	https://www.ovh.de/managerv3/index.pl
+
+user: WM5760-OVH
+Passwort: XXXXXXXX
+
+-------SLAVE--------------------------------->
+
+
+Slave:	SANDY: 1,5TB 2,3GHZ 1GB RAM DONE
+
+OWNER:	XXXXXXX 
+
+IP:	91.121.89.153:19364
+
+USER:	bt
+PW:	XXXXXXXX
+
+ROOT-PW:XXXXXXX
+
+CRYPT-PW:	
+SDA5:	€Sg6trxYrDTR%W1/t*_XGOnWcPipKt;O3PzURprbSsy;/sA]$I
+SDA6:	OF[*B.>UMa<SEsfozXlCtVkkCXtkd&45_Z*c:.zi.HiDW;yn9j
+SDB1:	iR%Ga(oL.$H_i=uct@GLbtJ1*&S>g?fFo1o?_)}!glUMHU=9l>
+
+
+Commands:cryptsetup luksOpen /dev/sda5 dat0
+	cryptsetup luksOpen /dev/sda6 dat1
+	cryptsetup luksOpen /dev/sdb1 dat2
+	mount /dev/mapper/dat0 /gl
+	mount /dev/mapper/dat1 /gl/slave/site
+	mount /dev/mapper/dat2 /gl/slave/data
+	
+
+
+Interface:	https://www.ovh.com/managerv3/index.pl?ref=&language=de
+
+User: BS18620-OVH
+
+passwort: XXXXXXX																													
+-------SLAVE--------------------------------->
+
+
+Slave:	1,5TB 
+
+OWNER:	XXXXXXXXX
+
+IP:	91.121.17.229:22322
+
+USER:	bt
+PW:	XXXXXXX
+
+ROOT-PW:	XXXXXXXX
+CRYPT-PW:	34y)#Ji3Zl!!LsS!!a$((G)*3P*!sUX*
+Commands:	cryptsetup -c aes-cbc-essiv:sha256 create dat0 /dev/sda5
+	        cryptsetup -c aes-cbc-essiv:sha256 create dat1 /dev/sda6
+	        cryptsetup -c aes-cbc-essiv:sha256 create dat2 /dev/sdb1
+	        mount /dev/mapper/dat0 /gl
+	        mount /dev/mapper/dat1 /gl/slave/site
+	        mount /dev/mapper/dat2 /gl/slave/data
+
+
+Interface:
+ 
+https://www.ovh.com/managerv3/
+USER:	km11739-ovh 
+PW:	XXXXXXX																				
+
+
+
+										
+ps.note 
+  
+
+pws der interface acc sind XXXXX change da die owner nix dazu können...
+
+
+ 
+
+
+Have a Nice Fucked Up Life KeepcleaN or die ;(..
+ 
+
+
+
+
+

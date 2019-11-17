@@ -1,0 +1,99 @@
+EAC 抓取日誌文件從12. 九月 2007, 16:47 用於 CD
+潘瑋柏 / 玩酷
+
+使用驅動器  ：PLEXTOR CD-R   PX-W5224A   Adapter: 2  ID: 0
+讀取模式    ：不使用 C2，使用精確流, 禁用緩存的安全模式
+讀取偏移校正：10
+讀取 Lead-In 和 Lead-Out : 是
+
+所用輸出模式：內部 WAV 函數
+                     44.100 Hz;16 Bit;立體聲
+
+其他選項    ：
+    用靜音填充抓取中丟失偏移的采樣 : 是
+    去除首尾靜音塊 : 否
+    Win NT 及 2000 本地 Win32 接口
+
+
+音軌  1
+     文件名 C:\Documents and Settings\admin\桌面\Track01.wav
+
+     峰值電平 99.8 %
+     復制 CRC E0CF32E3
+     復制結束
+
+音軌  2
+     文件名 C:\Documents and Settings\admin\桌面\Track02.wav
+
+     峰值電平 99.8 %
+     復制 CRC 504EFE9A
+     復制成功
+
+音軌  3
+     文件名 C:\Documents and Settings\admin\桌面\Track03.wav
+
+     峰值電平 98.8 %
+     復制 CRC C16FA43D
+     復制成功
+
+音軌  4
+     文件名 C:\Documents and Settings\admin\桌面\Track04.wav
+
+     峰值電平 99.8 %
+     復制 CRC A7AE1938
+     復制成功
+
+音軌  5
+     文件名 C:\Documents and Settings\admin\桌面\Track05.wav
+
+     峰值電平 98.8 %
+     復制 CRC C35B140E
+     復制成功
+
+音軌  6
+     文件名 C:\Documents and Settings\admin\桌面\Track06.wav
+
+     峰值電平 99.8 %
+     復制 CRC D74E45E4
+     復制成功
+
+音軌  7
+     文件名 C:\Documents and Settings\admin\桌面\Track07.wav
+
+     峰值電平 99.8 %
+     復制 CRC CEA6E24A
+     復制成功
+
+音軌  8
+     文件名 C:\Documents and Settings\admin\桌面\Track08.wav
+
+     峰值電平 98.8 %
+     復制 CRC 8AB4A9D3
+     復制成功
+
+音軌  9
+     文件名 C:\Documents and Settings\admin\桌面\Track09.wav
+
+     峰值電平 98.8 %
+     復制 CRC E8654B73
+     復制結束
+
+音軌 10
+     文件名 C:\Documents and Settings\admin\桌面\Track10.wav
+
+     峰值電平 99.8 %
+     復制 CRC F3783C6D
+     復制成功
+
+音軌 11
+     文件名 C:\Documents and Settings\admin\桌面\Track11.wav
+
+     峰值電平 98.1 %
+     復制 CRC A42A6BC1
+     復制成功
+
+沒有錯誤發生
+
+
+狀態報告結尾
+我地個版本既wav抓軌報告 

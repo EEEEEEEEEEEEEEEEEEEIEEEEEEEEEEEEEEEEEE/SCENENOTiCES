@@ -1,0 +1,38 @@
+Multiple vulnerabilities in Bittorent tracker systems.
+
+=====================
+Author: Unknown
+E-Mail: sulaspaka [AT] gmail [dot] com
+Date: 14.01.2006
+=====================
+
+I found a sirious bug in almoust all bittorent tracker sources. You can
+load XSS (Cross Site Scripting) script and make an injure to
+a tracker or some user.
+I haven't really good html/Javascript knowlage, but if someone can make
+an evil script, you can steal a user cookie or whatever you want.
+It works in recover.php 
+
+
+Affected versions:
+*All
+
+A. XSS Vulnerability in recover.php XSS has been tested with these POST variables: 
+http://torrentsite.com/recover.php
+i.e. 
+email=</textarea><script>alert('xss-magic-string');</script>
+email='><script>alert('xss-magic-string');</script>
+email=><script>var%20xss_test_variable=1111;alert(xss_test_variable);</script>
+
+
+A. Solution.
+
+Your script should filter metacharacters from user input.
+
+
+I hope someone will make an evil-script :)
+
+=====================
+No vendor contacted yet.
+
+Greetz to mstudio

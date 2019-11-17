@@ -1,0 +1,104 @@
+Es ist mal wieder so weit... Manche Leute können ihren Hals nicht voll bekommen
+Es gab/gibt eine site welche ausschliesslich auf OVH-Servern läuft und eine dazugehörige
+Paysite. Die Site MP (vermutlich hat sie bald einen neuen Namen wie Lost-Paradise)
+war mit 4 Slaves (1xGbit und 3 x100MBit) eine der kleineren Sites in der Szene.
+Zum "finanzieren" hat sich der Eigentümer Freunde, Bekannte und das beste Leute die
+er gar nicht richtig kannte auf dieser Paykiste geaddet. Nen axx bekam man für 25 bis 50 Euro
+wobei man unlimited axx hatte, aber die Bandbreite begrenzt wurde. Insgesammt waren über
+auf der PH geaddet.
+
+Details:
+
+Kundennummer OVH: BH3499-OVH & BH3921-OVH
+SERVER MP: ns355183.ovh.net [91.121.167.137] MASTER GBit
+                            [91.121.89.225]  <---ehemalige MP 100mbit master nachher slave 4
+                            [91.121.122.131] <---slave 3 bei MP
+                            [91.121.97.54] <---slave 2 bei mp
+Paysite:   ns-37057.ovh.net [91.121.2.157]
+
+
+Dieser _0wNer_ ist auch auf anderen sites unterwegs Also SOPS - U KNOW WHAT TO DO.
+
+
+ 
+<_0wNer_> !slaves
+<[MP]> 1: ( UP: 0 @ 0B/s )-( DN: 1 @ 510.6KB/s )-( DF: 793.1GB / 1.5TB )
+<[MP]> 2: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 630.4GB / 1.5TB )
+<[MP]> 3: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 304.0GB / 1.5TB )
+<[MP]> 4: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 308.6GB / 1.5TB )
+
+Der Eigentümer der Site MP (NICK _0wNer_) ist auf der PH mit NICK MATRIX unterwegs.
+
+
+@[PH] )) [Mvid]-[COMPLETE]-[Boss_Hogg_Outlawz_Ft_Ray_J-Keep_It_Playa-DVDRIP-x264-2008-DYNASTY]-[ 46.5MB in 1F at avg speed 250.1KB/s 3m 6s ] by 1 racer[s] from 1 group[s].]
+@[PH] )) UserTop:
+@[PH] )) 1. MATRIX/siteop]-[46.5MB/1F/100%/257.6KB/s]-[ALUP #1 / WKUP #47]
+@[PH] )) GroupTop:
+@[PH] )) 1. siteop [46.5MB/1F/100%/257.6KB/s]
+
+@[PH] )) Top Uploaders For The Day:
+@[PH] )) - [1] - MATRIX - (4132 Files) - (54.6GB)
+@[PH] )) Top Downloaders For The Day:
+@[PH] )) - [1] - MATRIX - (1497 Files) - (13.9GB)
+@[PH] ))  - [2] - atlantis - (195 Files) - (7.7GB)
+@[PH] ))  - [3] - schlossy - (413 Files) - (5.8GB)
+@[PH] ))  - [4] - hans - (377 Files) - (5.8GB)
+@[PH] ))  - [5] - _MiKe_ - (113 Files) - (5.5GB)
+@[PH] ))  - [6] - zeti71 - (50 Files) - (4.6GB)
+@[PH] ))  - [7] - Nepomuk - (324 Files) - (4.6GB)
+@[PH] ))  - [8] - narse - (208 Files) - (4.5GB)
+@[PH] ))  - [9] - SiStA - (344 Files) - (4.5GB)
+@[PH] ))  - [10] - nothing11 - (265 Files) - (3.7GB)
+@[PH] ))  - [11] - hueddel - (347 Files) - (3.5GB)
+@[PH] ))  - [12] - gunni - (745 Files) - (3.5GB)
+@[PH] ))  - [13] - nase100 - (62 Files) - (3.0GB)
+@[PH] ))  - [14] - zico - (206 Files) - (2.0GB)
+@[PH] ))  - [15] - Ritchy - (133 Files) - (1.9GB)
+@[PH] ))  - [16] - spender - (150 Files) - (1.7GB)
+@[PH] ))  - [17] - joda - (109 Files) - (1.5GB)
+@[PH] ))  - [18] - Volcanos - (103 Files) - (1.5GB)
+@[PH] ))  - [19] - Brain - (102 Files) - (1.5GB)
+@[PH] ))  - [20] - Bachelor - (92 Files) - (1.3GB)
+@[PH] ))  - [21] - kitty - (145 Files) - (1.3GB)
+@[PH] ))  - [22] - oldie - (57 Files) - (882.2MB)
+@[PH] ))  - [23] - angrossy - (58 Files) - (834.8MB)
+@[PH] ))  - [24] - scud - (39 Files) - (695.1MB)
+@[PH] ))  - [25] - RusHHour - (22 Files) - (375.9MB)
+@[PH] ))  - [26] - vreezy - (11 Files) - (150.6MB)
+@[PH] ))  - [27] - Nemesis76 - (4 Files) - (60.0MB)
+@[PH] ))  - [28] - nase - (4 Files) - (40.0MB)
+@[PH] ))  - [29] - HennesVII - (2 Files) - (44.6KB)
+
+
+Sein ein und alles Tech: Irvine setzt gerade in diesem Moment die Paysite wieder on!
+HACK IT: ns-37057.ovh.net [91.121.2.157]
+
+[02:30:44]     Ø Whois report for (Irvine)
+[02:30:44]     Ø Address: xyz@ns.km13836-06.keymachine.de
+[02:30:44]     Ø Name: AA50BF1
+[02:30:44]     Ø Channels: #GVU-Vmann #ph-admin
+[02:30:44]     Ø Server: ssl.pte.hu, The ground beneath her feet
+[02:30:44]     Ø Info: 671: (Irvine is using a secure connection)
+[02:30:44]     Ø Address: 62.141.52.98, actually
+[02:30:44]     Ø Idle: 32mins 48secs
+[02:30:44]     Ø Signed on: signed on Tue Aug 26 01:57:52 2008
+[02:30:44] ×------------------------------------------- ----- --- -- -- -- -  -
+[02:31:56]     Ø Whois report for (_MATRIX_)
+[02:31:56]     Ø Address: 4741MATRIX@server2.bouncer4you.de
+[02:31:56]     Ø Name: _MATRIX_
+[02:31:56]     Ø Server: irc.mzima.net, Welcome to the fjear nation.
+[02:31:56]     Ø Address: 212.224.67.4, actually
+[02:31:56]     Ø Idle: 1hr 4mins 49secs
+[02:31:56]     Ø Signed on: signed on Tue Aug 12 03:54:33 2008
+[02:31:56] ×------------------------------------------- ----- --- -- -- -- -  -
+[02:32:14]     Ø Whois report for (phNIX)
+[02:32:14]     Ø Address: ~phWERT@ns37057.ovh.net
+[02:32:14]     Ø Name: phWERT
+[02:32:14]     Ø Server: irc.efnet.ch, Make Love not War -- with IPv6!
+[02:32:14]     Ø Address: 91.121.2.157, actually
+
+Die Siteops der MP haben definitiv nichts mit der Paysite zu tun, 
+die Lorbeeren hierfür gehen ausnahmslos an _0wNer_ und Irvine
+
+
+für proofs see pics

@@ -1,0 +1,72 @@
+Oke here is the deal, it seems our fellow friends from 4CHOON got busted,
+as all of u may have noticed they are idle for the last 4 days, their latest pre was:
+
+[ Sumo_Hadji_-_Live_at_Club_Fresh_(Freshfm)_29-09-FM-2005-4CHOON ] :: [ MP3-LIVE ] :: [ 4days 17hrs 36mins ago
+
+Also the fact that UVA (Vrije Universiteit Amsterdam) got raided a little week ago, isn't a coincidence .. the 
+2 matters are bound wich each other.
+
+Due to a sysop on the university of amsterdam, 3 sites + a group sprea-dump (iUS) got busted, as all of u can guess this was
+4CHOON their dump (running on serv-u without SSL nor encryption, axxed with pc anywhere)
+
+Alot of vital information got out now, in the hands of the ones always seemingly trying to destroy our scene, not long after the raids
+on UVA (UVA) the leader of 4CHOON, known as RipperT or _Nookie_, Nookie got arrested with the charge of ''violating the copyright law''
+
+He was questioned several times on the police station (2 or 3 times), about 4CHOON and the other sites on VUA wich got busted.
+
+Also the fact was that Nookie was being monitored through a KPN Operator (his provider (XS4ALL) cooperated with the FIOD/BREIN in this matter)
+
+The trace-route of this:
+
+------------------------------------------------------
+
+inetnum:      195.190.240.0 - 195.190.255.255
+netname:      KPN-IO-IPC-NETWORK
+descr:                 KPN Internet Operator
+country:      NL
+admin-c:      KPN-RIPE
+tech-c:                 KPN-RIPE
+status:                 ASSIGNED PI
+mnt-by:                 RIPE-NCC-HM-PI-MNT
+mnt-lower:    RIPE-NCC-HM-PI-MNT
+mnt-by:                 AS286-MNT
+mnt-routes:   AS286-MNT
+source:                 RIPE # Filtered
+
+-------------------------------------------------------
+
+This was a trace-route to nookie his ip, as shown above a KPN Op. is between him and his final connection, concluding in that
+he was being tapped for over a month!
+
+Due to all of these facts we urge to purge and close all contact with 4CHOON members, known sitenicks are:
+
+Turbo
+Nookie
+Jojo1
+Thrillseeka
++ alot more
+
+Be carefull, we don't know how much info got leaked to .NL agencies.. but we really urge all sites affiling (24 total) to 
+delete the group and take responsible decisions on how to continue!
+
+As far as I know only nookie got busted + raided, but due to the fact their sprea-dump did not have any encryption nor protection
+its good to pressume alot more busts will follow in the 4CHOON memberlist.
+
+Take us serious, if the facts weren't this concrete we wouldn't even go as far as this... but this is serious and we feel the need
+to inform our praised mp3 scene for this security breach!
+
+
+Also we would like to adress the matter on UVA, it seems a sysop (netwerkbeheerder) on that university ratted out 3 sites + the dump
+what we know is that he helped create the sites and ''managed'' them on the location (line-holder), due to a arguement + conflicts
+with other siteops he informed the .NL agencies about the sites being run on that specific location, this ip range is to be blocked
+in the scene:
+
+145.18.*.*
+
+This is the entire ip-range wich where UVA is hosted on... ban and check your sites wich are on this range.. it might be insecure!
+
+
+Our sincere regrets to the ones fallen,
+
+<leaved blank for security reasons>
+

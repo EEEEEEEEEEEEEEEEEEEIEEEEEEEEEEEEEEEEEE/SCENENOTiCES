@@ -1,0 +1,22 @@
+/whois Henky
+-21:16:01- Henky is "gfdgdfg"
+-21:16:01- Henky is Brian@p5B116B8E.dip.t-dialin.net
+-21:16:01- Henky using irc.eversible.com, Eversible.com Internet Services
+-21:16:01- Henky real host is 91.17.107.142, actually using host
+-21:16:01- Henky has been idle for 49mins 5secs, signed on 48mins 47secs ago
+
+addline Kochtopf:
+planet@91.17.*.*
+
+addline Kev1n:
+Kev1n@91.17.*.*
+
+addline Brian:
+Brian@91.17.*.*
+
+addline Henky (hacked nick):
+*@91.4.* *@91.17.*
+
+It dont takes long time till a new nickchange is coming. Be patient and watchout this IP-Range if you dont want to have an hacked trader at your site.
+
+Es wird nicht lange dauern, bis er sein nick wieder aendert. Wenn ihr also beim adden die IP-Range seht, solltet ihr misstrauisch sein, wenn ihr nicht wieder einen hacked Trader auf eurer Site wollt.

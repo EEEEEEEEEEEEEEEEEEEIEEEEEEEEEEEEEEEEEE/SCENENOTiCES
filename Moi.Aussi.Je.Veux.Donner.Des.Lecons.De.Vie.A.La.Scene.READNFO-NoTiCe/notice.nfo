@@ -1,0 +1,53 @@
+Bonjour à tous.
+Tout d'abord, bonne année et tous mes meilleurs voeux :)
+
+Passons aux choses sérieuses. La sécurité d'un serveur....
+
+Alors si tu penses que ton serveur sur windows est "secure", passe ton chemin. 
+Ce nfo n'est pas dédié aux boulets... (j'vais me faire plein d'amis là)
+Etre tech ce n'est pas juste savoir faire trois clics pour installer un serveur!
+Tout le monde sait décompresser un gl ou un dr... ca ne demande pas un bac +12!
+
+
+Je ne vais pas tergiverser sur le clan dr et le clan gl, chacun trouve midi à sa porte.
+Néanmoins pour ceux qui ne le savent pas, voici quelques petits outils bien utiles :
+
+
+GlFTPd
+======
+GlFTPd.Site.Manager.v4.0.4.Read.NFO-DX
+Secure.Your.Glftpd.Installation.READNFO.NOTiCE-Qt
+
+
+DrFTPd
+======
+drFTPd.FullPack.V2.0.LiNUX.WiN32.READNFO-MrCode
+
+
+GENERAL
+=======
+Secure.Your.Sites.2008-09-21.READ.THIS.SITEOPS-SBZ
+
+
+… j’en oublie certainement.
+
+
+Alors la sécurisation d'une "box" c’est 3 points clés :
+-	le serveur en lui-même (iptable, fail2ban, denyhosts, cryptdisks, etc.)
+-	le ftp (tls, range d’ip par utilisateur => pas de *@*)
+-	avoir des utilisateurs (ind, team, supply) discrets
+
+Le principe est : la sécu avant tout, les perfs viennent après... (ca vous choque hein!)
+
+
+Faut arrêter les rumeurs à la con, si vous avez un problème avec un autre site, allez le régler entre vous en zone neutre comme des grands !
+Pas la peine de purger un racer ou de faire un nfo sous prétexte qu’un tel a dit que… Arrêtez d’être des sales gosses. 
+Ca gonfle, ça n’apporte rien si ce n’est les emmerdes.
+
+
+Voilà, ça vous a plu cette petite leçon de morale à la con?
+Si vous pensez que oui, relisez le nfo depuis le début, sinon c'est très certainement que vous n'aviez pas besoin de le lire :)
+
+
+
+Et pour finir, une petite dédicace particulière aux enfoirés revendeurs d’axx torrents, on aura votre peau !

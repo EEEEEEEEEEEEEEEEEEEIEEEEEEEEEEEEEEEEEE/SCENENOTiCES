@@ -1,0 +1,244 @@
+Here is the Webpage u all been seeing around on irc translated to "proper" english..
+
+
+
+From: Garfield, Dean
+Sent: Friday, March 11, 2005 12:02 PM
+To: Ponten, Henrik
+Cc: Tilbury, Chad
+Subject: FW: EREC-05-007: Sweden: Authorities seize major pirate servers at Stockholm ISP
+
+Henrik, this is truly phenomenal. We are all very proud of you. I am
+sure you are a bit unpopular with the pirate community in Sweden right
+now. Great work.
+
+
+
+
+We started to let some "Peter" summarize the curent position...
+
+
+From: peter@anti-piracy.se
+Sent: Thursday, March 10, 2005 9:29
+To: Tilbury, Chad; Seymour, Dan; Winter, Craig
+Subject: Swedish pirates busted!
+
+Hi guys!
+
+After 2 years of infiltrations our work finally paid of today with a
+successful raid on Sweden's oldest and largest ISP named Bahnhof.
+Bahnhof has been a source for top level piracy for several years and
+hosting some of the biggest and fastest servers in Europe.
+
+
+Hello there peter it will be fun to see what infiltration you have been doing.
+
+We foundout that Peter is mean, and its time to infiltrate the infiltrator..
+Just so you know we already infiltrated you, your sites, your mail and stole your
+passwords 4 years ago trough SONG.
+That should make us more Macho than your, right?
+
+Från: Anders Nilsson [mailto:anders.nilsson@antipiratbyran.com]
+Skickat: den 10 mars 2005 17:09
+Till: 'Peter Bergström'
+
+Peter, kan du skicka mig lite irc-loggar?
+
+translated;
+
+Peter, could you send me some irc-logs?
+
+
+
+Interesting... Peter mails irclogs to ANTiPIRATBYRAN..
+could this mean Peter is the bad guy in this drama?
+well, we looked more in to it and found:
+
+Received: from pc003 ([80.217.208.156]) by amsfep13-int.chello.nl
+(InterMail vM.6.01.03.04 201-2131-111-106-20040729) with ESMTP
+id <20050310182216.IHDS11192.amsfep13-int.chello.nl@pc003>
+for <anders.nilsson@antipiratbyran.com>;
+Thu, 10 Mar 2005 19:22:16 +0100
+From: =?iso-8859-1?Q?Peter_Bergström <peter@anti-piracy.se>
+To: "'Anders Nilsson'" <anders.nilsson@antipiratbyran.com>
+Subject: SV:
+Date: Thu, 10 Mar 2005 19:22:11 +0100
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+
+Ska samma ställa lite loggar och dumpar, går dock inte att använda
+publikt.
+
+
+
+Translated:
+
+Ill  put together  some logs and dumps, but it cant be used in public.
+
+
+
+From: Mac Greevy, Dara
+Sent: Friday, March 11, 2005 10:08 AM
+To: Sunderland, Jane
+Cc: Malcolm, John; Garfield, Dean; Tilbury, Chad
+Subject: RE: EREC-05-007: Sweden: Authorities seize major pirate servers at Stockholm ISP
+
+Dear Jane
+
+"The Swede" was central to this operation. He even shared coffee at one
+stage with the operators of the servers at the ISP's premises
+(ironically located in the same building as the Swedish program)!
+
+
+
+
+Comon Peter, you can do better than this..
+To mail from home when you try to be undercover is like just tell your name from the start..
+
+156.208.217.80.in-addr.arpa domain name pointer c80-217-208-156.cm-upc.chello.se.
+
+
+Ohh look a CHELLO addres in stockholm....since CHELLO is an isp and I stands for internet
+AUH knows whats going on @ CHELLO... after some database trix, we translated the ip-adress to 
+the real adress and look there its ownd by a Peter Bergström.
+
+Bergström, Peter Markus
+Gillerbacken 28 4tr
+124 64 Bandhagen
+
+social security number 
+750915-9237
+
+Since Peter is a real bad fish... a criminal on several ways, we want to point out He might not live
+on that adress, since he is scared of "head of enforcement district" Ironic huh?
+
+
+So what else do we want to know?
+His nickname ofcorse...
+What does he nick on the world wide web? (realy exciting)
+
+now we know his nick and that he use iRC.. a nice feature in irc is identd
+u need to activate it to connect to irc... since he also connects to sites using ident its probly enabled.
+
+
+$ telnet 80.217.208.156 113
+1, 1
+1, 1 : USERID : UNIX : rouge
+
+opps! that sounds like a Warez nick... 
+
+Now we need to find a irc user using ident rouge
+since we have been on the internet a while we ofcorse have backdoors to irc servers..
+and thats what we used to find all users with ident "rouge"
+
+rougie [ rouge@has.no.credz.cos.his.a.leecher.nu ]
+ircname [ rouge ]
+server [ irc.banetele.no - No more fucking Rock'n'Roll ]
+
+DCC CHAT request sent to rougie
+DCC CHAT connection with rougie [80.217.208.156 port 58040] established
+DCC lost chat to rougie
+
+rouge.has.no.rightz.to.live.cos.he'z.a.narc.nu
+No more fucking Rock'n'Roll for you, baby!
+AUH iz in da houze! LOL! pwnd! ..
+
+
+
+then it was some jada jada about APB going to start a tv program costing 5 milions in advertisements
+blablalba... we skip that part...
+
+
+Från: "info torg.se" <infotorg@gmail.com> Till: anders.nilsson@antipiratbyran.com
+
+Hej pratade med dig över telefon tidigare idag.
+
+DMZat som servrarna hostas på har +2Gbit backbone
+ett stort antal hushåll ligger på DMZ och
+har obegränsad Mbyte/gräns 100mbit (begränsad 10mbit mot internet)
+En DC hubb samt enligt en av ägarna
+själva så ligger även en "Topsite" på deras servrar
+även en stor FTP server (har sett konto listan på FTP servern & den ar
+kring +1000andvändare) Flera TB trafik passerar därigenom
+dagligen enligt uppgift.
+
+vet ej namnet på ISP.
+
+Jag är däremot en fattig man
+och med tanke på trafiken som
+genereras dära så tänker jag inte
+ge mera uppgifter innan jag med säkerhet
+vet att någon ersättning kan landa hos mig.
+
+IP andressen mejlet kommer från
+kan INTE heller spåras tillbaka direkt till mig.
+(öppet wlan + annan anslutning).
+enda sättet att kontakta mig är via
+denna mejladress som registrerats
+via samma wlan + publicerade "gmail invites"
+
+Tänker inte heller acceptera några "skam bud" som ersättning
+tänk även på att detta är något ni aldrig skulle få tag på
+utan någon som mig, samt att känner jag att det blir för svettigt
+att någon skulle ha någon aning om vem jag är så
+kommer allt jag vet samt all information jag har om detta raderas..
+
+Vill inte se någon som helst information
+som kan hänleda till min information publicerat
+eller ens höra något om något gällade denna epost adress.
+
+Måste bara försäkra mig om att detta inte kan slå tillbaka på mig.
+
+Kolla upp vad du behöver kolla sedan mejla
+kommer kolla mejlen då jag har wlan tillgängligt
+Mvh "Infotorg.se"
+
+
+
+Translated and sumerized:
+
+Hello talked to you over phone earlyer today...
+the DMZ that the servers are hosted on got +2 gbit backbone
+a huge numbers of private users are n that dmz limited to 100mbit within the dmz
+and 10mbit outside...
+A DC hub is also located there, and from one of the owners there is a "topsite" on there servers
+also a huge FTP server (ive seen the userfile and its over 1000 users added) Alot of TeraByte trafic
+passed troug daily..
+
+I dont know isp´s name
+
+
+Even tough i am a poor guy who toght with that amount of traffic im sure you want to give me a
+revard for all information...
+The ip addres in the mail cant be back-traced to me (using open W-lan + another connections)
+
+
+Only way to contact me is trough same w-lan + published "Gmail invites"
+
+I will not accept silly amounts of cash as reward,  REMEMBER you will never get
+any info like this from anyone else like me... and if i feel it will be unsecure for me
+and that ppl can find out who i am i will erase all logs and this deal is over...
+i DO NOT want any information about me geting published like email or anything..
+
+just want to assure  that nothing will get hit me back...
+
+Check what u need and check the mail...
+i will check the mail when i got w-lan availbe
+
+greets: infotorg.se
+
+
+
+
+Hello Infotorg.se
+im sorry to say that APB failed on keepin this information a secret and dont post anything 
+about you or your e-mail adress... AUH will keep on publishing ALL information about the persons
+who get involved in this shit... if APB offers you easy money to snitch on ya friends keep it in mind
+we are watching you... and we will make sure everyone knows, your family, friends everyone...
+
+PS. To the scene Even tough we hack your sites sometimes its only to get som 0days ;)
+we realy like you guys and we are hoping you wont let APB scare you... 
+raise the midle finger and keep warez
+
+///AUH ARGA UNGA HACKARE 2005
+
+

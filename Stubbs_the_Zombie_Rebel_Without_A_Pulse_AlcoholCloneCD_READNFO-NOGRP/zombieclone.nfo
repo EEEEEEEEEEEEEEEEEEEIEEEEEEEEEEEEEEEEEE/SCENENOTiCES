@@ -1,0 +1,113 @@
+How it all began... 
+
+In 1933, Edward "Stubbs" Stubblefield was just another traveling salesman 
+trying to get by during the Great Depression. His lifelong losing streak 
+reached its logical conclusion when he was brutally murdered and 
+ignominiously buried in a remote Pennsylvania field
+
+Note:
+
+It's a sad day today. Securom has introduced Starforce-like technology 
+and new blacklstings against DTool4, Alcohol, Starforce Nightmare, SRStop, 
+Anti-Blaxx, and so on.
+
+To get this release to work, you will need to do the following:
+
+Method 1)
+0) Install the game.
+1) Mount image in DTool4.
+2) Make sure you only have 1 Virtual CD device.  If you have an Alcohol virtual 
+device, e.g., disable it. If you have 2 Daemon Tool drives. Set it only to 1.
+3) Use Starfucker (included) and click on either primary or 
+secondary all_cd_agressive.' A message will pop up 
+"nur dann ok anclicken, wenn zu ende gespielt!" That translates to, 
+click 'ok' when u have finished playing.  So, Don't click OK if you want to play.
+3.5) Some of you will need to unplug your IDE drives.
+4) Click on desktop icon and play.
+
+btw, if u get the msg "required security module can not be activated" 
+you might need to reboot.
+
+Method 2)
+You can also convert the .mds file to a .bwa file, create a Blindwrite 
+image, and burn it.  You will need to unplug your IDE drives and use an 
+USB drive.  We've tested this and it works.
+
+
+Further Notes: 
+
+Some groups, (recently formed, one might add ;)), have been trying to claim 
+that Blindwrite is better than Alcohol, and have been producing propers 
+on this basis.  It is worth mentioning that this debate started and was 
+settled long ago, long before the group in question was formed, back when 
+Securom 4.8 was introduced. So, Alcohol or Blindwrite?  The million dollar 
+question.  The Answer: We prefer Alcohol, but it doesn't matter. Both have 
+advantages and disadvantages. Here is why.
+
+Quote from a discussion long ago:
+"Blindwrite's Twinpeaks feature uses the information stored in the .bwa-files 
+(which, as we remember, tells how long it takes to read a sector on the 
+disc). Now it uses a trick to "fake" this reading delay - the same sector 
+is burned twice onto the disc, with exactly the same information including 
+the sector number. This is a violation of the CDR-standard (the so-called 
+orange-book), but as most CD-drives read both sectors but only deliver one, 
+the delay of reading the second sector suffices to trick SecuROM
+into recognizing the disc as valid. However some drives, e.g. some Plextors, 
+report errors if the same sector is stored twice on the disc. As this is a 
+violation of the standards, this is nothing negative, in fact this only 
+happens with drives who strictly obey the standards.
+
+The drawback of this method is that today's copyprotections (i.e. SecuROM) 
+can easily be altered to check for these manipulations, too. So this ability 
+to copy SecuROM will most certainly not last very long, and if you're unlucky, 
+your copy will become invalid with the next patch for the game because the 
+patch will also update the copy protection (like No One Lives Forever 2 v1.2, 
+Anno 1503 v1.02, Neverwinter Nights 1.21...)"
+
+So what does this mean?  It means that 
+
+1) Blindwrite clones might not work if companies patch it in the future, 
+whereas Alcohol would continue to work.
+2) As Blindwrite is not a true clone, it may not work on some drives.
+3) Blindwrite mounted has the same disadvantages as Alcohol, namely that it 
+is subject to blacklisting.
+
+Here are some further reasons in favour of Alcohol.  If you are really keen 
+on having a Blindwrite image, you can EASILY use an .mds to .bwa converter 
+(e.g. dpmv.exe) and create a .bwa file to burn as Blindwrite.  This means that 
+an Alcohol clone has everything you need to get a Blindwrite image if you choose to. 
+If you only had a Blindwrite image, then you couldn't convert back if 1) or 2) 
+obtained.  In those cases, if you have Blindwrite, you are out of luck!  Moreover, 
+an .mds made by Alcohol using high precision dpm is in fact better than the .bwa 
+created by Blindwrite.  So even if you like Blindwrite, you should use Alcohol to create 
+the .bwa file.
+
+So why not just Alcohol?  
+
+Well, Alcohol requires mounting which can be blacklisted.  In those cases, 
+it might be better to convert the .mds to .bwa so that the end user doesn't have 
+to do it. But to make sure that you will be future-compatible, one should always 
+include the .mds in case you want to mount it in the future after a patch has been 
+released.   
+
+Upshot: Alcohol or Blindwrite?  We prefer Alcohol, but we think it doesn't matter.  
+Both have advantages and disadvantages.  But from now on, unless there are serious 
+changes to existing technologies, PROPER of formats will be seriously nuked.  
+
+Other lame things not to do or put in the nfo:
+
+1. With the advent of DTool4, one can easily make mini-images of DVDs.  Therefore, 
+clonecds are not superior to clonedvds. Please, newbie group, do your homework before 
+making unsubstantiated claims. 
+
+2. We don't think m0 compression should be propered unless you are racing, as that is just 
+wasting bandwidth.
+
+3. 'Use serials from other source' is seriously lame.  Make your own serials or don't 
+release.  
+
+4. SFclones are not 'true 1:1 copies.' Otherwise, they would work on burners as well 
+as regular non-burner cdroms just like the original would.   
+
+   
+

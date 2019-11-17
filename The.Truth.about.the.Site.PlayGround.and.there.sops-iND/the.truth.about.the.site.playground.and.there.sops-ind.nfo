@@ -1,0 +1,81 @@
+Hallo Leute wir haben gestern erstmal nen riesen Schock bekommen...
+
+Es geht um die Site PlayGround mit dem SOP Game-Over, dem "Tech" neasty und DwyN (kp was der da ist!?!)
+
+Site Infos:
+[13:28:27] <@P-GUARD> IRC: EFNET
+[13:28:27] <@P-GUARD> FTP:91.**.68.21:60000
+
+Kurzeinstieg: Trader wurden auf die Site geholt und es wurde gesagt das die Site grad im aufbau ist...
+              Gestern abend wurde von dann bescheid gegeben, dass irgendwie der Sop keine kohle mehr hat :P
+              Kurz darauf kam dann dieser geile Text zustande...
+
+(@neasty) (21:07:43) (@neasty) slave schon da ?¿?
+(@neasty) (21:08:01) (@GameOver-) nein
+(@neasty) (21:08:07) (@neasty) schade
+(@neasty) (21:10:31) (@GameOver-) es wird auch keiner kommen keiner will mehr mit machen musste bei ovh anrufen und denen sagen das 
+ich den server nicht nehmen kann,ich lass den hier noch bis ende laufen dann hör ich auch auf
+
+[22:56:55] <@GameOver-> so noch was
+[22:56:57] <@GameOver-> dr hat ips gelogt
+[22:56:58] <@GameOver-> 4gig nur ip logs
+[22:57:10] <@GameOver-> könn tihr euch jetzt ja mal vorstellen was das heisst
+[22:57:15] <@GameOver-> ihr
+[22:57:40] <@neasty> wie soll der denn hier im chan ips loggen LautesOnlineLachen
+[22:58:40] <@neasty> mal in die drftpd.conf reinschauen
+[22:58:51] <@neasty> da steht fett nix von loggen
+[23:00:06] <@neasty> also bin ich jetzt der Grund weil site off geht GameOver
+...
+[23:00:42] <@GameOver-> so noch was hab vor 2 tagen mal meine befehle probiert und musste fest stellen das ich garkeine rechte mehr hab (SOP ohne Rechte ?löl)
+...
+(22:46:13) (GameOver-) ok also der server wurde platt gemacht warum??? alle unser ips wurden geloggt
+(22:46:34) (neasty) also haste den formatiert ?¿?
+(22:46:39) (neasty) is doch net schlimm
+(22:46:57) (GameOver-) 4gb logs auf der kiste
+(22:46:57) (GameOver-) bash history voll bis kante
+[23:07:34] <+XXX> hat die kiste gelogt
+[23:07:38] <+XXX> ja oder nein
+[23:07:52] <@neasty> nein
+[23:08:00] <+XXX> so dann sag mir
+[23:08:03] <+XXX> wie du
+[23:08:09] <+XXX> die logs aus machst
+[23:08:11] <+XXX> alle
+[23:08:23] <@neasty> 1. drftpd.conf
+[23:08:28] <@neasty> moment
+[23:08:39] <@neasty> kopiere mal fix die stelle
+[23:08:48] <+GOOFY> googelst nu ??
+[23:09:02] <@neasty> nee hab noch auf nem anderen server die gleichen confs
+[23:09:04] <+XXX> denk ich
+[23:09:06] <+XXX> auch
+[23:09:10] <+GOOFY> hm
+[23:09:22] <+GOOFY> tech hat sowas im kopf
+[23:09:39] <@neasty> #hide ips in logs?
+[23:09:39] <@neasty> hideips=true
+[23:09:46] <+XXX> log4j.rootLogger=DEBUG, A1
+[23:09:50] <+XXX> sagt dir das was
+[23:09:56] <+XXX> log4j.rootLogger=DEBUG, root
+[23:09:59] <+XXX> oder das
+[23:10:00] <@neasty> das schonmal das wichtigste
+...
+[23:13:55] <@DwyN> HI jetzt hier!!!!
+[23:14:00] <@DwyN> Was is t los????
+...
+[23:23:45] <@DwyN> wir haben versucht was auf zu bauen und nu das hier474
+[23:23:54] <@DwyN> es hat keinr was gelogt
+[23:23:57] <@DwyN> wer
+[23:24:02] <+XXX> der server
+[23:24:03] <+GOOFY> der server
+[23:24:03] <@DwyN> ich nicht
+[23:24:06] <+XXX> hat gelogt
+[23:24:09] <+XXX> alles
+[23:24:13] <@DwyN> kann nicht sein
+[23:24:13] <+PLAN0> es wurde gerade bekannt das euer tech die box so gut configgt hat das die alles aber auch wirklich alles was auf der box abging geloggt hat
+[23:24:26] <@DwyN> moment
+...
+
+Mehr gutes kam nicht mehr ausm IRC. Man kann nur hoffen das die 3 leutz da oben aus der Scene gebant werden, da Sie ein großes Sicherheitsrisko für uns sind.
+ALSO AN ALLE SOPS DELPURGED SIE !!!
+Es wurden über DwyN mehrere Trader dahin geholt und nun sowas... tzzz !
+Die Nicks XXX,GOOFY,PLAN0 sind geändert um die Trader zu schützen !!!
+
+HALTET DIE SCENE CLEAN !!!

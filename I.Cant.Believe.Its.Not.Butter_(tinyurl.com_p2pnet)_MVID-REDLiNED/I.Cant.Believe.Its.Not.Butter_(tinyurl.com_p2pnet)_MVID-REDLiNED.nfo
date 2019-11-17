@@ -1,0 +1,92 @@
+###########################################################################################
+ 
+!p2p! [14:59:37] Dear P2P-Network users: recently some of our voluntary funding sources unfortunately went away. What this means is that we now have to pay approximately $300 a month to maintain all our servers. We kindly ask you to help us support these costs by donating whatever funds you have available via http://www.p2p-network.net/ or directly to donate@p2p-network.net via PayPal. Please be aware that this is purely voluntary.
+ 
+!p2p! [14:59:43] Also, some of you may have noticed that we currently do not have any European-based servers, we are working on getting some running soon. If you have a European-based dedicated server that is capable of supporting an IRC server and which we can use, please join #routing and explain what you have to offer in detail, this would be a big help as well.
+ 
+###########################################################################################
+ 
+p2p was ~djgrrr@staff.p2p-network.net * djGrrr
+p2p using citadel.us.p2p-network.net Sun Dec 20 14:00:56 2009
+ 
+p2p was ~djgrrr@staff.p2p-network.net * djGrrr
+p2p using citadel.us.p2p-network.net Sun Dec 20 13:57:43 2009
+ 
+###########################################################################################
+ 
+* Dns resolved area51.us.p2p-network.net to 66.252.30.123
+ 
+network:IP-Network-Block:66.252.30.0 - 66.252.30.127 (123 is area51 of course)
+network:Org-Name:Shellfx
+ 
+ShellFX is Xzibition also goes under the company name OutCast, area51 has about 550 users average, a 500 user shell is 9.95 but lets say P2P-Network.net bought a 800 user ircd for 14.95. According to the owner of ShellFX/Xzibition/Outcast LazyKat, djGrrr has free ircds and shells on every server run by the company for helping out so true cost: $0.00
+ 
+###########################################################################################
+ 
+* Dns resolved moo.us.p2p-network.net to 69.30.232.148
+ 
+69.30.232.148 resolves to moo2.jchost.net
+ 
+so JCHost is a company owned by corNIC so technically moo.us is paid for because what kind of an oper donates a server and then
+accepts donations to pay for the server he donated, so $0.00 goes to that.
+ 
+ 
+###########################################################################################
+ 
+* Dns resolved mars.ca.p2p-network.net to 204.16.200.180 aka the old tank.ca.p2p-network.net
+ 
+Mars is a colo'd server owned by Spike who works for the datacenter wheres its hosted. So cost, well all its running is an ircd from the looks of it, and an overkill spec is 100Mbit w/ 1000 GB which is about $49.99 CAD/month. So thats the first total 49.99
+ 
+###########################################################################################
+ 
+* Dns resolved afk.us.p2p-network.net to 66.154.99.150
+ 
+afk.us is also the server for the official QuadraNet.com website. Official Website Server = Paid for by QuadraNet, cost to P2P-Network
+= $0.00
+ 
+###########################################################################################
+ 
+* Dns resolved juggernaut.us.p2p-network.net to 72.20.48.95
+ 
+juggernaut = 72.20.48.95 and 72.20.48.95 is owned by Xzibition.com again, so cost $0.00 at most $14.95/month.
+ 
+###########################################################################################
+ 
+* Dns resolved citadel.us.p2p-network.net to 72.20.40.52
+ 
+72.20.40.49 = P2P-Network.net official website
+72.20.40.50 = LinuxHosted.ca LinuxHosted.net GenerationTrance.com
+72.20.40.51 = proxy scanner for users connecting to the network
+72.20.40.52 = citadel
+72.20.40.53 = Originally used as server for running nginx proxy for SceneTorrents.org (SSL is even still active for this domain/ip)
+ 
+So if GenerationTrance and LinuxHosted (the company used to funnel donations from SceneTorrents to private paypal accounts) doesnt pay for the server they are using ill be nice and let them rent a P4 for 109.00 USD.
+ 
+###########################################################################################
+ 
+* Dns resolved chaos.us.p2p-network.net to 66.252.11.9
+ 
+network:IP-Network-Block:66.252.11.0 - 66.252.11.63
+network:Org-Name:Shellfx
+ 
+again most likely free as its owned by Xzibition.com, if not 14.95/month
+ 
+###########################################################################################
+ 
+* Dns resolved gige.us.p2p-network.net to 63.251.179.17
+ 
+Surprisingly the only one i couldnt trace down.
+ 
+############################################################################################
+ 
+P2P-Network.net asked for: $300.00 USD/month
+ 
+Potential Real Cost: $203.~~/month
+ 
+Probable Real Cost: $109/month
+ 
+Why the all of a sudden need for donations after four and a half years of not asking for donations? Thats right its pretty obvious, SceneTorrents had their own network, but djGrrr used money from SceneTorrents users that was meant for SceneTorrents on his other network P2P-Network.net. 
+ 
+Should you donate? probably not, the servers existing now are more than capable of handling several thousand more users without an issue, if anything they should drop a few and add more .EU as grass.nl (LeaseWeb/Nforce) and the netdirekt server was also paid for by SceneTorrents donations.
+ 
+#############################################################################################

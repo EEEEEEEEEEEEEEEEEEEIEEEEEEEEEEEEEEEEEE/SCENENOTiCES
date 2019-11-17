@@ -1,0 +1,44 @@
+Hur du använder FeUs RAR share-checker		Skapad av -=REG=-Jensa for FeU :P
+
+
+	Detta har skapats för FeU hubbarna för att underlätta för de som vill bli reggade att se
+	om de kan ha missat någon fil när de gått igenom sharen manuelt 3 gånger redan!
+	Kan även användas för användare som redan är -RAR- för att se om de delar ut en massa skitfiler
+	vilket har blivit allt vanligar nu tyvär.
+
+
+Installation:
+
+	0. För att få ut mesta möjliga av denna krävs en klient med fungerande regexps i adl search, tex nya fulDC 6.52
+	1. Stäng ner din DC klient (detta är ett måste!!!)
+	2. Skapa en backup på din existerande adlsearch.xml om du vill ha kvar det
+	3. Packa upp arkivet filen med WinRAR 
+	4. Kopiera den uppackade filen adlsearch.xml till din DC klients mapp      (ex. C:\Program\DC++)
+	5. Starta din klient igen
+
+För att kolla din share gör följande:
+
+	1. I din klient, ta Open filelist
+	2. Leta upp din DC klients mapp och öppna den nyaste files**.xml.bz2 och öppna den
+
+	Nu kommer allt i din share som inte är orginal release att synas under nya mappar tex <<<  Möjligt Icke-RAR  >>>
+	och <<<  0 BYTES  >>> . Tänk på att detta inte är 100% säkert! Vissa filer kan missas och vissa kan vara 
+	orginal men endå visas som icke orginal. Kolla alltid igenom sharen manuellt också!
+	
+
+	Mer information om orginalreleaser :  http://whyrar.has.it
+
+Changelog:
+
+V 1.4
+	Lagt till lite sitetags mm. och förfinat vissa delar, även lagt till så den upptäcker mellanslag i kataloger eller filer.
+	Det funkar dock bara i senaste fulDC 6.52 som det fungerar.
+
+V 1.3
+	Ändrade namnen på mapparna så det är mer tydligt att allt kanske inte är skräp mm.  + massa nya sitetags och annat gott =)
+
+V 1.2
+	La till lite sitetags mm. och annat skit...
+
+V. 1.1
+	La till lite grejor så den förmodligen är ännu bättre =)

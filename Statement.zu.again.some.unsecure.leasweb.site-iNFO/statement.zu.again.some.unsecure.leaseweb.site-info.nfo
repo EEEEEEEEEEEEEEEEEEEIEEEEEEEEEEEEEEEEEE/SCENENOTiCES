@@ -1,0 +1,31 @@
+Also generell erst mal vorweg:
+
+1. ich habe nie jemandem der gefragt hat verschwiegen dass 2 x glFTPD auf unserem Server läuft. Die 2. gl ist für 2 Hardware Supporter,
+   die keinen Bock haben, im Chan oder in irgendeiner Statistik aufzutauchen. Diese beiden Leute haben eine extra GL bekommen, sind nicht unter dem
+   auf dem server eingetragenen Namen geadded und haben das was sie haben wollten.
+   Dies geschah unsererseits lediglich aus Rücksichtnahme und Toleranz und nicht aus irgendwelchen schwachsinnigen Philosophien, die sich Leute ausgedacht
+   haben.
+
+2. 2 x GL am start -->> glport 4215 & 65001 (ohne SSL)    <<-- völliger Schwachsinn, auf unserem Server läuft glFTPD ausschliesslich mit
+   SSL Auth und Site to Site. Dies ist denke ich mal Scene Standard, und so ist es bei uns auch der Fall.
+
+3. ThE W4TchEr  ... wer auch immer du bist ... du bist einfach nichts weiter als ein riesen SECURITY HOLE, wie du es so schön beschreibst in deiner NFO.
+   Du bist hier derjenige, der IPS und Ports abscannt, nicks in einer NFO verbreitet und AFFiLS namentlich nennt. 
+   So etwas wie du gehört KICKBANNED.
+   Du bist ein feiger Hund für mich, mehr nicht, wenn du dich hinter diesem Pseudonym verbirgst und Gerüchte verbreitest ohne dich vorher über auch nur 
+   irgendwelche Hintergruende informiert zu haben.
+
+   So jemand wie du, der so offensichtlich Namen und Informationen preisgibt, ist in meinen Augen DAS RISIKO schlechthin für die Scene. Wer weiss was du noch
+   alles ausplaudern würdest, nur um deine eigene Haut zu retten.
+
+
+4. Zum Thema WEBMIN: Richtig, auch das läuft bei uns. Aber Webmin ist ausschliesslich für mich gedacht, weil ich ein LINUX Anfänger bin .. . Und sollte jemand
+   sagen, WEBMIN ist insecure, sage ich dazu SCHWACHSINN. Dann soll er mir beweisen, dass er die Version die bei uns läuft, knacken kann. Es ist ein 25
+   stelliges Passwort drin, ist stabil und nicht exploit/knackbar.
+
+
+
+   Ich habe nichts zu verbergen, weil ich mir keiner Schuld bewusst bin. 
+
+
+   Wenn noch jemand Fragen zu dem Thema hat, ihr wisst wo Ihr mich finden koennt.

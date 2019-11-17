@@ -1,0 +1,155 @@
+
+
+
+Hey guys, security issue again!
+
+I'm glad siteops have become more cautious about adding ppl's ips nowadays.
+However, once in a while security breahes happen.  Today, one of my sites
+came across an account thief.  He pmed the siteop with my nickname and asked
+the siteop to addip.  The siteop became suspicious because just 30 minutes
+earlier, I (THE REAL ME) asked the same siteop to add my new ip.  He became
+very alert and took action by freezing my account.  When I pmed him, he gave
+me all the info and said someone was trying to fuck with my account.  He gave
+me his nick, ident, host, and ip that he was trying to get added.  I'll paste
+the info about the 'FUCKER' later on in the nfo.  But more importantly, siteops
+need to be more cautious about adding ips and such.  Some of the admins have
+been very careful and ask for specific info from the person who wants to addip
+as proof of identity.  This does work well and it was definitely a nice
+surprise when the admin asked me when I wanted to get my IP added.
+
+For Siteops: Here are some ways you can get proof of identity: 
+- Ask them of the ips that are already added to site atm.
+- If the person seems suspicious, meaning they aren't behaving the same way
+  they do ussually, ask them some questions, talk to them, make them feel as if
+  you've fallen into their trap.  They are bound to spit out something that
+  they 
+
+For Curries: Here are some ways you can prevent 'FUCKERS' from getting
+             your IP / addline:
+- Don't give your addline to people you don't know (DUHH!)
+- Try to make addline like this:
+      site adduser coward444 changem3 *@xxx.xxx.xxx.* *@xxx.xxx.xxx.*
+  - Once you get added to a site, login and change your password.
+  - Keep passwords on all sites different; don't dupe.
+- Stay away from people that seem suspicious
+  - Especially people you haven't known for atleast some time.
+- Some people are too quick to give their addlines to people who will add them
+  to another site.  You need to understand that they have to ask siteop whether
+  trial/db slots are open for the user before giving them addline.
+
+Ofcourse no security is perfect, there are always flaws but getting proof
+with any method does minimize the chances of a 'FUCKER' intruding another's
+account.
+
+
+
+
+
+Enough of my lecture, he's the proof of the 'FUCKER' that tried to screw me over.
+I'll get rid of the nicknames, the 'FUCKER's ident, and ofcourse siteop names
+obviously due to security reasons.
+
+***The following logs come straight from siteop.
+   - The aliases I used are self-explanatory.
+
+
+[17:52] <e~FUCKER> hey
+[17:53] <siteop> yo
+[17:53] <e~FUCKER> Addip pls @ site , site addip MY_USER *@158.194.127.55
+[17:54] <siteop> again?
+[17:54] <e~FUCKER> huh
+[17:54] <e~FUCKER> what was last i added ?
+[17:54] <siteop> [17:20] <e~REAL_ME> site addip MY_USER *@xxx.xxx.xxx.*
+[17:54] <siteop> [17:21] <siteop> [R] 200- IP '*@xxx.xxx.xxx.*' successfully added to MY_USER.
+[17:54] <siteop> [17:21] <e~REAL_ME> thank you :)
+[17:54] <siteop> [17:21] <siteop> np ;)
+[17:54] <siteop> 30 mins ago
+[17:55] <siteop> please tell me that was you
+[17:55] <e~FUCKER> nah
+[17:55] <e~FUCKER> delete it pls
+[17:55] <siteop> he invited with your user
+[17:55] <siteop> [SITE-INV] MY_USER (MY_GROUP) requested to dock his shuttle called FUCKER. Permission granted.
+[17:56] <siteop> e~REAL_ME [REAL_ME@MY_HOST.net] has quit IRC (Ping timeout: 265 seconds)
+
+
+As you can see in this one, the 'FUCKER' pmed siteop and siteop refused to add him
+because he noticed that the 'FUCKER' wasn't using same username as 'REAL_ME'. Siteop
+showed him the logs of 'REAL_ME' when 'REAL_ME' got 'REAL_IP' added.
+
+When I (REAL_ME) returned, I was deleted so I pmed siteop and we eventually figured
+out this shit and I was readded.  I changed pass on all sites, shell, pftp, EVERYTHING!
+I left nothing out.
+
+btw here is the log between ME and Siteop.
+
+
+[15:56] <REAL_ME> OMG, wow.
+[15:56] <REAL_ME> someone is trying to screw with me
+[15:57] <REAL_ME> what was host?
+[15:57] <siteop> <- <REAL_ME> what was host?
+[15:57] <siteop> w8
+[15:57] <REAL_ME> i always use: REAL_ME and i ALWAYS use MY.REAL.BNC.net
+[15:57] <REAL_ME> ask ANOTHER_SITEOP_NAME he has known me
+[15:57] <siteopx> [17:38] e~FUCKER [~FUCKER@linux.irc.tv] has joined #e~#channel
+[15:58] <REAL_ME> i have NO idea who that fucker is.
+[15:58] <siteop> [17:38] <e~SITE> [SITE-INV] MY_USER requested to dock his shuttle called FUCKER (FUCKER@linux.irc.tv). Permission granted.
+[15:58] <REAL_ME> but we got that ip
+[15:58] <REAL_ME> sec.
+[15:58] <siteop> he invited with your pass
+[15:58] <siteop> to the chan
+[15:58] <REAL_ME> OMG, that is NOT me.
+[15:58] <siteop> I understand
+[15:58] <REAL_ME> i NEVER use anything other than MY.REAL.BNC.net
+
+
+
+
+
+
+
+So here IP the 'FUCKER' tried to get added: *@158.194.127.55
+Here is his bnc: FUCKER@linux.irc.tv
+
+
+*** I totally understand that more than 1 person can and probably does use that same
+    bnc but please do take into consideration of investigating the user in order to
+    be sure.  Check ip
+*** Plus that ip he tried to add is from a UNIVERSITY so the FUCKER has most likely
+    hacked into the system and is using it as proxy or site bnc.
+- But as I said, take into serious consideration to investigate that person.
+
+
+
+
+
+
+
+Luckily I've been on there for more than a year!  So that helped me prove my real
+identity and said about some things that only the siteop and I would know which
+greatly helped me and siteops get over the confusion and everything ultimately
+was settled.
+
+Well took me 2 hrs to change passes, check ips on my accounts, write/compile this
+nfo, and warn people about the 'FUCKER'.
+
+
+Anyway, Thank you for reading this and I do hope you consider investigating further
+into your userdb before anything on a larger scale takes place.  Fortunately, I
+survived the attack on 1 site and I'm taking precautions to prevent it from happening
+again.  As I mentioned earlier, no security is PERFECT so there is always a hole and
+arrogance leads to downfall.
+
+
+
+
+
+
+
+
+***************************
+******I have many more logs with my chat with siteop and he giving me info and me
+trying to convince him about the stuff but I don't think its relevant to this
+matter so I didn't put it in. Plus it would take me longer and I wanted this nfo
+out ASAP!  Tried to keep everything sort and sweet and emphasized the important
+info.
+***************************

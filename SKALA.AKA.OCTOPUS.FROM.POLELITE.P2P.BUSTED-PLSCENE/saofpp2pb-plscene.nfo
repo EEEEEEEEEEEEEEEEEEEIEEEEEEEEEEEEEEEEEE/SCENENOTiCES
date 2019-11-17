@@ -1,0 +1,166 @@
+Oto sliczny przyklad jak mozna sobie grac na dwa fronty. =)
+
+logi tu zawarte pochodza glownie z kanalu dla uploaderow strony polishtracker.org
+
+(09:04:08) ?? query with (kamien) (skala@a34b1a3.384863c2.e-wro.net.pl)
+(09:04:08) ?? total queries: 535 (~4.4 per day)
+(09:04:08) ?? queries today: 1
+(09:04:08) ?? common channels: @#pt-uploaders %#polishtracker
+(09:04:09) (kamien) Error: Tracker Response Error:There is a minimum announce time of 60 seconds in Tracker: http://83.149.122.49/announce.php?passkey=8357dd0f538dd2e638655fc03437b78d
+(09:04:09) (kamien) Error: Tracker Response Error:There is a minimum announce time of 60 seconds in Tracker: http://83.149.122.49/announce.php?passkey=8357dd0f538dd2e638655fc03437b78d
+(09:04:22) (kamien) teraz mi taki blad wali dalem opcje na sedowanie
+(xxx) jaki klient?
+(kamien) bitcomet
+(09:04:42) (xxx) a zatrzymaj
+(09:04:47) (xxx) i daj mu reczne hashowanie
+(09:05:45) (xxx) i zrob tylko seedowanie i start
+(09:06:50) (kamien) zrobilem
+(09:07:02) (xxx) i co? pokazuje ci 100% ze masZ?
+(09:07:04) (kamien) Error: Tracker Response Error:There is a minimum announce time of 60 seconds in Tracker: http://83.149.122.49/announce.php?passkey=8357dd0f538dd2e638655fc03437b78d
+(09:07:14) (kamien) niepokazuje ze mam 98,5
+(09:07:27) (xxx) hmmm
+(09:07:28) (kamien) zerknij czy on wogole to na strone dodal
+(09:07:32) (xxx) dodal
+(09:07:35) (xxx) ale jest ukryty torent
+(09:07:39) (xxx) bo nie ma seedow
+(09:08:09) (xxx) o
+(09:08:11) (xxx) jest seed
+(09:08:40) (kamien) http://83.149.122.49/announce.php?passkey=8357dd0f538dd2e638655fc03437b78d
+(09:08:53) (kamien) 98.5%
+(09:08:57) (kamien) i stoi
+(09:09:06) (kamien) zostalo 96 kilo
+(09:09:14) (kamien) o co mu chodzi to nie wiem
+(09:10:05) (xxx) qrde
+(09:10:09) (xxx) mam cos zjebane z netem
+(09:10:13) (xxx) bo mi wp.pl nie otwiera
+(09:10:16) (xxx) i tego twojego skrina
+(09:10:56) (xxx) ale na stronce juz masz 100% pokazuje
+(09:11:14) (xxx) hehe
+(09:11:23) (xxx) a w comecie 97,1
+(09:11:44) (xxx) a juz wiem co u mnie nie tak
+(09:11:55) (kamien) mam teraz 97,1
+(09:11:58) (xxx) hmmm
+(09:12:01) (xxx) a daj polacz recznie
+(09:12:12) (xxx) o
+(09:12:15) (kamien) dalem
+(09:12:16) (xxx) znowu pod kreske zjechales
+(09:12:32) (kamien) Error: Tracker Response Error:There is a minimum announce time of 60 seconds in Tracker: http://83.149.122.49/announce.php?passkey=8357dd0f538dd2e638655fc03437b78d
+(09:12:36) (kamien) wywalil to
+(09:12:49) (xxx) no bo nie mozesz czesciej niz 1 na minuter robic polacz recznie
+(09:12:54) (xxx) albo start stop torenta
+(09:13:28) (kamien) dalem
+(09:13:34) (kamien) wysylanie mam jakeis zjebane
+(09:13:52) (kamien) 455 B wliczajšc 288 KB b³êdnych danych
+(09:14:06) (kamien) 563 B
+(09:15:28) (xxx) teraz widze 92,7
+(09:15:33) (xxx) hmmm
+(09:15:37) (xxx) qrde
+(09:15:41) (xxx) ktos juz mial taki rebus
+(09:15:46) (xxx) tylko nie pamietam kto
+(09:16:02) (xxx) podaj mi adres twojego screena jeszcze raz
+(09:16:14) (kamien) http://www.rusalka.nd.e-wro.pl/1.JPG
+(09:17:20) (xxx) nie moge zlukac
+(09:17:23) (xxx) qrwa
+(09:17:28) (xxx) dzwonie do isp
+(09:19:19) (xxx) do godziny 10tej naprawiaja jakis server i nie mam polowy polskich stronek
+(09:19:53) (kamien) daj maila poszcze ci
+(09:19:56) (kamien) to mailem
+(09:20:19) (xxx) hmmm... daj na blancior@gmail.com
+(09:21:03) (kamien) poszlo
+(09:23:33) (xxx) a jak zrobiles reczne hashowanie to ile % miales?
+(09:24:14) (kamien) 95,7
+(09:24:18) (kamien) cos kolo tego
+(09:24:30) (xxx) a nie masz jakis ukrytych plikow w katalogu tego adawara
+(09:24:31) (xxx) ?
+(09:24:41) (xxx) jak np thumbs.db
+(09:24:41) (kamien) nie mam
+
+tu z kanalu dumpa PT
+
+(21:00:46) (skala) !bw
+(21:00:52) (skala) dobra dziala ¡
+(21:01:02) (skala) !uptime ¡
+(21:01:18) (skala) tak odpalilem fisha ¡
+(21:01:30) (skala) jakie lacze ? ¡
+(21:01:45) (skala) !up ¡
+(21:01:47) (skala) !dn ¡
+(21:03:16) (skala) gdzie jestes speedtest ? ¡
+(21:04:03) (skala) !speed skala ¡
+(21:04:17) (skala) [21:04:58] Transferred: dws.sample-rex.avi 16,07 MB in 3,64 seconds (4 520,9 KB/s) ¡
+(21:04:20) (skala) dobrze elci ¡
+(22:59:06) (skala) jakis siteop ¡
+(23:16:08) (@_yyy_) -yyy- [DIVX] + New Release: divx/Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX (Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX) by skala@PT ¡
+(23:16:20) (@_yyy_) -yyy- [DIVX] + New Release: Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/Sample (Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/Sample) by skala@PT ¡
+(23:16:33) (@_yyy_) -yyy- [DIVX] + New Release: Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD2 (Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD2) by skala@PT ¡
+(23:16:47) (skala) zmiencie mi grupe ¡
+(23:16:48) (@_yyy_) -yyy- [DIVX] - skala/PT was the first to upload file in Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD2. Expecting 715.3mB. ¡
+(23:16:51) (skala) nie chche PT ¡
+(23:19:31) (@_yyy_) -yyy- [DIVX] - Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD2 is in halfway. Leading uploader is skala/PT [349.8M/25F/100.0%/4190KB/s]. Leading group is PT [349.8M/25F/100.0%/4190KB/s]. ¡
+(23:22:15) (@_yyy_) -yyy- [DIVX] - Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD2 [ 707mB in 50F at 2193kB/s - 5m 30s ] was completed by 1 racer(s) from 1 group(s). Slowest upload by skala/PT at 3773KB/S. Fastest upload by skala/PT at 4334KB/S. ¡
+(23:22:22) (@_yyy_) -yyy- [DIVX] + New Release: Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD1 (Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD1) by skala@PT ¡
+(23:22:35) (@_yyy_) -yyy- [DIVX] - skala/PT was the first to upload file in Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD1. Expecting 715.3mB. ¡
+(23:25:17) (@_yyy_) -yyy- [DIVX] - Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD1 is in halfway. Leading uploader is skala/PT [346.8M/25F/100.0%/4225KB/s]. Leading group is PT [346.8M/25F/100.0%/4225KB/s]. ¡
+(23:28:19) (@_yyy_) -yyy- [DIVX] - Dobry.Wojak.Szwejk.1956.PL.DVDRip.XviD-ReX/CD1 [ 704mB in 50F at 2078kB/s - 5m 47s ] was completed by 1 racer(s) from 1 group(s). Slowest upload by skala/PT at 3257KB/S. Fastest upload by skala/PT at 4318KB/S. ¡
+(23:44:32) (skala) jaki lewy ¡
+(23:44:36) (skala) co ty pierdolisz ¡
+(00:19:35) (ratman|off) skala: ys cos swierzego ¡
+(00:22:16) (skala) przeciez to nowe ¡
+(00:22:21) (skala) sprawdz se pre ¡
+(00:22:33) (skala) a jakeis rulesy tu sa ? ¡
+(00:22:42) (skala) bo jak na razie to widze burdel na sicie ¡
+(00:22:50) (skala) mp3 to wogole balagan ¡
+(00:23:42) (skala) Nature.Unleashed.Fire.2004.PL.DVDRip.XviD-ReX to tym bardziej ¡
+(00:23:50) (skala) a upali ¡
+(00:23:53) (skala) wiec tez nuke ¡
+(00:24:36) (skala) to neich bede :] ¡
+(00:24:41) (skala) wole meic credki ¡
+(00:24:56) (skala) zeby pozniej nikt z dupska nie strzelal ze za duzo zasalem ¡
+(00:25:25) (skala) zeby nie zapchac dsku smieciami ¡
+(00:25:29) (skala) jak malo ¡
+(00:25:37) (skala) jakeis zasady musza byc ¡
+(00:26:40) (skala) to zrobic 24 h ¡
+(00:26:53) (skala) ale zeby nie wpadalo wszystko jak leci ¡
+(00:26:57) (skala) bo sie zacha zaraz' ¡
+(00:29:09) (skala) no i mam ratio :) ¡
+(00:29:15) (skala) s@ zrobi ¡
+(00:29:21) (skala) wiec nuke na mnie zadziala ¡
+(00:30:10) (skala) zaraz musze sie wbic ¡
+(00:30:12) (skala) na serwa ¡
+(00:39:17) (@_yyy_) -yyy- [TVRIP] + New Release: tvrip/Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL (Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL) by skala@PT ¡
+(00:39:29) (@_yyy_) -yyy- [TVRIP] + New Release: Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL/Sample (Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL/Sample) by skala@PT ¡
+(00:40:01) (@_yyy_) -yyy- [TVRIP] - skala/PT was the first to upload file in Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL. Expecting 715.3mB. ¡
+(00:40:59) (skala) no to leci ¡
+(00:41:28) (skala) +h ¡
+(00:41:31) (skala) ma uzyc ¡
+(00:41:42) (skala) tak ¡
+(00:42:56) (@_yyy_) -yyy- [TVRIP] + New Release: tvrip/Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL (Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL) by skala@PT ¡
+(00:43:16) (@_yyy_) -yyy- [TVRIP] + New Release: Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL/Sample (Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL/Sample) by skala@PT ¡
+(00:44:02) (@_yyy_) -yyy- [TVRIP] + New Release: tvrip/Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL (Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL) by skala@PT ¡
+(00:44:23) (@_yyy_) -yyy- [TVRIP] + New Release: Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL/Sample (Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL/Sample) by skala@PT ¡
+(00:45:09) (@_yyy_) -yyy- [TVRIP] - skala/PT was the first to upload file in Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL. Expecting 357.6mB. ¡
+(00:47:21) (@_yyy_) -yyy- [TVRIP] - Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL is in halfway. Leading uploader is skala/PT [186.0M/13F/100.0%/1456KB/s]. Leading group is PT [186.0M/13F/100.0%/1456KB/s]. ¡
+(00:49:37) (@_yyy_) -yyy- [TVRIP] - Prawda.Czy.Falsz-Dekompresja.Wybuchowa.PL.TVRip.XviD-4PL [ 354mB in 25F at 1306kB/s - 4m 38s ] was completed by 1 racer(s) from 1 group(s). Slowest upload by skala/PT at 1279KB/S. Fastest upload by skala/PT at 1521KB/S. ¡
+(00:50:09) (@_yyy_) -yyy- [TVRIP] - skala is racing [ ratman(PT) ] on Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL @ 1446kB/s. ¡
+(00:52:16) (@_yyy_) -yyy- [TVRIP] - Detektywi.Sadowi-Morderstwa.PL.TVRip.XviD-4PL [ 354mB in 25F at 695kB/s - 8m 42s ] was completed by 2 racer(s) from 1 group(s). Compression method: m0. Slowest upload by ratman/PT at 339KB/S. Fastest upload by skala/PT at 1530KB/S. ¡
+(00:53:53) (@_yyy_) -yyy- [TVRIP] - Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL is in halfway. Leading uploader is skala/PT [357.6M/25F/100.0%/1502KB/s]. Leading group is PT [357.6M/25F/100.0%/1502KB/s]. ¡
+(00:55:22) (skala) :) ¡
+(00:58:31) (@_yyy_) -yyy- [TVRIP] - Welcome.To.Hard.Times.1967.PL.TVRip.XviD-4PL [ 707mB in 50F at 646kB/s - 18m 40s ] was completed by 1 racer(s) from 1 group(s). Slowest upload by skala/PT at 1279KB/S. Fastest upload by skala/PT at 1768KB/S. ¡
+(01:10:13) (xxx) skala ten wojak szwejk wjechal caly?
+
+
+(09:19:16) (skala) wyjsc z kanalu ¡
+(09:19:16) (skala) wyjsc z kanalu ¡
+(09:19:17) (skala) wyjsc z kanalu ¡
+(09:19:18) (skala) wyjsc z kanalu ¡
+(09:19:23) ?? part: (skala) (1002@LinkNet-094d98b399.utwente.nl)
+
+
+(10:22:06) (@_yyy_) -yyy- [DIVX] + New Release: divx/Closer.2004.PL.DVDRip.XviD-SSB (Closer.2004.PL.DVDRip.XviD-SSB) by skala@PT ¡
+(10:22:15) (@_yyy_) -yyy- [DIVX] + New Release: Closer.2004.PL.DVDRip.XviD-SSB/Sample (Closer.2004.PL.DVDRip.XviD-SSB/Sample) by skala@PT ¡
+(10:22:23) (@_yyy_) -yyy- [DIVX] + New Release: Closer.2004.PL.DVDRip.XviD-SSB/Subs (Closer.2004.PL.DVDRip.XviD-SSB/Subs) by skala@PT ¡
+(10:22:30) (@_yyy_) -yyy- [DIVX] - skala/PT was the first to upload file in Subs. Expecting 1.5mB. ¡
+(10:22:31) (@_yyy_) -yyy- [DIVX] - Subs [ 2mB in 1F at 1861kB/s - 1s ] was completed by 1 racer(s) from 1 group(s). Slowest upload by skala/PT at 1860KB/S. Fastest upload by skala/PT at 1860KB/S. ¡
+(10:22:40) (@_yyy_) -yyy- [DIVX] - skala/PT was the first to upload file in Closer.2004.PL.DVDRip.XviD-SSB. Expecting 715.3mB. ¡
+(10:24:38) (@_yyy_) -yyy- [DIVX] - ratman is racing [ skala(PT) ] on Closer.2004.PL.DVDRip.XviD-SSB @ 559kB/s. ¡
+(10:24:44) (@_yyy_) -yyy- [DIVX] - Closer.2004.PL.DVDRip.XviD-SSB is in halfway. Leading uploader is skala/PT [335.6M/24F/95.9%/3872KB/s]. Leading group is PT [349.9M/25F/100.0%/3117KB/s]. ¡
+(10:26:37) (@_yyy_) -yyy- [DIVX] - Closer.2004.PL.DVDRip.XviD-SSB [ 707mB in 50F at 3005kB/s - 4m 1s ] was completed by 2 racer(s) from 1 group(s). Compression method: m0. Slowest upload by ratman/PT at 461KB/S. Fastest upload by skala/PT at 4076KB/S. ¡

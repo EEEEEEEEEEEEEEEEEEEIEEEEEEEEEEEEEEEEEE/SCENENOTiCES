@@ -1,0 +1,26 @@
+Hi folks,
+Here we a little notice about another insecure trader who paste informations from other sites in sitechannels
+
+WHOIS:
+
+nanna is enemy@F7E92AAF.18DA1E83.1A5D6B68.IP * enemy
+nanna on *REMOVED* 
+nanna using *REMOVED* Unknown Server
+nanna is using a Secure Connection
+nanna End of /WHOIS list.
+
+IRC CHANNEL:
+
+<nanna> [01:25] <SAS> .: FTP ::  ftp-sas.mine.nu:52010 :.
+<nanna> [01:25] <SAS> .: IRC ::  bnc-sas.mine.nu: +7000 :.
+<nanna> [01:25] <SAS> .: BNC ::  bnc-sas.mine.nu: +55000 :.
+
+SAS ... rented ovh paybox ;)
+
+You know what you have to do! Please purge this insecure fucker h3h3h3
+
+Please learn how to deal with mIRC
+
+Gr33tz iND
+
+PS: KruzEn, nobody want crappy site like SAS ^^

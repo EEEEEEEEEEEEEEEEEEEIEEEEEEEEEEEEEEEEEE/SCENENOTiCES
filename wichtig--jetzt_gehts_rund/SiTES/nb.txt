@@ -1,0 +1,104 @@
+#NB [RP] HS ~la-bag@bzq-131-26.red.bezeqint.net :0 la-bag
+#NB hypermood HS hypermood@Linknet-784be740a7.dip0.t-ipconnect.de :0 life is too short...
+#NB _SkaZi_ HS music@blaeser.med.badt.dk :0 music
+#NB _soKraTeZ H ~xxxxx@62.75.155.121 :0 _soKraTeZ
+#NB [PiNCH] HS hcnip@server2.unitedservers.de :0 pinch
+#NB Rast3r H ~grml3@62.80.98.98 :0 Rast3r
+#NB luna HS spliff@ircop.dalnet.nl :0 luna
+#NB _feldhase HS blubb@62.93.217.1 :0 blubb
+#NB camel_ HS Camel@Linknet-cee5bb1395.adsl.tpnet.pl :0 Camel
+#NB pazo HS pazo@Linknet-003e8f49a4.adsl.datanet.hu :0 akarmi
+#NB NB HS@ ~NB@102.156-228-195.hosting.adatpark.hu :0 NB
+#NB Zezette HS zezette@213.161.256.256 :0 Niels
+#NB [ph33r] HS@ zephik@Linknet-12cc69633e.boxop.net :0 ph33r
+#NB fosil HS dirt@Linknet-7418d94f0d.cm.vtr.net :0 no one :(
+#NB W1z4 HS Bl4z@63.246.256.256 :0 Bl4z
+#NB tx_BOOTED HS Termin-X@Linknet-d0c9695577.found.g-noc.net :0 Termin-X
+#NB crazy HS trader@82.154.202.216 :0 crazy
+#NB ardi HS ~asys@80.247.212.4 :0 ardi
+#NB Alphazone HS raine@Linknet-4594470f74.serverkompetenz.net :0 Alphazone
+#NB AssGuard HS asgard@Linknet-762da8e598.pharacy.de :0 Asgard
+#NB kriggi HS kriggi@pharacy.de :0 kriggi
+#NB sn34k HS whizkid@statler.shell.ams.it-ss.be :0 sn34k
+#NB direkt HS direkt@amnesia.rsn.bth.se :0 direkt
+#NB GrimL0ck HS stan@mother.fuhq.org :0 .
+#NB cht HS cheetah@Linknet-482bf56554.012.net.il :0 cheetah
+#NB Rats- HS rat@Linknet-0e3f20bd5a.nastified.com :0 rat
+#NB gotmoor HS ~kickass@64.251.256.256 :0 xylofono
+#NB |TarFU| HS ~NT@Linknet-2ad6260a05.client2.attbi.com :0 Mad Max
+#NB Naberius HS Naberius@Linknet-124d711e45.home.cgocable.net :0 _ _
+#NB BriTmaN HS eric@team-xcite.net :0 BriTmaN
+#NB CDi HS ~CDi@sublimesp.net :0 unknown
+#NB pw HS pwiplash@styxz.student.utwente.nl :0 pwiplash
+#NB iball HS@ zephik@Linknet-96f47b5b89.goes.bangbang.org :0 riddler_69
+#NB Cades0r HS ib@64.62.172.78 :0 Ibanez5K
+#NB Gingga HS furioso@i.eat.pussy.at.lun.ch :0 Gingga
+#NB Noctorne HS m0@Linknet-673c67a2ed.core-server.com :0 Noctorne
+#NB [Sony] HS Sony@62.93.217.1 :0 Sony
+#NB Sp33DBoY HS knight@Linknet-54ebe4b699.student.utwente.nl :0 knight
+#NB __p_ HS DaFiets@Linknet-2068e2967a.nb.home.nl :0 DaFiets
+#NB ThElooSa HS theloosa@Linknet-5e75740b66.owned.no :0 theloosa
+#NB m4lk HS m4lk@plsdie-kthx.com :0 m4lk
+#NB Georgalex HS ~Georgalex@Linknet-a97269f1a9.adsl.cistron.nl :0 Georgalex
+#NB |CracK| HS you@waits.for.xbox2.bz :0 Wolfgang
+#NB _barock-- HS horizon@69.50.162.69 :0 barock
+#NB n_bbl HS Nomadic@houdt.van.beertj.us :0 Nomadic
+#NB Cru54d3r HS crusader@Linknet-8acb83c5da.cable.ntl.com :0 TranceAddict :D
+#NB gonz-zZzZ HS gonz@bpm.kill.az :0 1337
+#NB ZeRoZ HS ef@Linknet-d682e51c70.microsoft-sucks.net :0 zeroz
+#NB Herc HS+ dawn@team.amnmp3.com :0 Yoshi
+#NB Assmundo HS assmundo@team.amnmp3.com :0 assmundo
+#NB Naomikim HS st0ned@Linknet-784d5a9074.ams.it-ss.be :0 naomikim
+#NB ogre HS orge@Linknet-530b03b95b.dyn.optonline.net :0 IBraineater
+#NB ^SiNGHA HS mike@bos.campus.luth.se :0 Cari
+#NB SiN HS SiN@Linknet-b680e488c5.012.net.il :0 Always Use A Rubber!
+#NB pt- HS platinum@Linknet-6eab9d587e.rootsex.net :0 platinum
+#NB _t0r_ HS ses@i.really.need.my.oham.de :0 ses
+#NB Nicon HS@ nicon@h242n2fls33o965.telia.com :0 Unknown
+#NB fresh HS fresh@using-my.homelinux.net :0 fresh
+#NB snizzel HS snizzel@c-f60ce253.254-1-64736c10.cust.bredbandsbolaget.se :0 snizzel
+#NB hooli HS hooli@Linknet-75aaec1741.techno.pl :0 hooli
+#NB xEGAD HS 112@you.better.change-your-mind.biz :0 xegad
+#NB rainbow47 HS volvic@openproxy.b0x.org :0 rainbow47
+#NB Yale HS yale@injects.mdma.dk :0 dementia
+#NB OpA HS dope@statler.shell.ams.it-ss.be :0 OpA
+#NB youngman HS YOUNGMAN@Linknet-6756f1c564.liquidxtc.org :0 frferfg
+#NB _vivax HS vivax@v05.server109.fastvirtual.de :0 vivax
+#NB iOS HS ads@hot.as.hell.at :0 iOS
+#NB s|bnc| HS samael@Linknet-5e23abfe3a.agh.edu.pl :0 |samael|
+#NB cemi HS cemi@organised.ukmother.co.uk :0 cemiwork
+#NB yakie HS yaki@50C5941E.flatrate.dk :0 Nick
+#NB Raider HS Raider@80.203.256.256 :0 Go Away
+#NB junkie-w HS ~dumbnass@sp-2.rig.tkom.lv :0 Junkie dnb Industrial WeedBurner
+#NB solino HS ~murder@is-an.asskicker.info :0 solonie
+#NB _Pope_ HS enzino@Linknet-cabecb842f.better.change-your-mind.biz :0 ich bin laden
+#NB ^DV^ HS ~Somewhere@central.redice.net :0 ^DV^
+#NB blackd HS ~blackd@belongs.to.the.m-a-f-i-a.com :0 asdasd
+#NB __tarta_ HS ~musica@Linknet-a18ac5bf3a.fragged.org :0 tartaruga
+#NB Cubix HS cubix@freelesbianporn.nl :0 Cubix
+#NB W|lduck HS sbroc@62.101.85.11 :0 rockin in the free world
+#NB Isoma HS BB@Linknet-db3aa61dd7.elkhouse.de :0 IsomaN
+#NB cona HS cona@Linknet-016ed7d1b8.powershells.de :0 cona
+#NB g00ba HS+ vec@220-245-64-202.tpgi.com.au :0 vec
+#NB bij HS bij@electronik.dj :0 Bijoux0r
+#NB Haul HS haul@drives.a.civic.hatchback.for.team.rice :0 The Legendary King of Hardcore
+#NB pooeater HS j@betty-bou.com :0 \
+#NB tech- HS technolog@Linknet-7a77921e1d.co.at :0 technolog
+#NB shg] HS ~ghs@Linknet-bf11120b4e.deluxe-irc.net :0 shg
+#NB jayyy HS blah@Linknet-a375d12ec4.my.nigg.as :0 jjjj
+#NB Cvit HS hool@winnie.obuda.kando.hu :0 _____
+#NB FGZ HS fgz@Linknet-b82f6cfcc1.blueyonder.co.uk :0 FGZ
+#NB checker HS hure@Linknet-17e188225d.lai.la :0 cH3Ck-
+#NB FaeLLe HS papacha@shell2.skyberate.net :0 FaeLLe
+#NB nsr HS+ nsr@c-f60ce253.254-1-64736c10.cust.bredbandsbolaget.se :0 nsr
+#NB ESC^ HS n1@Linknet-aec4d239be.czerniakow.com :0 sup??
+#NB flurbo HS turb@80.188.120.168 :0 flurbo
+#NB wandie HS ~wandie@193.87.256.256 :0 wandacek
+#NB Jon|w0rk GS b0ss@80.71.1.83 :0 diggital thug
+#NB ^gza^ HS@ gza@livingroom.dominates.org :0 gza
+#NB Ph4 HS mp3ho@Linknet-512e38a91c.kick-back.net :0 ph4
+#NB |B|M| HS tekzilla@waldorf.shell.ams.it-ss.be :0 |B|M|
+#NB _raz0r GS ~rzr@ninja.glowworm.com :0 rzr
+#NB splodger HS Pixel@team-xcite.net :0 splodger
+#NB Junglist HS im@buffer.overflow.biz :0 Junglist
+#NB zephiK HS@ zephik@was.raped.by.angrybums.com :0 zephiK

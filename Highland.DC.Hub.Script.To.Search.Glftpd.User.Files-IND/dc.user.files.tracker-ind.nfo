@@ -1,0 +1,30 @@
+Highland.DC.Hub.Script.To.Search.Glftpd.User.Files-IND
+
+
+Thanks goes to AntiP2P for their involvement getting the P2P retards out in the open. After 
+the release of hluserlist.txt I started going trough my site comparing the ip's to the userdb. I soon
+realized this was gonna be a huge task, since the hluserlist.txt includes more than 300 ip's. Therefor
+I made this script doing most of the job.
+
+Consider this as a contribution to the latest news, to help the siteops out there eliminating users
+being a major security issue on their sites. This script will compare the users at your site towards
+the ip's listed in hluserlist.txt.
+
+The format of hluserlist.txt is assumed to be like this:
+'User: [BBB]some_nick - Range: [192.168.4.0-192.168.4.255]'
+ 
+Heads up! Script will only use 3 parts of the ip while searching (123.123.123.*),
+so keep that in mind if you find a match for any of your users.
+
+
+Read the script for additional information.
+
+
+
+
+
+
+
+
+
+To all P2P involved l337 sceners: BURN IN HELL.

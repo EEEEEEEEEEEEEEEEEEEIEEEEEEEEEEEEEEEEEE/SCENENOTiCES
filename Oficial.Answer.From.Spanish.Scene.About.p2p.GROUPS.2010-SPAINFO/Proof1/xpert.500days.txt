@@ -1,0 +1,56 @@
+General
+Complete name                    : C:\RIPS\500dias\MainMovie\VIDEO_TS\500 dias juntos.avi
+Format                           : AVI
+Format/Info                      : Audio Video Interleave
+File size                        : 697MB
+Duration                         : 1h 31min.
+Overall bit rate                 : 1 068Kbps
+Writing application              : VirtualDubMod 1.5.10.2 (build 2540/release)
+Writing library                  : VirtualDubMod build 2540/release
+
+Video
+ID                               : 0
+Format                           : MPEG-4 Visual
+Format profile                   : Advanced Simple@L5
+Format settings, BVOP            : Si
+Format settings, QPel            : No
+Format settings, GMC             : No warppoints
+Format settings, Matrix          : Default (H.263)
+Muxing mode                      : Flujo de bits empaquetado
+Codec ID                         : XVID
+Codec ID/Hint                    : XviD
+Duration                         : 1h 31min.
+Bit rate                         : 926Kbps
+Width                            : 624pixeles
+Height                           : 256pixeles
+Display aspect ratio             : 2,40:1
+Frame rate                       : 25,000fps
+Resolution                       : 8bits
+Colorimetry                      : 4:2:0
+Scan type                        : Progresivo
+Bits/(Pixel*Frame)               : 0.232
+Stream size                      : 604MB (87%)
+Writing library                  : XviD 1.2.1 (UTC 2008-12-04)
+
+Audio
+ID                               : 1
+Format                           : MPEG Audio
+Format version                   : Version 1
+Format profile                   : Layer 3
+Mode                             : Joint stereo
+Format_Settings_ModeExtension    : MS Stereo
+Codec ID                         : 55
+Codec ID/Hint                    : MP3
+Duration                         : 1h 31min.
+Bit rate mode                    : Variable
+Bit rate                         : 130Kbps
+Nominal bit rate                 : 128Kbps
+Channel(s)                       : 2canales
+Sampling rate                    : 48,0KHz
+Stream size                      : 84,5MB (12%)
+Alignment                        : Alineación entrelazado
+Interleave, duration             : 24 ms (0,60fotograma de video)
+Interleave, preload duration     : 142 ms
+Writing library                  : LAME3.90.
+Encoding settings                : -m j -V 4 -q 2 -lowpass 17.6 --abr 128
+

@@ -1,0 +1,89 @@
+|20:34:48| * Now talking in #northpole
+|20:34:48| * Topic is '[TOP-SECRET]- Only authorized access - STATS: presents [76,24% ready] - wishlists [94,76% received] '
+|20:34:48| * Set by NORTHPOLE-BOT on Dec 24 00:00:00
+* Retrieving #northpole modes...
+
+|20:36:49| -> *chanserv* info #northpole all
+|20:36:49| -ChanServ- Information for channel #northpole:
+|20:36:49| -ChanServ-         Founder: Weihnachtsmann
+
+-
+Polar_Express is ~PE@weihnachten.de * PE
+Polar_Express is a registered nick
+Polar_Express on @#northpole
+Polar_Express End of /WHOIS list.
+-
+Rudolf is ~RUD@weihnachten.de * RUD
+Rudolf on @#northpole
+Rudolf End of /WHOIS list.
+-
+Weihnachtsmann is ~WM@weihnachten.de * WM
+Weihnachtsmann is a registered nick
+Weihnachtsmann on @#northpole
+Weihnachtsmann End of /WHOIS list.
+-
+Wichtel is ~WT@weihnachten.de * WT
+Wichtel is a registered nick
+Wichtel on @#northpole
+Wichtel End of /WHOIS list.
+-
+NORTHPOLE-BOT is ~BOT@weihnachten.de * BOT
+NORTHPOLE-BOT is a registered nick
+NORTHPOLE-BOT on @#northpole
+NORTHPOLE-BOT End of /WHOIS list.
+-
+
+|20:37:16| <@Weihnachtsmann> Das heißt keine Geschenke für euch
+|20:37:22| <@Weihnachtsmann> Ihr bekommt alle keine Geschenke
+|20:37:26| <@Weihnachtsmann> Besonders Rudolf nicht
+|20:37:58| <@Weihnachtsmann> Seitdem deine Nase uns den Weg nich mehr leuchtet sind wir schon dreimal gegen den Mt. Weihnacht geflogen
+|20:38:05| <@Rudolf> mit welchen speed raced du Polar_Express
+|20:38:33| <@Polar_Express> mal nachgucken
+|20:38:36| <@Rudolf> also mehr als halfway haste schon
+|20:38:40| <@Rudolf> das ist schonmal nicht schlecht
+|20:38:45| <@Polar_Express> 1040 pro Sekunde
+|20:39:07| <@Rudolf> gestern war beim nikolaus sturmfrei
+|20:39:12| <@Rudolf> da gings ab :P
+|20:39:18| <@Polar_Express> boah wieso hat der mix nix gesagt ? ;(
+|20:39:34| <@Polar_Express> och man warn die ollen wichtel auch da?
+|20:39:55| <@Rudolf> jo die wichtel der osterhase frau holle und bibi blocksberg waren auch da
+|20:40:10| <@Polar_Express> toll und mich lasst ihr draußen stehen
+|20:40:30| <@Rudolf> naja du bist doch auf entzug
+|20:40:47| <@Weihnachtsmann> (20:40:01) (Geschenkstatus) ::[ HALFWAY ]:: [DEUTSCHALND] - [Geschenke.2004.German.KSRiP-WM] is halfway. Leading Producer is Weihnachtsmann [20.000.000 Geschenke/22.385G/S]
+|20:40:57| <@Polar_Express> HALFWAY deutschland
+|20:41:02| <@Polar_Express> und gesamt 76,24% ready
+|20:41:38| <@Rudolf> nicht schlecht
+|20:41:57| <@Weihnachtsmann> (20:42:01) (Geschenkstatus) ::[ threefourtelway ]:: [DEUTSCHALND] - [Geschenke.2004.German.KSRiP-WM] is halfway. Leading Producer is Weihnachtsmann [38.000.000 Geschenke/29.728G/S]
+|20:42:14| <@Polar_Express> boah ich sag euch diese betriebsgeländeführungen gehen mir sooooowas von aufn kessel
+|20:42:16| <@Rudolf> mhh ja sowas ist nicht schön
+|20:42:24| <@Polar_Express> die kinnas stressen
+|20:42:29| <@Rudolf> Weihnachtsmann haste noch was zum schniefen da ?
+|20:42:37| <@Weihnachtsmann> Klar
+|20:42:41| <@Rudolf> mein koks ist schon wieder alle :-(
+|20:42:59| <@Polar_Express> ey Weihnachtsmann sitzt der typ immernoch inner kammer der dir am bart gezerrt hat???
+|20:43:01| <@Polar_Express> bei aldi
+|20:43:14| <@Weihnachtsmann> Ne
+|20:43:18| <@Weihnachtsmann> Der sitzt aufm Stuhl
+|20:43:25| <@Weihnachtsmann> Bekommt alle 2 Stunden 400Volt ab
+|20:43:40| <@Polar_Express> aus dem wird nochma nen 1a kerzenständer
+|20:43:55| <@Weihnachtsmann> Der hat auch die ganze Zeit schon n Kerzenständer
+|20:45:03| <@Rudolf> [PRE] [07.12.2004/20:39:46] [XXX/CRYMXXX] [Private.Tropical.14.Sunset.Memories.XXX.PAL.COMPLETE.DVDR-CRYMXXX]pred 4 minutes, 55 seconds ago
+|20:45:06| <@Rudolf> geil neue pornos :>
+|20:45:14| <@Rudolf> Weihnachtsmann da haben wa heute abend wieder nen schönen film
+|20:45:30| <@Rudolf> oder der hier [PRE] [07.12.2004/20:34:09] [XXX/WDE] [Die.Strassenkoeter.Klatschnass.gefickt.German.2004.XXX.DVDRiP.XviD-WDE] pred 10 minutes, 32 seconds ago
+|20:45:32| <@Rudolf> was meinste dazu ?
+|20:46:33| <@Weihnachtsmann> Guter Film
+|20:46:41| <@Weihnachtsmann> Ich spiel in einer Hauptrolle mit
+|20:46:46| <@Weihnachtsmann> Als Straßenkoeter
+|20:46:54| <@Polar_Express> weihnachtsmann?
+|20:47:01| <@Polar_Express> was bekommt Bernhard dieses jahr?
+|20:47:09| <@Rudolf> Weihnachtsmann wenn das die kinder wüssten *g*
+|20:47:17| <@Rudolf> Bernhard ?
+|20:47:23| <@Polar_Express> jo syndikus
+|20:47:36| <@Rudolf> [Nuked 10days ago] Bernhard [keine.geschenke.dieses.jahr-Weihnachtsmann]
+|20:47:50| <@Rudolf> Weihnachtsmann den haste doch selber nuked
+|20:47:58| <@Weihnachtsmann> der bekommt die rute !
+|20:48:01| <@Polar_Express> jaaaa xD
+|20:48:10| <@Polar_Express> lass ma website vom osterhasen ddosen xD
+|20:48:25| <@Rudolf> jo setz dich mal ran :P
+|20:50:31| * Polar_Express was kicked by Rudolf (site del Polar_Express - [PRE] Polar_Express.owned.by.Nikolaus.2unsecure-iND pred 2 minutes, 14 seconds ago)

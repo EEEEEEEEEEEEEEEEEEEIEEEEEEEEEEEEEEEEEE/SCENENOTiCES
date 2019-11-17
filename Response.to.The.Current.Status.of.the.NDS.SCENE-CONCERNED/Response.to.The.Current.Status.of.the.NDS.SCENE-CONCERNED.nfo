@@ -1,0 +1,244 @@
+First of all, it is incredibly ludicrous to compare the NDS scene with the PC 
+ Games scene, let alone XBOX360, PS2 and the DC. They are each their own 
+ independent and unique scene, each with their own restrictions and goals. The 
+ simple fact is, the NDS scene is not the PC Games scene, no matter how much 
+ you may want it to be.
+ 
+ Protected PC games may need to be cracked, solely to get them working on a 
+ computer. Computer's have no external medium as to which homebrew, loaders, 
+ hacks, etc. are required to make a game work whereas the NDS does. The NDS 
+ requires a flashcart in order to play homebrew, load ROM's and do many other 
+ things. As you said "These Chinese manufacturers have only one model, to have 
+ the most compatibility as they ARE RUNNING A BUSINESS." - this is indeed true 
+ and they provide the end-user with a great service. As part of the role for a 
+ flashcart manufacturer, it is their duty to enable compatibility on ROM's, by 
+ doing so, they compete within their business model and this only benefits 
+ the end-user as they are able to play any ROM they desire.
+ 
+ Sure, the reliance of a flashcard manufacturer to create compatibility is not 
+ what the scene may want in an ideal world. Twenty years ago, it was all about 
+ release groups making that compatibility via cracks (and by extension 
+ cracktros), but back then, it was still all about running things on computers, 
+ which is what the PC scene evolved from. The console scene, along with the 
+ handheld scene eventually grew apart and became its own entities, its own 
+ scene. Cracking will always remain a part of the scene, there is no denying 
+ the history of the scene, however, everything has to evolve eventually.
+ 
+ With over 5 years of the NDS scene already, the paradigm has been rigidly 
+ established. Cracking has become a thing of the past and has not become 
+ necessary as most flashcarts can play protected games without having to do 
+ anything, and if there is a game that is unplayable, it is quickly rectified 
+ by the flashcart manufacturers so that they put to good use their own 
+ business model. Unlike the PC scene, the NDS end-user still has to rely on 
+ these flashcarts, as without them, they would not have a viable way of 
+ playing ROM's (excluding emulators). The PC scene is self-sufficient, 
+ therefore it requires its own cracks in order to remove any protection and 
+ maintain compatibility across a multitude of computer formats.
+ 
+ The NDS Scene's paradigm has come to accept that flashcarts are a necessary 
+ facet of the scene and by extension the work behind each flashcart to bring 
+ the best compatibility for the end-user. Releasing pre-cracked games is great 
+ for the short-term, it may allow a game to work on many different flashcarts, 
+ but in the long-term, the flashcarts will have been updated and compatibility 
+ will have to be changed in order to suite every cracked game, rather than just 
+ suite the general repetitive protection methods that have been used over and 
+ over. An example of this is the DSTWO flashcart, it detects protection methods 
+ and bypasses them if it is recognised, thus the game will not need a crack or 
+ even a firmware update to create compatibility. This all goes without 
+ mentioning the compatibility problems that have been caused by intros and 
+ cracks themselves eg. saving issues, unplayability, blank screens, etc.
+ 
+ The bickering of late has arisen from a single group, of whom had disappeared 
+ for a few years, only to return trying to enforce a way that once was. The 
+ simple fact is, things have changed since you were gone, they have all 
+ improved for the better. Just because you prefer your old methods and 
+ traditions, does not mean you are entitled to force the paradigm to revert 
+ back 10 years. As we said, the NDS Scene has firmly established itself and has 
+ moved on without you. Charles Darwin once said "Survival is ultimately 
+ dependent on the ability to change and evolve", simply put "Adapt or die".
+ 
+ There is a reason why one ruleset won over the other, one is simply reinforcing 
+ the established paradigm of today's NDS scene, and the other wants to turn 
+ back time and pretend the NDS is equivalent to the PC.
+ 
+ The.Official.NintendoDS.Ruleset.2010.NDS-CONSOLE even allowed the bickering 
+ group a chance at adapting to survive and here is how:
+ * By allowing you to continue releasing hacked/cracked/introed releases
+ * Allowing cracks to be made for game releases, however only as patches 
+  (which only benefits the end-user and brings the best of both worlds)
+ Although, in order to fully adhere to the rules, all you had to do was make 
+ two simple changes:
+ 1. Include the region in the dirname (more on this later)
+ 2. Use RAR format for packing games (more on this later also)
+ 
+ You argue that "Considering NDS alone is 5 years old and has been doing .zip 
+ from GBA days, how can you nuke for .rar overnight as well as region tagging?", 
+ by the end of the GBA's lifespan, it was beginning to show its age on the 
+ scene. The entire .zip and .diz format was becoming defunct, the scene itself 
+ had evolved and the .rar and .sfv format took reign solely for the reason that 
+ it provided greater compatibility, ease of use, more information and provided 
+ a method of file integrity verification. The GBA was still influenced by its 
+ predecessor when it came around, the .zip format was prominent and everybody 
+ was happy enough to use it. However, .zip itself is also a relic of a time 
+ gone by; its use originating from the BBS days. The RAR format simply has many 
+ more benefits for the scene, and by enforcing it as a rule, it will ensure 
+ releases are packed in a manner that strives for quality. Also the simple fact 
+ of the potential size of NDS games further makes the .zip format look vastly 
+ outdated. A 500MB .zip file would be prone to more errors and would not be as 
+ highly regarded by sites when compared to its equivalent RAR size (at least 
+ with RAR it can be raced much faster and have on the fly integrity checks).
+ 
+ Lastly, the RAR format has not been introduced to the NDS scene overnight, it 
+ took one brave group (XPA) to see the benefits it provides and help positively 
+ evolve the scene. It took several months for groups to acknowledge the RAR 
+ format, accept it and use it. It has since proven to be a great format for 
+ packing releases and has shown itself to be vastly superior to the defunct 
+ .zip format.
+ 
+ "On a region free system, region tagging is NOT required for the first english
+ release.  This has been done on XBOX360: Final.Fantasy.XIII.X360-Allstars, PS2:
+ Black.PS2DVD-Allstars, DC: Sonic_Adventure_DC-KALISTO, etc."
+ The NDS is marketed as a region free system, which it is. However, the games 
+ still have regions despite that advertisement. It is important to note the 
+ region within the dirname as this clears any and all confusion on the matter. 
+ Your rule "region tagging is NOT required for the first english release" 
+ derives from the history of the scene again and has been in common practice 
+ for at least 20 years (although never stated anywhere, it was implied). Once 
+ again, the NDS scene has established itself to require region tagging, this 
+ form of tagging has been used for decades and for a system such as the NDS, 
+ and to an extent the GBA and GBC, tagging is crucial. It is not like the PC 
+ scene where one version of a game will suffice, NDS games are developed and 
+ published with specific regions, although the regions have no importance on 
+ the functionality of a game (excluding the DSi), it does exist and would be 
+ foolish to not acknowledge it. By not including a region tag, you cause 
+ confusion and show your ignorance to the rest of the world (English speaking 
+ or not). The scene is global, and region tagging shows the rest of the world 
+ from where a game is from, therefore it provides more information on a release. 
+ So in an abstract way, it shows the scene some respect.
+ 
+ Those games from other systems you mentioned, they all vary in their form of 
+ being free of region locking. The XBOX360 has what could be classed as "REAL" 
+ region-free games, Final.Fantasy.XIII.X360-Allstars being one of them. It is 
+ the same game, same disc, same version as you would buy in any English 
+ speaking country around the world, therefore it is not region locked.
+ 
+ Black.PS2DVD-Allstars: Allstars always were living in their own world, they 
+ never used a region tag and it caused lots of problems for other groups at 
+ the time. Not to mention the PS2 does have region issues, therefore it is 
+ important to note whether a game is PAL or NTSC. This allows the end-user to 
+ know whether they can play it fine on their television sets or not or whether 
+ they would need to play with settings on their televisions to get a decent 
+ picture. At the time, televisions weren't as advanced as they are today, and 
+ if something couldn't play in its correct region, you would get cropping and 
+ frame rates issues.
+ 
+ Sonic_Adventure_DC-KALISTO: The Dreamcast is far too old of a system to be 
+ bringing in comparisons for a modern system. The DC scene also has a world of 
+ difference to what the scene is today, whether you want to accept it or not. 
+ Back to the point, the Dreamcast had similar issues as the PS2 (ignoring the 
+ chronology here), PAL/NTSC, frame rates, cropping, it was all here. KALISTO 
+ did a great job at removing region protections and other things. Slightly 
+ digressing, in today's modern scene, a release like this one would not be 
+ tolerated; where the game has been hacked to a point where it loses quality 
+ (stero to mono sound and lowered bitrates primarily).
+ 
+ Now to the fun part, as you picked apart the groups of 
+ The.Official.NintendoDS.Ruleset.2010.NDS-CONSOLE. Here we present you an 
+ analysis of the groups that signed The.NintendoDS.Release.Standards.2010-NDS:
+ DFG, PYRiDiA, SQUiRE, SUXXORS, SweeTnDs, VENOM, XPA  
+ DFG:     Inactive
+ PYRiDiA: Did not sign (we asked him and a log of this has been saved)*
+ SQUiRE:  Inactive*
+ XPA:     Known p2p group (we have proof, or just take a look at the numerous
+         scene-notices regarding this group already.)
+ 
+ *Both of these groups had long since died, however, in one way or another 
+ (how, we will not go into detail here) they had merged with VENOM, who are 
+ also known as SUXXORS. So that makes FOUR groups being one in the same, out of 
+ a possible SEVEN groups. If you plan on re-releasing some ruleset with all of 
+ the recent joke groups you have created, you're not fooling anybody either.
+ 
+ So how can four groups, two of which are groups who are incredibly minor 
+ groups that are relatively inactive (DFG and SweeTnDs) effectively create 
+ a ruleset that represents the NDS Scene? Simply put, they can't. Especially 
+ not when they choose to abandon the rest of the scene and pretend like the 
+ scene is in the year 2000 all over again.
+ 
+ You also accuse a lot of the groups that signed 
+ The.Official.NintendoDS.Ruleset.2010.NDS-CONSOLE as being known p2p groups. 
+ However your accusations fall on deaf ears without any proof. And we know 
+ how good you are at being unable to find proof, even when it is given to you 
+ (see the recent Bokujou_Monogatari_Futago_no_Mura fiasco).
+ 
+ Just because a group is inactive in releasing, does not mean they are not 
+ around (this applies to your groups as well, although we all know SQUiRE has 
+ long left being active on the scene). We have logs of every group that 
+ signed agreeing to the rules, even TRM and WetNWild who you accuse had never 
+ signed it, why don't you try asking the group leaders instead of relying on 
+ long departed former members to act on their behalf?
+ 
+ As both rulesets were rushed to release in order to counter one another, 
+ The.Official.NintendoDS.Ruleset.2010.NDS-CONSOLE was distributed and signed 
+ by many more groups, therefore a larger cross-section and variety of the 
+ scene. Thus, it actually represents the NDS scene. BAHAMUT stated in 
+ Spongebob_Truth_Or_Square_USA_NDS-BAHAMUT that they DID sign it, however at 
+ the time were not aware of what other groups signed. This is not entirely 
+ true as the final version of the ruleset was distributed to everybody and 
+ they were given 24 hours to voice any concerns. Everybody was ecstatic to 
+ see so many groups named, but no issue had arisen regarding the background 
+ of said groups. EXiMiUS did agree, although their concerns were lost in 
+ translation (but we still love you!).
+ 
+ The example you gave of unworking games is rather ironic. If you had bothered 
+ to read the nfo for Digimon_Story_Lost_Evolution_JPN_NDS-BAHAMUT, you would 
+ clearly see that it states "It works fine on DSTWO." The DSTWO has already 
+ been discussed earlier. The release in question may not work on other, 
+ inferior carts, but that is no fault of the scene. If it were released 
+ pre-cracked, how are flashcart manufacturers meant to update the compatibility 
+ and workability of their product in regards to game protection?
+ 
+ How is anybody supposed to take The.NintendoDS.Release.Standards.2010-NDS
+ seriously when the group that created it, don't adhere to their own rules?
+ Examples:
+ * "The release must work." This is subjective to individual flashcarts and
+  firmware versions. It is ridiculous to enforce such a rule. For examples 
+  of this, just read any gaming forum relating to the ROM's (which we know
+  you enjoy trolling) and you'll see a huge mixed bag of people who have 
+  it working and those who don't.
+ * "The .NFO must include which cart(s) and relevant firmware the patch was 
+  tested on." and "Cracks should be tested, and it should be stated within 
+  the .NFO which cart(s) the crack was tested on." Many of your releases do 
+  not adhere to this rule, it is also a rule in the other ruleset, yet when 
+  nuked on it, you still refuse to accept it.
+ 
+ We will not bother going into detail on the ruleset, as it is invalid and 
+ void anyway (meaning it is treated as if it had never existed or happened).
+ This is for all the reasons stated above as well as a multitude of other 
+ reasons including:
+ * Bad layout (multiple rules within one rule number)
+ * Contradicting rules (details related to working releases)
+ * No date and time of enactment
+ * Insufficient amount of groups signed (see earlier paragraph for discussion)
+ * Does not represent paradigm of NDS scene.
+ 
+ "The first working release wins the race, that's how it
+ is for 0day, PC and other sections, so I beg of you, NDS Scene, please evolve 
+ just as PC has with clone and cracked releases can co-exist."
+ Once again, the NDS scene is not the PC games scene or any other scene. It is 
+ its own scene and follows its own evolutionary path. The branch that the other 
+ ruleset tries to enforce is a branch that has already grown long ago and has 
+ since died, it is no longer part of the tree of life. The branch that the 
+ The.Official.NintendoDS.Ruleset.2010.NDS-CONSOLE grows on flourishes and 
+ allows for both diverging factions to co-exist and live upon a branch of peace. 
+ It accepts everything the previous branch built (clean releases/cracks/etc.), 
+ and only denies the evolutionary dead ends (.zip format/misleading tagging/
+ universal compatibility issues/unnecessary removal of game data/etc.).
+ 
+ There is no reason why ONE group can't make two simple changes so that they can 
+ finally live in peace in today's scene which has evolved towards prosperity and 
+ success. Without accepting the rules, their battle will only continue on a 
+ downward spiral leading only to further ridicule. Act wisely, adapt and live 
+ peacefully. Thank you.
+
+
+ 

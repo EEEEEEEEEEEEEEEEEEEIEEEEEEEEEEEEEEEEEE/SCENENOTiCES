@@ -1,0 +1,180 @@
+mts-bnc1.keff.org:27015
+
+
+
+09:12:29 230-        .          .. ..   ..;.Morituri Te Salutant.;..  .. ..          .
+
+09:12:29 230-    ...  ................ .                           . ................  ...
+
+09:12:29 230-      ......... ................................................. .........
+
+09:12:29 230-         .   ..........                                   ..........   .
+
+09:12:29 230-          .....      .:Incredible 1000 Mbit hosting 1.6 TB:.      .....
+
+09:12:29 230-         ...                                                         ...
+
+09:12:29 230-          ...     .XBOX VCD SVCD DVDR DiVX XXX TV UTiLS GAMES.      ...
+
+09:12:29 230-
+
+09:12:29 230-
+
+09:12:29 230-                                 .: Affiliation :.
+
+09:12:29 230-         CRiMSON   KJS   LOKi   MEDiEVAL   NFR   TCM   TEG-DVD   VideoCD
+
+09:12:29 230-
+
+09:12:29 230-             ..                  .:Entering  MTS:.                 ..
+
+09:12:29 230-              ..                                                  ..
+
+09:12:29 230-        ... ...      [MTS::1] .se : mts-bnc1.keff.org : 27015      ... ...
+
+09:12:29 230-     .... ..         [MTS::2] .se : mts-bnc2.keff.org : 27015         .. ....
+
+09:12:29 230-     ....  ..        [MTS::3] .nl : 130.89.169.162    : 9342         ..  ....
+
+09:12:29 230-      ......                                                          ......
+
+09:12:29 230-    ...  .............          .; Further info ;.          .............  ...
+
+09:12:29 230-      ......... ............                          ............ .........
+
+09:12:29 230-         .   ..........  site invite <ircnick> on Linknet  .........   .
+
+09:12:29 230-          .........                                            ........
+
+09:12:29 230-         ...    ....         site blowkey to decrypt!         ....   ...
+
+09:12:29 230-          ...      ........                            ........     ...
+
+09:12:29 230-                         .........              .........
+
+09:12:29 230-                                 .......  .......
+
+09:12:29 230-                                       ....
+
+09:12:29 230-                                        ..
+
+
+
+09:12:32 200- [01] zibbe        BOFH                     7,746  105,703MB   2044K/s
+
+09:12:32 200- [02] Mind         incoming...              5,488   88,608MB   3584K/s
+
+09:12:32 200- [03] morcheeba    terror starts at home    3,947   82,666MB   4363K/s
+
+09:12:32 200- [04] Seth         No Tagline Set           3,091   51,387MB   4475K/s
+
+09:12:32 200- [05] csc          No Tagline Set             226   36,913MB   2807K/s
+
+09:12:32 200- [06] fig          ViP                      1,625   35,801MB   2784K/s
+
+09:12:32 200- [07] hoboslayer   No Tagline Set           2,183   34,769MB   3492K/s
+
+09:12:32 200- [08] ravenlord    d0h                      1,466   33,485MB   2285K/s
+
+09:12:32 200- [09] Chout        No Fagline Set           1,672   32,998MB   2072K/s
+
+09:12:32 200- [10] 411          DiAL 411 FoR iNFoRMaTi   1,350   30,413MB   3266K/s
+
+09:12:32 200- [11] Beta         ghey                     1,320   27,955MB   3968K/s
+
+09:12:32 200- [12] darkm        No Tagline Set           1,531   25,870MB   4064K/s
+
+09:12:32 200- [13] technolog    No Tagline Set           1,205   24,709MB   2851K/s
+
+09:12:32 200- [14] Kehpri       No Tagline Set           1,199   22,870MB   1978K/s
+
+09:12:32 200- [15] khazad       BOFH                       794   21,491MB   5002K/s
+
+09:12:32 200- [16] Asgard       ugh                      1,237   20,289MB   2350K/s
+
+09:12:32 200- [17] wookie       No Tagline Set           1,063   20,185MB   2766K/s
+
+09:12:32 200- [18] bourbon      No Tagline Set           1,121   19,953MB   2388K/s
+
+09:12:32 200- [19] l0rking      No Tagline Set           1,079   19,735MB   5740K/s
+
+09:12:32 200- [20] tijus        No Tagline Set           1,104   17,679MB   3212K/s
+
+09:12:32 200- [21] teabag       tea anyone?              1,239   17,640MB   6921K/s
+
+09:12:32 200- [22] mate         No Tagline Set             804   14,967MB   3599K/s
+
+09:12:32 200- [23] iezilop      No Tagline Set           1,007   14,616MB   3987K/s
+
+09:12:32 200- [24] dying        No Tagline Set             768   14,505MB   3468K/s
+
+09:12:32 200- [25] GMith        No Tagline Set             787   14,094MB   3416K/s
+
+09:12:32 200- [26] bluie        No Tagline Set             455   13,529MB   2114K/s
+
+09:12:32 200- [27] orbith       There Can Be Only One      731   13,504MB   2469K/s
+
+09:12:32 200- [28] Lithium      No Tagline Set             957   13,262MB   1236K/s
+
+09:12:32 200- [29] gambit       -+ AMNESiA iSO +-          582   10,316MB   3249K/s
+
+09:12:32 200- [30] ls           -+ AMNESiA iSO +-          701   10,204MB   6238K/s
+
+09:12:32 200- [31] piglo        No Tagline Set             375    8,820MB   1874K/s
+
+09:12:32 200- [32] xanthic      w00f                       470    8,248MB   3007K/s
+
+09:12:32 200- [33] patchiee     No Tagline Set             267    6,946MB   3446K/s
+
+09:12:32 200- [34] TomteMor     No Tagline Set             319    6,872MB   2815K/s
+
+09:12:32 200- [35] Taz7         No Tagline Set             250    5,979MB   2121K/s
+
+09:12:32 200- [36] assmundo     <+> AMNESiA iSO <+>        217    5,889MB   2319K/s
+
+09:12:32 200- [37] blurp        i own zibbe                128    5,243MB   4052K/s
+
+09:12:32 200- [38] infusion     No Tagline Set              97    4,535MB   1024K/s
+
+09:12:32 200- [39] jolisk       No Tagline Set             285    3,658MB   1025K/s
+
+09:12:32 200- [40] rupert       No Tagline Set             209    3,471MB   1328K/s
+
+09:12:32 200- [41] knIght       No Tagline Set             183    3,327MB   3953K/s
+
+09:12:32 200- [42] m0n          No Tagline Set             144    3,091MB   1929K/s
+
+09:12:32 200- [43] anakin       No Tagline Set             126    2,789MB   4361K/s
+
+09:12:32 200- [44] eowyn        No Tagline Set             215    2,780MB   1025K/s
+
+09:12:32 200- [45] Admiral      No Tagline Set              46    1,989MB   2537K/s
+
+09:12:32 200- [46] mash         BOFH                       144    1,960MB   6028K/s
+
+09:12:32 200- [47] Fortuna      No Tagline Set             121    1,766MB    974K/s
+
+09:12:32 200- [48] softk        No Tagline Set              56    1,530MB   2411K/s
+
+09:12:32 200- [49] wuzzo        No Tagline Set              88    1,073MB   1025K/s
+
+09:12:32 200- [50] Orci         ViP                         25    1,026MB    935K/s
+
+09:12:32 200- [51] idfix        No Tagline Set              40    1,008MB    865K/s
+
+09:12:32 200- [52] jeper        No Tagline Set              53      999MB   5593K/s
+
+09:12:32 200- [53] nobody       No Tagline Set              23      939MB   1229K/s
+
+09:12:32 200- [54] h2b          No Tagline Set              43      551MB   1205K/s
+
+09:12:32 200- [55] instruct     No Tagline Set              45      525MB   1026K/s
+
+09:12:32 200- [56] tsj          No Tagline Set              21      300MB   5304K/s
+
+09:12:32 200- [57] GrimL0ck     No Tagline Set              13      221MB    624K/s
+
+09:12:32 200- [58] ph33r        No Tagline Set               1       47MB    265K/s
+
+09:12:32 200- `-=-------------------------------------------------------------------=-'
+

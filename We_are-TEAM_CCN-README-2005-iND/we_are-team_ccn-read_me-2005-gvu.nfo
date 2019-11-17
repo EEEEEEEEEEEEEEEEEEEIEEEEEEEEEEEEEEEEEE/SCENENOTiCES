@@ -1,0 +1,84 @@
+Yo people.
+Kurzum mal ein paar Fakten zu der neuen german Crew CCN.
+Das sie auf billigen rented Links affilen, is ja verst„ndlich,
+als neue Crew die nix mit der scene zu tun hat, hat man ja keine 
+andere wahl.
+Jedoch haben sich bei genauerem betrachten eklatante Sicher-
+m„ngel gezeigt. Sowas is eine Gefahr fr jederman der sich bei 
+ihnen aufh„lt oder diese affilen l„sst. 
+
+Hinter der Domain verbirgt sich ein Vserver der Firma
+http://www.server4you.de
+Zun„chst einmal wird sofort offensichtlicht wer hinter CCN 
+steckt. 
+
+domain:      team-ccn.de
+domain-ace:  team-ccn.de
+descr:       Martin Gutsche
+descr:       Maybachufer 20
+descr:       12047 Berlin
+descr:       DE
+nserver:     ns5.nameserverservice.de
+nserver:     ns6.nameserverservice.de
+status:      connect
+changed:     2005-05-20T23:35:16+0200
+source:      DENIC
+
+Weiterhin hat bei genauerer Untersuchung ergeben das bei dem Vserver
+eine menge Ports offen sind:
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+22/tcp    open     ssh
+25/tcp    open     smtp
+80/tcp    open     http
+110/tcp   open     pop3
+443/tcp   open     https
+995/tcp   open     pop3s
+2323/tcp  open     unknown
+3306/tcp  open     mysql
+3335/tcp  open     unknown
+3336/tcp  open     unknown
+33434/tcp filtered unknown
+52323/tcp open     unknown
+
+Daraus l„sst sich folgendes schlieáen,
+dass hierdrber ihre tollen BNC's laufen
+mit den sie in Ihren Sitechans abh„ngen.
+Echt toll sich so offen darzustellen in der 
+heutigen Zeit.
+# amap team-ccs 3335/3336
+3335/3336 -> eggdrop ports
+
+Hier die pasenden IRC-Nicks der Leader
+C0kxXx4 is ~ccn@team-ccn.de * C0kxXx4
+Bu5h1d0 is ~bu@team-ccn.de * bu
+
+Die Nicks kann man teilweise sogar aus den NFO's
+bekommen, sehr dumm da die Nicks ja  ber einen gemie-
+teten Domian und VSERVER laufen. 
+So verr„t man sich echt selbst !
+
+
+
+Zudem l„sst Port 52323 vermuten, dass hier ein
+FTP l„uft und siehe da
+# amap team-ccn.de 52323
+Protocol on 62.75.240.113:52323/tcp matches ftp
+Ich hoffe doch nicht etwa ein Groupdump oder „hnliches,
+bei solch einem Hoster ist das echt Selbstmord.
+
+
+Zudem l„uft ber deren Rootserver ein Prebot, 
+h”chst wahrscheinlich ber 3306/tcp open mysql,
+die Quelle an der er h„ngt sollte sich mal gedanken machen
+Schlecht fr CCN, da selbst dieser ber die Domain l„uft
+
+PrEsLuT is ~SluT@team-ccn.de × 1m T3h Pr35lu7 on Efnet
+
+
+Also Siteops und andere aufgepasst, was ich in 5 Minuten 
+herausgefunden habe spricht fr sich, eklatante Sicher-
+heitsm„ngel, von den Paysites mal abgesehen, seine Identit„t 
+so offenzulegen is nur krank. Also htet euch vor den Typen
+und sch”nen abend noch.
+

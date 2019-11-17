@@ -1,0 +1,49 @@
+INSECURE.SITE.CALLED.TVLAND.PAY2LEECH.SELLING.LEECH.SLOTS.TO.P2P.TORRENTSITES-SCENENOTICE
+
+Ok, first of all lets start with some information about the site:
+
+NAME: TVL, aka TVLAND
+BNC : lvt.dnavlt.com:48596
+IP1 : 85.17.230.77 (master & slave)
+IP2 : 85.17.230.76 (slave)
+IP3 : 85.17.230.78 (slave)
+
+The site consists of 3 gbit rented dedicated servers from LEASEWEB each seems to have 15TB of hdd space (total of 45tb), the software used for the site is DRFTPD
+As you can see here, at the time the 'site slaves' command was executed there was no race, however, over 20 people are leeching something from the site
+[1] 200- LVT1: ( UP: 0 @ 0B/s )-( DN: 8 @ 14.4MB/s )-( DF: 190.2GB/14.8TB )
+[1] 200- LVT2: ( UP: 0 @ 0B/s )-( DN: 7 @ 6.1MB/s )-( DF: 153.5GB/14.7TB )
+[1] 200- LVT3: ( UP: 0 @ 0B/s )-( DN: 10 @ 7.5MB/s )-( DF: 189.3GB/14.8TB )
+
+In their "private" ircd main site channel, there are over 150 users ideling (at least half of those users are obviously payers, the site don't have any affils, and you can be sure they don't have 150 racers)
+IRCD: lvtirc.redirectme.net:+7539 password=lovetv
+The siteop sells 400GB credits for 40Euros a month (that's the offer i got)
+So all of you p2pers who wants to pay for leech access, go ahead to the above ircd and message smokin1 (siteop of TVL)
+
+Ok, now for the real interesting info:
+
+SceneTorrents, aka ScT uploaders/staff are payers of TVL, and use it as their main source for uploading torrents very fast after pre. Every single release raced to TVL is uploaded after few seconds from complete time to SceneTorrents (i stucked some files on some releases to make sure, and i can assure you they use TVL for uploading to their auto torrents uploaders)
+Another proof is that TVL was down for a week and came back online few days ago, and the result was that during TVL downtime ScT uploaded their torrents much much slower than usual, and missed a lot of releases which are uploaded usually. As soon as TVL came back, ScT started uploading fast again. TVL siteop allowed 7 days backfill for the days the site was down and ScT started uploading bf stuff, immediately after they were completed on TVL....
+
+smokin1, I recommend you to close your insecure p2l/p2p site within 24 hours, or I will provide all dutch anti-piracy organizations all information about the site, including complete releases list and sufficient proof to get the site busted, you have been warned!
+
+TVL TOP racers:
+
+Mega
+MYSTiCAL
+TVLover
+liverpool
+dope
+MoNS
+g0lf
+h00ters
+bluerprynt
+NuTcaS3
+meis
+MOOO
+Tricky
+Hotknife
+Juggernaut
+
+For the above fucking leakers, you fucking don't understand you are risking the scene? we all can get busted cause of your insecurity, use you brain before supporting a site, next time your ips will show up on the scenenotice!
+
+Get the hell out of this p2l/p2p/rented/insecure site before it will be too late!

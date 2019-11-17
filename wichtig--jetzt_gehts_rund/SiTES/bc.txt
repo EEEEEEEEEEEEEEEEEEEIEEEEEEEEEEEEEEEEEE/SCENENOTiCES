@@ -1,0 +1,253 @@
+bnc7-bluecrap.no-ip.info:5822
+
+
+
+09:13:53 200- [01] khimera      The mad collector       22,704  304,490MB    818K/s
+
+09:13:53 200- [02] dUden        poop                    13,230  171,764MB    801K/s
+
+09:13:53 200- [03] m00          busybusybusy            14,040  162,802MB    631K/s
+
+09:13:53 200- [04] cerebro      hawaii rules            11,100  159,974MB   1812K/s
+
+09:13:53 200- [05] kingstar     Delete Satcom (c)       11,422  158,917MB   1754K/s
+
+09:13:53 200- [06] justinl      ok, Delete Satcom :-)    9,250  146,144MB   2046K/s
+
+09:13:53 200- [07] technolog    d-s-a-c-                 7,899  141,675MB   1947K/s
+
+09:13:53 200- [08] barbapappa   strike anywhere          7,234  135,843MB   2119K/s
+
+09:13:53 200- [09] wader        phear                    7,004  111,143MB   2180K/s
+
+09:13:53 200- [10] Scarface     Kirsch Mafia Godfather   7,295  109,326MB   2306K/s
+
+09:13:53 200- [11] AxxDenied    Delete Satcom            8,059  109,065MB   1177K/s
+
+09:13:53 200- [12] satcom       not much around from 1   6,878  107,780MB   1350K/s
+
+09:13:53 200- [13] cruxis       [x in my face x]         9,394   99,631MB    600K/s
+
+09:13:53 200- [14] praedator    Delete Satcom            5,837   94,869MB   1998K/s
+
+09:13:53 200- [15] D4Fi3ts      Internship.till.July.2  18,415   90,355MB    425K/s
+
+09:13:53 200- [16] heero        hmz                      6,379   88,351MB    578K/s
+
+09:13:53 200- [17] csc          ...                      4,653   86,939MB   1484K/s
+
+09:13:53 200- [18] jamon        PATRICK, i will never    5,472   78,916MB   1904K/s
+
+09:13:53 200- [19] c00ler       --> H/,RE//, <--         6,417   77,183MB    616K/s
+
+09:13:53 200- [20] polux        froglovers               5,629   75,524MB   2901K/s
+
+09:13:53 200- [21] GMith        jaded                    3,932   73,567MB   1491K/s
+
+09:13:53 200- [22] mate         duno                     4,593   72,348MB    843K/s
+
+09:13:53 200- [23] mcr          DiSTANCE                 5,549   72,062MB   3084K/s
+
+09:13:53 200- [24] boman        Delete Satcom            4,372   71,561MB   1973K/s
+
+09:13:53 200- [25] knocke       Speed Does Matter        5,019   69,934MB    760K/s
+
+09:13:53 200- [26] sera         Omnipotent               4,701   66,976MB   2300K/s
+
+09:13:53 200- [27] slashem      FoV - SDM                4,799   62,531MB    665K/s
+
+09:13:53 200- [28] anakin       may the force....        4,072   61,547MB   1189K/s
+
+09:13:53 200- [29] checker      The Heat Seeker          3,034   61,041MB   1736K/s
+
+09:13:53 200- [30] gerwen       Delete Satcom            4,786   58,747MB   1305K/s
+
+09:13:53 200- [31] kingjohn     tag                      4,377   57,282MB    844K/s
+
+09:13:53 200- [32] limmo        AT THE ARMY :(           3,408   54,654MB   1863K/s
+
+09:13:53 200- [33] maveth       muhahaha                 3,960   51,110MB   2060K/s
+
+09:13:53 200- [34] devmire      d                        2,593   49,055MB   1956K/s
+
+09:13:53 200- [35] lyr          .: TFAiSO :.             2,966   47,679MB   1821K/s
+
+09:13:53 200- [36] beaver       All Beavers In Danger    2,660   43,760MB   1568K/s
+
+09:13:53 200- [37] Golferboy    -=pHASE=-                3,098   43,382MB   2038K/s
+
+09:13:53 200- [38] woffen       Delete Satcom            2,622   41,549MB   1771K/s
+
+09:13:53 200- [39] Phoenix-X    Burn Baby Burn           9,287   40,975MB    637K/s
+
+09:13:53 200- [40] piglo        DST                      2,168   40,437MB   1695K/s
+
+09:13:53 200- [41] replicator   vacation                 2,297   39,100MB   2086K/s
+
+09:13:53 200- [42] Wappie       .                        2,194   38,323MB   1627K/s
+
+09:13:53 200- [43] darkm        bleh                     1,860   35,802MB   1653K/s
+
+09:13:53 200- [44] teabag       tea anyone?              1,844   33,142MB   2466K/s
+
+09:13:53 200- [45] fig          Pretips OWNZ             1,651   33,129MB   2301K/s
+
+09:13:53 200- [46] radical      checking out RL - back   1,803   31,587MB   2101K/s
+
+09:13:53 200- [47] Doffen       AVALON                   2,110   31,427MB   2033K/s
+
+09:13:53 200- [48] stuntman     i'm from hollywood       2,298   30,707MB    638K/s
+
+09:13:53 200- [49] stargon      it wasn't rape, it was   2,134   29,313MB   1552K/s
+
+09:13:53 200- [50] booten       eNRAGE ON RAMPAGe        1,430   28,472MB   1757K/s
+
+09:13:53 200- [51] stix         die                      1,993   27,854MB   2562K/s
+
+09:13:53 200- [52] abacus2      eptiso                   1,546   27,497MB   1330K/s
+
+09:13:53 200- [53] blade        new mother nature        1,426   26,388MB   1383K/s
+
+09:13:53 200- [54] Neu          Delete Satcom            1,234   22,636MB   1614K/s
+
+09:13:53 200- [55] siworae      //sonic:empire//         1,152   22,178MB   1889K/s
+
+09:13:53 200- [56] pyx          - Flame Arrow -          1,405   22,002MB   2199K/s
+
+09:13:53 200- [57] efex         .                        1,000   20,048MB   2018K/s
+
+09:13:53 200- [58] gryphon      take a peek              2,945   18,824MB    613K/s
+
+09:13:53 200- [59] degree       slot swap anyone?          952   18,718MB   1890K/s
+
+09:13:53 200- [60] godness      _-=AVALON=-_               958   17,891MB   1394K/s
+
+09:13:53 200- [61] maxan        BlueCrap Staff             430   17,432MB    801K/s
+
+09:13:53 200- [62] UNKNOWN      BlueCrap Staff             430   17,432MB    801K/s
+
+09:13:53 200- [63] e-science    ?? ex~nihilo ??          1,229   17,329MB   2412K/s
+
+09:13:53 200- [64] bigkahuna    hi                         867   16,465MB   1625K/s
+
+09:13:53 200- [65] gambit       -+ AMNESiA iSO +-          753   16,062MB   1772K/s
+
+09:13:53 200- [66] ikari        SDM                        875   15,781MB   1858K/s
+
+09:13:53 200- [67] grizzo       fD                         837   15,187MB   2179K/s
+
+09:13:53 200- [68] xfader       insert quarter           1,019   13,643MB   3852K/s
+
+09:13:53 200- [69] rambo        blah                       816   13,566MB   2030K/s
+
+09:13:53 200- [70] blurp        -+ AMNESiA iSO +-          915   13,434MB   3000K/s
+
+09:13:53 200- [71] ls           -+ AMNESiA iSO +-          661   12,833MB   2017K/s
+
+09:13:53 200- [72] voven        hi                         642   11,951MB   1903K/s
+
+09:13:53 200- [73] mongo        hoeooehoaohoaAOOAOAoao     696   11,538MB   2080K/s
+
+09:13:53 200- [74] orbith       There Can Be Only One      576   11,388MB   2386K/s
+
+09:13:53 200- [75] raga         d.s.td.s.t                 483    9,894MB   2279K/s
+
+09:13:53 200- [76] Trev         d                          688    9,888MB   3628K/s
+
+09:13:53 200- [77] Seth         ploep                      441    9,311MB   1674K/s
+
+09:13:53 200- [78] robbat       away 082304 ->> 032005     584    8,887MB   3050K/s
+
+09:13:53 200- [79] mariak       lw                         334    8,825MB   1678K/s
+
+09:13:53 200- [80] hoboslayer   its cool to hate           413    8,111MB   2382K/s
+
+09:13:53 200- [81] bourbon      > CRIMSON                  373    7,771MB   1431K/s
+
+09:13:53 200- [82] stardust     D.E.V.O.T.i.O.N            342    7,642MB   1452K/s
+
+09:13:53 200- [83] sh0k         -(-T-C-L-)-                395    7,574MB   1299K/s
+
+09:13:53 200- [84] JeLa         Old Fart                   404    7,227MB   1920K/s
+
+09:13:53 200- [85] knIght       Sp33DBoY Does Matter       339    6,860MB   1970K/s
+
+09:13:53 200- [86] ravenlord    d0h                        314    6,764MB   2565K/s
+
+09:13:53 200- [87] dying        :)                         326    6,358MB   1821K/s
+
+09:13:53 200- [88] turranius    site tagline http://ww     985    6,316MB    487K/s
+
+09:13:53 200- [89] jang         staff                      232    6,101MB   2622K/s
+
+09:13:53 200- [90] mkrm         EGARNe                     321    5,972MB   1093K/s
+
+09:13:53 200- [91] 47           TFAiSO                     321    5,895MB   2314K/s
+
+09:13:53 200- [92] micro        BooZeeeeeeee               119    5,542MB    774K/s
+
+09:13:53 200- [93] phinneus     unf                        373    5,330MB   2748K/s
+
+09:13:53 200- [94] mg           away for awhile...         308    5,213MB   3453K/s
+
+09:13:53 200- [95] genty        Bite Me                    265    4,915MB   2243K/s
+
+09:13:53 200- [96] darkvoice    HiHi                       183    4,392MB   1844K/s
+
+09:13:53 200- [97] beavis       without internet conne     290    4,131MB   2549K/s
+
+09:13:53 200- [98] fronk        hi                         209    4,032MB   1532K/s
+
+09:13:53 200- [99] turntablz    -+ AMNESiA iSO +-          184    3,945MB   1584K/s
+
+09:13:53 200- [100] Drutten      Beb000b                    202    3,776MB   2516K/s
+
+09:13:53 200- [101] amus         on a break, had a baby     179    3,592MB   2239K/s
+
+09:13:53 200- [102] Joi          Had no internet all mo     158    3,052MB   2302K/s
+
+09:13:53 200- [103] FwD          bleh                       186    2,941MB   1742K/s
+
+09:13:53 200- [104] iezilop      TOWiSO                     143    2,760MB   1605K/s
+
+09:13:53 200- [105] morcheeba    attjo / prosit             123    2,686MB   2533K/s
+
+09:13:53 200- [106] wahoo        beer is god                269    2,627MB   1065K/s
+
+09:13:53 200- [107] topgun       .                          141    1,943MB   1718K/s
+
+09:13:53 200- [108] buzz         buzz                       134    1,461MB    808K/s
+
+09:13:53 200- [109] proctor      delete satcom               68    1,172MB   1247K/s
+
+09:13:53 200- [110] mrsaint      dumdidaj                    81    1,143MB   2140K/s
+
+09:13:53 200- [111] troop        BooZerS                     68    1,104MB    757K/s
+
+09:13:53 200- [112] xore         m00                         43    1,101MB   1788K/s
+
+09:13:53 200- [113] vcow         .                           59      802MB   2894K/s
+
+09:13:53 200- [114] fly          OwN or be OwNeD            211      735MB    923K/s
+
+09:13:53 200- [115] CastorTroy   [-EPTiSO/FLiX-]             26      720MB   1724K/s
+
+09:13:53 200- [116] judge        H/,RE//,                    38      563MB   1904K/s
+
+09:13:53 200- [117] natdogg      iam in                      22      444MB   1315K/s
+
+09:13:53 200- [118] GRIZZ        lala                        14      200MB   4557K/s
+
+09:13:53 200- [119] FU           woof woof                    4      190MB   6975K/s
+
+09:13:53 200- [120] gza          >> EVERYBODY RiSE <<        14      185MB   2800K/s
+
+09:13:53 200- [121] rupert       yougotowned                 11      162MB   1186K/s
+
+09:13:53 200- [122] FAiLSAFE     bla                          3       95MB   3618K/s
+
+09:13:53 200- [123] goro         CanYaFeelTheLove             1       29MB   6095K/s
+
+09:13:53 200- [124] silcs        who?                         1       14MB    862K/s
+
+09:13:53 200- `-=-------------------------------------------------------------------=-'

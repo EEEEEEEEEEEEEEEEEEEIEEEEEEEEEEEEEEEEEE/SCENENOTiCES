@@ -1,0 +1,37 @@
+Tag zusammen,
+hier ein Statement zu der NFO über Kornhaus.
+Wie diejenigen die auf der Site waren sicherlich festellen durften
+kam es trotz angenehmer Hardware immer wieder zu Performance einbrüchen.
+Der FTP auf Port 21 diente nur dem benchmarken/testen von anderen
+glftpd versionen und SSL Cipher settings. Wer sich die Mühe gemacht
+hätte danach zu fragen hätte sich davon selbst überzeugen dürfen.
+Zu den anderen offenen Ports:
+22	- Keine fragen oder?
+54445	- der normale gl
+50000	- eggdrop
+Mehr Ports waren zu keinem Zeitpunkt offen. Ich weiss nicht ob die
+anderen nur dem kreativen Hirn des NFO-Autors entsprungen sind oder
+zu Lasten des unfähigen Portscan Tools gehen das er benutzt hat.
+Sowohl netstat lokal, als auch nmap von einem anderen Host aus
+bestätigten das. Natürlich sah die NFO so etwas peppiger aus,
+geb ich ja zu.
+Etwas generelles zu Unsecure site / Trader NFO's:
+Ganz egal ob die Anschuldigungen in diesen NFO's zutreffend sind
+oder nicht - Wer IP's von Sites jedem Affen zugänglich macht
+gefährdet JEDEN der auf der Site geaddet ist.
+Nehmen wir mal an die Siteops einer "NFOizierten" Site legen wirklich
+keinen Wert auf Sicherheit und die Behörde reagiert schnell und sackt
+die nicht gecryptete Kiste ein, mitsamt den dummerweise nicht
+deaktivierten Logfiles (Trader IP's inkl.)
+Denkt mal darüber nach, dass diese Site möglicherweise nie eine
+Gefahr geworden wäre wenn es die NFO nicht gegeben hätte.
+Ich will damit überhaupt nicht sagen das Informationsverteilung
+generell schlecht ist. Wenn begründete Zweifel an der Sicherheit
+einer Site besteht müssen die Leute gewarnt werden. Aber es reicht
+doch die entsprechenden Infos an die Betreffenden zu senden.
+OK, wenn man auf den "Egobooster NFO schreiben" nicht verzichten kann
+lasst wenigstens Nicks und IP's aus der Sache raus. Jeder den es zu
+Interessieren hat weiss schon worum es geht, wenn der Sitename in der
+NFO steht.
+Ich hoffe der Autor dieser NFO hat seine geilen 5 Minuten
+genossen und schaltet das Hirn jetzt wieder ein.

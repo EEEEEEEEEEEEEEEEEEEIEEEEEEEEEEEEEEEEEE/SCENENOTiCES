@@ -1,0 +1,118 @@
+[1] 200- [ 1] gary                                  73050       1.7TB 327.2KB/s
+[1] 200- [ 2] skype        -> bRUTAL <-             51510       1.3TB 635.5KB/s
+[1] 200- [ 3] mojo                                  39947       1.1TB 117.4KB/s
+[1] 200- [ 4] seeker       POLICE SQUAD             27016     474.6GB 413.2KB/s
+[1] 200- [ 5] kizman                                14518     448.5GB 267.6KB/s
+[1] 200- [ 6] gsp0t                                 14622     429.8GB 285.7KB/s
+[1] 200- [ 7] fiasco                                17805     403.4GB 281.5KB/s
+[1] 200- [ 8] xammy        MadeYouLook...           16730     394.6GB 368.3KB/s
+[1] 200- [ 9] stealthfox   i.am.the.POLiCE          11357     373.6GB 117.3KB/s
+[1] 200- [10] jeXX                                  12851     343.9GB 259.7KB/s
+[1] 200- [11] hydro                                 11419     301.3GB 244.6KB/s
+[1] 200- [12] BaRnz                                 12010     231.8GB  1.9MB/s
+[1] 200- [13] daseat                                10718     223.6GB 414.2KB/s
+[1] 200- [14] Gingga       Boo                      13134     222.5GB  3.0MB/s
+[1] 200- [15] Skyforce     Guess Whoos Back          8293     220.9GB  2.1MB/s
+[1] 200- [16] luke                                  12019     219.6GB  1.1MB/s
+[1] 200- [17] Uzumaki      ..::GWT::..               9318     211.4GB  1.6MB/s
+[1] 200- [18] dabomb       DiViNiTY                 12280     206.3GB  1.4MB/s
+[1] 200- [19] Qutiz        ..::GWT::..               8384     195.9GB  1.6MB/s
+[1] 200- [20] supremacy    Supremacy Does Matter    10014     189.2GB  1.8MB/s
+[1] 200- [21] Kehpri       PhArAcYdE                 8708     178.4GB  1.8MB/s
+[1] 200- [22] koskos       DiViNiTY                  8034     169.3GB  1.2MB/s
+[1] 200- [23] YRZ                                   12429     164.9GB  1.9MB/s
+[1] 200- [24] PreCiSiON                              5804     152.4GB  2.6MB/s
+[1] 200- [25] FLASH                                  6408     144.9GB 702.6KB/s
+[1] 200- [26] D3viL                                  8350     142.4GB  1.8MB/s
+[1] 200- [27] Vani0n       suger is sweet            6861     138.8GB  1.7MB/s
+[1] 200- [28] 411          Want Some Candy?          6714     133.8GB  1.8MB/s
+[1] 200- [29] fosil        Distancia!                6083     119.9GB  1.7MB/s
+[1] 200- [30] Zaven        Dont Imitate Innovate     5507     114.2GB  1.5MB/s
+[1] 200- [31] Mike                                   4927     109.4GB  1.8MB/s
+[1] 200- [32] Mind         incoming...               5114     108.0GB  2.0MB/s
+[1] 200- [33] Song                                   3786     106.1GB 511.5KB/s
+[1] 200- [34] woffen                                 5332     105.6GB  2.0MB/s
+[1] 200- [35] Sentenza     Lick It                   3980     105.5GB  1.5MB/s
+[1] 200- [36] stonedage                              5003     104.7GB 504.9KB/s
+[1] 200- [37] fig                                    5015     102.5GB  3.2MB/s
+[1] 200- [38] bocephus                               2797     100.9GB 343.6KB/s
+[1] 200- [39] Da_L                                   5249     100.0GB  1.9MB/s
+[1] 200- [40] feitan       exams may 15th , studying  4512      99.2GB  1.5MB/s
+[1] 200- [41] BM                                     6115      99.2GB  1.3MB/s
+[1] 200- [42] hopin                                  3235      98.6GB 313.3KB/s
+[1] 200- [43] technolog                              4183      87.6GB  1.8MB/s
+[1] 200- [44] coltaine                               3852      84.6GB  1.7MB/s
+[1] 200- [45] hsk                                    4202      82.8GB  2.1MB/s
+[1] 200- [46] allan                                  3896      81.5GB  1.5MB/s
+[1] 200- [47] chin2k                                 3310      77.0GB 950.8KB/s
+[1] 200- [48] cruxy                                  4436      75.7GB 448.7KB/s
+[1] 200- [49] dru                                    4581      75.2GB  1.5MB/s
+[1] 200- [50] blade        pHASE                     3076      73.9GB 931.1KB/s
+[1] 200- [51] bourbon                                2863      73.1GB  2.6MB/s
+[1] 200- [52] throne       TCL                       2744      70.6GB  2.1MB/s
+[1] 200- [53] q413                                   2479      68.7GB  1.8MB/s
+[1] 200- [54] Taz7         beer - KEG -              3373      60.8GB  1.8MB/s
+[1] 200- [55] Bomb         >> FREQuency <<           2886      58.5GB  1.8MB/s
+[1] 200- [56] Neu                                    2391      58.2GB 216.9KB/s
+[1] 200- [57] simme        vacation in africa, back 7th march  2338      56.7GB  1.3MB/s
+[1] 200- [58] darkm                                  2138      53.6GB  1.6MB/s
+[1] 200- [59] sony-2                                 2365      53.4GB  1.3MB/s
+[1] 200- [60] generalss                              2636      48.4GB 247.1KB/s
+[1] 200- [61] dcking                                 2129      46.9GB  1.8MB/s
+[1] 200- [62] raz0r                                  1940      45.9GB  2.9MB/s
+[1] 200- [63] eclipsed                               2168      42.9GB  1.2MB/s
+[1] 200- [64] wookie       MOoOoOo                   2088      41.0GB  2.2MB/s
+[1] 200- [65] matrixx      ---===GwT===---           1590      39.3GB  1.2MB/s
+[1] 200- [66] bocca                                  1428      38.3GB  1.3MB/s
+[1] 200- [67] gc                                     1604      35.8GB  2.4MB/s
+[1] 200- [68] verry                                  1770      35.0GB  1.7MB/s
+[1] 200- [69] mate                                   1367      34.6GB 978.1KB/s
+[1] 200- [70] aero         -= THD =-                 1699      33.7GB 912.2KB/s
+[1] 200- [71] piglo        DST                       1666      32.7GB  3.1MB/s
+[1] 200- [72] Caribax                                1100      31.2GB  1.7MB/s
+[1] 200- [73] morcheeba                              1553      29.7GB  1.8MB/s
+[1] 200- [74] MrBorG                                 1411      27.7GB  2.0MB/s
+[1] 200- [75] Activ        -=THD=-                   1277      27.4GB 664.5KB/s
+[1] 200- [76] cookies                                1256      26.0GB  1.5MB/s
+[1] 200- [77] rupert                                 1490      21.5GB  4.6MB/s
+[1] 200- [78] GMith                                  1219      20.3GB  1.9MB/s
+[1] 200- [79] sam                                    1282      18.4GB 79.8KB/s
+[1] 200- [80] h2b                                    1234      15.6GB 979.2KB/s
+[1] 200- [81] sitadom                                1008      15.1GB 142.0KB/s
+[1] 200- [82] blurp                                   412      12.3GB  1.6MB/s
+[1] 200- [83] acidbr                                  623      12.1GB  2.0MB/s
+[1] 200- [84] beaver       All Beavers In Danger      730      12.1GB  1.8MB/s
+[1] 200- [85] banzai                                  592      11.7GB  2.0MB/s
+[1] 200- [86] silentk                                 600      11.3GB  1.3MB/s
+[1] 200- [87] FAiLSAFE     -d.i.s.t.a.n.c.e-          771      11.0GB 800.2KB/s
+[1] 200- [88] raga         d.s.td.s.t                 662      10.8GB  2.2MB/s
+[1] 200- [89] xeez                                    397      10.7GB  1.7MB/s
+[1] 200- [90] zonk         delivery101                475      10.0GB  1.5MB/s
+[1] 200- [91] Heraz        DST biatch                 461       8.8GB 764.8KB/s
+[1] 200- [92] Seth                                    488       8.6GB  1.5MB/s
+[1] 200- [93] Cis                                     318       8.6GB 736.6KB/s
+[1] 200- [94] henry        fever                      510       8.5GB  1.1MB/s
+[1] 200- [95] sou1         Spice FOrce                426       7.2GB  1.1MB/s
+[1] 200- [96] FB           TOWiSO                     327       6.6GB  1.4MB/s
+[1] 200- [97] efex                                    274       6.3GB  2.3MB/s
+[1] 200- [98] JRippey                                 241       5.9GB 880.5KB/s
+[1] 200- [99] drone                                   336       5.7GB  1.3MB/s
+[1] 200- [100] Bl4z                                    228       5.3GB  1.9MB/s
+[1] 200- [101] sanne                                   275       5.2GB 928.2KB/s
+[1] 200- [102] gF                                      208       5.2GB  1.5MB/s
+[1] 200- [103] danjef                                  218       4.4GB  1.6MB/s
+[1] 200- [104] kram                                    178       3.8GB  2.1MB/s
+[1] 200- [105] anc                                     111       2.9GB 837.6KB/s
+[1] 200- [106] captain      huh?                        56     830.0MB  1.9MB/s
+[1] 200- [107] nizzent                                  20     375.0MB  1.2MB/s
+[1] 200- [108] Hotch                                    20     270.2MB  2.5MB/s
+[1] 200- [109] ikari        SDM                         10     120.2MB  4.5MB/s
+[1] 200- [110] Katana                                    8     120.0MB  4.0MB/s
+[1] 200- [111] N1ght                                     2      65.0MB 609.3KB/s
+[1] 200- [112] belokk                                    1       9.0KB    - k/s
+[1] 200- [113] lamborgin                                 0          0B    - k/s
+[1] 200- [114] memorex                                   0          0B    - k/s
+[1] 200- [115] nobody                                    0          0B    - k/s
+[1] 200- [116] guido                                     0          0B    - k/s
+[1] 200- [117] Chaos                                     0          0B    - k/s
+[1] 200- [118] ub3r                                      0          0B    - k/s

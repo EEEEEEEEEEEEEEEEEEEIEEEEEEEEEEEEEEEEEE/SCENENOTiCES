@@ -1,0 +1,29 @@
+First of all hello and thanks for reading this.
+Everyone had the feeling that xSCR just take from p2p and repack but noone seems to have proven it yet properly.
+Anyways, now it is time, since xSCR dug their own grave with Avatar.3D.DVDSCR.xViD-xSCR.
+ 
+a.) Why would ANYONE send out a 3d Screener... just think about it, common sense.
+b.) Avatar does NOT use the Red/Green shift for a 3D effect:
+ 
+The film was released for traditional two-dimensional  projectors, as well as in 3-D, using the RealD 3D, Dolby 3D, XpanD 3D and IMAX 3D formats, and also in 4-D. The stereoscopic filmmaking was touted as a likely breakthrough in cinematic technology.
+ 
+Source: http://en.wikipedia.org/wiki/Avatar_%282009_film%29
+ 
+c.) Lets prove that the p2p release they took it from was just encoded with a red shift in the color channel
+c.1.) We get their sample http://i40.tinypic.com/25rcayq.jpg
+c.2.) and take a screenshot of a scene http://i42.tinypic.com/o05wyb.jpg
+c.2a.) notice the black border on the left? where its just black and red? Yes you are guessing right, they just shifted the red channel
+c.3.) open it in photoshop and check the RGB channels http://i41.tinypic.com/153l2ed.jpg
+c.3.a.) notice how all channels except red fit perfectly http://i39.tinypic.com/243jipz.jpg
+c.3.b.) lets see how that would look on a real 3d movie, first movie i see in my archive is My.Bloody.Valentine.3D.DVDRip.XviD-SAPHiRE --> http://i44.tinypic.com/whnt48.jpg
+c.3.c.) this is the original image: http://i44.tinypic.com/104gpa8.jpg , but again, after removing the red channel we see there are more channel shifts :) http://i39.tinypic.com/f4eo29.jpg the way its supposed to be in a 3d movie...
+c.3.d.) notice also how the amount of shifted pixels per channel vary http://i40.tinypic.com/2rw99xg.jpg somtimes more, somtimes less, thats for the depth, thus 3d effect
+c.4.) We now split the image into 3 seperate channels, RGB and shift the red channel to the right until its on one level as the other channels, the result: http://i40.tinypic.com/33jmhrp.jpg Its the broken base image of the "original" Screener that leaked. (Yes I know the colors are still bad, but thats due to the image losing information on the first channel shift done by the p2pers)
+ 
+d.) Did they really take this from p2p? Yes, check google, this 3d version was already "released" there on 04.03.2010. Too bad due to the huge interest in the scene, its all flooded now with xSCRs release but we ofcourse managed to save some proof: http://avaxhome.ws/video/Avatar_2009_3D_DVDSCR.html - Date 04.03....... As you see, broken RGB ;)...
+ 
+e.) conclusion: Skip xSCR, delpurge xSCR, hit them in the face... your call
+ 
+f.) Greets to those who deserve them: my friends, you know who you are ;D
+ 
+g.) ULTIMATELY, thanks to those retarded p2pers who 3D'ed it, and baited xSCR!!!

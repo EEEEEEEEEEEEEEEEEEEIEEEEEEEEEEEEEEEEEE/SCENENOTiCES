@@ -1,0 +1,165 @@
+Scene notice 19.06.2006
+
+
+
+Hello all sceners.
+First sorry for my bad english.
+Secondo. i wanna warn u about one catched "sHite" in drftpd, knowned as "ftpelite"
+it supossed be on 3x100mbit in .fr! but
+slaves was only 70gigs, second main ip of site and ip for passive transfers of text files was 62.193.245.171:2121. strange port ;)
+
+well but dns resolve was killing...
+
+look onto this nice tabel ....
+
+================================================
+=== VisualRoute report on 2006-6-18 23:16:14 ===
+================================================
+
+Report for 62.193.245.171 [tracker.elite-project.net]
+
+Analysis: '62.193.245.171' [tracker.elite-project.net]  was found in 11 hops (TTL=54). 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Hop | %Loss | IP Address      | Node Name                   | Location         | Tzone  | ms | Graph      | Network                                        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 0   |       | 192.168.106.7   | mastah.***-local            | ...              |        |    |            | (private use)                                  |
+| 1   |       | xx    | -                           | ...              |        | 5  | x          | (private use)                                  |
+| 2   |       | xx    | -                           | ?(Poland)        | +01:00 | 6  | x-         | xx         |
+| 3   |       | xx     | -                           | ?(Poland)        | +01:00 | 6  | x          | xx         |
+| 4   |       | xx | do-atm.r2.warszawa.tpnet.pl | Warszawa, Poland | +01:00 | 10 | x          | Commercial IP network of Polish Telecom        |
+| 5   | 80    | xx | so-2-3-0.war-r4.tpnet.pl    | -                |        | 14 | x          | Commercial IP network of Polish Telecom        |
+| 6   | 80    | xx | ge-6-0-0.war-tr4.tpnet.pl   | -                |        | 16 | x          | Polish Telecom's IP transit network            |
+| 7   |       | 217.6.24.165    | -                           | ?(Germany)       | +01:00 | 41 |   x-       | Deutsche Telekom AG                            |
+| 8   |       | 217.239.38.110  | -                           | ?(Germany)       | +01:00 | 49 |   x-       | Deutsche Telekom AG, Internet Service Provider |
+| 9   |       | 62.153.202.154  | -                           | ?(Germany)       | +01:00 | 58 |   -x------ | Deutsche Telekom AG                            |
+| 10  |       | 62.193.207.249  | juni1.rdb.fr.amen.fr        | ?(France)        | +01:00 | 50 |   x-       | AMEN France Network                            |
+| 11  |       | 62.193.245.171  | tracker.elite-project.net   | ?(France)        | +01:00 | 62 |    x-      | AMEN European Network                          |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roundtrip time to 62.193.245.171, average = 62ms, min = 62ms, max = 70ms -- 2006-6-18 23:16:14
+
+Those are section on it, a lot of stuff french and portugese.
+
+
+TV
+XViD
+DVDR
+PCGAMES
+PSP
+REQUESTS
+XXX
+0DAY
+APPS
+SPEEDTEST
+TV-PT
+PS2
+Subs
+XBOX
+0DAY-today
+
+next one!!!!
+
+try to get on http://tracker.elite-project.net/
+
+its strange ?? yeah
+
+look on those nicks on www
+"Obrigado
+TorrentElite" ??
+
+site was know as "ftpElite"
+
+huh
+
+Well there was a site@'s named Am**(read .fr ISP name), and Cha*sL*rd, main admins
+
+# is on after-all
+#ftpelite.log
+#FTPElite-SPAMP.log
+
+more data ? ok heres a logs
+Affils
+[14:18:10] <@EliteBOT>  ·DVD-R: DENWO EiP
+[14:18:13] <@EliteBOT>  ·MP3: DENWO
+[22:27:32] <!Cha*sL*rd>  ·!bnc
+[22:27:33] <@EliteBOT>  · -------------------------------
+[22:27:33] <@EliteBOT>  ·  SERVER - 62.193.245.171:2121 
+[22:27:33] <@EliteBOT>  ·           SSL - ON
+[22:27:33] <@EliteBOT>  ·        ---------------
+
+
+
+NEXT ONE!!!
+
+looks like its big torrent site! its AEON!!!!
+
+chaosLord its on it
+
+[00:11:24] * Now talking in #Aeon
+[00:11:24] * Topic is '13 1,11[.::Forever Alive. 1,9 Forever One. 1,12 Forever Aeon::.] 7Wanna join us? Come in let's talk :) - Please no bot commands in chan. We have 4NO bots WHATSOEVER in here!| 4 TRIAL BOARD = 4 DOWN!'
+
+
+and main owners are !!
+
+
+
+Amergin is Amergin@3bd2272c.1f5b825b.pa.comcast.net * Amergin
+Amergin has identified for this nick
+Amergin on !@+#aeon-global !@+#Aeon !@#A-CORE 
+Amergin using irc.After-All.org After-All IRC Network
+Amergin End of /WHOIS list.
+-
+Darky|HWash is ~darkylein@Admin.Aeon.org * Darky
+Darky|HWash on !@+#aeon-global !@+#Aeon 
+Darky|HWash using irc.After-All.org After-All IRC Network
+Darky|HWash End of /WHOIS list.
+-
+ChaosLord is night@burn.in.hell * BURN IN HELL
+ChaosLord has identified for this nick
+ChaosLord on #Help +#Aeon 
+ChaosLord using irc.After-All.org After-All IRC Network
+ChaosLord is using a secure connection (SSL)
+ChaosLord End of /WHOIS list.
+
+
+So looks like Ame* wasnt know anything and chaosLord is main tracker seeder!!!!
+
+
+
+#Aeon +cr1st0 @_CyRuS_ +D3FONiX +Aeonid +badar +Guest33707 +Artys +Carlo +Lie8 +thecyborg +peanut +apples +sirus @SUPACOOL +alextybob +zad +MegaMan +T^C +Osten +cKn +Dolphin +ReptilMaN +c0axial +repoman +ChaosLord +hhornd1 @PsyXhO !Amergin +Guest56015 +Seeonid +PooKer %Tom^Cat +oanfie @Yagermeister +Roelie +Guest47608 @Synergy +alpcitc !Darky|HWash +xsmash +eloquence +chairman 
+#Aeon End of /NAMES list.
+
+BUT its not the end
+
+[00:14:26] * Now talking in #aeon-global
+[00:14:26] * Topic is '8%4,8%8,4%5,4%4,5%1,5%5,1%4,1[ Welcome to #AEON-Global! Willkommen! Welkom! Benvenuto! Bienvenido! Privet! Velkommen! Tere Tulemast! Sveiki! Witaj! Dobrodosli! Baroh Haba! Valkommen! HOSGELDINIZ! Bienvenu! Bemvindo! Isten hozott!]125,1%1,5%4,5%5,4%8,4%4,8%8%8,1'
+
+#aeon-global +cr1st0 +Aeonid +Guest33707 +Artys +Carlo +thecyborg +apples +sirus @SUPACOOL +zad +Osten %Voteonid +cKn +Dolphin +ReptilMaN +c0axial +repoman +hhornd1 @PsyXhO !Amergin +Guest56015 +Seeonid +PooKer +oanfie @Yagermeister +Roelie +Guest47608 !Synergy !Darky|HWash +eloquence +chairman 
+#aeon-global End of /NAMES list.
+
+[00:17:03] * Now talking in #aeon-trivia
+[00:17:03] * Topic is '0,18.:[14A8-15E8-15O8-00N8--00T8-00R8-15I8-15V8-15I8-14A8]:.  Aeon's TRIVIA channel.. care for a round? Wanna show what you can do WITHOUT googling? So come in and beat the bot! :D'
+[00:17:03] * Set by Darky on Fri Oct 21 21:07:57
+#aeon-trivia badar SUPACOOL +Seeonid +Yagermeister 
+#aeon-trivia End of /NAMES list.
+
+
+and im adding packed www of this elitetorrent if they shut it down
+
+
+well i dont know if u belive in it but its big mess! those all chans are on after-all, andu can get inside if u want..
+
+
+im on scene from 10 years and for me its something terrible, that siteowner says that 
+its nothing unsecure in this that master is on same box where is torrent website!!!
+
+ahh and one more, ppl on shite was added from a week, a news on page are also week old...
+
+
+
+old scener...
+
+
+
+
+

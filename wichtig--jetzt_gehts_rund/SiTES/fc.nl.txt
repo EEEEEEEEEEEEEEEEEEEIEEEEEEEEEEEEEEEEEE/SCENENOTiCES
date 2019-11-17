@@ -1,0 +1,363 @@
+Billy:cartman1987cartman@83.149.96.29:19808
+
+
+
+[L] 200- User Comment: Added by ronx
+[L] 200- +=======================================================================+
+[L] 200- | Username: Billy                    Created: 04-22-05                  |
+[L] 200- | Added by: ronx                     Expires: Never                     |
+[L] 200- | Time On Today: 02:03:06            Last seen: Mon May 2 18:40:01 2005 |
+[L] 200- | Flags: 134ABCDEFGHIJKLMN           Idle time: Disabled                |
+[L] 200- | Ratio: Unlimited                   Credits:      14.6 MB              |
+[L] 200- | Total Logins: 114                  Current Logins: 1                  |
+[L] 200- | Max Logins: 2                      From same IP: Unlimited            |
+[L] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+[L] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[L] 200- | Times Nuked: 1                     Bytes Nuked:     14 MB             |
+[L] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[L] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[L] 200- | Tagline: No Tagline Set                                               |
+[L] 200- | Groups: siteop                                                        |
+[L] 200- | Priv Groups: STAFF                  
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: kallanz@83.249.*.*            IP1: kallanz@213.238.*.*           |
+[L] 200- | IP2:                               IP3:                               |
+[L] 200- | IP4:                               IP5:                               |
+[L] 200- | IP6:                               IP7:                               |
+[L] 200- | IP8:                               IP9:                               |
+[L] 200- +=======================================================================+
+
+
+[L] site ginfo STAFF
+[L] 200-                                             ________
+[L] 200- _____________.______________________________\\     _/___________
+[L] 200- \\      _     |     _      /    _       /     \\     \\      _    \\
+[L] 200-  \\     \\     |     /_____/     \\      /      |\\     \\     \\    /XFER
+[L] 200-    \\______    |______|    \\___________/|______________\\    ____/ STATS
+[L] 200- .---- /______| ------------------------------------ |_____| ------------.
+[L] 200- |  Username |     Up |      Megs |     Dn |      Megs | Ratio |    Wkly |
+[L] 200- |-----------+--------+-----------+--------+-----------+-------+---------|
+[L] 200- |*ronx      |    251 |      5600 |    128 |      3541 | leech |       0 |
+[L] 200- | MarketMak |    332 |      4354 |     75 |      1126 |  1:3  |       0 |
+[L] 200- |*arilius   |     17 |       275 |    189 |      3509 | leech |       0 |
+[L] 200- |*spidey    |    243 |      3294 |    580 |      9066 | leech |       0 |
+[L] 200- |*Billy     |     68 |       929 |   1189 |     17727 | leech |       0 |
+[L] 200- |*kamina    |      0 |         0 |    142 |      2438 | leech |       0 |
+
+
+[L] site aldn 100
+[L] 200-      ______________._________   .  _________________.___  ___
+[L] 200-   __.\____   ___    \_   _   \ _:__\____   ___   _____  \|   | _.__
+[L] 200- _ _|____ /   \/  |   /  _____/__|___;_ /   \/    _\_|_   \   |__|_ __
+[L] 200-  ___|__ /     \  |  //   | ___|_._|__ //    \   /    // \    | ___|_
+[L] 200-     __|_\_____/_____\    | _|___|___|.\_____/_______/___|\   |._|_
+[L] 200-  .------------------.\___|  ALLTiME DOWNLOADERS...     \__|  :-----.
+[L] 200- .--------------------------------------------------------------------=-.
+[L] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[L] 200- |-=-------------------------------------------------------------------=-|
+[[R] 200- [01] Billy        No Tagline Set           5,913   85,983MB   1638K/s
+[R] 200- [02] demisoda     No Tagline Set           3,962   62,138MB   5222K/s
+[R] 200- [03] fnz          No Tagline Set           3,390   60,445MB   3560K/s
+[R] 200- [04] fishy        No Tagline Set           3,772   58,723MB   5443K/s
+[R] 200- [05] ub3r         blah                     3,807   52,294MB   1367K/s
+[R] 200- [06] spidey       Fightclub_Staff          3,710   52,247MB     53K/s
+[R] 200- [07] Uzumaki      On holiday till 8 May    2,759   51,712MB   2154K/s
+[R] 200- [08] hopin        No Tagline Set           1,438   41,444MB    530K/s
+[R] 200- [09] jigga        No Tagline Set           2,212   39,739MB   1468K/s
+[R] 200- [10] sync         illusional               1,860   36,057MB   1825K/s
+[R] 200- [11] Skyforce     Guess Whoos Back         1,663   35,804MB   2993K/s
+[R] 200- [12] Jesus        Go, and sin no more      2,180   34,569MB   3143K/s
+[R] 200- [13] p4u1         No Tagline Set           1,403   33,173MB    805K/s
+[R] 200- [14] ping         No Tagline Set           1,554   28,411MB   1126K/s
+[R] 200- [15] MarketMakerz No Tagline Set           2,155   28,324MB    530K/s
+[R] 200- [16] kamina       No Tagline Set           1,678   26,350MB   1599K/s
+[R] 200- [17] ronx         No Tagline Set           1,885   26,077MB    456K/s
+[R] 200- [18] choller      No Tagline Set           1,815   25,335MB    556K/s
+[R] 200- [19] arilius      No Tagline Set           1,483   24,630MB    548K/s
+[R] 200- [20] Taz7         No Tagline Set           1,365   23,737MB   2517K/s
+[R] 200- [21] Da_L         No Tagline Set           1,112   23,241MB   3586K/s
+[R] 200- [22] Smoke        No Tagline Set           1,173   20,304MB   4134K/s
+[R] 200- [23] chin2k       No Tagline Set             881   18,364MB   1824K/s
+[R] 200- [24] rev          No Tagline Set             985   17,499MB   2124K/s
+[R] 200- [25] dexta        No Tagline Set             871   17,069MB    671K/s
+[R] 200- [26] Zanix        ..:: GwT ::..              694   16,708MB   2318K/s
+[R] 200- [27] XBloodX      eye en dee               1,047   16,700MB   1004K/s
+[R] 200- [28] hellmaster   mkdir.not.war              911   15,221MB   2850K/s
+[R] 200- [29] avril        No Tagline Set           1,015   15,198MB   1991K/s
+[R] 200- [30] knk          No Tagline Set             649   15,122MB   2204K/s
+[R] 200- [31] pwise        No Tagline Set             831   15,109MB   2494K/s
+[R] 200- [32] BaRnz        No Tagline Set             729   15,077MB   3909K/s
+[R] 200- [33] aLeXoli      No Tagline Set             943   15,072MB   2320K/s
+[R] 200- [34] merc         No Tagline Set           1,100   14,775MB    347K/s
+[R] 200- [35] Baracuda     No Tagline Set           1,017   14,691MB   8787K/s
+[R] 200- [36] MiKe         No Tagline Set             994   14,690MB   1155K/s
+[R] 200- [37] Zaven        Dont Imitate Innovate      949   13,933MB   1816K/s
+[R] 200- [38] Chout        No Fagline Set             944   13,887MB    990K/s
+[R] 200- [39] wylde        No Tagline Set             960   13,834MB    689K/s
+[R] 200- [40] Cybergod     No Tagline Set             686   13,639MB   3617K/s
+[R] 200- [41] dabadass     Scott Me Up Beamie       1,051   13,336MB   1081K/s
+[R] 200- [42] ravenlord    autotrade sux              694   13,288MB   1647K/s
+[R] 200- [43] Song         No Tagline Set             598   13,079MB    390K/s
+[R] 200- [44] CrAzY        No Tagline Set             882   12,447MB   3830K/s
+[R] 200- [45] mate         No Tagline Set             710   12,004MB    316K/s
+[R] 200- [46] Satan        No Tagline Set             764   11,948MB   5182K/s
+[R] 200- [47] PuNS         No Tagline Set             691   11,159MB    882K/s
+[R] 200- [48] Eclipse      No Tagline Set             613   10,705MB   4200K/s
+[R] 200- [49] stoffe       No Fagline Set             746   10,350MB    912K/s
+[R] 200- [50] sco0t        No Tagline Set             498    9,296MB    558K/s
+[R] 200- [51] gat          No Tagline Set             634    8,656MB    657K/s
+[R] 200- [52] kopykat      No Tagline Set             645    8,130MB    129K/s
+[R] 200- [53] kik0         No Tagline Set             298    7,783MB    318K/s
+[R] 200- [54] schlong      No Tagline Set             368    7,252MB   1736K/s
+[R] 200- [55] fig          hwohwo                     485    6,399MB   2893K/s
+[R] 200- [56] dR34mCZ      .:.YOUR.DREAM.IS.HERE.     246    6,140MB    855K/s
+[R] 200- [57] amnesia      I need T P for my bung     316    5,090MB    778K/s
+[R] 200- [58] Ghost        No Tagline Set             264    5,036MB   2561K/s
+[R] 200- [59] xero_cool    No Tagline Set             104    4,718MB   5972K/s
+[R] 200- [60] trini        No Tagline Set             260    4,639MB    512K/s
+[R] 200- [61] cbm64        No Tagline Set             291    3,782MB    320K/s
+[R] 200- [62] vst          No Tagline Set             258    3,664MB    429K/s
+[R] 200- [63] pluged       No Tagline Set             103    3,578MB   2348K/s
+[R] 200- [64] ladykiller   No Tagline Set             222    2,780MB     95K/s
+[R] 200- [65] monolith     No Tagline Set             102    2,713MB   1420K/s
+[R] 200- [66] Bomb         No Tagline Set             169    2,506MB   1602K/s
+[R] 200- [67] q            CUNTBLEED                  181    2,381MB   5060K/s
+[R] 200- [68] boss429      thirteen thirty seven      169    2,373MB    531K/s
+[R] 200- [69] leit         No Tagline Set              96    2,287MB   1011K/s
+[R] 200- [70] FGZ          No Tagline Set              85    1,563MB   2271K/s
+[R] 200- [71] Sam          Cosa Nostra                122    1,531MB   2796K/s
+[R] 200- [72] B1GB4LL5     No Tagline Set              69    1,252MB    470K/s
+[R] 200- [73] isn          No Tagline Set              90    1,235MB   1336K/s
+[R] 200- [74] noise        No Tagline Set              84    1,128MB   1866K/s
+[R] 200- [75] mozofok      No Tagline Set              47      953MB   4228K/s
+[R] 200- [76] Raine        No Tagline Set              63      925MB   1170K/s
+[R] 200- [77] mopreme      No Tagline Set              55      895MB   9555K/s
+[R] 200- [78] scuzio       No Tagline Set              55      771MB   8871K/s
+[R] 200- [79] sidar        No Tagline Set              48      689MB   1293K/s
+[R] 200- [80] Joeny        No Tagline Set              34      636MB   8360K/s
+[R] 200- [81] mrk          No Tagline Set              27      568MB   1214K/s
+[R] 200- [82] dolphin      No Tagline Set              39      500MB  12505K/s
+[R] 200- [83] GaryZelda    No Tagline Set              34      447MB    204K/s
+[R] 200- [84] scuba        No Tagline Set              21      372MB    441K/s
+[R] 200- [85] jesse        No Tagline Set              21      248MB   1508K/s
+[R] 200- [86] drmatik      No Tagline Set              20      233MB    395K/s
+[R] 200- [87] gil          http://krijgenic.com/       23      193MB   1677K/s
+[R] 200- [88] piglo        No Tagline Set              13      190MB   1993K/s
+[R] 200- [89] Hollow_      No Tagline Set               9      119MB    552K/s
+[R] 200- [90] lonely       No Tagline Set               1       47MB    134K/s
+[R] 200- [91] darkrad      No Tagline Set               4       45MB   2323K/s
+[R] 200- [92] allen        No Tagline Set               3       42MB    236K/s
+[R] 200- [93] AssassiN     No Tagline Set               2       28MB  14648K/s
+[R] 200- [94] TeKnO        No Tagline Set               2       24MB    729K/s
+[R] 200- [95] viagra       No Tagline Set               1       14MB  14648K/s
+[R] 200- [96] darkvoice    No Tagline Set               1        8MB   9158K/s
+[R] 200- [97] p1mp         No Tagline Set               1        0MB      2K/s
+[R] 200- `-=-------------------------------------------------------------------=-'
+
+
+[L] site users
+[L] 200- Detailed User Listing...
+[L] 200- glftpd                     UL:    0MB      DL:    0MB      Credit:   -24MB
+[L] 200- sitebot                    UL:    0MB      DL:    0MB      Credit:    15MB
+[L] 200- ronx            siteop     UL: 5599MB      DL: 3540MB      Credit:  -127MB
+[L] 200- MarketMakerz    nuke       UL: 4354MB      DL: 1126MB      Credit: 11705MB
+[L] 200- arilius         siteop     UL:  275MB      DL: 3509MB      Credit:    15MB
+[L] 200- spidey          siteop     UL: 3293MB      DL: 9065MB      Credit:    15MB
+[L] 200- Billy           siteop     UL:  928MB      DL:17726MB      Credit:    15MB
+[L] 200- boss429         BARiSO     UL: 1577MB      DL:   52MB      Credit:  4680MB
+[L] 200- nuker           nuke       UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- PuNS            BARiSO     UL: 5350MB      DL: 2882MB      Credit: 22567MB
+[L] 200- Thrillseeka     Spades     UL:   47MB      DL:   87MB      Credit:    55MB
+[L] 200- aLeXoli         iND        UL: 4403MB      DL: 9218MB      Credit:  2726MB
+[L] 200- jigga           BARiSO     UL:13914MB      DL:12585MB      Credit: 27526MB
+[L] 200- Ghost           qX         UL: 1932MB      DL: 1907MB      Credit:  3133MB
+[L] 200- fnz             qX         UL: 8845MB      DL:18639MB      Credit:  6328MB
+[L] 200- trini           BARiSO     UL: 3462MB      DL: 1108MB      Credit:  9194MB
+[L] 200- choller         BARiSO     UL: 3910MB      DL:  363MB      Credit: 11285MB
+[L] 200- Zanix           GwT        UL:10080MB      DL: 6587MB      Credit: 23653MB
+[L] 200- pwise           EDC        UL: 1668MB      DL: 1109MB      Credit:  6318MB
+[L] 200- MiKe            iND        UL:17321MB      DL: 3367MB      Credit: 48598MB
+[L] 200- sco0t           BARiSO     UL: 3946MB      DL: 6831MB      Credit:   275MB
+[L] 200- pyrrhic         iND        UL: 4279MB      DL: 2289MB      Credit:  8624MB
+[L] 200- XBloodX         iND        UL: 5702MB      DL: 4088MB      Credit: 12704MB
+[L] 200- ping            BARiSO     UL:10291MB      DL:10081MB      Credit: 19979MB
+[L] 200- TeKnO           EDC        UL:  667MB      DL:   24MB      Credit:  1259MB
+[L] 200- Eclipse         iND        UL:  570MB      DL: 1132MB      Credit:   780MB
+[L] 200- fishy           iND        UL:16512MB      DL: 4982MB      Credit: 42231MB
+[L] 200- mopreme         EDC        UL:  497MB      DL:  190MB      Credit:  1303MB
+[L] 200- steve           iND        UL:    0MB      DL:    0MB      Credit:    -0MB
+[L] 200- BaRnz           VeX        UL: 5290MB      DL: 6050MB      Credit:  8722MB
+[L] 200- dexta           iND        UL: 2192MB      DL: 2996MB      Credit:  3566MB
+[L] 200- Uzumaki         GwT        UL: 4879MB      DL:10530MB      Credit:  4107MB
+[L] 200- Skyforce        GwT        UL: 6038MB      DL:14067MB      Credit:  3987MB
+[L] 200- 411             iND        UL: 4854MB      DL: 1992MB      Credit: 10460MB
+[L] 200- Zaven           GwT        UL: 1037MB      DL: 2444MB      Credit:    22MB
+[L] 200- Cybergod        Spades     UL: 1973MB      DL: 3326MB      Credit:  1358MB
+[L] 200- noise           GwT        UL: 1957MB      DL:  170MB      Credit:  5418MB
+[L] 200- Kamos           GwT        UL:  450MB      DL:    0MB      Credit:  1352MB
+[L] 200- avril           iND        UL: 1905MB      DL: 1981MB      Credit:  2533MB
+[L] 200- AssassiN        e4e        UL:  880MB      DL:   28MB      Credit:  2565MB
+[L] 200- rev             mF         UL: 2369MB      DL: 1316MB      Credit:  5743MB
+[L] 200- p4u1            e4e        UL: 4441MB      DL: 7247MB      Credit:  6077MB
+[L] 200- stoffe          THD        UL: 3096MB      DL:  832MB      Credit:  7127MB
+[L] 200- ub3r            GwT        UL: 5253MB      DL: 1214MB      Credit: 14187MB
+[L] 200- ravenlord       THD        UL: 5771MB      DL: 2660MB      Credit: 12994MB
+[L] 200- vst             GUEST      UL:  138MB      DL:  926MB      Credit:  5349MB
+[L] 200- viagra          e4e        UL:  134MB      DL:    0MB      Credit:   403MB
+[L] 200- Satan           iND        UL: 5389MB      DL: 1020MB      Credit: 15149MB
+[L] 200- drmatik         iND        UL:   69MB      DL:  204MB      Credit:     5MB
+[L] 200- sidar           VeX        UL:  633MB      DL:  481MB      Credit:  1419MB
+[L] 200- gat             VeX        UL: 1583MB      DL:  860MB      Credit:  2484MB
+[L] 200- q               e4e        UL:  500MB      DL:  143MB      Credit:  1234MB
+[L] 200- Sam             APACHE     UL:   54MB      DL:   14MB      Credit:   562MB
+[L] 200- dabadass        iND        UL: 4610MB      DL:  197MB      Credit: 13443MB
+[L] 200- Raine           iND        UL:  509MB      DL:  925MB      Credit: -3530MB
+[L] 200- whiteduck       Spades     UL:  157MB      DL:    0MB      Credit:   472MB
+[L] 200- chin2k          mF         UL: 1337MB      DL: 1072MB      Credit:  2941MB
+[L] 200- Taz7            mF         UL: 3820MB      DL: 1739MB      Credit:  8656MB
+[L] 200- Da_L            mF         UL: 5315MB      DL: 1126MB      Credit: 14820MB
+[L] 200- Joeny           APACHE     UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- DexterIV        GRAViTY    UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- b00             EDC        UL:  100MB      DL:    0MB      Credit:  -299MB
+[L] 200- sync            nuke       UL:  850MB      DL: 1925MB      Credit: 20924MB
+[L] 200- kamina          siteop     UL:    0MB      DL: 2437MB      Credit:     0MB
+[L] 200- Smoke           DivXfacTo  UL: 1219MB      DL: 1730MB      Credit:  1801MB
+[L] 200- ladykiller      DivXfacTo  UL:  185MB      DL:  101MB      Credit:     0MB
+[L] 200- kik0            DivXfacTo  UL: 3529MB      DL:    0MB      Credit: 10590MB
+[L] 200- merc            DivXfacTo  UL:    0MB      DL: 9224MB      Credit:     0MB
+[L] 200- cbm64           DivXfacTo  UL: 1129MB      DL:    8MB      Credit:  3379MB
+[L] 200- oral            DivXfacTo  UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- Baracuda        DivXfacTo  UL: 4311MB      DL:12874MB      Credit:    11MB
+[L] 200- H3fty           DivXfacTo  UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- pepelopez       DivXfacTo  UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- dirt            DivXfacTo  UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- hellmaster      qX         UL:   71MB      DL:    0MB      Credit:   167MB
+[L] 200- xero_cool       XiSO       UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- GaryZelda       XiSO       UL:    0MB      DL:    0MB      Credit:    -3MB
+[L] 200- FGZ             FANTA      UL: 1206MB      DL:  610MB      Credit:  3010MB
+[L] 200- CrAzY           REMAX      UL: 3041MB      DL: 5082MB      Credit:  2805MB
+[L] 200- demisoda        SQUARE     UL:   61MB      DL:    0MB      Credit:   -85MB
+[L] 200- allen           SQUARE     UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- dR34mCZ         APACHE     UL:    0MB      DL:    0MB      Credit:   -48MB
+[L] 200- scuba           TWL        UL:  179MB      DL:    0MB      Credit:   414MB
+[L] 200- schlong         TWL        UL:   73MB      DL:    0MB      Credit:   222MB
+[L] 200- wylde           TWL        UL:   71MB      DL:   47MB      Credit:   153MB
+[L] 200- dolphin         TWL        UL:    0MB      DL:    0MB      Credit:     0MB
+[L] 200- knk             FANTA      UL:    0MB      DL:    0MB      Credit:  -114MB
+[L] 200- Uploaded:  222080MB Downloaded:  222085MB Files Up: 12311 Files Down: 11445
+[L] 200- SITEOPS=6, GADMINS=16, LEECH=8, DELETED=5
+[L] 200 87 Total members.                                  |
+
+XiSO
+[L] 200- |+xero_cool |      0 |         0 |      0 |         0 | leech |       0 |
+[L] 200- | Username: xero_cool                Created: 04-30-05                  |
+[L] 200- | Added by: ronx                     Expires: Never                     |
+[L] 200- | Time On Today: 12:10               Last seen: Mon May 2 01:38:04 2005 |
+[L] 200- | Flags: 23                          Idle time: Disabled                |
+[L] 200- | Ratio: Unlimited                   Credits:       0.0 MB              |
+[L] 200- | Total Logins: 8                    Current Logins: 0                  |
+[L] 200- | Max Logins: Unlimited              From same IP: Unlimited            |
+[L] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+[L] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[L] 200- | Times Nuked: 0                     Bytes Nuked:      0 MB             |
+[L] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[L] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[L] 200- | Tagline: No Tagline Set                                               |
+[L] 200- | Groups: *XiSO                                                         |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: xero_cool@69.160.*.*          IP1: xero_cool@69.161.*.*          |
+[L] 200- | IP2: xero_cool@69.162.*.*          IP3: *@66.153.102.*                |
+[L] 200- | IP4: xero_cool@70.109.*.*          IP5:                               |
+
+[L] 200- | GaryZelda |      0 |         0 |      0 |         0 |  1:3  |       0 |
+[L] 200- User Comment: Added by xero_cool
+[L] 200- +=======================================================================+
+[L] 200- | Username: GaryZelda                Created: 04-30-05                  |
+[L] 200- | Added by: xero_cool                Expires: Never                     |
+[L] 200- | Time On Today: 01:41:29            Last seen: Mon May 2 00:53:13 2005 |
+[L] 200- | Flags: 3                           Idle time: Disabled                |
+[L] 200- | Ratio: 1:3                         Credits:      -2.7 MB              |
+[L] 200- | Total Logins: 7                    Current Logins: 0                  |
+[L] 200- | Max Logins: Unlimited              From same IP: Unlimited            |
+[L] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+[L] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[L] 200- | Times Nuked: 1                     Bytes Nuked:      0 MB             |
+[L] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[L] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[L] 200- | Tagline: No Tagline Set                                               |
+[L] 200- | Groups: XiSO                                                          |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: GZ@24.141.*                   IP1:                               |
+
+TWL
+[L] 200- |  Username |     Up |      Megs |     Dn |      Megs | Ratio |    Wkly |
+[L] 200- |-----------+--------+-----------+--------+-----------+-------+---------|
+[L] 200- |+scuba     |     16 |       179 |      0 |         0 |  1:3  |       0 |
+[L] 200- | schlong   |      8 |        74 |      0 |         0 |  1:3  |       0 |
+[L] 200- | wylde     |      5 |        72 |      1 |        48 |  1:3  |       0 |
+[L] 200- | dolphin   |      0 |         0 |      0 |         0 |  1:3  |       0 |
+[L] 200- |----------+------+--------+------+--------+-------+--------------------|
+-
+[L] 200- User Comment: Added by ronx
+[L] 200- +=======================================================================+
+[L] 200- | Username: scuba                    Created: 05-01-05                  |
+[L] 200- | Added by: ronx                     Expires: Never                     |
+[L] 200- | Time On Today: 25:09:48            Last seen: Mon May 2 10:23:46 2005 |
+[L] 200- | Flags: 23                          Idle time: Disabled                |
+[L] 200- | Ratio: 1:3                         Credits:     414.5 MB              |
+[L] 200- | Total Logins: 5                    Current Logins: 0                  |
+[L] 200- | Max Logins: Unlimited              From same IP: Unlimited            |
+[L] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+[L] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[L] 200- | Times Nuked: 0                     Bytes Nuked:      0 MB             |
+[L] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+[L] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[L] 200- | Tagline: No Tagline Set                                               |
+[L] 200- | Groups: *TWL                                                          |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: bprintz@216.168.*.*           IP1:                               |
+
+SQUARE
+[L] 200- User Comment: Added by kamina
+[L] 200- +=======================================================================+
+[L] 200- | Username: demisoda                 Created: 05-01-05                  |
+[L] 200- | Added by: kamina                   Expires: Never                     |
+[L] 200- | Time On Today: 01:07:10            Last seen: Mon May 2 06:44:15 2005 |
+[L] 200- | Flags: 23                          Idle time: Disabled                |
+[L] 200- | Ratio: 1:3                         Credits:     -85.4 MB              |
+[L] 200- | Total Logins: 21                   Current Logins: 0                  |
+[L] 200- | Max Logins: Unlimited              From same IP: Unlimited            |
+[L] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+[L] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+[L] 200- | Times Nuked: 0                     Bytes Nuked:      0 MB             |
+[L] 200- | Weekly Allotment:     0 MB         Messages Waiting: Y                |
+[L] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+[L] 200- | Tagline: No Tagline Set                                               |
+[L] 200- | Groups: *SQUARE                                                       |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: anifi@218.153.*               IP1:                               |
+
+DivXfacTory
+[L] 200- | Username: Smoke                    Created: 04-30-05                  |
+[L] 200- | Added by: ronx                     Expires: Never                     |
+[L] 200- | Groups: *DivXfacTory                                                  |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: Smoke@217.84.*.*              IP1: Smoke@217.227.*.*             |
+[L] 200- | IP2: Smoke@217.235.*.*             IP3: Smoke@217.93.*.*              |
+[L] 200- | IP4: Smoke@217.20.*.*              IP5:                               |
+
+[L] 200- | Username: kik0                     Created: 04-30-05                  |
+[L] 200- | Added by: Smoke                    Expires: Never                     |
+[L] 200- | Groups: DivXfacTory                                                   |
+[L] 200- | Priv Groups:                                                          |
+[L] 200- +-----------------------------------------------------------------------+
+[L] 200- | IP0: kikohhw@68.106.*              IP1:                               |
+
+Baracuda [L] 200- | IP0: fishy@64.118.*.*              IP1: *@217.112.88.*       |
+
+

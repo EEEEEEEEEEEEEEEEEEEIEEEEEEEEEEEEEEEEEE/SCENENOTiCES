@@ -1,0 +1,70 @@
+
+
+SOLT
+_____
+[BNC]-> 66.230.128.44:4200
+.
+Account-> ftp://gubbug:k00l35t@66.230.128.44:4200
+Proxy -> 66.83.60.70:10801
+.
+Other -> kosskesh:Power_71 kosskesh@62.234.*
+-----------------------------------------------------------------------
+TC-FTP
+_______
+[BNC]-> 7of9.are-b.org:6667
+.
+Account-> ftp://spyder:redyps@7of9.are-b.org:6667
+Proxy -> 158.182.250.69:10801
+-----------------------------------------------------------------------
+Black Evil \ White Evil
+___________
+[BNC]-> evilbox.mine.nu:7887
+[BNC#2]-> evilbox2.mine.nu:7887
+.
+Account-> ftp://TWiLiGHT:o9butpws@evilbox.mine.nu:7887
+Account2-> ftp://TWiLiGHT:o9butpws@evilbox2.mine.nu:7887
+Proxy-> 147.129.20.103:10801
+-----------------------------------------------------------------------
+EE(300.AT)
+___
+[BNC]-> evil4.mine.nu:64000
+.
+Account-> ftp://bitr0ck:endshit@evil4.mine.nu:64000
+Proxy-> 62.75.136.69:10801
+-----------------------------------------------------------------------
+AND(18x100.US)
+____
+[BNC]-> AND-US1.Kicks-Ass.Net:28231
+.
+Account-> ftp://MYSTiC-S:temppass@AND-US1.Kicks-Ass.Net:28231
+Proxy-> 158.182.6.112:10801
+-----------------------------------------------------------------------
+RDevil(10.NO+25.SE)
+_______
+[BNC]-> Evildevil.bounceme.net:7331
+[BNC#1]-> SexyDevil.bounceme.net:1909
+[BNC#2]-> PenguinWarrior.bounceme.net:1337
+.
+Account-> ftp://ampiclox:redice@Evildevil.bounceme.net:7331
+Proxy-> 195.20.108.25:10801
+.
+Other -> ultimatte:neogeo
+-----------------------------------------------------------------------
+H0F(100.DE)
+____________
+[BNC]-> 82.211.55.10:99666
+[BNC#2]-> 83.243.47.66:66699
+.
+Account-> Ftp://drazzen:xdesfrt@83.243.47.66:66699
+Proxy-> 213.23.13.172:10801
+-----------------------------------------------------------------------
+DP
+___
+[BNC]-> @ln.servequake.com:9870
+[BNC#2]-> @ky.servequake.com:9870
+[BNC#3]-> @fd.servequake.com:9870
+.
+[Account]-> ftp://SuPeRSTyLiN:eliranmugdasi@ln.servequake.com:9870
+Proxy-> 195.20.108.25:10801
+.
+Other -> amus:pyret1

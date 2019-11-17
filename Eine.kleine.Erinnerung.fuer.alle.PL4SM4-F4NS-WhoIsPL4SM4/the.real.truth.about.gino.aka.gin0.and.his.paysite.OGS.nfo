@@ -1,0 +1,113 @@
+Hallo Freunde der gepflegten Unterhaltung,
+
+da es ja immer wieder schwarze Schafe gibt, hier mal was andres,
+was wohl wieder eine neue Stufe der Dreistigkeit hat.
+
+Ja ich spreche von der "kleinen" .nl leaseweb site namens OGS,
+so eine Site zu finanziern kostet zwar schon Geld, aber wer es
+nicht hat, soll es lassen, und sich die nicht durch PAY AXX das
+Geld aufreiben. Aber das war noch nicht die Spitze des Eisberges,
+denn der kommt erst noch, der Höhepunkt is die 2. IP des Server und
+das was auf Port 443, verschenkt hinter einer google.de Weiterleitung,
+denn so läuft (IPs und Ports etc siehe unten). Da läuft nichts andres
+als ein Torrentflux zum webseeden für Bittorrent. Zudem hat er noch
+einen Server bei OVH zum webseeden, sowie einen bei der Telekom, einen
+IPX und einen Netdirekt, der Torrentflux überall auf die selbe Weise
+"geschützt". Alle seine Server haben übrigens auf Port 63000 nen glftpd
+laufen, macht ja auch nich jeder.
+
+Nachdem mich mein Informant auf seine Herkunft aufmerksam gemacht hatte,
+habe ich mich meinerseits mal mit den Admins des zugehörigen Trackers
+unterhalten und die anderen IPs zu seinen Server, und ein Screen von
+seinem Profil dort, erhalten.
+
+Über die Trader mit .de Nicks wollen wir erstmal gar nicht sprechen.
+
+Ich spreche über keinen anderen als gino aka gin0 oder auch robertaroma!
+
+Die Tradernamen sowie die Afills hab ich rausgeschnitten, sowas gehört hier
+nicht hin, aber sie sollten selber wissen was sie machen und wo sie joinen.
+
+
+
+bnc's
+
+<|OGS|> [ FTP ] :: [  0x5511A4D4:25000  ]
+<|OGS|> [ FTP ] :: [  only-gbits.ath.cx:25000  ]
+
+Hier die verschiedenen Server:
+
+85.17.164.212
+
+port 500 webmin
+port 25000 ftp
+
+85.17.164.127
+
+port 443 torrentflux ssl weiterleitung google.de
+port 63000 glftpd
+
+91.121.19.149 << ovh
+
+port 21 vsftpd
+port 80 torrentflux weiterleitung google.de
+port 63000 glftpd
+
+80.154.33.137 << telekom
+
+port 80 << tflux, aber scheint als hätte er die neu aufgesetzt
+
+80.190.253.200 << ipx server
+
+port 80 << tflux
+port 63000 << glftpd
+
+89.149.226.208 << netdirekt
+
+port 80 << tflux
+port 63000 << glftpd
+
+whois der ops:
+
+atx- is justin@quad.calitec.net * atx
+atx- on @#OGS.mp3 @#OGS
+atx- End of /WHOIS list.
+atx- using irc.inet.tele.dk Better than WoW
+
+gino is ~sexy@labert.auch.im.rl.ueber.bouncer-world.de * Bouncer by #Bouncer-World.de
+gino on @#OGS @#OGS.mp3
+gino using efnet.demon.co.uk super hard and lasts for ages
+gino End of /WHOIS list.
+
+gino's ICQ Nummer: 405623357
+
+Noch ein ICQ-Auszug meines Informanten mit speedload (gino):
+
+*zensiert*(15:35):
+hi will Dich nicht nerven - aber hast es Dir nochmal überlegt ?Wegen mein kollegen der wollte nen Acc haben - bzw erstmal wissen wieviel GB für wieviel Flocken.War mit ihm früher zusammen im Staff bei ds-empire - kannst ihm im efnet erreichen.Sein Nick ist h3yGuy....
+
+speedload ?(15:36):
+weiß noch nicht hehe
+
+*zensiert*(15:36):
+oder kann ich ihm Deine ICQ geben?
+
+speedload ?(15:36):
+kenn den ja nicht kp was der so macht
+
+*zensiert*(15:37):
+arbeitet bei der GVU^^
+^ne is ok der Typ
+Filesharer halt....
+
+speedload(15:37):
+schick mal zu mir
+
+*zensiert*(15:37):
+also ICQ ?
+
+speedload ?(15:37):
+jo
+
+*zensiert*(15:37):
+k

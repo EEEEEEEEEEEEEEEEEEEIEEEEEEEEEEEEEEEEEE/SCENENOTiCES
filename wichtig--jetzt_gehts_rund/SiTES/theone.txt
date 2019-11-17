@@ -1,0 +1,149 @@
+#theone-mp3 [lc] HS ~LeG@Linknet-38be682e10.red.bezeqint.net :0 LF
+#theone-mp3 gredji HS phothndr@Linknet-44b72bac7b.ppp.tiscali.fr :0 gider
+#theone-mp3 kraffs HS kraffs@jag.e.mongo.och.e.pa.ett.dagcenter.nu :0 kraffs
+#theone-mp3 nomads HS Nomadic@houdt.van.beertj.us :0 Nomadic
+#theone-mp3 Glaantje HS glaantje@virii.nl :0 Glaantje
+#theone-mp3 frb- HS Canz@Linknet-72f774a7ca.serverkompetenz.net :0 frb
+#theone-mp3 Famke HS@ BRoBoTiCs@qn-82-217-100-247.quicknet.nl :0 asdf
+#theone-mp3 LuckyLuke HS ~luckyluke@Linknet-84c1a2a7f2.widexs.nl :0 luckyluke
+#theone-mp3 xiv HS xiv@Linknet-5c9d9098ea.fiber-is.net :0 xiv
+#theone-mp3 quikz0r HS quik@Linknet-72a5268ec0.amnmp3.com :0 OTTO REHHAGEL FOR PRESIDENT!
+#theone-mp3 turn|| HS pimp@Linknet-1b679f3797.pimps-reunited.com :0 turntablz
+#theone-mp3 Jolein HS@ Yrt@qn-212-127-224-240.quicknet.nl :0 PotH3aD
+#theone-mp3 Jessy HS@ brobotics@213.178.256.256 :0 Hubba
+#theone-mp3 h| HS huba@trendwhores.org :0 huba
+#theone-mp3 kumje HS Mucka@Linknet-0b84d64a20.warfare.dubwar.org :0 mucka
+#theone-mp3 vrpl HS vorp@Linknet-cad9f96bc7.rsn.bth.se :0 vorpal
+#theone-mp3 elless HS ls@Linknet-01bb14f97a.rsn.bth.se :0 LS
+#theone-mp3 ]feuer[ HS ic0r@idler.an-die-macht.de :0 ]fire[
+#theone-mp3 psyrox HS Xerox@fear.my.packet.from.my.10gbit-shell.info :0 PSY
+#theone-mp3 Smeerlap HS buffy@hosted.by.unitedshells.de :0 ask me
+#theone-mp3 _Giga|Bnc HS ~kongfuuk@212.242.198.128 :0 kongfuuk
+#theone-mp3 BizKiTRoA HS BizKiT@82-42-72-114.cable.ubr01.live.blueyonder.co.uk :0 BizKiTRoAcH
+#theone-mp3 NJoy- HS@ brobotics@213.178.206.10 :0 NJoy-
+#theone-mp3 rdmrahc HS xponet@moc.rdmrahc.backwards.is.charmdr.com :0 charmdr
+#theone-mp3 _santa HS Xerox@blackman.is.a.donkey-raping-shit-eater.com :0 asr
+#theone-mp3 buzzzyyyy HS buzzke@Linknet-096a7b85e7.serdce.ru :0 buzzke
+#theone-mp3 softk HS@ softkill@213.178.206.7 :0 softkill
+#theone-mp3 BRoBoTiCs HS@ Yrt@Linknet-ee07225d96.quicknet.nl :0 BRoBoTiCs
+#theone-mp3 Canz HS canz@Linknet-ef9276ff36.the.scene-gods.de :0 Canz
+#theone-mp3 aAe HS a_A_e@is.a.leech-bitch.com :0 ghej
+#theone-mp3 |E____ HS ~ItWz@81-174-11-57.f5.ngi.it :0 Efrem
+#theone-mp3 Cindy HS@ ~Break@qn-82-217-99-102.quicknet.nl :0 Cindy
+#theone-mp3 _D3_ HS d3vil@50C5941E.flatrate.dk :0 _D3_
+#theone-mp3 Manon HS@ brobotics@qn-84-104-56-13.quicknet.nl :0 Hubba
+#theone-mp3 End of /WHO list.
+
+hostname-4.ath.cx:51015
+
+200- [01] softk        No Tagline Set         139,363  667,725MB   1587K/s
+200- [02] Mario        eNR                      8,578  222,182MB   1477K/s
+200- [03] csc          No Tagline Set           9,723  195,320MB   2112K/s
+200- [04] GMith        jaded                   10,746  192,566MB   1992K/s
+200- [05] amus         on a break, had a baby  10,146  170,726MB   1601K/s
+200- [06] satcom       not much around from 1   8,897  154,016MB    780K/s
+200- [07] kingstar     Delete Satcom (c)        6,588  150,723MB   2007K/s
+200- [08] checker      phaster than you         5,534  141,464MB   2094K/s
+200- [09] cruserx      cya                      5,926  136,112MB   1636K/s
+200- [10] technolog    d-s-a-c-                 5,184  124,112MB   2504K/s
+200- [11] psychoffee   internship till start    6,673  123,509MB   2236K/s
+200- [12] piglo        DST                      5,787  111,405MB   1540K/s
+200- [13] wader        No Tagline Set           3,712   84,312MB   1827K/s
+200- [14] siworae      //sonic:empire//         3,714   83,660MB   2127K/s
+200- [15] darkm        No Tagline Set           3,283   76,844MB   2581K/s
+200- [16] bourbon      Death to Crimson         3,072   75,494MB   2594K/s
+200- [17] c00ler       --> H/,RE//, <--         3,953   71,278MB   1391K/s
+200- [18] orbith       There Can Be Only One    2,431   70,304MB   2545K/s
+200- [19] maser        maser vacations          3,378   68,582MB   1693K/s
+200- [20] TyLeR        I aM JaCK's SMiRKiNG R   3,538   66,771MB    904K/s
+200- [21] blade        set pHASERS to kill      3,707   62,522MB   2417K/s
+200- [22] rambo        They drew first blood    3,308   60,435MB   1914K/s
+200- [23] m00          l                        2,492   58,578MB   1576K/s
+200- [24] ikari        SDM                      2,109   58,545MB   1817K/s
+200- [25] ravenlord    d0h                      2,608   57,789MB   1936K/s
+200- [26] teabag       tea anyone?              2,156   55,023MB   2841K/s
+200- [27] praedator    No Tagline Set           2,356   52,741MB   2262K/s
+200- [28] degree       jamaica.till.27.jan      2,092   49,968MB   2393K/s
+200- [29] grinder      No Tagline Set           1,771   47,823MB    868K/s
+200- [30] Janno        No Tagline Set           1,812   43,167MB   2175K/s
+200- [31] bluie        No Tagline Set           1,826   42,328MB   1674K/s
+200- [32] nrd          Web Of Lies              1,622   39,854MB   2145K/s
+200- [33] devil        do i even have to tell   1,362   39,243MB   1046K/s
+200- [34] Seth         No Tagline Set           1,597   38,685MB   2171K/s
+200- [35] clerik       Im a IDIOT               1,696   36,741MB   1305K/s
+200- [36] mystere      No Tagline Set             998   31,430MB   2239K/s
+200- [37] e-science    No Tagline Set           1,476   26,547MB   2123K/s
+200- [38] compton      straight outta           1,232   25,359MB   1341K/s
+200- [39] knIght       Sp33DBoY Does Matter       778   24,838MB   2237K/s
+200- [40] lyr          dumdidum                 1,139   20,711MB   1758K/s
+200- [41] smocke       bored                      652   17,277MB   1720K/s
+200- [42] rayburn      -+ AMNESiA iSO +-          703   14,741MB   2646K/s
+200- [43] Midgard      No Tagline Set             463   13,069MB   1632K/s
+200- [44] pregster     {$5} dollah whore          503   12,097MB     87K/s
+200- [45] blackroija   No Tagline Set             383   11,673MB   1272K/s
+200- [46] mariak       No Tagline Set             334   10,703MB   1949K/s
+200- [47] tsj          No Tagline Set             417   10,140MB   2225K/s
+200- [48] wiva         HighJinks                  655    9,774MB   1307K/s
+200- [49] oblivious    No Tagline Set             286    9,263MB   1745K/s
+200- [50] ElishaCut    No Tagline Set             187    8,866MB   3986K/s
+200- [51] Muh-ko       SAAKANDULAEREDET.DK        488    8,435MB   1631K/s
+200- [52] Golferboy    No Tagline Set             428    7,830MB   1568K/s
+200- [53] lameass      fuck you.                  303    5,979MB   1409K/s
+200- [54] Allstar      fuckalicious               272    4,589MB   2488K/s
+200- [55] smokin       No Tagline Set             192    4,077MB   3161K/s
+200- [56] Salem        No Tagline Set             315    4,002MB   3365K/s
+200- [57] mecano       No Tagline Set           3,570    3,878MB    961K/s
+200- [58] poker        pokpok                      78    3,650MB   1029K/s
+200- [59] stix         No Tagline Set             149    3,275MB   2402K/s
+200- [60] mysterio     No Tagline Set             119    3,273MB    835K/s
+200- [61] Sniper       No Tagline Set             155    3,167MB   2482K/s
+200- [62] s2n          No Tagline Set             163    2,779MB   2348K/s
+200- [63] fig          No Tagline Set              90    2,507MB   3532K/s
+200- [64] friar        No Tagline Set              54    2,406MB   3017K/s
+200- [65] sunbird      No Tagline Set              82    2,131MB   2278K/s
+200- [66] bleh         No Tagline Set              83    2,126MB   2529K/s
+200- [67] ziggy        No Tagline Set              78    2,015MB   2128K/s
+200- [68] proctor      No Tagline Set              86    1,716MB   1359K/s
+200- [69] Fashion      No Tagline Set              70    1,676MB   2398K/s
+200- [70] blahz        -OX-                        68    1,201MB   3893K/s
+200- [71] mhz          No Tagline Set              46    1,025MB    838K/s
+200- [72] cin          No Tagline Set              13      619MB   1758K/s
+200- [73] zendor       No Tagline Set              13      513MB    915K/s
+200- [74] jason        No Tagline Set              11      491MB   4451K/s
+200- [75] WaRRiE       No Tagline Set              24      483MB   2304K/s
+200- [76] fwenk        No Tagline Set              50      242MB    703K/s
+200- [77] byris        No Tagline Set               8      238MB   1507K/s
+200- [78] goose4all    No Tagline Set              17      229MB    690K/s
+200- [79] TheOne       No Tagline Set              15      222MB      0K/s
+200- [80] darkwolf     No Tagline Set               8      193MB   1077K/s
+200- [81] slashem      No Tagline Set              17      143MB    894K/s
+200- [82] cf           No Tagline Set               3      143MB   1480K/s
+200- [83] bearman      Abuse me!                   14      139MB    382K/s
+200- [84] aero         No Tagline Set               3      109MB    936K/s
+200- [85] goro         No Tagline Set               7      100MB   1577K/s
+200- [86] saer         No Tagline Set               2       95MB    763K/s
+200- [87] hellsite     No Tagline Set               8       87MB   1465K/s
+200- [88] jinn         No Tagline Set               6       85MB    806K/s
+200- [89] phinneus     No Tagline Set               5       71MB   3488K/s
+200- [90] MlR          No Tagline Set               5       68MB   5389K/s
+200- [91] ports        No Tagline Set               4       57MB    610K/s
+200- [92] trapper      No Tagline Set               1       47MB   3488K/s
+200- [93] maniac       Abuse me!                    2       28MB    451K/s
+200- [94] ninja        No Tagline Set               2       28MB   1723K/s
+200- [95] violator     No Tagline Set               2       28MB    185K/s
+200- [96] mirag        No Tagline Set               4       23MB   1825K/s
+200- [97] milo         No Tagline Set               2       22MB   1883K/s
+200- [98] dunric       No Tagline Set               1       14MB    977K/s
+200- [99] saito        No Tagline Set               1       14MB  14648K/s
+200- [100] twista       No Tagline Set               2        5MB    278K/s
+200- [101] smith0r      No Tagline Set               1        3MB     18K/s
+200- [102] jack         No Tagline Set               2        0MB      1K/s
+
+smokin:jo
+smokin:bandit1200
+wiva:notnow
+maser:2Msrtor
+wader:JE632hg4
+kingstar:Unknown4
+kingstar:Victor1
+amus:pyret

@@ -1,0 +1,164 @@
+[1] 200- [01] Thugst3r     please die :~           73,541 1,445,89MB    634K/s
+[1] 200- [02] bust3r       master                  31,207  858,156MB    256K/s
+[1] 200- [03] oracle       ....                    36,203  782,922MB    495K/s
+[1] 200- [04] thapaulio    Roll a perfect blunt,   28,617  614,876MB    519K/s
+[1] 200- [05] f1freak      ddA                      9,608  428,036MB    407K/s
+[1] 200- [06] Wraith       -=[EDC]=-               17,599  412,612MB    652K/s
+[1] 200- [07] john         whatever                24,533  386,799MB    264K/s
+[1] 200- [08] buster       blub                    28,039  383,314MB    191K/s
+[1] 200- [09] Smuk         Beffen, daar heb ik zi  17,536  377,493MB    536K/s
+[1] 200- [10] A-plus       ALAAAAAAAAAF            10,452  360,664MB    649K/s
+[1] 200- [11] The_extra    doe mij maar een bavar  10,014  341,901MB    269K/s
+[1] 200- [12] XviD         ddA                      7,809  337,298MB    421K/s
+[1] 200- [13] ricoslovaco  rico                    17,579  304,284MB    322K/s
+[1] 200- [14] YRZ          -=eNRAGE=-              16,263  296,375MB   1337K/s
+[1] 200- [15] Gingga       Boo                     16,268  295,791MB   1789K/s
+[1] 200- [16] Wird0        aaah                    14,575  295,133MB    295K/s
+[1] 200- [17] Kehpri       PhArAcYdE               14,954  278,077MB   1005K/s
+[1] 200- [18] orjan        ddA                     17,445  266,958MB     61K/s
+[1] 200- [19] GrimL0ck     cunt                    19,515  266,892MB    636K/s
+[1] 200- [20] Bomb         >> FREQuency <<         16,155  266,545MB   1446K/s
+[1] 200- [21] pav0         lets.pimp               14,188  265,479MB   1346K/s
+[1] 200- [22] drunken      dont race me            16,117  240,329MB    897K/s
+[1] 200- [23] allan        DiViNiTY                14,739  236,879MB    715K/s
+[1] 200- [24] Pyro         bling bling             10,172  236,108MB    908K/s
+[1] 200- [25] joske        go                       8,919  234,313MB   1558K/s
+[1] 200- [26] stig         stiggieboy              10,461  229,548MB     41K/s
+[1] 200- [27] bface        DEVOTED                 12,240  229,511MB   1100K/s
+[1] 200- [28] Krysk        YknoTT                  13,743  224,869MB     81K/s
+[1] 200- [29] pwise        hmm..empty..            10,845  207,191MB   1262K/s
+[1] 200- [30] ekstream     Bla                      4,957  206,280MB   5585K/s
+[1] 200- [31] wookie       Forced Taglines are GA   9,707  204,882MB   1498K/s
+[1] 200- [32] tek          i'm with stupid         10,459  203,959MB    334K/s
+[1] 200- [33] konijntje    wh00tu                  37,433  203,157MB    457K/s
+[1] 200- [34] D4Fi3ts      Speed Does Matter        7,722  194,752MB    639K/s
+[1] 200- [35] Wappie       .                        7,650  194,623MB    691K/s
+[1] 200- [36] platinum     .                       10,645  190,836MB   1315K/s
+[1] 200- [37] quik         tuu tuu jedi master in   7,610  188,971MB   1519K/s
+[1] 200- [38] S4X0         -= FD =-                 9,841  178,127MB    716K/s
+[1] 200- [39] hades        God of the Underworld,   7,185  176,074MB    254K/s
+[1] 200- [40] neon         YknoTT                  10,980  174,313MB    375K/s
+[1] 200- [41] daddy        SPiRO                    5,770  172,794MB   1179K/s
+[1] 200- [42] Revan        ownage                  12,216  163,757MB    458K/s
+[1] 200- [43] Mike         DiViNiTY                 8,594  163,025MB    774K/s
+[1] 200- [44] wowie        wowie                    6,666  148,613MB    789K/s
+[1] 200- [45] cyriel       beter een gat in je cu   5,763  138,399MB    100K/s
+[1] 200- [46] Os1rIs       |-=[EDC]=-|              8,122  138,176MB    468K/s
+[1] 200- [47] Qutiz        ..::GWT::..              7,877  136,763MB    892K/s
+[1] 200- [48] ARE-T        [-EDC-]                  7,629  128,465MB    363K/s
+[1] 200- [49] bvam         XXLISO                   5,458  128,234MB    799K/s
+[1] 200- [50] Guardian     shao hoer                6,218  127,310MB    269K/s
+[1] 200- [51] raz0r        mkdir not war            5,343  124,223MB   1590K/s
+[1] 200- [52] chratnox     router died, redoing n   5,613  120,084MB    472K/s
+[1] 200- [53] dark         dark                     4,307  111,247MB    107K/s
+[1] 200- [54] zzzzz        crip                     8,484  105,342MB    495K/s
+[1] 200- [55] levi         crikey                   6,679   97,396MB     39K/s
+[1] 200- [56] sn34k        jahoor                   4,407   96,135MB    482K/s
+[1] 200- [57] acidbr       .::FREQ::.               5,590   95,490MB   1508K/s
+[1] 200- [58] razor        wh00tu                   3,062   94,785MB    139K/s
+[1] 200- [59] elsauter     yknott                   4,095   86,706MB    348K/s
+[1] 200- [60] JRippey      --:: GwT ::--            4,721   78,705MB    334K/s
+[1] 200- [61] Doopy        how nice, no site full   4,240   73,991MB    906K/s
+[1] 200- [62] silcs        messican video zone      2,819   72,689MB    435K/s
+[1] 200- [63] eLDiablo     fuck da frog             4,484   70,223MB   1251K/s
+[1] 200- [64] TeKnO        -=ASD-=                  4,322   69,050MB   1775K/s
+[1] 200- [65] jojo         ??                       2,040   68,724MB    427K/s
+[1] 200- [66] Mind         incoming...              4,488   67,336MB    963K/s
+[1] 200- [67] papa         NLDVD                    2,056   64,029MB    146K/s
+[1] 200- [68] AfcA         Can't be stopped         2,012   61,551MB   1307K/s
+[1] 200- [69] cubix        .:EDC:.                  2,643   56,901MB    279K/s
+[1] 200- [70] nlx          yipla                    3,653   55,484MB    489K/s
+[1] 200- [71] puerto       reggae thong             4,002   54,958MB    195K/s
+[1] 200- [72] DrJekyll     It's an EPiDEMiC         3,567   50,810MB    658K/s
+[1] 200- [73] iMAGiNE      kiss my (__,__)          2,718   50,468MB    867K/s
+[1] 200- [74] droop        :D                       2,244   50,444MB    604K/s
+[1] 200- [75] Itrun        a                        3,647   48,661MB    276K/s
+[1] 200- [76] shadow       isnotme                  1,867   47,118MB    187K/s
+[1] 200- [77] XMAFT-Pre    mooo                     1,846   45,931MB    211K/s
+[1] 200- [78] dstar        beAstar                  4,011   45,302MB    242K/s
+[1] 200- [79] LoLer        bleh                     2,534   43,336MB    196K/s
+[1] 200- [80] barbapappa   strike anywhere          2,957   42,881MB     76K/s
+[1] 200- [81] fnz          me fnz be                2,599   42,540MB    332K/s
+[1] 200- [82] big          ..                       1,179   39,766MB   1374K/s
+[1] 200- [83] Bl4z         m@r$13n p0wa             2,689   37,580MB    362K/s
+[1] 200- [84] jludka       wtfever                  2,823   37,272MB    434K/s
+[1] 200- [85] clerik       evviva                   1,971   36,412MB    671K/s
+[1] 200- [86] ls           -+ AMNESiA iSO +-        2,579   36,351MB    628K/s
+[1] 200- [87] Asgard       ugh                      2,992   35,954MB   1126K/s
+[1] 200- [88] sneakir      XMAFT                    2,543   33,606MB    287K/s
+[1] 200- [89] beertje      fucking tags... your i   1,591   32,738MB    747K/s
+[1] 200- [90] kula         bleh                     1,438   32,458MB   3318K/s
+[1] 200- [91] phobias      go away                  2,207   31,058MB    561K/s
+[1] 200- [92] vin          ..:: FREQ ::..           4,286   30,780MB   1347K/s
+[1] 200- [93] LSMan        Meeting in two weeks     2,217   28,825MB    238K/s
+[1] 200- [94] rayburn      -+ AMNESiA iSO +-        1,853   25,617MB    825K/s
+[1] 200- [95] DaMonkey     burrrrrrrrrrrrp            962   22,658MB    453K/s
+[1] 200- [96] extreme13    bah                      1,058   22,043MB    590K/s
+[1] 200- [97] c0r3y        Jestah                   1,255   21,220MB    166K/s
+[1] 200- [98] Skyforce     Guess Whoos Back         1,327   20,981MB    781K/s
+[1] 200- [99] ZiLLioN      would you like fries w     709   20,548MB    357K/s
+[1] 200- [100] racerx       terminated.racer         1,408   19,172MB   1293K/s
+[1] 200- [101] bloutte      XMAFT rules              1,022   18,740MB    154K/s
+[1] 200- [102] archer       TW                         515   18,681MB    395K/s
+[1] 200- [103] jdmr         vtec has kicked in       1,654   17,972MB    356K/s
+[1] 200- [104] Gl1by        YadaYada                 1,216   16,842MB   1268K/s
+[1] 200- [105] endo         endo@FQM                 1,268   16,489MB    295K/s
+[1] 200- [106] sleepingbag  lalal                      661   16,222MB   1538K/s
+[1] 200- [107] FGZ          bah                        883   14,880MB   1191K/s
+[1] 200- [108] dunric       who cares?                 854   14,788MB     61K/s
+[1] 200- [109] nightzhark   Tulip Sniffer              540   14,483MB    553K/s
+[1] 200- [110] diode        memuhselfandeye            663   14,459MB    184K/s
+[1] 200- [111] MrBorG       E*N*R*A*G*E                587   14,026MB    350K/s
+[1] 200- [112] buffy        got.sex.                   525   11,473MB    777K/s
+[1] 200- [113] TCT          hi                         568   10,720MB    276K/s
+[1] 200- [114] TyLeR        +++ i'M tHe BeST, fUcK     477    9,574MB    287K/s
+[1] 200- [115] dejavu       Been here done this...     269    7,709MB    776K/s
+[1] 200- [116] piglo        DST                        448    6,403MB   1189K/s
+[1] 200- [117] relent       locknload                  388    5,202MB    143K/s
+[1] 200- [118] jinn         buh dunno                  243    5,097MB    372K/s
+[1] 200- [119] _sshm_       +++i belong to wkup+++     227    4,992MB    594K/s
+[1] 200- [120] dying        :)                         284    4,920MB   2119K/s
+[1] 200- [121] GMith        fuck taglines              156    3,576MB   1530K/s
+[1] 200- [122] mkrm         EGARNe                     127    3,403MB    964K/s
+[1] 200- [123] BBear        HERE AM I                   80    3,348MB   2384K/s
+[1] 200- [124] Janno        brrr                       163    2,956MB   1052K/s
+[1] 200- [125] fig          wee                        146    2,334MB   2501K/s
+[1] 200- [126] gambit       -+ AMNESiA iSO +-          154    2,058MB   2223K/s
+[1] 200- [127] abyss        Going in deep              107    1,456MB    183K/s
+[1] 200- [128] dazog        XMAFT                       63    1,216MB     98K/s
+[1] 200- [129] nors         .                           84    1,084MB   1433K/s
+[1] 200- [130] PAO          GREEKPOWER                  35      897MB   1617K/s
+[1] 200- [131] djwarp       hi                          60      795MB   2635K/s
+[1] 200- [132] havok        heya                        18      479MB    814K/s
+[1] 200- [133] sfx          ::PUMA::                    16      183MB   7817K/s
+[1] 200- [134] jebus        FUCK FACE                    6       18MB    103K/s
+[1] 200- [135] thief        thieved                     14        0MB      4K/s
+[1] 200- [136] duvel        .                            5        0MB      6K/s
+[1] 200- [137] molder       gogogo                       1        0MB     17K/s
+[1] 200- [138] bjt          .                            1        0MB      1K/s
+
+[1] 230-         ?²?²      ?[   100 MBiT [FD] - .NL - 4400 GB    ]¿       °?²±
+[1] 230-        ? ²²?° ?[VCD - DVDR - GAMES- XBOX - APPZ - DIVX - TV - XXX]?? °?²²
+[1] 230-    ?????? ????     ³  ?????                               ³      ???? ??²????°
+[1] 230-     °°?? ??²²?     ³ 1] 195.228.156.**  PORT: 9900  (.HU) ³      ?²²?? ????
+[1] 230-       ? ??²??²     ³ 2] 217.20.114.***  PORT: 65342 (.DE) ³      ²??²?? ??
+[1] 230-     ????²²??±      ³ 3] 62.212.84.**    PORT: 56431 (.NL) ³       ±??²²????
+[1] 230-        ±?²??? ?²?? ??[AFFiLS]?????????????????????????????¿  ??²? ???²?±
+[1] 230-        °??? ?????² ³  ??????                              ³  ²????? ???°
+[1] 230-        ??????²??²± ³ GROUP:         SECTiON:      STATUS: ³  ±²??²??????
+[1] 230-   ??????²²²²???²±° ³ ???????????????????????????????????? ³  °±²???²²²²??????
+[1] 230-   ?²²±±²±????²±°   ³ AMSTEL.......  DVDR..........  AFFIl ³    °±²????±²±±²²?
+[1] 230-   ??±²??²±±° ?²  ±   BMF........ DIVX/DVDR........  AFFIL ³ ±  ²? °±±²??²±??
+[1] 230-    ?±²?²±° ???²  ² ³ XXLDVDr......  DVDR..........  AFFIL ³ ²  ²??? °±²?²±?
+[1] 230-    ?²²?² ??²²?² °? ³ SyntaX.......TV/DIVX/DVDR....  AFFIL ³ ?° ²?²²?? ²?²²?
+[1] 230-    ??±?? ²?²²?± ±? ³ ***..........  DVDR..........  AFFIL ³ ?± ±?²²?² ??±??
+[1] 230-     ?²²? ±?²??  ²? ³                                      ³ ?²  ??²?± ?²²?
+[1] 230-     ??²? ±?²?? °?? ³ XXLiSO ......  DVDR..........  AFFIL ³ ??° ??²?± ?²??
+[1] 230-      ??? ²???  ±?? ³ FQM..........  TV............  AFFIL ³ ??±  ???² ???
+[1] 230-       ? ????  °²?  ³ PyRo.........  TV...........   AFFIL ³  ?²°  ???? ?
+[1] 230-        ??²??  ±??  ³ YknoTT.......  XXX...........  AFFIL ³  ??±  ??²??
+[1] 230-      ??????  °²? ? ³ XMAFT.......   GAMES.......(exc)NLHQ ³ ? ?²°  ??????
+[1] 230-    ???²?? ??? ? ?? ³ NLDVD........  DVDR..........  AFFIL ³ ?? ? ??? ??²???
+[1] 230-    ?²²??  ±???  ?² ³ POT..........  VCD.........(exc)nLHQ ³ ²?  ???±  ??²²?
+[1] 230-   ??²??   °²??° ²±°³ FTS..........  DVDR........(exc)NLHQ ³°±² °??²°   ??²??
+[1] 230-   ??²?     ²??²  ±°³ GOOGLE.......  DVDR..........  AFFIL ³°±  ²??²    ?²??

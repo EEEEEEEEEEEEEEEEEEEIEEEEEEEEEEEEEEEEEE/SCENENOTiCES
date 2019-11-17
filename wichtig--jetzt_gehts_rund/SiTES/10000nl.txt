@@ -1,0 +1,137 @@
+[22:20:02] <YuGiy0> (22:19:10) (ED) The ElectronicDream Bouncers
+[22:20:03] <YuGiy0> (22:19:11) (ED) Port 1111 (ED1) for SWESUB & SVCD(Hub)
+[22:20:05] <YuGiy0> (22:19:13) (ED) Port 2222 (ED2) for DiVX, ANiME & XXX
+[22:20:06] <YuGiy0> (22:19:15) (ED) Port 3333 or 3330 (ED3) for Games, Xbox, Ps2, SVCD-TS & VCD + REQUESTS
+[22:20:08] <YuGiy0> (22:19:17) (ED) Port 4444 or 4000 (ED4) for DVDR AFFILS PAL
+[22:20:09] <YuGiy0> (22:19:19) (ED) Port 5500 (ED5) for DVDR AFFILS NTSC
+[22:20:11] <YuGiy0> (22:19:21) (ED) Port 6000 (ED6) for MP3
+[22:20:12] <YuGiy0> (22:19:23) (ED) Port 7777 (ED7) for TV, TV-ARCHIVE, MDVDR, DTS-AUDiO & 0DAY
+[22:20:14] <YuGiy0> (22:19:25) (ED) Port 8800 (ED8) for DVDR RACE SECTION
+[22:20:15] <YuGiy0> (22:19:29) (ED) bnc1.electronicdream.net (ED1-8)
+[22:20:17] <YuGiy0> (22:19:31) (ED) bnc2.electronicdream.net (ED1-8)
+[22:20:18] <YuGiy0> (22:19:33) (ED) bnc3.electronicdream.net (ED1-8)
+[22:20:20] <YuGiy0> (22:19:35) (ED) edbnc3.homeftp.org (ED1-8)
+[22:18:55] <YuGiy0> dimman devve virre^ meuglybe Marex Addicted Ischtivan Mackem
+[22:16:39] <YuGiy0> (22:13:07) —› (/who) spooky60 (spook@bzq-218-88-31.red.bezeqint.net) NWNK-iRC
+[22:16:41] <YuGiy0> (22:13:07) —› (/who) metalman (sorg@195.84.256.256) Metalman
+[22:16:42] <YuGiy0> (22:13:07) —› (/who) SilentCirc (SilentCirc@cpc1-cdif4-6-0-cust140.cdif.cable.ntl.com) SilentCircuit
+[22:16:44] <YuGiy0> (22:13:07) —› (/who) BuMi (BuMi@h127n2fls305o1120.telia.com) BuMi
+[22:16:45] <YuGiy0> (22:13:07) —› (/who) TrV (bloodweise@info-shark.com) TrV
+[22:16:47] <YuGiy0> (22:13:07) —› (/who) dimman (~dimman@h243n2fls34o1103.telia.com) DimLux
+[22:16:48] <YuGiy0> (22:13:07) —› (/who) caribou69 (caribou69@lalande-1-82-67-11-111.fbx.proxad.net) Bart Simpson
+[22:16:50] <YuGiy0> (22:13:07) —› (/who) roly (~roly@Linknet-476c8a0b6b.broadband.ntl.com) rolypoly
+[22:16:51] <YuGiy0> (22:13:07) —› (/who) Bygone (Bygone@Linknet-bb2862ef33.adsl.cybercity.dk) Bygone
+[22:16:53] <YuGiy0> (22:13:07) —› (/who) suppen (~suppen@212.214.96.89) suppen
+[22:16:54] <YuGiy0> (22:13:07) —› (/who) spg (spagy@everything.is.filled.with.crap.dk) spagy
+[22:16:56] <YuGiy0> (22:13:07) —› (/who) cresti (cresti@62.65.256.256) cresti
+[22:16:57] <YuGiy0> (22:13:07) —› (/who) z3mla (~sburra@det.ar.inte.knark.det.ar.bara.hasch.us) sburra
+[22:16:59] <YuGiy0> (22:13:07) —› (/who) meuglybe (chicko@snutteland.rsn.bth.se) dlordin
+[22:17:00] <YuGiy0> (22:13:07) —› (/who) Marex (marex@forsaken.campus.luth.se) private
+[22:17:02] <YuGiy0> (22:13:07) —› (/who) ED-V (1004@c-7b1270d5.045-41-6d6c6d10.cust.bredbandsbolaget.se) im a bawt - dont kill me
+[22:17:03] <YuGiy0> (22:13:07) —› (/who) ED-IV (1006@c-dd07e353.026-6-6b766c10.cust.bredbandsbolaget.se) im a bawt - dont kill me
+[22:17:05] <YuGiy0> (22:13:07) —› (/who) ED-VIII (1003@217.78.242.18) im a bawt - dont kill me
+[22:17:06] <YuGiy0> (22:13:07) —› (/who) Speedi (caramon@cpc2-stoc3-6-0-cust235.midd.cable.ntl.com) caramon
+[22:17:08] <YuGiy0> (22:13:07) —› (/who) leds (arre@0wn-y0u.com) leds
+[22:17:09] <YuGiy0> (22:13:07) —› (/who) MassMan (mj@bzq-218-197-190.red.bezeqint.net) MassMan
+[22:17:11] <YuGiy0> (22:13:07) —› (/who) FaTj (FaTj@ip9135f709.speed.planet.nl) fatj
+[22:17:12] <YuGiy0> (22:13:07) —› (/who) |Hector| (wacko@wolf.raider.ro) hector
+[22:17:14] <YuGiy0> (22:13:07) —› (/who) Naut (nauty@81-6-226-227.dyn.gotadsl.co.uk) nauty
+[22:17:15] <YuGiy0> (22:13:07) —› (/who) MeD (max76@81.19.256.256) MeD
+[22:17:17] <YuGiy0> (22:13:07) —› (/who) NZ (nightzhark@i-am-the.asskicker.info) nightzhark
+[22:17:18] <YuGiy0> (22:13:07) —› (/who) Ischtivan (Ischtivan@is.leeching.from.nasa.se) Ischtivan
+[22:17:20] <YuGiy0> (22:13:07) —› (/who) fr3afk (fr3n@Linknet-1102103ea5.office.xs4all.be) fr3nnik
+[22:17:21] <YuGiy0> (22:13:07) —› (/who) _SaV|OuR_ (upnya@drinking-alcohol.com.ar) SaViOuR
+[22:17:23] <YuGiy0> (22:13:07) —› (/who) HooDRaT (HooDRaT@64.71.168.69) HooDRaT
+[22:17:24] <YuGiy0> (22:13:07) —› (/who) woodeyes (user@cvg-65-27-223-165.cinci.rr.com) woodeyes
+[22:17:26] <YuGiy0> (22:13:07) —› (/who) EvilElvis (evilelvis@info-shark.com) AAAAAAARGHHHH!!!!
+[22:17:27] <YuGiy0> (22:13:07) —› (/who) electron- (electron@h23n2fls309o1120.telia.com) J. Sandberg
+[22:17:29] <YuGiy0> (22:13:07) —› (/who) gio (gio@defiant.rsn.bth.se) gio
+[22:15:50] <YuGiy0> (22:13:06) —› (/who) grabies (grabies@Linknet-4790ebbd3d.adsl.cybercity.dk) gRaBieS
+[22:15:51] <YuGiy0> (22:13:06) —› (/who) nythunder (nythunder@cpe-24-176-139-101.plt.ny.charter.com) nythunder
+[22:15:53] <YuGiy0> (22:13:06) —› (/who) zaapr (yes@life.is.too.short.to.run.a.56-k.psybnc.cl) njet
+[22:15:54] <YuGiy0> (22:13:06) —› (/who) CplNet (cpl@Linknet-c54f67547d.telesp.net.br) ownz
+[22:15:56] <YuGiy0> (22:13:06) —› (/who) SPAHNER (~spahner@i.brutal-akademien.spottar.vi.inte.i.glaset.rsn.bth.se) spahner
+[22:15:57] <YuGiy0> (22:13:06) —› (/who) EvilDeAd (evildead@84.219.23.94) evil
+[22:15:59] <YuGiy0> (22:13:06) —› (/who) domi^ (domi_@1-1-11-8a.rny.sth.bostream.se) Philip
+[22:16:00] <YuGiy0> (22:13:06) —› (/who) eTume (eTume@dsl-olugw6ka8.dial.inet.fi) eT
+[22:16:02] <YuGiy0> (22:13:06) —› (/who) Nubela (~newb@Linknet-6f5e87e5d0.only.nubela.net) Sheer Stupidity
+[22:16:03] <YuGiy0> (22:13:06) —› (/who) zipster (antn@owns-you.com) anton
+[22:16:05] <YuGiy0> (22:13:06) —› (/who) DaSilva (elsilvero@info-shark.com) boom
+[22:16:06] <YuGiy0> (22:13:06) —› (/who) GeeMann (GeeMann@wnpgmb11dc1-161-172-172.dynamic.mts.net) GeeMann
+[22:16:08] <YuGiy0> (22:13:06) —› (/who) aMa (aMa@Linknet-6c6211d75b.cust.bredbandsbolaget.se) aMa
+[22:16:09] <YuGiy0> (22:13:06) —› (/who) zagevent (blizzard@shell2.skyberate.net) zagevent
+[22:16:11] <YuGiy0> (22:13:06) —› (/who) stralla (stralla@c-9550e253.611-1-64736c10.cust.bredbandsbolaget.se) bonde
+[22:16:12] <YuGiy0> (22:13:06) —› (/who) Leash (leashjam@Linknet-2c0e845869.g.bonet.se) Leash
+[22:16:14] <YuGiy0> (22:13:06) —› (/who) Tank0 (Tanki@Linknet-347f87a496.citg.tudelft.nl) Tank0
+[22:16:15] <YuGiy0> (22:13:06) —› (/who) FireRaiser (fr2k@h71n1fls31o982.telia.com) FR2k
+[22:16:17] <YuGiy0> (22:13:06) —› (/who) ali_c (ali_c@Linknet-0e4767f88e.blueyonder.co.uk) john jones
+[22:16:18] <YuGiy0> (22:13:06) —› (/who) [ReVs] (revs@sit.on.my.bigblackcock.biz) revs
+[22:16:20] <YuGiy0> (22:13:06) —› (/who) Boiidan (Pyshan@84.219.37.55) APnapa
+[22:16:21] <YuGiy0> (22:13:06) —› (/who) LuRKeR (LuRKeR@c83-249-200-15.bredband.comhem.se) Nisse
+[22:16:23] <YuGiy0> (22:13:07) —› (/who) as|a (eva@Linknet-6cab26d793.elkhouse.de) op
+[22:16:24] <YuGiy0> (22:13:07) —› (/who) ED-VII (ed@c-712a72d5.06-11-6e6b7010.cust.bredbandsbolaget.se) fluffy destroyer of worlds
+[22:16:26] <YuGiy0> (22:13:07) —› (/who) Byter (ping@Linknet-3eff86cc0a.gavlenet.com) Byter
+[22:16:27] <YuGiy0> (22:13:07) —› (/who) Bossen (~Bossen@Linknet-8774485815.tele.dk) Bossen
+[22:16:29] <YuGiy0> (22:13:07) —› (/who) thewall (~hu@h25n2fls304o1101.telia.com) thewall
+[22:16:30] <YuGiy0> (22:13:07) —› (/who) cokemon (~cokemon@Linknet-0220ba53df.tele.dk) coke
+[22:16:32] <YuGiy0> (22:13:07) —› (/who) devve (mirkk@h252n1fls308o1119.telia.com) devve
+[22:16:33] <YuGiy0> (22:13:07) —› (/who) Mackem (furioso@flys.a.milleniumfalcon.org) Gingga
+[22:16:35] <YuGiy0> (22:13:07) —› (/who) ezco (creep@Linknet-b6f6bc7dc5.zerodistance.org) ezco
+[22:16:36] <YuGiy0> (22:13:07) —› (/who) leqoir (leqoir@Linknet-fad9097fdf.dial.inet.fi) leqoir
+[22:16:38] <YuGiy0> (22:13:07) —› (/who) zephe (zephe@81-232-157-96-no28.tbcn.telia.com) zephe
+[22:15:00] <YuGiy0> (22:13:06) —› (/who) sLy^ (sLy_@h111n2fls304o1119.telia.com) sLyana
+[22:15:02] <YuGiy0> (22:13:06) —› (/who) DrKaKa (DrKaKa@h248n3fls304o1038.telia.com) DrKaKa
+[22:15:03] <YuGiy0> (22:13:06) —› (/who) SethGecko (~sethgecko@c193-150-216-166.cm-upc.chello.se) sethgecko
+[22:15:05] <YuGiy0> (22:13:06) —› (/who) BoNeZz (NoNe@46-240.surfsnel.dsl.internl.net) BoNeZz
+[22:15:06] <YuGiy0> (22:13:06) —› (/who) RYGAR (~HYPNOSKUL@Linknet-a030c15324.mbd.nu) rygar
+[22:15:08] <YuGiy0> (22:13:06) —› (/who) virre^ (~virre@1-1-2-37a.mdp.mlm.bostream.se) virre^
+[22:15:09] <YuGiy0> (22:13:06) —› (/who) The_Bad (~thebad@koda-server.be) thebad
+[22:15:11] <YuGiy0> (22:13:06) —› (/who) invisible (~invisible@Linknet-8278c18cb1.cust.bredbandsbolaget.se) Catch me if you can...
+[22:15:12] <YuGiy0> (22:13:06) —› (/who) Smuk (~smuk@217.148.180.145) smuk
+[22:15:14] <YuGiy0> (22:13:06) —› (/who) BriO^ (~BriO@Linknet-f5addba2cf.martenshus.se) BriO
+[22:15:15] <YuGiy0> (22:13:06) —› (/who) tr0ax (~tr0axxX@Linknet-7e086f0438.cust.bredbandsbolaget.se) tr0axx
+[22:15:17] <YuGiy0> (22:13:06) —› (/who) AngerFst (oja@Linknet-7b544c7198.dsl.quicknet.nl) oja
+[22:15:18] <YuGiy0> (22:13:06) —› (/who) CopyCat (CopyCat@Linknet-f402e305ea.blueyonder.co.uk) Bob Smith
+[22:15:20] <YuGiy0> (22:13:06) —› (/who) LnQ (atlas@Linknet-84b83ccd84.cust.bredbandsbolaget.se) Hell Hath No Fury
+[22:15:21] <YuGiy0> (22:13:06) —› (/who) whesel (Whesel@was.born.a.stiknarkoman.dk) Whesel
+[22:15:23] <YuGiy0> (22:13:06) —› (/who) Oranj3 (rnj@a80-127-84-32.adsl.xs4all.nl) j
+[22:15:24] <YuGiy0> (22:13:06) —› (/who) Frazer (mongomango@Linknet-af21fd60ce.telia.com) Frazer
+[22:15:26] <YuGiy0> (22:13:06) —› (/who) Kid-Rock (kidrocker@pool-141-158-250-30.phil.east.verizon.net) kidrockers
+[22:15:27] <YuGiy0> (22:13:06) —› (/who) KwAcK (KwAcK@systembolaget.us) KwAcK
+[22:15:29] <YuGiy0> (22:13:06) —› (/who) PunKK (punka@Linknet-88b50f81b3.co.uk) nom8s
+[22:15:30] <YuGiy0> (22:13:06) —› (/who) FaN^ (none@fosiedal-16-52-20.ip-pluggen.com) fan
+[22:15:32] <YuGiy0> (22:13:06) —› (/who) NAmki (NAmki@82.209.158.218) whatever
+[22:15:33] <YuGiy0> (22:13:06) —› (/who) Gurra (Gurra@Linknet-f9bf15e28f.cust.bredbandsbolaget.se) Gurra
+[22:15:35] <YuGiy0> (22:13:06) —› (/who) AZToR (AZToR@cumstains.org) AZToR
+[22:15:36] <YuGiy0> (22:13:06) —› (/who) Hobbs (hobbs@Linknet-4e05640645.cust.bredbandsbolaget.se) hobbs
+[22:15:38] <YuGiy0> (22:13:06) —› (/who) ED-VI (~ed6@Linknet-1453312a47.cust.bredbandsbolaget.se) im a bawt - dont kill me
+[22:15:39] <YuGiy0> (22:13:06) —› (/who) Dakota_DM (dakota@dakota.demon.nl) Dakota_DM
+[22:15:41] <YuGiy0> (22:13:06) —› (/who) ol-brain (pirc@Linknet-fd81632dff.bchsia.telus.net) ol-brain
+[22:15:42] <YuGiy0> (22:13:06) —› (/who) Addicted (Addicted@64.71.168.69) Addicted
+[22:15:44] <YuGiy0> (22:13:06) —› (/who) Ihsahn_ (ihsahn38@AGrenoble-152-1-27-59.w82-122.abo.wanadoo.fr) Ihsahn
+[22:15:45] <YuGiy0> (22:13:06) —› (/who) ninjapapa (bigpapa@locos.se) bigpapa
+[22:15:47] <YuGiy0> (22:13:06) —› (/who) K3yMaster (K3yMaster@Linknet-2a2add2a4d.adsl.cybercity.dk) Unknown
+[22:15:48] <YuGiy0> (22:13:06) —› (/who) ED (ed@c-152972d5.016-43-6e6b7010.cust.bredbandsbolaget.se) im a bawt - dont kill me
+[22:15:50] <YuGiy0> (22:13:06) —› (/who) grabies (grabies@Linknet-4790ebbd3d.adsl.cybercity.dk) gRaBieS
+[22:14:27] <YuGiy0> (22:13:05) —› (/who) dist (d@Linknet-edab3c7855.telia.com) dist
+[22:14:29] <YuGiy0> (22:13:05) —› (/who) MR_B_Zero (~jaif@h123n3fls306o1095.telia.com) Jaifaren7
+[22:14:30] <YuGiy0> (22:13:05) —› (/who) efrank (efrank@CBL217-132-132-182.bb.netvision.net.il) Eli Frank
+[22:14:32] <YuGiy0> (22:13:05) —› (/who) WinuX| (winux@h107n2fls34o1103.telia.com) winux
+[22:14:33] <YuGiy0> (22:13:05) —› (/who) Chandrum (dircd@Linknet-665a538ab6.cable.ntl.com) http://base9091.com
+[22:14:35] <YuGiy0> (22:13:05) —› (/who) Sci5ve (~Sci5ve@1-1-1-3a.ras.sth.bostream.se) Sci5ve
+[22:14:36] <YuGiy0> (22:13:05) —› (/who) Prom0 (Promo@Linknet-b9267d3886.cable.quicknet.nl) Promo
+[22:14:38] <YuGiy0> (22:13:05) —› (/who) [shell] (buster-@at.your.servicez.org) [shell]
+[22:14:39] <YuGiy0> (22:13:06) —› (/who) krotz (hedinn@screw-u.u.got.no.fuckingpower.com) krotz
+[22:14:41] <YuGiy0> (22:13:06) —› (/who) Apach3 (apache@82-38-171-111.cable.ubr01.shef.blueyonder.co.uk) Andy
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) linx (1000@Linknet-07c72b3413.cust.bredbandsbolaget.se) linx
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) m-ART (~NWNK-iRC@c-f653e253.214-1-64736c10.cust.bredbandsbolaget.se) NWNK-iRC
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) LF2005 (Killergold@dD5769A49.access.telenet.be) Killergoldfish
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) Tranzer (~X@h207n3fls32o952.telia.com) Andreas
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) legranda (nlf@80.247.212.3) legranda
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) Bonilla (ants@Linknet-f3eeab7b70.dip.t-dialin.net) Bonilla
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) car_lars (~calle@Linknet-d69d2af8bb.cust.bredbandsbolaget.se) Calle
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) brackan (~br4ck@h6n2fls304o871.telia.com) br4ck
+[22:14:55] <YuGiy0> (22:13:06) —› (/who) mg (nlf@80.247.212.3) mg
+[22:14:56] <YuGiy0> (22:13:06) —› (/who) gZp (gZp@c-bb1d70d5.013-37-6b736411.cust.bredbandsbolaget.se) gzp
+[22:14:58] <YuGiy0> (22:13:06) —› (/who) MetroB (~info@duvhoken-16-86-185.ip-pluggen.com) The Lonely Flight Towards Eternal Freedom
+[22:14:59] <YuGiy0> (22:13:06) —› (/who) DFN_ (dfn@Linknet-a03996ea36.cust.bredbandsbolaget.se) none

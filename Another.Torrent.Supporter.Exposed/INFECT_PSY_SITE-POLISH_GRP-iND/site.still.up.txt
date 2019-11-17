@@ -1,0 +1,13 @@
+Rebirth.Of.The.Swedish.Scene-iND Released 2h 12m 18s
+SWEDISH TIME 20:38 
+
+
+
+[R] Connecting to PSY -> IP=213.112.249.147 PORT=28904
+[R] Connected to Anders
+[R] 220  Your Ip:  127.0.0.1 
+[R] AUTH TLS
+[R] 234 AUTH TLS successful.
+[R] Connected. Negotiating TLSv1 session..
+[R] TLSv1 negotiation successful...
+[R] TLSv1 encrypted session using cipher DES-CBC3-SHA (168 bits)

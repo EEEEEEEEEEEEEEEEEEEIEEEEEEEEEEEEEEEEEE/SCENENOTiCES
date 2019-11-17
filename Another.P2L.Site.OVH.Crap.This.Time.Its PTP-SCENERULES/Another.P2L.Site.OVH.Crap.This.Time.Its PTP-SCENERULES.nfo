@@ -1,0 +1,142 @@
+Yet another P2L site on the table. Hosted at .fr OVH 3 sites running GL.
+So lets open it up with a tin opener and see what we get!
+
+Site Name: PTP - Pyro Technic Peers
+
+[PTP IRC]
+ PTP.dnsdojo.net:5565 SSL
+[PTP FTP]
+ PTP.dvrdns.org:321 SSL
+ PTP.homeip.net:321 SSL
+ PTP.isa-geek.com:321 SSL
+
+
+[2] 257 "/_speedtest_/" is current directory.
+[2] PASV
+[2] 227 Entering Passive Mode (94,23,209,78,225,9)
+[2] Opening data connection IP: 94.23.209.78 PORT: 57609
+[2] LIST
+[2] 150 Opening ASCII mode data connection for directory listing using SSL/TLS.
+[2] Encryption algorithm: TLSv1 DHE-DSS-AES256-SHA-256
+[2] 226- [Ul: 0MB] [Dl: 0MB] [Speed: 25.41K/s] [Free: 26574650MB]
+[2] 226  [Section: DEFAULT] [Credits: 14.4MB] [Ratio: 1:3]
+[2] List Complete: 10,305 bytes in 0.16 seconds (66.06KB/s)
+
+inetnum:         94.23.192.0 - 94.23.255.255
+netname:         OVH
+descr:           OVH SAS
+descr:           Dedicated Servers
+descr:           http://www.ovh.com
+country:         FR
+admin-c:         OK217-RIPE
+tech-c:          OTC2-RIPE
+status:          ASSIGNED PA "status:" definitions
+mnt-by:          OVH-MNT
+source:          RIPE # Filtered
+
+So who runs this crap?
+
+Spider is spider@PTP.virtela.net - Owner
+Jubs is YMCA@PTP.org.uk - Admin
+l0rd is ice@PTP.IP.com - Admin
+whynow is now@PTP.IP.com - Nuker
+
+Not many affils here so far
+
+[17:16] <PTP> PTP AFFILS --===> DUPLI | JSPeC | OneUp | EAT | BEAN | FFG | Guest Pres Welcome
+
+
+Same as always and some usual names in there too. I will continue to publish these nfo's untill the cracker
+jacks who keep opening these sites stop puting our scene in jeopardy. 
+
+All siteops do yourself a favour and delete the know reoffender people and grps!
+
+[2] 200-      ______________._________   .  _________________.___  ___
+[2] 200-   __.____   ___    _   _    _:______   ___   _____  |   | _.__
+[2] 200- _ _|____ /   /  |   /  _____/__|___;_ /   /    __|_      |__|_ __
+[2] 200-  ___|__ /       |  //   | ___|_._|__ //       /    //     | ___|_
+[2] 200-     __|______/_____    | _|___|___|._____/_______/___|   |._|_
+[2] 200-  .------------------.___|  ALLTiME DOWNLOADERS...     __|  :-----.
+[2] 200- .--------------------------------------------------------------------=-.
+[2] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[2] 200- |-=-------------------------------------------------------------------=-|
+[1] 200- [01] Spider       No Tagline Set         117,601 19,664,18MB  1097K/s
+[1] 200- [02] GLaSS        No Tagline Set          53,886 13,591,29MB  1434K/s
+[1] 200- [03] billywhizz   No Tagline Set          86,255 12,531,66MB  1521K/s
+[1] 200- [04] AngeLo       No Tagline Set          82,149 9,428,82MB   1969K/s
+[1] 200- [05] ruPert       No Tagline Set          45,761 3,417,26MB   3301K/s
+[1] 200- [06] hippa        No Tagline Set         150,577 3,234,06MB    480K/s
+[1] 200- [07] SnakeEye2    No Tagline Set         140,953 3,082,98MB   1314K/s
+[1] 200- [08] Turbo        No Tagline Set          74,444 3,037,63MB   2501K/s
+[1] 200- [09] dwp          No Tagline Set          78,924 3,034,47MB   1782K/s
+[1] 200- [10] asterix      No Tagline Set         107,500 2,798,17MB   1817K/s
+[1] 200- `-=-------------------------------------------------------------------=-'
+[1] 200 Command Successful.
+[1] 200-    ______________._________      _________________ ___  ___
+[1] 200-    ____   ___    _   _        ____   ___   ___   |   | [ ALLTIME ]
+[1] 200-        /   /  |   /  _____/         /   /    __|_      | [UPLOADERS]
+[1] 200-       /       |  //   |            //       /    /      |
+[1] 200-       _____/_____    |            _____/_______/___|   |
+[1] 200- .----------------- ___| ------------------------------ __| ---------=-.
+[1] 200- | ## User         Location/Tagline         Files  Megabytes   Avg k/s   |
+[1] 200- |-=-------------------------------------------------------------------=-|
+[1] 200- [01] Spider       No Tagline Set         117,601 3,664,18MB   1097K/s
+[1] 200- [02] Jubs         No Tagline Set          53,886 3,591,29MB   1434K/s
+[1] 200- [03] Tara         No Tagline Set          86,255 3,531,66MB   1521K/s
+[1] 200- [04] B4ffy        No Tagline Set          82,149 3,428,82MB   1969K/s
+[1] 200- [05] iron         No Tagline Set          45,761 3,417,26MB   3301K/s
+[1] 200- [06] auto         No Tagline Set         150,577 3,234,06MB    480K/s
+[1] 200- [07] dwp          No Tagline Set         140,953 3,082,98MB   1314K/s
+[1] 200- [08] sm0ke        No Tagline Set          74,444 3,037,63MB   2501K/s
+[1] 200- [09] fafa         No Tagline Set          78,924 3,034,47MB   1782K/s
+[1] 200- [10] theJUDGE     No Tagline Set         107,500 2,798,17MB   1817K/s
+[1] 200- [11] whynow       No Tagline Set          52,351 2,024,21MB   2558K/s
+[1] 200- [12] Nitrus       oops.i.did.it.again     48,385 1,960,50MB    672K/s
+[1] 200- [13] BlackBear    No Tagline Set          51,555 1,814,44MB   1017K/s
+[1] 200- [14] l0rd         No Tagline Set          31,570 1,755,14MB   1950K/s
+[1] 200- [15] Shady        the real slim           49,577 1,516,91MB   2579K/s
+[1] 200- [16] FleetWood    No Tagline Set          48,101 1,461,61MB   1509K/s
+[1] 200- [17] Gumba        No Tagline Set          82,184 1,429,51MB    800K/s
+[1] 200- [18] c0rdiak      No Tagline Set          28,101 1,350,26MB   4657K/s
+[1] 200- [19] tits         No Tagline Set          20,054 1,331,27MB   1634K/s
+[1] 200- [20] H1           No Tagline Set          23,919 1,300,27MB   2525K/s
+[1] 200- [21] JackKnife    No Tagline Set          30,508 1,243,53MB   1041K/s
+[1] 200- [22] darkone      No Tagline Set          16,178 1,199,56MB   3296K/s
+[1] 200- [23] M3P01TT      No Tagline Set          46,897 1,154,37MB   2423K/s
+[1] 200- [24] brain        No Tagline Set          21,371 1,076,73MB   5812K/s
+[1] 200- [25] Jebus        No Tagline Set          26,276 1,060,26MB   1226K/s
+[1] 200- [26] sandySloo    No Tagline Set          62,930 1,028,45MB   3265K/s
+[1] 200- [27] MassiveAt    No Tagline Set          18,899 1,013,42MB   1804K/s
+[1] 200- [28] r0ver        No Tagline Set          50,922 1,012,44MB   2654K/s
+[1] 200- [29] Ram3o        No Tagline Set          16,874 1,001,17MB   5387K/s
+[1] 200- [30] TigerWoods   No Tagline Set          18,603  929,018MB   1301K/s
+[1] 200- [31] NoName       No Tagline Set          42,429  924,241MB   5136K/s
+[1] 200- [32] rm           No Tagline Set          21,671  577,903MB   1166K/s
+[1] 200- [33] L4sg0        No Tagline Set          15,855  472,245MB    774K/s
+[1] 200- [34] Canac        No Tagline Set          10,535  445,768MB   2607K/s
+[1] 200- [35] NeTech       No Tagline Set          14,556  438,976MB   3071K/s
+[1] 200- [36] alcapon3     No Tagline Set           8,759  409,392MB   1388K/s
+[1] 200- [37] BiSH         No Tagline Set          15,970  382,728MB   2411K/s
+[1] 200- [38] flagg        No Tagline Set           7,206  296,470MB   2899K/s
+[1] 200- [39] xoxo         No Tagline Set           7,617  294,579MB   2968K/s
+[1] 200- [40] TiBuRoN_S    No Tagline Set           7,314  246,480MB   2816K/s
+[1] 200- [41] b0wer        No Tagline Set          10,387  210,141MB   1088K/s
+[1] 200- [42] Leavenow     No Tagline Set           5,482  205,713MB   2438K/s
+[1] 200- [43] SRR          No Tagline Set           2,679  189,690MB   9380K/s
+[1] 200- [44] TanTo        No Tagline Set           3,194  173,506MB   6823K/s
+[1] 200- [45] mylife       No Tagline Set          11,504  135,634MB   1264K/s
+[1] 200- [46] romiA        No Tagline Set             924  121,135MB   1446K/s
+[1] 200- [47] Lamer        No Tagline Set           1,811  108,587MB   5898K/s
+[1] 200- [48] NeroReturns  No Tagline Set           2,721  107,085MB   7403K/s
+[1] 200- [49] Deters       No Tagline Set          14,102   95,673MB   2631K/s
+[1] 200- [50] Dieforme     No Tagline Set           3,200   93,823MB   1515K/s
+[1] 200- [51] leesh        No Tagline Set           2,554   71,035MB   7518K/s
+[1] 200- [52] EyESWIDE     No Tagline Set           3,407   59,520MB   1205K/s
+[1] 200- [53] GGggGG       No Tagline Set           1,231   44,138MB   3798K/s
+[1] 200- [54] pentfold     No Tagline Set             568   35,268MB   2760K/s
+[1] 200- [55] CRX          No Tagline Set             973   11,426MB   1591K/s
+[1] 200- [56] dollaBiLL    No Tagline Set             218   11,091MB   1312K/s
+[1] 200- [57] 321          No Tagline Set             912    7,248MB   7385K/s
+[1] 200- [58] StINJESOP    No Tagline Set             156    5,399MB   4463K/s
+[1] 200- `-=-------------------------------------------------------------------=-'
+[1] 200 Command Successful.

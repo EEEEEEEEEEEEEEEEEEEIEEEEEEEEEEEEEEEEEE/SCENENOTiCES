@@ -1,0 +1,76 @@
+@BEGIN_FILE_ID.DIZ-----------------------------------------------------------
+               Secure Your Sites 2008-02-02
+              sitescripts for those who care
+[01/01]-------------------------------------------[01x01mb]
+@END_FILE_ID.DIZ
+
+more and more unsecure traders/siteops/users flooding our beloved scene
+
+its up to the real-siteops to get the scene more secure by:
+ - banning freaky traffic 
+ - controlling the users AND traders
+
+we have collected some ip ranges to make your life easier, just add them to
+your firewall, we tested on 2.6.11 kernel with iptables 1.3.1 and it works.
+unfortunately fxp transfers from blocked ranges result in 0-byte files, but
+this way you can easily see who is on unsecure sources and clean your site.
+
+got no firewall installed yet, because you are behind a router?
+just start iptables.sh - this will setup a firewall and blocking
+unsecure traffic. feel free to add more ranges.
+
+Blocked ip-ranges:
+213.202.192.0-213.202.255.255:Unitedcolo/.de-NGZ
+85.14.192.0-85.14.255.255:Unitedcolo/.de-NGZ
+83.149.64.0-83.149.127.255:LeaseWeb/.nl
+85.17.0.0-85.17.255.255:LeaseWeb/.nl
+82.192.64.0-82.192.95.255:EasyServer/.nl 
+62.212.64.0-62.212.95.255:LeaseWeb/.nl 
+83.216.192.0-83.216.215.255:carrier66/.at
+80.64.128.0-80.64.143.255:cix.at/.at
+217.196.64.0-217.196.95.255:Funknetz/.at
+213.219.122.0-213.219.122.255:Estpak/.ee
+62.116.0.0-62.116.127.255:Eunet/.at
+81.169.128.0-81.169.188.255:Strato/.de
+85.214.0.0-85.215.255.255:Strato/.de
+62.75.128.0-62.75.255.255:Intergenia(S4Y)/.de
+85.25.0.0-85.25.255.255:Intergenia(S4Y)/.de
+217.172.160.0-217.172.191.255:Intergenia(S4Y)/.de
+80.190.0.0-80.190.255.255:IP-Exchange/.de
+62.146.0.0-62.146.255.255:IP-Exchange/.de
+212.112.224.0-212.112.255.255:IPX-Server/.de
+212.123.96.0-212.123.127.255:IP-Exchange/.de
+91.121.0.0-91.121.255.255:Ovh.com/.fr 
+213.186.32.0-213.186.63.255:Ovh.com/.fr
+156.17.0.0-156.17.255.255:Wask(Wroclaw)/.pl
+147.32.0.0-147.32.255.255:Czech-Technical-University/.cz
+195.56.0.0-195.56.255.255:GTS-DataNet/.hu
+87.249.28.0-87.249.28.255:recordings.ru
+
+
+If you dont know, WHAT to ban, our little "scanjet" might be something for you.
+its a graphical shell-friendly frontend (using dialog (curses)) to analyze
+your siteop.log
+
+Easy check, where your current onliners transfer files to and from. 
+Scanjet displays: upload/download - remote IP - remote ISP country - remote ISP
+You can scan the other site for open ports, torrents ports or whatever.
+Its also possible to make a traceroute. More details are described 
+within scanjet. (perhaps doesnt run under all *nix systems, but should
+do under suse/debian....) 
+
+PLEASE REMEMBER! YOUR server-IP is also logged on the other sites, where
+your users transfer from or to! Might be a good idea **not** to have your IP
+in logs of rented servers or russian mp3 selling platforms. *wink*
+
+
+
+
+
+
+p.s. if a siteop needs a techop to fix a welcome.msg, drop this site!
+
+
+History: 
+2008-02-02 Secure.Your.Sites.2008-02-02.READ.THIS.SITEOPS-iND
+2006-04-17 Secure.Your.Sites.READ.THIS.SITEOPS-iND

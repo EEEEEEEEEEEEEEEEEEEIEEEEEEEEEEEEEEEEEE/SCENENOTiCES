@@ -1,0 +1,69 @@
+A lot of people didnt believe.. didnt want to believe that this is true.
+A lot of people were in denial. A lot of people wanted proof other than
+text that can easily be altered in a way to show anything you want.
+
+Here. Look at the screen shots. Descriptions below.
+
+Another security problem here folks, courtesy of CAMELOT's GAdmin 'rob'.
+This dumb fuck is using his p2p server to come online on scene ircds.
+Caught red handed.. Get rid of this fucker. Use your heads.
+
+Below are a set of /whois from TorrentLeech and a scene site.. 
+unclenofaer is Hello@TLupper.org
+unclenofear on %torrentleech
+unclenofear using irc.torrentleech.org, TorrentLeech IRC server
+unclenofear is using a Secure Connection
+
+rob is Hello@ns208887.ovh.net * sexy me
+rob on #REMOVED-CHAT #REMOVED-SPAM #REMOVED 
+rob using irc.REMOVED.com REMOVED nl server
+rob is using a Secure Connection
+rob has been idle 2mins 25secs, signed on Mon Mar 22 10:58:28
+rob End of /WHOIS list.
+
+clt_ is clt@ns200911.ovh.net * Fuck Off 
+clt_ using irc.umich.edu The students are back, the parking is gone. 
+clt_ End of /WHOIS list. 
+^efnet
+
+200- Username: rob Created: Mon Feb 22 14:36:26 CET 2010 
+200- Primary group: CAMELOT Banned: false, Reason: org.drftpd.commands.UserManagement@ban_reason 
+200- Extra groups: [] Banned Until: Mon Feb 22 14:36:12 CET 2010 
+200- IP masks: *@94.23.234.*, *@86.4.122.1*
+
+Here you can see we've glined his host, and he reconnects using unclenofear, using a second IP and then uses
+that second ip to try and connect using this second host and is glined yet again.
+
+-irc.removed.com- *** Notice -- Client exiting: rob (Hello@ns208887.ovh.net) [User has been permanently banned from irc.removed.com (no reason)]
+-irc.removed.com- *** Notice -- Client connecting on port 6697: unclenofear (fuckoff@ns200911.ovh.net) [clients] [secure AES256-SHA]
+-irc.removed.com- *** Notice -- Client exiting: unclenofear (fuckoff@ns200911.ovh.net) [Input/output error]
+-irc.removed.com- *** Notice -- Client connecting on port 6697: rob (Dweedy@ns200911.ovh.net) [clients] [secure AES256-SHA]
+-irc.removed.com- *** Notice -- Client exiting: rob (Dweedy@ns200911.ovh.net) [Input/output error]
+-irc.removed.com- *** Notice -- Client connecting on port 6697: rob (Dweedy@ns200911.ovh.net) [clients] [secure AES256-SHA]
+-irc.removed.com- *** Permanent G:Line added for *@ns200911.ovh.net on Mon Mar 22 19:12:47 2010 GMT (from OperServ: no reason)
+-irc.removed.com- *** Notice -- Client exiting: rob (Dweedy@ns200911.ovh.net) [User has been permanently banned from irc.removed.com (no reason)]
+-irc.removed.com- *** Permanent G:Line added for *@@ns200911.ovh.net on Mon Mar 22 19:14:13 2010 GMT (from OperServ: no reason)
+
+His primary OVH IP, which is captured in the uTorrent screen shot that he is also using for his seedbox..
+ip 94.23.234.54
+host ns208887.ovh.net
+(? IP: 94.23.234.54 ?) (? Resolved Address: ns208887.ovh.net ?)
+
+Secondary OVH IP
+ip 91.121.114.52
+host ns200911.ovh.net
+(? Host: ns200911.ovh.net ?) (? Resolved Address: 91.121.114.52 ?)
+
+He's also been seen connecting from his home connection, mask is, *@86.4.122.1*
+
+
+Undisputed Proof! 
+rob1.jpg - shows him on irc with IP 94.23.234.54 (ns208887.ovh.net)
+rob2.jpg - shows him on irc with IP 94.23.234.54 (ns208887.ovh.net)
+rob3.jpg - shows him seeding to torrentleech.org with IP 94.23.234.54 (ns208887.ovh.net)
+rob4.jpg - shows the name, unclenofear as an Torrentleech.org uploader..
+		   Why after he gets glined, he comes on using a second IP and the nick unclenofear,
+		   then realizes he made a mistake, quickly quits and comes back as 'rob'. Hmm.. :)
+		   
+		   
+Proof is rock solid and indisputable. PURGE. DELUSER. DEAFFIL. BAN. Quit being indenial.

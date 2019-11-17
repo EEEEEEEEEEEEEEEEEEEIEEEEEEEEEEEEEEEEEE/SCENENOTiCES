@@ -1,0 +1,545 @@
+
+
+HoornHardcore strikes again!
+
+We all know HoornHardcore is a good hacker, he hacked many scene boxes. Most
+are okay, or secured enough to protect from script kiddies.
+However once in a while he runs into a crap box.
+
+This time we got into Res aka ^resrant's RDP. This guy is in PCD and runs a 
+couple rated (nl/europe) sites.
+He's also in the following groups: XII, LMAO, GNARLY, REV0, IMMERSE
+Happy queensday guys!
+
+For those who dont like long nfo's, this guy is running rented leaseweb boxes,
+mounted to X aka Cross, PCP and LSD. They are all uncrypted making them more
+insecure. He's added on many more ranked sites, check "sites1.png" and "sites2.png".
+
+NOTE: The affils listed on the sites below, could'nt have known the sites use
+leaseweb archive boxes. The sites where all glftpd, and the archives where
+mounted over NFS, so if you dont have ssh access you dont know anything about
+the archive box. The affils ABOVE however XII etc. they DO know exactly what 
+they where getting in to.
+PCD too, because wookie (their leader) had ssh access to the sites listed below.
+
+
+Let's go:
+Hoorn dumped his ftprush sites for me to check. I was surprised to see how
+many leasewebs he had in there.
+
+So, I took the liberty to check them. 
+
+To start off with "SPL". Small udb, gbit leaseweb site with 3.8tb xvid archive.
+
+(Insert Pic 1 Here)
+
+Text mode:
+  [2] Verbinden met 94.75.221.186:24517
+  [2] 220 spl
+  [2]     AUTH TLS
+  [2] 234 AUTH TLS successful
+  [2] Coderingsalgoritme: TLSv1 DHE-DSS-AES256-SHA-256
+  [2]     PBSZ 0
+  [2] 200 PBSZ 0 successful
+  [2]     USER bash
+  [2] 331 Password required for bash.
+  [2]     PASS (verborgen)
+  [2] 230 User bash logged in.
+  [2]     SYST
+  [2] 215 UNIX Type: L8
+  [2]     PROT P
+  [2] 200 Protection set to Private
+  [2]     TYPE A
+  [2] 200 Type set to A.
+  [2]     REST 1
+  [2] 350 Restarting at 1. Send STORE or RETRIEVE to initiate transfer.
+  [2]     REST 0
+  [2] 350 Restarting at 0. Send STORE or RETRIEVE to initiate transfer.
+  [2]     FEAT
+  [2] 211- Extensions supported:
+  [2]  AUTH TLS
+  [2]  AUTH SSL
+  [2]  PBSZ
+  [2]  PROT
+  [2]  CPSV
+  [2]  SSCN
+  [2]  MDTM
+  [2]  SIZE
+  [2]  REST STREAM
+  [2]  SYST
+  [2] 211 END
+  [2]     PWD
+  [2] 257 "/" is current directory.
+  [2]     CWD /
+  [2] 250 CWD command successful.
+  [2]     PWD
+  [2] 257 "/" is current directory.
+  [2]     PASV
+  [2] 227 Entering Passive Mode (94,75,221,186,185,75)
+  [2] Openen verbinding IP: 94.75.221.186 POORT: 47435
+  [2]     LIST -al
+  [2] 150 Opening ASCII mode data connection for directory listing using SSL/TLS.
+  [2] Coderingsalgoritme: TLSv1 DHE-DSS-AES256-SHA-256
+  [2] 226- [Ul: 10514856.0MB] [Dl: 84374128.0MB] [Speed: 5.47K/s] [Free: 186300MB]
+  [2] 226  [Section: SPL] [Credits: -107.4MB] [Ratio: Unlimited]
+  [2] Opmaken lijst voltooid: 1.306 bytes in 0,33 seconden (3,98KB/s)
+  [2]     site users 1
+  [2] 200- Detailed User Listing...
+  [2] 200- glftpd                     UL:    0MB      DL:    0MB      Credit: -8576MB
+  [2] 200- bash            SPL        UL:1051485      DL:8437422      Credit:  -107MB
+  [2] 200- Uploaded:10514855MB Downloaded:84374228MB Files Up:674523 Files Down:19635186 
+  [2] 200- SITEOPS=2, GADMINS=0, LEECH=1, DELETED=0
+  [2] 200 2 Total members.
+  [2]     site user bash
+  [2] 200- User Comment: Added by glftpd
+  [2] 200- +=======================================================================+
+  [2] 200- | Username: bash                     Created: 11-04-08                  |
+  [2] 200- | Added by: glftpd                   Expires: Never                     |
+  [2] 200- | Time On Today: 40:07:50            Last seen: Wed Apr 28 21:52:33 2010|
+  [2] 200- | Flags: 13ABCDEFGHI                 Idle time: 60                      |
+  [2] 200- | Ratio: Unlimited                   Credits:    -107.4 MB              |
+  [2] 200- | Total Logins: 463753               Current Logins: 8                  |
+  [2] 200- | Max Logins: 100                    From same IP: Unlimited            |
+  [2] 200- | Max Sim Uploads: Unlimited         Max Sim Downloads: Unlimited       |
+  [2] 200- | Max Upload Speed:     0.0 K/s      Max Download Speed:     0.0 K/s    |
+  [2] 200- | Times Nuked: 22                    Bytes Nuked:  10757 MB             |
+  [2] 200- | Weekly Allotment:     0 MB         Messages Waiting: N                |
+  [2] 200- | Time Limit:    0 minutes.          (0 = Unlimited)                    |
+  [2] 200- | Tagline: No Tagline Set                                               |
+  [2] 200- | Groups: SPL siteop                                                    |
+  [2] 200- | Priv Groups:                                                          |
+  [2] 200- +-----------------------------------------------------------------------+
+  [2] 200- | IP0: *@*                           IP1:                               |
+  [2] 200- | IP2:                               IP3:                               |
+  [2] 200- | IP4:                               IP5:                               |
+  [2] 200- | IP6:                               IP7:                               |
+  [2] 200- | IP8:                               IP9:                               |
+  [2] 200- +=======================================================================+
+  [2] 200 Command Successful.
+
+(Insert Pic 2 Here)
+
+Note how this guy is siteop and has his ip on *@* on a LEASEWEB site.
+Comeon guys.. srsly what are you doing. *@* Means everyone can logon to his
+account, making the site detectable for any random hacker who does a portscan.
+
+
+And the site monthdn:
+
+  [2]     PASV
+  [2] 227 Entering Passive Mode (94,75,221,186,214,255)
+  [2] Openen verbinding IP: 94.75.221.186 POORT: 55039
+  [2]     LIST -al
+  [2] 150 Opening ASCII mode data connection for directory listing using SSL/TLS.
+  [2] Coderingsalgoritme: TLSv1 DHE-DSS-AES256-SHA-256
+  [2] 226- [Ul: 10514856.0MB] [Dl: 84376992.0MB] [Speed: 4.74K/s] [Free: 184317MB]
+  [2] 226  [Section: SPL] [Credits: -107.4MB] [Ratio: Unlimited]
+  [2] Opmaken lijst voltooid: 1.306 bytes in 0,34 seconden (3,81KB/s)
+  [2]     site montdn 90
+  [2] 500 'site montdn 90': Command not understood.
+  [2]     site monthdn 90
+  [2] 200- [01] bash         No Tagline Set         305,041 5,432,14MB   3261K/s
+  [2] 200- [02] treta        No Tagline Set         148,843 1,905,45MB   4815K/s
+  [2] 200- [03] Wizard       No Tagline Set          60,764 1,074,93MB   1350K/s
+  [2] 200- [04] XeoniX       No Tagline Set          74,349  780,523MB   1891K/s
+  [2] 200- [05] SuBsTiTuTe   No Tagline Set          35,493  492,101MB   1704K/s
+  [2] 200- [06] clive        No Tagline Set          36,342  399,814MB   3596K/s
+  [2] 200- [07] eLiF         No Tagline Set         187,690  394,226MB    485K/s
+  [2] 200- [08] mist         No Tagline Set          26,798  355,822MB   2380K/s
+  [2] 200- [09] rewarz       No Tagline Set           7,117  333,046MB    637K/s
+  [2] 200- [10] numpty       No Tagline Set          15,670  313,552MB   3945K/s
+  [2] 200- [11] sekproton    No Tagline Set          18,801  309,033MB   7127K/s
+  [2] 200- [12] Stiffler     No Tagline Set          13,518  296,294MB   2286K/s
+  [2] 200- [13] sht          No Tagline Set          13,186  290,819MB   2285K/s
+  [2] 200- [14] RoCCoBR      No Tagline Set          18,999  289,587MB   1968K/s
+  [2] 200- [15] findme       No Tagline Set          11,956  229,740MB   3024K/s
+  [2] 200- [16] DXD          No Tagline Set           9,885  195,965MB    692K/s
+  [2] 200- [17] grevo        No Tagline Set          18,668  187,237MB   1638K/s
+  [2] 200- [18] frup         No Tagline Set          12,448  186,661MB    254K/s
+  [2] 200- [19] sidrat       No Tagline Set           3,718  183,264MB   3194K/s
+  [2] 200- [20] Nemesis      No Tagline Set           9,496  151,432MB   1529K/s
+  [2] 200- [21] nutella      No Tagline Set           3,808  151,430MB   4162K/s
+  [2] 200- [22] L4G04        No Tagline Set           7,961  131,322MB   1259K/s
+  [2] 200- [23] Nirvana      No Tagline Set           6,712  106,957MB    926K/s
+  [2] 200- [24] gh0st        No Tagline Set           4,131   64,199MB   1559K/s
+  [2] 200- [25] goodman      No Tagline Set           2,464   37,197MB   1849K/s
+  [2] 200- [26] landsend     No Tagline Set             368   20,352MB    725K/s
+  [2] 200- [27] iron         No Tagline Set             184   16,541MB    217K/s
+  [2] 200 Command Successful.
+
+(Insert Pic 3 Here)
+
+8tb dl in 1month.. Payleech anyone ?
+
+So far so good *cough*. However because hoorn is the best in (Cross)LAN hacking
+he has access to all the sites now, where res is added (yes, the rated ones
+res was on)
+
+Then we logged on SPL ssh, to check the box if there maybe was another gl on.
+Guess what happened when I typed; showmount --all:
+
+(Insert Pic 4 Here)
+
+
+  PNR015:~# showmount --all 127.0.0.1
+  All mount points on 127.0.0.1:
+  217.23.4.44:/opt/mounts/mnt1
+  217.23.4.44:/opt/mounts/mnt2
+  88.151.101.174:/opt/mounts/mnt1
+  88.151.101.174:/opt/mounts/mnt2
+  93.190.140.218:/opt/mounts/mnt1
+  93.190.140.218:/opt/mounts/mnt2
+
+
+Okay, so this site is mounted to a worldstream, a .hu and another worldstream.
+I took the liberty to check through all the sites and find out which sites it
+was mounted to.
+
+Also check the df -h in the pic. You can see they didnt use any encryption at all.
+Neither did they use a vpn (or the showmount ip addresses would've been private
+ranges).
+
+
+First up: X aka Cross, gbit NL worldstream, opped by PCD guy wookie aka reps_ aka
+_reps, and i assume teched by ^resrant.
+
+(Insert Pic 5 Here)
+
+
+  [2]     site users 1
+  [2] 200- Detailed User Listing...
+  [2] 200- wookie          PCD        UL:149727M      DL:1241654      Credit:   -34MB
+  [2] 200- cross           cross      UL: 2978MB      DL:    0MB      Credit: -390826MB
+  [2] 200- res             PCD        UL:98065MB      DL:3196619      Credit: 53080MB
+  [2] 200- glftpd                     UL:    0MB      DL:    0MB      Credit:     5MB
+  [2] 200- Uploaded:  250770MB Downloaded: 4438273MB Files Up:  6651 Files Down:128861
+  [2] 200- SITEOPS=4, GADMINS=0, LEECH=2, DELETED=0
+  [2] 200 4 Total members.
+
+wookie and res are siteops.
+
+Now the affils and tradegroups they got:
+
+
+   [2] 227 Entering Passive Mode (217,23,4,44,145,64)
+   [2] Openen verbinding IP: 217.23.4.44 POORT: 37184
+   [2]     LIST -al
+   [2] 150 Opening ASCII mode data connection for directory listing using SSL/TLS.
+   [2] Coderingsalgoritme: TLSv1 DHE-DSS-AES256-SHA-256
+   [2] 226 (creds: 53080.3mb) (up: 98065.5mb) (dn: 3196619.2mb) (spd: 4.98kbs) (ratio: Unlimited)
+   [2] Opmaken lijst voltooid: 1.065 bytes in 0,34 seconden (3,10KB/s)
+   [2]     site groups
+   [2] 200- #users  Group Abbr.      Group Description
+   [2] 200- ----------------------------------------------------------------------
+   [2] 200- (   1)  cross            cross
+   [2] 200- (   3)  IND              IND
+   [2] 200- (  12)  PCD              PCD
+   [2] 200- (   8)  2HD              2HD
+   [2] 200- (   5)  TFAiSO           TFAiSO
+   [2] 200- (   3)  pHASE            pHASE
+   [2] 200- (   5)  DST              DST
+   [2] 200- (   4)  eNRAGE           eNRAGE
+   [2] 200- (   3)  EPTiSO           EPTiSO
+   [2] 200- (   6)  LGD              LGD
+   [2] 200- (   3)  AMNiSO           AMNiSO
+   [2] 200- (   7)  TGP              TGP
+   [2] 200- (   9)  ZRY              ZRY
+   [2] 200- (   4)  ProCiSiON        ProCiSiON
+   [2] 200- (   6)  GNARLY           GNARLY
+   [2] 200- (   4)  GLoBAL           GLoBAL
+   [2] 200- (   5)  CiNEFiLE         CiNEFiLE
+   [2] 200- (   1)  EDC              EDC
+   [2] 200- (   8)  X                X
+   [2] 200- (   1)  GUEST            GUEST
+   [2] 200- (   1)  DEVOTiON         DEVOTiON
+   [2] 200- (   2)  TOWiSO           TOWISO
+   [2] 200- (   0)  SOMEONE          SOMEONE
+   [2] 200- (   1)  AMW              AMW
+   [2] 200- (   7)  IMMERSE          IMMERSE
+   [2] 200- (   4)  SUBMERGE         SUBMERGE
+   [2] 200- (   1)  FRiENDS          FRiENDS
+   [2] 200- (   4)  TOPAZ            TOPAZ
+   [2] 200- (   5)  APATHY           APATHY
+   [2] 200-
+   [2] 200-
+   [2] 200- A '*' denotes a private group.  Type SITE CHGRP to add
+   [2] 200- or remove users from these groups.
+   [2] 200-
+   [2] 200 29 user groups, 0 privileged groups.
+
+
+2HD TGP ZRY ProCiSiON GNARLY GLoBAL CiNEFiLE IMMERSE SUBMERGE TOPAZ APATHY
+
+
+Not really shocking, as I know wookie is a respected guy, so he propably got
+them all added.
+
+So, HoornHardcore hacked his way into the ssh, which wasnt too hard as he had res
+his box, so could go straight through any firewalls.
+
+(Insert Pic 7 here)
+
+   2e18:~# df -h
+   Filesystem            Size  Used Avail Use% Mounted on
+   /dev/md0              46G  1.1G   43G   3% /
+   tmpfs                4.0G  4.0K  4.0G   1% /lib/init/rw
+   udev                   10M  124K  9.9M   2% /dev
+   tmpfs                 4.0G     0  4.0G   0% /dev/shm
+   /dev/mapper/opt      4.6G  268M  4.1G  7% /opt
+   /dev/mapper/optlogs  1.9G   78M  1.7G  5% /opt/glftpd/ftp-data/logs
+   94.75.221.186:/opt/mounts/mnt1
+                         3.6T  2.1T  1.4T  61% /opt/mounts/mnt1
+   94.75.221.186:/opt/mounts/mnt2
+                         3.6T  3.4T  4.8G 100% /opt/mounts/mnt2
+   94.75.222.249:/opt/mounts/mnt1
+                         3.7T  2.6T  1.2T  69% /opt/mounts/mnt3
+   94.75.222.249:/opt/mounts/mnt2
+                         3.7T  674G  3.0T  19% /opt/mounts/mnt4
+   94.75.222.249:/opt/mounts/mnt3
+                         3.7T  478G  3.2T  13% /opt/mounts/mnt5
+
+If we Analyze This, we see 94.75.221.186 which is SPL, but also 94.75.222.249.
+Both are leasewebs. So, X aka Cross.nl has 2 leaseweb archive boxes mounted.. 
+How 1337.
+
+May I remind you these guys are on/run ranked topsites. Leaseweb is super insecure,
+because they give out renter information to the cops. 
+Affils its time to take action :)
+
+
+
+Back to SPL.
+88.151.101.174 the Hungarian site called PCP. Quite nice and speedy. Affils
+not bad etc.etc. but hey, thats not what we're here for.
+
+(Insert Pic 8 Here)
+
+  PCP PCD GUEST iNKiSO DRUGLORDS TFAiSO DST
+  LGD pHASE AMNiSO DEVOTiON
+  REV0 FSiHD FRiENDS STAFF WiiERD VBT CROSSBOW
+  NeDiVx eNRAGE XII BOW EPTiSO
+
+Nice affils guys.. Too bad you're using leaseweb :<
+
+(Insert Pic 9 Here)
+
+  i174-101:~# df -h
+  Filesystem            Size  Used Avail Use% Mounted on
+  /dev/sdb3             914G  788G   80G   91% /
+  tmpfs                 973M     0  973M    0% /lib/init/rw
+  udev                   10M   52K   10M    1% /dev
+  tmpfs                 973M     0  973M    0% /dev/shm
+  /dev/sdb1             122M   35M   81M   31% /boot
+  /dev/sda              202G   26G  166G   14% /opt/glftpd/site
+  94.75.221.186:/opt/mounts/mnt1
+                        3.6T  2.1T  1.4T  61% /opt/mounts/mnt1 
+  94.75.221.186:/opt/mounts/mnt2
+                        3.6T  3.4T  4.8G 100% /opt/mounts/mnt2 
+
+Note how these guys have their entire system uncrypted.
+Also there was no trace of a VPN. So this site is extremely insecure,
+using no encryption at all.
+
+
+
+And back to SPL again for the 3rd site: 93.190.140.218
+Worldstream site called LSD. They use a leaseweb entry bnc.. nerds!
+
+
+   [1] 227 Entering Passive Mode (93,190,140,218,218,102)
+   [1] Openen verbinding IP: 93.190.140.218 POORT: 55910
+   [1]     LIST -al
+   [1] 150 Opening ASCII mode data connection for directory listing using SSL/TLS.
+   [1] Coderingsalgoritme: TLSv1 EDH-DSS-DES-CBC-SHA-56
+   [1] 226- [Ul: 0.0MB] [Dl: 158007.3MB] [Speed: 0.00K/s] [Free: 121937MB]
+   [1] 226  [Section: DEFAULT] [Credits: 14.6MB] [Ratio: Unlimited]
+   [1] Opmaken lijst voltooid: 189 bytes in 0,33 seconden (0,58KB/s)
+   [1]     site users 1
+   [1] 200- Detailed User Listing...
+   [1] 200- res             PCD        UL:    0MB      DL:158012M      Credit:    15MB
+   [1] 200- bnccheck        STAFF      UL:    0MB      DL:    0MB      Credit:    15MB
+   [1] 200- Thugst3r        eNRAGE     UL:458573M      DL:2338816      Credit: 217251MB
+   [1] 200- Asgard          PCD        UL:440991M      DL:1914260      Credit: 74374MB
+   [1] 200- wookie          PCD        UL:1108080      DL:3973615      Credit: 1056626MB
+   [1] 200- glftpd                     UL:    0MB      DL:    0MB      Credit:     5MB
+   [1] 200- bags            DST        UL:394020M      DL:2045971      Credit: 397418MB
+   [1] 200- Uploaded: 2401664MB Downloaded:10430674MB Files Up: 82254 Files Down:399457
+   [1] 200- SITEOPS=7, GADMINS=0, LEECH=2, DELETED=0
+   [1] 200 7 Total members.
+
+(Insert Pic 10 Here)
+
+Note how again wookie is siteop, together with a guy from Replica. Hey wookie,
+didn't know u where in PROTOCOL :>
+
+
+   [1] 200- #users  Group Abbr.      Group Description
+   [1] 200- ----------------------------------------------------------------------
+   [1] 200- (   0)  glftpd           glftpd
+   [1] 200- (   0)  NoGroup          No Group
+   [1] 200- (   5)  STAFF
+   [1] 200- (  11)  PCD              PharaCyDe
+   [1] 200- (   6)  ISO              ISO
+   [1] 200- (   1)  Supply           Supply
+   [1] 200- (   7)  eNRAGE           eNRAGE
+   [1] 200- (   1)  GUESTPRE         GUESTPRE
+   [1] 200- (   2)  AMNiSO           AMNiSO
+   [1] 200- (  12)  Friends          Friends of LSD
+   [1] 200- (   8)  DST              DISTANCE
+   [1] 200- (   8)  PROTOCOL         PROTOCOL
+   [1] 200- (   4)  pHASE            pHASE
+   [1] 200- (   9)  Pr0nStarS        Pr0nStarS
+   [1] 200- (   2)  TFAiSO           The Flame Arrow
+   [1] 200- (   4)  EDC              EDC
+   [1] 200- (   1)  TRiPPERS         iND
+   [1] 200- (   2)  DEVOTiON         DEVOTiON
+   [1] 200- (   8)  IND              Independant
+   [1] 200- (   0)  TRIAL            TRIAL
+   [1] 200- (   1)  LSD              LSD
+   [1] 200- (   2)  EPTiSO           EPTiSO
+   [1] 200- (   1)  GUEST            GUEST
+   [1] 200- (   8)  METiS            METiS
+   [1] 200- (   4)  LGD              LEGENDARY
+   [1] 200- (   2)  REWARD           REWARD
+   [1] 200- (   2)  PreCiSiON        GUEST group
+   [1] 200- (   6)  iCON             iCON
+   [1] 200- (   5)  DASH             DASH
+   [1] 200- (  19)  CURRY            CURRY
+   [1] 200- (   3)  AMW              AMW
+   [1] 200- (   1)  TOWiSO           TOWiSO
+   [1] 200-
+   [1] 200-  *STAFFPRE        My Private Group
+   [1] 200-  *CUSTOM          My Private Custom
+   [1] 200-  *Supply          My Private Supply
+   [1] 200-
+   [1] 200- A '*' denotes a private group.  Type SITE CHGRP to add
+   [1] 200- or remove users from these groups.
+   [1] 200-
+   [1] 200 32 user groups, 3 privileged groups.
+
+(Insert Pic 11 Here)
+
+PROTOCOL Pr0nStarS METiS REWARD PreCiSiON iCON DASH TOWiSO
+Note that Replica might guestpre here.
+
+
+Other sites who can consider themselves warned:
+Lame    .se site using a leaseweb entry bnc: 85.17.133.x -> 88.80.x.x 
+TUX     again leaseweb ebnc
+ZLH     Also a leaseweb ebnc: 85.17.87.x
+
+
+I've seen enough of these sites.. Affils, decide what u do with this info yourself.
+Be smart and get away from yr insecure shite. I think the proof in this NFO should
+be more then enough.
+Do a WHOIS on your sites next time you take one.
+www.whois.sc/ip.address.here
+
+
+Read on though, there's more juice on this res guy.
+
+Next issue, so called FXP-Scene.
+The FXP-Scene consists of racing/filling hacked servers with scene content.
+
+So, once upon a time there was a guy who installed a proxy kit on his box.
+I guess he set it on his ftprush as global proxy on his local pc, or he lets
+users from TEAM PH0ENIX use it.
+
+c:/WINNT/Tasks/Scheduler/SpoonProxy/at32.exe
+
+Don't deny it res, HoornHardcore showed me logs:
+
+[19:59 27/04/2010] [at32.exe] (68.183.27.67:58106) << USER bash
+[19:59 27/04/2010] [at32.exe] (94.75.221.186:24517) >> USER bash
+[19:59 27/04/2010] [at32.exe] (68.183.27.67:58106) << PASS g0d***
+[19:59 27/04/2010] [at32.exe] (94.75.221.186:24517) >> PASS g0d*** 
+[17:46 28/04/2010] [at32.exe] (84.108.13.116:37649) << USER filler
+[17:46 28/04/2010] [at32.exe] (217.23.7.43:4088) >> USER filler
+[17:46 28/04/2010] [at32.exe] (84.108.13.116:37649) << PASS pho004b4
+[17:46 28/04/2010] [at32.exe] (217.23.7.43:4088) >> PASS pho004b4
+
+
+[18:08 29/04/2010] [at32.exe] (84.108.13.116:56488) << USER filler
+[18:08 29/04/2010] [at32.exe] (217.23.7.43:4088) >> USER filler
+[18:08 29/04/2010] [at32.exe] (84.108.13.116:56488) << PASS pho004b4
+[18:08 29/04/2010] [at32.exe] (217.23.7.43:4088) >> PASS pho004b4
+
+Note how he logs in with user bash to his SPL leaseweb shit. Then he uses the same
+proxy to access his hacked server for filling.
+
+
+
+So to sum it up, this guy runs a rented leaseweb box with a couple tb, which he
+then mounts to sites where he and wookie have shell access. That makes wookie
+just as insecure as res, because i'm pretty sure none of these affils know
+that the archive is lw.
+
+Also this guy is in fxpscene, considered he is in PCD and friends of wookie,
+we can conclude wookie knows this and both wookie and res are a big security hole.
+
+Seeing all this, makes me wonder if wookie's "legit" worldstream's are rly legit.
+
+From what I know the 94.75.x range is all rented.
+That being said, if they are rented.. Where does he get the money to pay for the
+links ? I found about 3 worldstreams where this guy was op on, i know they are
+multi-gbit. So he sells slots too? Or sells to p2p or something?
+Oh wait, i forgot he's a millionairre living in the Caribbean Islands ;)
+
+res aka ^resrant on linknet is in the following groups:
+XII, LMAO, GNARLY, REV0, IMMERSE
+This makes all these a security risk because they are affiliated with leasewebs.
+
+
+Affils, its time to take action against leaseweb / ovh sites. None of those
+are secure/legit/protected etc.
+
+
+
+Notice by hoornhardcore for the crappy sitescene:
+
+I have not much interest in talking english. This because i dont have ages to spend on this.
+But its once again that i hack a stupid str0 from you.
+This time its no torrent but a retard who is playhing around on and over leasweb str0's :S
+If i remember right u all set the rule to disallow leaseweb sites????????
+
+  so Why the fuck dont you follow the rule???
+
+
+I am a real lonewolf driven by hate and revenge and nothing bothers me
+I hack purely because of the kick and because i like it....
+NoPE did torrents.... and i HATEEEEEE torrents and emule and every other crappy p2p stuff.
+So yea... sry people it gave my an enourmous rush... and now yet again a stupid insecure IDIOT.
+I can steal all his sites and races.... leak them ... AND EVEN HACK EVERYTHING ATTACHED TO HIS SITE....
+If i had BAD intentions i COULD have black mailed him among other things........
+Once again a rush... and yes i am that childish ... but I NEVER bluff!!!!
+Should i send all ips and logs and everything to BREIN/INTERPOL/FBI or any instance????
+Be glad im only a hacker and i have no bad intentions but if needed i wont hold back to
+just send a beautiful package with all the information from all of the sites and everything attached to it to any of the instaces like brein etc...
+:) but for now be glad that im on the right side.....
+
+For those interested i will be available on link net until suday night 0.00 nick: hoornhardc
+After that time i will leave... Questions and bitching allowed but dont go play the Though guy as you will get ur arse handed to you.
+Dont think i do this to destroy cause if that was my intention that would already been done!!!!
+This is just to cleanup on INSECURE people or people that hold their OWN rules....
+
+To all readers in sitescene that are torrenting on the site ... think twice... hoornhardcore will find you !!!
+And then like NOPE u will lose the years u spend working on it all!!!!!
+
+DING DONG M*THERF*CKERS DING DONG !!!
+
+Greets to all!!!!!
+
+   -- my special thanks to my big friend that have write this nice notice for
+                   the second time :) thank you (K)
+
+-------- "Lies vs Truth ....Then Nothing is true... Everything is possible" ------ (WaNTeD®)
+
+         --- The Site Scene is bleeding hard now! give it girly alldays ---- (hh®)
+
+             ---- Mess with the best, die like the rest ! ---- (Hackers®)
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+Site named SL** is no longer
+
+It decided to close due to major fuckin insecurity and fuckin kiddies in the scene.
+
+Below is info on the person who triggered this shit off, if you have him on your sites delete/purge immediately.
+
+This person was checking user accounts on a site he runs called -TLL-
+
+He would then try random sites user the same login details via irc invite and on many occastions he would get in and idle in channel under various nicks.
+
+When i caught on this happening I confronted the account that was being used and this person had no idea it was happening.
+
+To make this even shitter, the guy would use proxies to match shitty IP's on accounts with 2 octets i,e, 208.12.*.* and would leech away.  We are not 100% sure how long this was happening but its gotta have been quite a while.
+
+When I msg'd the person who was doing this, he started with the abuse and theats including reports to FBi etc.  I know this is more than likely fuckin bullshit but we dont want to take no chances.
+
+After this he started guessing passwords of random users.  All he was doing was using the login and trying the password using the login name and he got in a few times!  How dumb can people really be to use both the same login and password?
+
+Word of advice to anyone, every fuckin site you are on, have a different fucking password and dont risk shit.
+
+K this is the person who did the above.  This is all the info I have on him at the moment.
+
+He runs a 3x 100mbit 1TB site called -TLL-
+
+These are the site details:
+
+216.234.250.50:2121
+
+and these are his aliases. This is all the same guy!
+
+(( /whois start ))
+killer is "*" (~unix@LinkNet-743fed20d6.comcast.net)
+ЧЫ killer using link-net.org (LinkNet IRC Network)
+(( /whois end ))
+
+lk  unix@. * *
+lk is a registered nick
+Channels: #-TLL-Spam #-tll-pre #-TLL-
+Server: irc.the-lair.net The Lair Corporation
+lk is a Network Administrator
+lk is available for help.
+lk is using a Secure Connection
+Idle: 6hrs 24mins 51secs
+lk End of /WHOIS list.
+
+(18:10:26)  ЧЫ killabee^ is "*" (~unix@LinkNet-b4cded4a34.comcast.net)
+(18:10:26)  ЧЫ killabee^ using link-net.org (LinkNet IRC Network)
+(18:10:26)  ЧЫ killabee^ has been idle for 12mins 32secs
+(18:10:26)  ЧЫ killabee^ signed on 1day 15hrs 9secs ago
+(18:10:26) (( /whois end ))
+
+he is also on linknet in channel #chat
+
+also using nick MrMike on 17th Auguest 2005.
+
+Take this fucking asshole down.  This is the shit that makes this whole thing insecure, little script wanna be kiddies who ruin it for the rest of us who work hard for our shit.
+
+To all those who knew this site, its been a fuckin great time and experience over the last year and a half, it will sadly be missed.
+
+Cya
+
+<br />
+<b>Warning</b>:  mysql_connect(): Access denied for user: 'root@localhost' (Using password: YES) in <b>/home/yourfile/public_html/functions.php</b> on line <b>496</b><br />
+ќшибка подключени€ к базе данных: 

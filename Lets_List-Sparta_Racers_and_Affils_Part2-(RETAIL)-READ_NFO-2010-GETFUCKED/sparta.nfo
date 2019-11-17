@@ -1,0 +1,341 @@
+Well, here we are, creeping up on a month after my last NFO of this unsecure
+site formly named Sparta and now called X. We know we told everyone you'd only
+have to wait for another week for all the rest of the info to come out, but we
+wanted to make sure that we captured all the affiliate groups that PRE from this
+site. 
+
+<&X> vr0000m.1-xs.com:46449
+<&X> wazza.xftp.info:+13773
+
+It is in your best interest to actually read all of this, as it contains some pretty
+good information... did we mention, Slave IPs? :) (thanks RFS-JAY)
+
+Let us get something off our chests first and foremost. 
+
+Sparta/X staff, Dont threaten people because you're getting NFO'd. You look childish
+and very immature. You're already the most insecure site on the net, if you really
+wanna go for 3 out of 3, be our guest... but keep your fucking mouth shut. Last time
+you little girls ran around thinking you knew everything about who did what.. but
+the fact of the matter is, you know absolutely nothing.. kind of ironic b/c you
+clearly know nothing about security, either. Haha, see what we did there? Anyway. This
+time around, shut your fucking site down, close your paypal account out and disappear
+from the scene. Just fucking quit. Aren't you getting tired of changing your DNS all
+thet time? JiMBO aren't you tired of tracking down your payers, begging them to continue
+to support your site, when infact all they want to do is get away from you guys.
+
+Now, lets cover the little bit of the mechanics of the scripts we wrote to gather all the
+nicknames, usernames and affil groups that pre from this site.. Pretty secure site right?
+Probably not... Like we said earlier, just fucking stop, Sparta/X.
+
+
+on *:TEXT:*:#X-CHAT,#X-PRE:{
+  if ($readini(sparta.ini,n,ChatNicks,$nick) == $null) { writeini -n sparta.ini ChatNicks $nick 1 | return }
+}
+on *:TEXT:*:#X,#X-FR,#X-NORDIC,#X-SPAM:{
+  if ($regex(RaceNicks,$strip($1-),/\(- \d{1,2} -\) (.*) \((.*)\)/i) > 0) {
+    if ($readini(sparta.ini,n,RaceNicks,$regml(RaceNicks,1)) == $null) { writeini -n sparta.ini RaceNicks $regml(RaceNicks,1) 1 | return }
+  }
+  if ($regex($strip($1-),/(GODSEND in (.*) -> (.*) size)/Si) > 0) {
+    var %group $gettok($regml(3),-1,45)
+    if ($readini(sparta.ini,n,Affils,%group) == $null) { writeini -n sparta.ini Affils %group 1 | return }
+  }
+}
+
+Guess you're probably wondering what the results of this little script was.. Well, here
+you go. We'll start by listing the affils first, since they look the dumbest.
+
+[Affils]
+CME=1
+YUMYUM=1
+KTR=1
+BAWLS=1
+ATTiCA=1
+CRiMSON=1
+OMiCRON=1
+RESTOCK=1
+REVOLT=1
+W4F=1
+Xplode=1
+FLiK=1
+COCMP3=1
+FLOW=1
+MHQ=1
+ATTiCA_Internal=1
+eMAG=1
+SkuLLFucK=1
+VIAZAC=1
+ESEXXX=1
+Recycled=1
+DoR2=1
+REVOLTE=1
+WPi=1
+oNePiEcE=1
+bFg=1
+CiNEPHiLE=1
+SITC=1
+x0DuS=1
+FRP_INT=1
+0MNiDVD=1
+eMF=1
+TESORO=1
+LhBoX=1
+GAYGAY=1
+FRP=1
+SCiENCES=1
+ToF=1
+0MNi_INT=1
+EXT=1
+ANiPUNK=1
+FiXO=1
+OOKAMI=1
+BULLDOZER=1
+vXv=1
+ARM=1
+
+Chat nicknames next...
+
+[ChatNicks]
+Sylosis=1
+_t=1
+upper=1
+JiMBO=1
+WaNTeD=1
+Athena=1
+PRE=1
+prebawt=1
+bigz=1
+Merrrlin-=1
+NJYAH=1
+Gompi=1
+A7X=1
+bundy=1
+snuff=1
+Ringo=1
+GSM=1
+Skr3D=1
+walkman=1
+mardoido=1
+Auto-Nuker=1
+Sicily=1
+LrZ=1
+pi-_-=1
+Gui=1
+starski=1
+Thermaltak=1
+splendidnuts=1
+dell=1
+WereWolf=1
+drems=1
+Typh0on=1
+h00k=1
+VERSiTiLE=1
+Allam=1
+Cogster=1
+_BOOTH_=1
+Ronald0=1
+X=1
+zgf=1
+Foolit=1
+CrystalCore=1
+dubs=1
+RAiSiN=1
+g00nz=1
+anthr4x=1
+homedepot=1
+wojo=1
+BOSSMAN=1
+Miko=1
+L4G04=1
+X_on=1
+__X__=1
+alcapon3=1
+cps=1
+MD0=1
+YoungMoneY=1
+dler=1
+skeeter=1
+HipHopHead=1
+CINH=1
+Bull=1
+brian=1
+NoXs=1
+kancX=1
+Slut=1
+hakman=1
+Jesus=1
+fighterjet=1
+pi`-`=1
+NitE=1
+Sucka=1
+_voegele=1
+Neuron=1
+squigster=1
+deadend=1
+RFS-JAY=1
+dmpkt=1
+fel0n=1
+DeLorimier=1
+kancX-=1
+banx=1
+tobinbell=1
+Than0s=1
+sm0k3yyy=1
+
+Race nicknames next...
+[RaceNicks]
+__X__=1
+IceCore=1
+Manuel=1
+Ringo=1
+RiPPeR=1
+Cataclysm=1
+bl4nk4=1
+Shanya=1
+gnu=1
+S_G=1
+WaNTeD=1
+Xon=1
+pi314=1
+m1b=1
+Fizzer=1
+fuxno=1
+unf0rgiven=1
+slapnutz=1
+bundy=1
+VooDoo=1
+VERSiTiLE=1
+walkman=1
+bind=1
+colt45=1
+bobooboo=1
+slut=1
+CANToNA=1
+upper=1
+some1=1
+backfill=1
+chgay=1
+z1yn=1
+pitfall=1
+hyyerr=1
+LrZ=1
+dadude=1
+sant0s=1
+BillGates=1
+bigz=1
+delline=1
+L4G04=1
+R34Dy2MiX=1
+585=1
+YUMYUM=1
+shame=1
+alcapon3=1
+99=1
+kancX=1
+Miko=1
+antitrust=1
+borat=1
+Mr.Cinderella=1
+sprocket=1
+ikea=1
+aerofx=1
+GD=1
+black=1
+spiers=1
+TDK=1
+Zod=1
+000=1
+setsonly=1
+Jr=1
+alnite=1
+iR0nSPid3R=1
+h00k=1
+Armaf=1
+drems=1
+jayhawk=1
+Ralph=1
+boss=1
+Cogster=1
+MDO=1
+y6y=1
+Skr3D=1
+watkyn=1
+bizmarkie=1
+frozz=1
+pftpsux=1
+T0m=1
+CSI=1
+HunnyBoy=1
+ZotacIon=1
+Donkey=1
+joh=1
+DeLorimier=1
+WhoAmI=1
+PHl0R=1
+CINH=1
+Babe=1
+999=1
+0000=1
+ReDeYe=1
+infekted=1
+diTeacher=1
+sm0ke=1
+Allam=1
+starshine=1
+6y6y=1
+seven=1
+RFS-JAY=1
+slithme=1
+MetalCore=1
+L0sTs0UL=1
+Jesus=1
+Sicily=1
+Dual=1
+fel0n=1
+BINGER=1
+CP3=1
+1585=1
+L1pra=1
+Than0s=1
+carl=1
+Headhunter=1
+
+
+As you can see, well, as long as your not missing a brain.. You can see that our gathering
+script worked out pretty well for us. No, we're not going to pretty it up.
+
+One thing we are going to do now, is discuss slave IPs.. If you're a siteop get your head
+out of your ass and firewall inbound and outbound connections to the following IP addresses:
+
+95.211.88.21
+95.211.88.22
+95.211.88.23
+95.211.88.24
+95.211.88.25
+95.211.88.26
+95.211.88.27
+95.211.88.28
+
+We're is all the proof that you guys are claiming you have? Eh, its right here. Lets discuss
+the screen shots so that we're all crystal fucking clear about whats actually going on here.
+
+95.211.88.21.jpg --> Proof of slave "XS1" being bound to IP 95.211.88.21
+95.211.88.22.jpg --> Proof of slave "XS2" being bound to IP 95.211.88.22
+95.211.88.23.jpg --> Proof of slave "XS3" being bound to IP 95.211.88.23
+95.211.88.24.jpg --> Proof of slave "XS4" being bound to IP 95.211.88.24
+95.211.88.25.jpg --> Proof of slave "XS5" being bound to IP 95.211.88.25
+95.211.88.26.jpg --> Proof of slave "XS6" being bound to IP 95.211.88.26
+95.211.88.27.jpg --> Proof of slave "XS7" being bound to IP 95.211.88.27
+95.211.88.28.jpg --> Proof of slave "XS8" being bound to IP 95.211.88.28
+--
+email1.jpg --> One of the renewal emails we got from them letting us know our next payment was due.
+email2.jpg --> Email we recieved after we NFO'd them the last time, to make us aware of the new BNC.
+--
+rootdir1.jpg --> Main directory listing of the site.. this place is huge.. and we let them get away with it.
+rootdir2.jpg --> So many directories we had to take a second screen shot.
+
+Screen shots from our previous NFO are included. We're too lazy to screen shot the same IRC channels
+over and over and over again. Its pointless. 
+
+Here is your proof. Get rid of this site. Firewall these IPs.
+
+Enjoy.

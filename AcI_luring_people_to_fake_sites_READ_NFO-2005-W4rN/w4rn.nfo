@@ -1,0 +1,74 @@
+This "notice" is to alert everyone of a possible hoax/scam or worse, please take your time to read everything listed below and you will understand why this notice was sent out - which I did not really want to put out, but was requested to do so by several concerned people.
+
+A few weeks ago, I was contacted by an affil on a site i am on that some friend of theirs is on a site that they affil on and question them about it.. but they were not on that site and wanted to know what the hell was going on.. I replied I did not know of course -- since i didn't.
+
+Today, I am contacted by ANOTHER affil being told the same, but... this one had some more information.. Here is what i have managed to dig up in a short time, and while you are reading.. i agree none of it makes sense..
+
+There is supposenly a site called "JFF" (sorry, would not include a sitename in a notice under any other circumstance -- not that i send out any notices:), which is supposenly 1gbit... all good until now... HOWEVER.. lets look closer at their affils, which you will notice has... 1-2 similarities with one of my sites..
+
+My site's DVDR affils are as follows:
+DVDR: D******** W** W********* B** B****R F***C D** G*** i******* M*** N** S**********S T**** U** **F S****** B*** W**** i**
+
+..Now lets look at this other site's affils :))
+
+DVDR: D******** W** W********* B** B****R F***C D** G*** i******* M*** N** S**********S T**** U** **F S****** B*** W**** i** aNBc Replica VideoDVD FICODVD
+
+Now.. Why didn't i mark out these affils??? Too good to be true to start with, and anybody you know from those groups can more than likely tell you they are on no such site... now wait.... Could it be a complete coincidence... same affils (and more).. and same order.. something fishy is going on i thought.. Specially since at least 2 affils report to me that they are on no such site..
+
+So I tell this affil i will sort stuff out, because this was serious... a site i am on is being "cloned" to recruite other affils... and users. At first i thought it was one of the siteops, so i closed down the siteops -- leaving only the 2 people i completly trust and knew they wouldnt be and i could count on with anything. (This was with the assumption that a siteop was behind it and was leaking pres and then preing them on this site)
+
+So when I finish securing some stuff and locking down accounts, I ask this affil to tell me some more information since it was really serious and we had to find out who it is.. This person then asks his friend which was also being scammed about more information for the affils etc... So Lets analize some more affils on my site and this other site:
+
+my site:
+DVDR-CUSTOM: S****** SU*****
+TV: S** W** G*** M*** **F B***
+XVID: W** B** i******** i******* M*** i*** U** **F i**
+MP3: R** **d U** B** F**** m***
+XXX: T****
+
+other site:
+DVDR-CUSTOM: S****** SU*****
+TV: S** W** G*** M*** **F B*** LOL TCM TVL
+XVID: W** B** i******** i******* M*** i*** U** **F i** TDL
+MP3: R** **d U** B** F**** m***
+XXX: T**** PEEPSHOW DFA
+
+
+Then.. when the affil tells his friend that its a copy of a site he's on.. the guy just wouldnt believe it.. he wanted proof...
+1> hmmm what is your 0day affil
+2> L**** **S
+1> what about psp
+2> **G
+2> ...
+1> same
+-----------
+P.S. **G only affils on my site, i know that personally :)
+(2 is affil, 1 is his friend)
+
+By the time i found this out, i just HAD to know who was behind this because it was a very stupid problem to have, and a security risk of course, so 2 asked 1 who is talking to them since 1 is supposed to be in a group that was being lured to join cuz it was this super site shown to them.. and i believe in the log, 1 was so happy that Centropy was in it too, but hey.. i dont have it in that affil list i was shown i dont think..
+
+Then.. all of a sudden, someone's name, whos been on my site for a long time just surfaces out of someone who has never seen my site (1).. i was shocked... it was AcI/AcI1/AcI2 (take a pick... he apparently uses all of them). This user was purged from at least 2 sites I am aware of, possibly a third -- before this notice was written because people in the site found out and wanted to know what the hell was going on..
+
+All I know about AcI is that he's apparently from the UK:
+
+AcI is AcI@82-69-111-135.dsl.in-addr.zen.co.uk * Aci
+AcI using link-net.org LinkNet IRC Network
+AcI is an SSL Encrypted Client
+AcI End of /WHOIS list.
+
+I was only planning to only /whois him on LinkNET and not EFNet (which i am not sure he's on -- but i knew i could get his ip if he was).. but hey -- if he doesnt know about +h he probably wanted his IP to be known :) I did a quick /whois on him on After-All also since i was on it, and he seems to be on as AcI and as AcI2 -- same ip ranges (didnt even bother to mask his host with the available hostserv features on that network) -- Now why does he need 2 nicks (which hardly differ from eachother:).. same network.. same ip :)
+
+Now, I am still thinking, and you probably are too.. What the hell does he gain, since whoever joins will be surprised that none of the affils that are being told are actually there.. it just dont make sense.. why is he trying to lure people to this site. Thinking out loud i told to some people for all we know he can be a fed (where many people agreed)... I have no proof of this so I do not want to accuse him of that, but I dont have proof of him not being a fed either -- I personally am not taking the chances, and was told by several people to put out this notice (as listed above).
+
+From the information listed above (like his linknet whois info) he isnt really bright is he? ... thats one good reason to get rid of him.. he is not smart enough to even use basic host masking on linknet :/
+..lies to his potential affils :/
+..apparently gains nothing by his potential affils if they affil, since none of the affils he tells them he has are actually there :/
+..I _STILL_ dont see his motives.. thats what scares me
+
+This JFF site is apparently on "xrc" (i have no fucking idea where the hell that is -- IRC NETWORK/SERVER) and the sitebot is called "_JFF_" and more than likely running drftpd.
+
+I have shown you most of what i have seen (ive got logs)... but will not post them word for word since some people involved do not want their name shown -- now it is up to you to deal with it accordingly.
+
+Thank you for taking your time to read all this.. Please also write down his host mask and be careful of anybody approaching you with another nick but same host (basically be careful of anybody offering you sites that is on zen.co.uk).
+
+P.S. It would be nice for some of the groups that were listed as being on that site and are not (the ones left unstar'd) to post in the nfo of their next rls about them not being on such a site so that unbelievers can verify

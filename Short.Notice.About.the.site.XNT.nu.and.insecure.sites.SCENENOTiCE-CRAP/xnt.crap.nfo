@@ -1,0 +1,36 @@
+Hello!
+
+I know there's a lot of crap sites located in .se which usually have a at least a few insecure users. 
+I am just urging you siteops who are not involved with p2p to check your sites for users 
+sending files to rented hosts such as OVH. Today I looked into a site named XNT.
+
+The site in question which receives a lot of releases a short period of time after pre most likely get their
+stuff from Swedish sites judging by the amount of crap being uploaded such as old DVD9's from 
+questionable groups.
+
+Here's an example for you:
+Out.Cold.2001.NORDiC.PAL.DVD9-CENTiMETER Added 2010-04-01 02:28:25
+
+Who trades this crap if I may ask? A fair assumption would be that this release is downloaded
+directly from the (only?) affil site they've got. Just recently a user at this site pasted
+an auto script which only function was to send releases to XNT's glftpd-server. 
+
+"(SweRaz0r) dll rushmirc.dll RushScript RushApp.FTP.Transfer(0,'','','',' $+ %CHAIN1 $+ ; $+ %CHAIN2 $+ ',' $+ %bookmark $+ ',' $+ %rlz $+ ', 0 , '','','','','([^\w]*100%[^\w]*)|([^\w]*-\sCOMPLETE\s\)[^\w]*)|([^\w]*-\sCOMPLETE\s-[^\w]*)',40,0,0,0, &"
+"(SweRaz0r) dll rushmirc.dll RushScript RushApp.FTP.Transfer(0,'','','',' $+ %CHAIN1 $+ ; $+ %CHAIN2 $+ ',' $+ %bookmark $+ ',' $+ %rlz $+ ', 0 , '','','','','([^\w]*100%[^\w]*)|([^\w]*-\sCOMPLETE\s\)[^\w]*)|([^\w]*-\sCOMPLETE\s-[^\w]*)',40,0,0,0, &"
+
+This user had not sent anything to the site this month and was added to the group "CyC" (What's CyC, ey?). 
+He/she must have had a leech slot judging by the upload. You are free to draw your own conclusions...
+
+That's about it! I don't know if I have anything more to add. Just stay secure and keep your ass away from
+rented sites and make sure your users do so as well. Who knows where all these drftpd .se-sites find their 
+slaves? Is P2P a reasonable guess? Whatever.. I guess.
+
+Yours sincerely,
+
+Me
+
+-----------------
+
+XNT.nu's glftpd server hosted on OVH (Check if any of your users have sent/is sending to this ip):
+
+94.23.45.26:9876

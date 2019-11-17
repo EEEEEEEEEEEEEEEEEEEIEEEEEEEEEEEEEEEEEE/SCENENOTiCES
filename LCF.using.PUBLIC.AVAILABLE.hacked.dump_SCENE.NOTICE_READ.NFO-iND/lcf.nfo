@@ -1,0 +1,43 @@
+		From the producers of glftpd.plus.phpsysinfo.plus.google.AINT.SMART-(Several.sites.and-or.dumps)-READ.NFO-iND
+			Now presenting "The truth about LCF!" - A followup production, one of MANY more to come!
+
+						Sponsored by: google + a working brain
+
+
+So, new day, new DEVESTATING findings, sadly.
+
+We felt that the given example-query for google (or/and other search engines) should be explored more, and we were SHOCKED when we came to page 3
+of the result-page.
+We found what looks like a HACKED FreeBSB box running some sort of dumpsite.. but wait, the shit is mounted into a public_html dir.. figured it was
+worth checking it out. As we feared; PUBLIC available via WEB!
+
+But the shit didnt stop there, what we FOUND did. Really, it literally made me stop and look at the index.html's sourcecode to make sure. What we
+found is what looks like unreleased LCF rls'.
+
+Take a look at the original page that tipped us off: http://www.crispyserver.com/
+Google cache; http://64.233.179.104/search?q=cache:sHfFi_4UhB4J:www.crispyserver.com/+%22/glftpd/site/%22%2B%22System+Information%22%2B%22System+Vital%22&hl=no&gl=no&ct=clnk&cd=23
+This is also available as www.crispyserver.com.jpg
+
+
+Now take a look at that public_html dir via web: http://www.crispyserver.com/~elcx/lcf/rips/
+(no google cache)
+This is also available as www.crispyserver.com-elcx-lcf.jpg
+
+Extra shot; www.crispyserver.com.files.jpg
+
+
+We also included a .zip with the folder structure + sfv + nfo intact for u to look at.
+
+
+Conclusion: Draw one yourself, I think you're smart enough to know what to do with LCF and their users.
+
+
+ps: WTF's up with http://www.crispyserver.com/~xbox360d/ ?
+This is also available as xbox360degrees.jpg (original from web, only diff. is there's some text "Site coming soon... " below it at web.
+
+pps: here's elcx's pastebin: http://www.crispyserver.com/~elcx/ GOD knows where it outputs shit, but feel free to send elcx/LCF messages via it ;)
+
+
+Peace out!
+
+-Concerned iND'r

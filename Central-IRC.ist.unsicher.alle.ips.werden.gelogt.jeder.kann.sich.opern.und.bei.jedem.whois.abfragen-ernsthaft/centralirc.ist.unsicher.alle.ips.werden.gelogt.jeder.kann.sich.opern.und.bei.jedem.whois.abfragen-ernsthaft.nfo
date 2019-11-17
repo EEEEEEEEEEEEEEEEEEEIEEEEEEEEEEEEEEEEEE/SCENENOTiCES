@@ -1,0 +1,19 @@
+Leider muss es mal wieder sein, was ich gestern gesehen habe kann ich nicht glauben. Es gibt ein unsicheres Netzwerk welches vollgepackt ist mit SiteChans das es kracht.
+Ich hatte zugriff auf den server durch einen fahrlaessigen fehler des Server Owner unter anderem fand man auf den Platten welche nicht crypted waren logs mit mit IP´s sieht folgendermasen aus.
+
+Tue Feb  9 11:21:20 2010] - Connect - [The-KingBot]890151!~The-KingB@***** [VHOST *******.E86063D2.IP]
+[Tue Feb  9 11:25:49 2010] - Connect - GOLF3GT!Golf@*****.pools.arcor-ip.net [VHOST *****.arcor-ip.net]
+[Tue Feb  9 11:41:17 2010] - Disconnect - (0:29:36) [The-KingBot]810927!~The-KingB@*****.comcastbusiness.net [VHOST *****.hfc.comcastbusiness.net]
+[Tue Feb  9 11:44:39 2010] - Connect - [The-KingBot]810927!~The-KingB@*****.comcastbusiness.net [VHOST ****.comcastbusiness.net]
+[Tue Feb  9 13:17:24 2010] - Disconnect - (5:29:15) SkullSplitter!sKulls@*****ip.t-dialin.net [VHOST ******E.dip.t-dialin.net]
+[Tue Feb  9 13:17:25 2010] - Connect - SkullSplitter!sKulls@*****.dip.t-dialin.net [VHOST *****.dip.t-dialin.net]
+
+Soviel zum einen zum anderen war es mir moglich mich zu Opern und saemtliche User und IP´s abzufragen logisch Oper right´s.
+Am schlimmsten jedoch finde ich die Logs welche uncrypted auf dem Server liegen auf dem ihr euch mit euren Sites aufhaelt ist das eurer Meinung nach sicher?
+
+Anbei ein Paar screens.
+
+entscheidet in eurem Sinn!!!!
+
+gruesse
+ernsthaft

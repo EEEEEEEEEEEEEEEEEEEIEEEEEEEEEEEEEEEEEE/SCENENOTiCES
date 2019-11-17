@@ -1,0 +1,90 @@
+[22:13:20] <*> (22:13:41) (@_TsA_) [tsa BNC] tsa-uk-bnc.ath.cx:45400 .uk TLS : yes -UP- Response : 5337ms
+[22:13:21] <*> (22:13:43) (@_TsA_) [tsa BNC] tsa-de-bnc.ath.cx:45400 .de TLS : yes -UP- Response : 2051ms
+[22:13:21] <*> (22:13:46) (@_TsA_) [tsa BNC] tsa-dk-bnc.ath.cx:45400 .dk TLS : yes -UP- Response : 8933ms
+[22:13:21] <*> (22:13:48) (@_TsA_) [tsa BNC] tsa-de-2-bnc.ath.cx:45400 .de TLS : yes -UP- Response : 2458ms
+[22:13:32] <*> (17:57:11) —› (/who) _shadow_ (shadowgear@Linknet-306b35ce25.physik.TU-Berlin.DE) hello
+[22:13:33] <*> (17:57:11) —› (/who) maximal (r00x@Linknet-f59739f1f0.dsl.siol.net) r00x
+[22:13:35] <*> (17:57:11) —› (/who) LaZZo (kickass@Linknet-aec831637f.some.fuckingshit.org) xXx
+[22:13:36] <*> (17:57:11) —› (/who) Bijoux (Digital001@Linknet-727ba0c0f4.pool8175.interbusiness.it) Dig
+[22:13:38] <*> (17:57:11) —› (/who) spawn__ (~spawn@217.151.66.35) spawn
+[22:13:39] <*> (17:57:11) —› (/who) il (bios@80.178.256.256) bios
+[22:13:42] <*> (17:57:11) —› (/who) Tseeka (~4CHOON@ip-82-151-38-134.cable.texel.com) 4CHOON
+[22:13:42] <*> (17:57:11) —› (/who) _Blues_ (was@Linknet-6ac670925d.ewetel.net) avl.3.3
+[22:13:44] <*> (17:57:11) —› (/who) KuN (kun@Linknet-1a9237f3a0.com.mx) KuN
+[22:13:45] <*> (17:57:11) —› (/who) |Gilbert| (brujo@is.G-lined.com) Gilbert
+[22:13:47] <*> (17:57:11) —› (/who) FancyCatt (~fancycat@Linknet-39022e0995.dsl.siol.net) FancyCat
+[22:13:48] <*> (17:57:11) —› (/who) cicon_ (cicon@Linknet-5a5e79bf78.bredband.skanova.com) cicon
+[22:13:50] <*> (17:57:11) —› (/who) s4uron (~sauron@r2.soplicowo.net) sauron
+[22:13:52] <*> (17:57:11) —› (/who) Lucab (nz0@Linknet-5dd11c55a4.1-800-parties.com) lucab
+[22:13:53] <*> (17:57:11) —› (/who) |SluT| (~jeroen@Linknet-8ba83c1db2.shellhosting.nl) |SluT|
+[22:13:55] <*> (17:57:11) —› (/who) |AHILES| (~AHILES@Linknet-04a223fa72.dsl.siol.net) AHILES
+[22:13:56] <*> (17:57:11) —› (/who) LM^^ (fanta@Linknet-fee7e5ee5d.waw.pl) fantaa
+[22:13:58] <*> (17:57:11) —› (/who) g00ba (slaya@Linknet-490de61058.my.peeen.us) vec
+[22:13:59] <*> (17:57:11) —› (/who) PioNeir (pioking@Linknet-0707d28d79.cia-gov.us) PioNeir
+[22:14:00] <*> (17:57:11) —› (/who) vor (vorp@Linknet-0da1f10fce.ed.shawcable.net) vorpal
+[22:14:02] <*> (17:57:11) —› (/who) darkvor (vorp@Linknet-aafeb06066.mp3.assassin) vor
+[22:14:03] <*> (17:57:11) —› (/who) dArtagnan (pda@i.dont.smoke.pot.im.a.crack-head.us) C S C P D A .. 2 0 0 5
+[22:14:05] <*> (17:57:11) —› (/who) tomy (tomy@Linknet-4da4a3f52c.pop.bezeqint.net) pompo
+[22:14:06] <*> (17:57:11) —› (/who) mgm30 (mgmoe@61.38.256.256) mgmoe
+[22:14:08] <*> (17:57:11) —› (/who) _TsA_ (~TsA_P@213.219.256.256) TsA_P
+[22:14:10] <*> (17:57:11) —› (/who) HellsinG (~killer@Linknet-e6a2346396.agh.edu.pl) killer
+[22:14:11] <*> (17:57:11) —› (/who) |PSYCHO| (~psycho@Linknet-b94ddd022b.uni-mb.si) PSYCHO
+[22:14:12] <*> (17:57:11) —› (/who) N-e-R-o (WarezX@Linknet-036cac2355.lv.cox.net) donny maton
+[22:14:14] <*> (17:57:11) —› (/who) Jklo (Jklo@CBL217-132-156-228.bb.netvision.net.il) rising@rising.com
+[22:14:15] <*> (17:57:11) —› (/who) Bu||d06 (dj-storm@Linknet-df60d3c7c6.1337.polyphones.nu) Bu||d06
+[22:14:17] <*> (17:57:11) —› (/who) ^TsA^ (~TsA_A@213.219.256.256) ^TsA^
+[22:14:18] <*> (17:57:11) —› (/who) |ZEUS| (zeus@Linknet-341036f0c0.uni-mb.si) ZEUS
+[22:14:20] <*> (17:57:11) —› (/who) seann (music@wackside.org) farlokko
+[22:14:21] <*> (17:57:11) —› (/who) ogop (pogo@85.93.256.256) APPD
+[22:14:23] <*> (17:57:11) —› (/who) OdiMz (pu55y@Linknet-0802549fca.char.cc) blaa
+[22:14:24] <*> (17:57:11) —› (/who) Ischtivan (Ischtivan@is.leeching.from.nasa.se) Ischtivan
+[22:14:26] <*> (17:57:11) —› (/who) digitech (digitech@Linknet-cb18b35e9c.falcon-networks.com) DigiTech
+[22:14:27] <*> (17:57:11) —› (/who) iZaTxE (extazi@extazi.007spy.info) extazi
+[22:14:29] <*> (17:57:11) —› (/who) tracer- (tracer@is.having.sex.right.n0w.info) tracer
+[22:14:32] <*> (17:57:11) —› (/who) xnat (tanx@Linknet-56634cd3f3.host6.starman.ee) tanx
+[22:14:33] <*> (17:57:11) —› (/who) knIck (knIck@Linknet-9a1c3446b4.inaddr.intergenia.de) knIck
+[22:14:35] <*> (17:57:12) —› (/who) SkinneR^ (skinner@50C5941E.flatrate.dk) skinner
+[22:14:36] <*> (17:57:12) —› (/who) mceep (mceep@Linknet-2f89d4c20f.ctcp.de) mceep
+[22:14:38] <*> (17:57:12) —› (/who) [bg] (~none@Linknet-6c0b3bf6d5.topgamers.net) none
+[22:14:39] <*> (17:57:12) —› (/who) ic0r (ic0r@idler.an-die-macht.de) ]fire[
+[22:14:41] <*> (17:57:12) —› (/who) Bad_T^ (bad-t@Linknet-cdaa921078.mine.storeklunker.dk) bad-t
+[22:14:42] <*> (17:57:12) —› (/who) emPhaZer (emp@Linknet-5f919c0e8d.bb.online.no) e
+[22:14:54] <*> (17:57:12) —› (/who) claustro- (claustro@Linknet-8217d6320b.piuhateam.com) cla
+[22:14:56] <*> (17:57:12) —› (/who) |ODIN| (odin@Linknet-341036f0c0.uni-mb.si) ODIN
+[22:14:57] <*> (17:57:12) —› (/who) |REVERSY| (~reversy@Linknet-e81ec6cce4.uni-mb.si) REVERSY
+[22:14:59] <*> (17:57:12) —› (/who) |REVERSUM| (~reversum@Linknet-38409ff6e9.uni-mb.si) REVERSUM
+[22:15:00] <*> (17:57:12) —› (/who) Monsti (w4y2la7e@Linknet-3dfa1d5801.as.hell.at) monsti
+[22:15:02] <*> (17:57:12) —› (/who) [ghost] (root2@default.tixit.se) ghost2
+[22:15:03] <*> (17:57:12) —› (/who) _S__ (jonny71@i.hacked.the.gibson.and.all.i.got.was.this.lousydomain.info) _Ssh
+[22:15:05] <*> (17:57:12) —› (/who) _cube_ (kuba@Linknet-feba0685b2.edu.pl) kuba
+[22:15:06] <*> (17:57:12) —› (/who) |E____ (~efrem@Linknet-ff1873578b.f5.ngi.it) Efrem
+[22:15:08] <*> (17:57:12) —› (/who) IllNukeYa (footoo@Linknet-897a32c6c3.lawaclub.pl) footoo
+[22:15:09] <*> (17:57:12) —› (/who) BacKWooDz (dutch@Linknet-b85619724b.little.bitch-x.us) AMiNaL AM I
+[22:15:11] <*> (17:57:12) —› (/who) ceeshine (ok@Linknet-da729053a8.client2.attbi.com) Mattyg2
+[22:15:12] <*> (17:57:12) —› (/who) asesino (assassin@Linknet-86dd56b480.co.uk) x
+[22:15:14] <*> (17:57:12) —› (/who) DarkraD (darkrad@Linknet-1793f1773e.co.uk) darkrad3
+[22:15:15] <*> (17:57:12) —› (/who) arsenik^ (arsenik@Linknet-78dd1a43b9.wspa.edu.pl) guess who?
+[22:15:17] <*> (17:57:12) —› (/who) s|away| (samael@Linknet-db003c6423.agh.edu.pl) |samael|
+[22:15:18] <*> (17:57:12) —› (/who) Gunex (king@Linknet-dbe9d5dd32.4legends.de) wicked
+[22:15:20] <*> (17:57:12) —› (/who) smi (~blub@217.20.126.121) blub
+[22:15:21] <*> (17:57:12) —› (/who) cap^sx (capsx@Linknet-cf8251aaa8.lai.la) capsx
+[22:15:23] <*> (17:57:12) —› (/who) d3xtro (joker@Linknet-bd62bb7cce.r00t66.net) d3xtro
+[22:15:24] <*> (17:57:12) —› (/who) flyz (~flyz_@213-156-52-110.fastres.net) flyz_
+[22:15:26] <*> (17:57:12) —› (/who) |OZONY| (OZONY@Linknet-05a3126646.dsl.siol.net) OZONY
+[22:15:27] <*> (17:57:12) —› (/who) _proxy (voice@quit.fscking.us) voice
+[22:15:29] <*> (17:57:12) —› (/who) |Br33z3| (breeze@Linknet-034a0140fc.bulldogdsl.com) breeze
+[22:15:30] <*> (17:57:12) —› (/who) DragOff (~drag@Linknet-7501f03215.bmk.hu) drag
+[22:15:32] <*> (17:57:12) —› (/who) RaKiL (mediapool@194.29.229.30) LGD ownage
+[22:15:33] <*> (17:57:12) —› (/who) SoU|OuT (mentar@66.90.256.256) pimp
+[22:15:35] <*> (17:57:12) —› (/who) GePiYa (~gepiya@Linknet-ffd0d921e7.dak0r.de) gepiya
+[22:15:36] <*> (17:57:12) —› (/who) JPL (joohnypl@Linknet-cb1c9b82de.xs4all.nl) JPL
+[22:15:38] <*> (17:57:12) —› (/who) Perplexer (perplexer@AirWalker.thz.net) Nothing's impossible.
+[22:15:39] <*> (17:57:12) —› (/who) ArThAs (music@wackside.org) ArThAs
+[22:15:41] <*> (17:57:12) —› (/who) Trancy|Aw (kking@Linknet-854a69f47f.kuschelkueken.de) trancy
+[22:15:42] <*> (17:57:12) —› (/who) JonnyQ (senior@Linknet-2bcf5cb8fa.serverkompetenz.net) jonnyq
+[22:15:44] <*> (17:57:12) —› (/who) DJNameless (pioking@Linknet-46b921de3e.dreams.ro) DjNameless
+[22:15:45] <*> (17:57:12) —› (/who) h3v (h3v@Linknet-9d9e03ea7b.NOTEZ.ORG) HeaVen
+[22:15:47] <*> (17:57:12) —› (/who) Outlander (Fa2@i.fucked.your.girl.without-asking.de) Fa2
+[22:15:48] <*> (17:57:12) —› (/who) vampi (speedy2k4@81.209.256.256) Admin
+[22:15:50] <*> (17:57:12) —› (/who) jaws|BNC (~jaws@Linknet-c016c9aae5.a.us-airport.com) jaws
+[22:15:51] <*> (17:57:12) —› (/who) |unA| (imc@exploited.some.fbi.servers.and.g0tr00t.de) br00l4r

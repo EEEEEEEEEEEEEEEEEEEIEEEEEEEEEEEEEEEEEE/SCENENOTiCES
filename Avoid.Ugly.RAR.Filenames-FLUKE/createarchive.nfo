@@ -1,0 +1,12 @@
+RAR-archiver batchfile created by Fluke
+Create .rar + .r?? in variable volume sizes (default: 15000000byte)
+Please feel free to use :)
+And remember: http://whyrar.has.it/
+-----------------------------------
+
+Getting tired of archive.part???.rar ? Try this nifty batchfile :)
+
+Usage:
+Run in DOS-window
+createarchive archive_name files_to_extract volume_size
+Wildcards in filenames are allowed

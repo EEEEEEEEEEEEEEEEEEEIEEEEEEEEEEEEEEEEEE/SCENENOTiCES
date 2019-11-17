@@ -1,0 +1,1234 @@
+Sat Apr  4 16:21:53 2009 [10002   ] 'Ronnie' changed max_sim_up for 'buttonz' from '-1' to '0'
+Sat Apr  4 16:22:49 2009 [10088   ] 'ReggiE' changed credits for 'dyna-mite666' from '30000000' to '3000000'
+Sat Apr  4 16:23:03 2009 [10002   ] 'Ronnie' changed credits for 'buttonz' from '15000' to '150000000000'
+Sat Apr  4 16:23:38 2009 [10088   ] 'ReggiE' changed credits for 'dyna-mite666' from '3000000' to '300000'
+Sat Apr  4 16:23:43 2009 [10002   ] 'Ronnie' changed credits for 'Ronnie' from '15000' to '150000000000'
+Sat Apr  4 16:26:31 2009 [10383   ] 'Ronnie' changed credits for 'buttonz' from '150000000000' to '150000'
+Sat Apr  4 16:26:50 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '150000000000' to '150000'
+Sat Apr  4 16:28:08 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '150000' to '1500000'
+Sat Apr  4 16:28:23 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '1500000' to '15000000'
+Sat Apr  4 16:28:36 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '15000000' to '150000000'
+Sat Apr  4 16:29:55 2009 [10088   ] 'ReggiE' changed credits for 'dyna-mite666' from '300000' to '30000000'
+Sat Apr  4 16:30:09 2009 [10088   ] 'ReggiE' changed credits for 'fluid' from '300000000000' to '300000'
+Sat Apr  4 16:30:27 2009 [10088   ] 'ReggiE' changed credits for 'fluid' from '300000' to '30000000'
+Sat Apr  4 16:30:40 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '150000000' to '150000'
+Sat Apr  4 16:30:51 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '150000' to '1500000'
+Sat Apr  4 16:31:00 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '1500000' to '15000000'
+Sat Apr  4 16:31:17 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '15000000' to '150000000'
+
+Sat Apr  4 16:33:41 2009 [10088   ] 'ReggiE' added ip '*@81.152.*.*' to 'fluid'
+Sat Apr  4 16:34:05 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '150000000' to '30000000'
+Sat Apr  4 16:35:04 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '30000000' to '300000000'
+Sat Apr  4 16:38:20 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '300000000' to '308000000'
+Sat Apr  4 16:38:35 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '308000000' to '307000000'
+Sat Apr  4 16:39:07 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '307000000' to '157000000'
+Sat Apr  4 16:39:22 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '157000000' to '156000000'
+Sat Apr  4 16:39:31 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '156000000' to '155000000'
+Sat Apr  4 16:39:40 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '155000000' to '154000000'
+Sat Apr  4 16:39:48 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '154000000' to '153000000'
+Sat Apr  4 16:41:26 2009 [10088   ] 'ReggiE' changed credits for 'fluid' from '30000000' to '30000'
+Sat Apr  4 16:42:16 2009 [10088   ] 'ReggiE' changed credits for 'fluid' from '30000' to '30000'
+Sat Apr  4 16:42:30 2009 [10088   ] 'ReggiE' changed credits for 'hellb' from '300000000000' to '30000'
+Sat Apr  4 16:42:51 2009 [10088   ] 'ReggiE' changed credits for 'gazmcrea' from '300000000000' to '30000'
+Sat Apr  4 16:43:05 2009 [10088   ] 'ReggiE' changed credits for 'lukey' from '300000000000' to '30000'
+Sat Apr  4 16:43:20 2009 [10088   ] 'ReggiE' changed credits for 'fatboy' from '300000000000' to '30000'
+Sat Apr  4 16:43:21 2009 [10383   ] 'Ronnie' changed credits for 'Ronnie' from '153000000' to '307000000'
+Sat Apr  4 16:43:34 2009 [10088   ] 'ReggiE' changed credits for 'strip' from '300000000000' to '30000'
+Sat Apr  4 16:44:01 2009 [10088   ] 'ReggiE' changed credits for 'gazzalcfc' from '300000000000' to '30000'
+Sat Apr  4 16:44:55 2009 [10088   ] 'ReggiE' added ip '*@80.192.103.145' to 'lukey'
+Sat Apr  4 16:44:58 2009 [11329   ] 'Ronnie' changed credits for 'buttonz' from '150000' to '307000000
+
+Sat Apr  4 18:08:03 2009 [13858   ] 'Ronnie' added ip '*@1.1.1.1' to 'degs'
+Sat Apr  4 18:08:03 2009 [13858   ] 'Ronnie' added user 'degs' to group 'FRiENDS'.
+Sat Apr  4 18:09:25 2009 [10088   ] 'ReggiE' added ip '*@90.207.177.35' to 'fatboy'
+Sat Apr  4 18:11:18 2009 [13858   ] 'Ronnie' added ip '*@1.1.1.1' to 'dg'
+Sat Apr  4 18:11:18 2009 [13858   ] 'Ronnie' added user 'dg' to group 'FRiENDS'.
+Sat Apr  4 18:15:27 2009 [13858   ] 'Ronnie' added ip '*@1.1.1.1' to 'doodoooby'
+Sat Apr  4 18:15:27 2009 [13858   ] 'Ronnie' added user 'doodoooby' to group 'FRiENDS'.
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Reverend'
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added user 'Reverend' to group 'FRiENDS'.
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'PhatPhuka'
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added user 'PhatPhuka' to group 'FRiENDS'.
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'oilyfish'
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added user 'oilyfish' to group 'FRiENDS'.
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'sin'
+Sat Apr  4 18:22:08 2009 [14692   ] 'Ronnie' added user 'sin' to group 'FRiENDS'.
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'LUCYBABY'
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added user 'LUCYBABY' to group 'FRiENDS'.
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'dom100'
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added user 'dom100' to group 'FRiENDS'.
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'arcoooo'
+Sat Apr  4 18:22:09 2009 [14692   ] 'Ronnie' added user 'arcoooo' to group 'FRiENDS'.
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'SWINDONK'
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added user 'SWINDONK' to group 'FRiENDS'.
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'oakm'
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added user 'oakm' to group 'FRiENDS'.
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'nicecupoftea'
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added user 'nicecupoftea' to group 'FRiENDS'.
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'paullyport'
+Sat Apr  4 18:22:10 2009 [14692   ] 'Ronnie' added user 'paullyport' to group 'FRiENDS'.
+Sat Apr  4 18:22:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'lucky1'
+Sat Apr  4 18:22:11 2009 [14692   ] 'Ronnie' added user 'lucky1' to group 'FRiENDS'.
+Sat Apr  4 18:22:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'gogs1875'
+Sat Apr  4 18:22:11 2009 [14692   ] 'Ronnie' added user 'gogs1875' to group 'FRiENDS'.
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'found'
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added user 'found' to group 'FRiENDS'.
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'shearer69'
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added user 'shearer69' to group 'FRiENDS'.
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'aCAs24v'
+Sat Apr  4 18:31:58 2009 [14692   ] 'Ronnie' added user 'aCAs24v' to group 'FRiENDS'.
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'LancashireLad'
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added user 'LancashireLad' to group 'FRiENDS'.
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'AA3066'
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added user 'AA3066' to group 'FRiENDS'.
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'soda'
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added user 'soda' to group 'FRiENDS'.
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'col'
+Sat Apr  4 18:31:59 2009 [14692   ] 'Ronnie' added user 'col' to group 'FRiENDS'.
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'longtall'
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added user 'longtall' to group 'FRiENDS'.
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'iamweasel'
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added user 'iamweasel' to group 'FRiENDS'.
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'sirmacdunne'
+Sat Apr  4 18:32:00 2009 [14692   ] 'Ronnie' added user 'sirmacdunne' to group 'FRiENDS'.
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'marchy2007'
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added user 'marchy2007' to group 'FRiENDS'.
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'monsoon'
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added user 'monsoon' to group 'FRiENDS'.
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'addicted'
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added user 'addicted' to group 'FRiENDS'.
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'modchip101'
+Sat Apr  4 18:32:01 2009 [14692   ] 'Ronnie' added user 'modchip101' to group 'FRiENDS'.
+Sat Apr  4 18:32:02 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Cos'
+Sat Apr  4 18:32:02 2009 [14692   ] 'Ronnie' added user 'Cos' to group 'FRiENDS'.
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'nupnnn'
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added user 'nupnnn' to group 'FRiENDS'.
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'redeagle1'
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added user 'redeagle1' to group 'FRiENDS'.
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'jesmonddene'
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added user 'jesmonddene' to group 'FRiENDS'.
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'kop106'
+Sat Apr  4 18:33:56 2009 [14692   ] 'Ronnie' added user 'kop106' to group 'FRiENDS'.
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'nikki56'
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added user 'nikki56' to group 'FRiENDS'.
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'rem'
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added user 'rem' to group 'FRiENDS'.
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'pentagon'
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added user 'pentagon' to group 'FRiENDS'.
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'dayze0'
+Sat Apr  4 18:33:57 2009 [14692   ] 'Ronnie' added user 'dayze0' to group 'FRiENDS'.
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Raven'
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added user 'Raven' to group 'FRiENDS'.
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Villian'
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added user 'Villian' to group 'FRiENDS'.
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'dog007'
+Sat Apr  4 18:33:58 2009 [14692   ] 'Ronnie' added user 'dog007' to group 'FRiENDS'.
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Trond'
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added user 'Trond' to group 'FRiENDS'.
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'mastermighty'
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added user 'mastermighty' to group 'FRiENDS'.
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'chop'
+Sat Apr  4 18:33:59 2009 [14692   ] 'Ronnie' added user 'chop' to group 'FRiENDS'.
+Sat Apr  4 18:34:00 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'crom'
+Sat Apr  4 18:34:00 2009 [14692   ] 'Ronnie' added user 'crom' to group 'FRiENDS'.
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'eagle'
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added user 'eagle' to group 'FRiENDS'.
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'robotic'
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added user 'robotic' to group 'FRiENDS'.
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'deacon'
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added user 'deacon' to group 'FRiENDS'.
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'mussolini'
+Sat Apr  4 18:36:10 2009 [14692   ] 'Ronnie' added user 'mussolini' to group 'FRiENDS'.
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'yamxs500'
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added user 'yamxs500' to group 'FRiENDS'.
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'fireblade'
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added user 'fireblade' to group 'FRiENDS'.
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'thatmanmartin'
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added user 'thatmanmartin' to group 'FRiENDS'.
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'lovespuds'
+Sat Apr  4 18:36:11 2009 [14692   ] 'Ronnie' added user 'lovespuds' to group 'FRiENDS'.
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Musky'
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added user 'Musky' to group 'FRiENDS'.
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'meeben'
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added user 'meeben' to group 'FRiENDS'.
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'male'
+Sat Apr  4 18:36:12 2009 [14692   ] 'Ronnie' added user 'male' to group 'FRiENDS'.
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'cobblerman'
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added user 'cobblerman' to group 'FRiENDS'.
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'Exmouse'
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added user 'Exmouse' to group 'FRiENDS'.
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'kevf773'
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added user 'kevf773' to group 'FRiENDS'.
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'uglym'
+Sat Apr  4 18:36:13 2009 [14692   ] 'Ronnie' added user 'uglym' to group 'FRiENDS'.
+Sat Apr  4 18:36:54 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'molly'
+Sat Apr  4 18:36:54 2009 [14692   ] 'Ronnie' added user 'molly' to group 'FRiENDS'.
+Sat Apr  4 18:36:54 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'coll'
+Sat Apr  4 18:36:54 2009 [14692   ] 'Ronnie' added user 'coll' to group 'FRiENDS'.
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'amp'
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added user 'amp' to group 'FRiENDS'.
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'pere'
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added user 'pere' to group 'FRiENDS'.
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'mrbrownstone'
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added user 'mrbrownstone' to group 'FRiENDS'.
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added ip '*@1.1.1.1' to 'mrorange'
+Sat Apr  4 18:36:55 2009 [14692   ] 'Ronnie' added user 'mrorange' to group 'FRiENDS'.
+at Apr  4 18:57:26 2009 [14692   ] 'Ronnie' changed max_sim_up for 'cobblerman' from '2' to '0'
+Sat Apr  4 18:57:26 2009 [14692   ] 'Ronnie' changed max_sim_up for 'Exmouse' from '2' to '0'
+Sat Apr  4 18:57:27 2009 [14692   ] 'Ronnie' changed max_sim_up for 'kevf773' from '2' to '0'
+Sat Apr  4 18:57:27 2009 [14692   ] 'Ronnie' changed max_sim_up for 'uglym' from '2' to '0'
+Sat Apr  4 19:00:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'molly' from '2' to '0'
+Sat Apr  4 19:00:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'coll' from '2' to '0'
+Sat Apr  4 19:00:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'amp' from '2' to '0'
+Sat Apr  4 19:00:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'pere' from '2' to '0'
+Sat Apr  4 19:00:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mrbrownstone' from '2' to '0'
+Sat Apr  4 19:00:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mrorange' from '2' to '0'
+Sat Apr  4 19:00:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'robo' from '2' to '0'
+Sat Apr  4 19:00:18 2009 [14692   ] 'Ronnie' changed max_sim_up for 'audia' from '2' to '0'
+Sat Apr  4 19:00:18 2009 [14692   ] 'Ronnie' changed max_sim_up for 'sim1' from '2' to '0'
+Sat Apr  4 19:00:18 2009 [14692   ] 'Ronnie' changed max_sim_up for 'magic' from '2' to '0'
+Sat Apr  4 19:00:18 2009 [14692   ] 'Ronnie' changed max_sim_up for 'jig' from '2' to '0'
+Sat Apr  4 19:00:19 2009 [14692   ] 'Ronnie' changed max_sim_up for 'ray' from '2' to '0'
+Sat Apr  4 19:00:19 2009 [14692   ] 'Ronnie' changed max_sim_up for 'thehonestman' from '2' to '0'
+Sat Apr  4 19:00:19 2009 [14692   ] 'Ronnie' changed max_sim_up for 'guy' from '2' to '0'
+Sat Apr  4 19:00:19 2009 [14692   ] 'Ronnie' changed max_sim_up for 'cat' from '2' to '0'
+Sat Apr  4 19:00:20 2009 [14692   ] 'Ronnie' changed max_sim_up for 'nut' from '2' to '0'
+Sat Apr  4 19:00:20 2009 [14692   ] 'Ronnie' changed max_sim_up for 'ddan' from '2' to '0'
+Sat Apr  4 19:00:20 2009 [14692   ] 'Ronnie' changed max_sim_up for 'oengine' from '2' to '0'
+Sat Apr  4 19:00:20 2009 [14692   ] 'Ronnie' changed max_sim_up for 'trott' from '2' to '0'
+Sat Apr  4 19:00:21 2009 [14692   ] 'Ronnie' changed max_sim_up for 'cubem' from '2' to '0'
+Sat Apr  4 19:00:21 2009 [14692   ] 'Ronnie' changed max_sim_up for 'tan' from '2' to '0'
+Sat Apr  4 19:00:21 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mart' from '2' to '0'
+Sat Apr  4 19:00:22 2009 [14692   ] 'Ronnie' changed max_sim_up for 'kool' from '2' to '0'
+Sat Apr  4 19:00:22 2009 [14692   ] 'Ronnie' changed max_sim_up for 'ham' from '2' to '0'
+Sat Apr  4 19:00:22 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mrabc' from '2' to '0'
+Sat Apr  4 19:00:22 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mrcool' from '2' to '0'
+Sat Apr  4 19:00:23 2009 [14692   ] 'Ronnie' changed max_sim_up for 'dag' from '2' to '0'
+Sat Apr  4 19:00:23 2009 [14692   ] 'Ronnie' changed max_sim_up for 'Exmouse' from '0' to '0'
+Sat Apr  4 19:00:23 2009 [14692   ] 'Ronnie' changed max_sim_up for 'firefox' from '2' to '0'
+Sat Apr  4 19:00:23 2009 [14692   ] 'Ronnie' changed max_sim_up for 'rift' from '2' to '0'
+Sat Apr  4 19:02:12 2009 [14692   ] 'Ronnie' changed max_sim_up for 'happy' from '2' to '0'
+Sat Apr  4 19:02:12 2009 [14692   ] 'Ronnie' changed max_sim_up for 'dunc' from '2' to '0'
+Sat Apr  4 19:02:12 2009 [14692   ] 'Ronnie' changed max_sim_up for 'xt' from '2' to '0'
+Sat Apr  4 19:02:13 2009 [14692   ] 'Ronnie' changed max_sim_up for 'eee' from '2' to '0'
+Sat Apr  4 19:02:13 2009 [14692   ] 'Ronnie' changed max_sim_up for 'iron' from '2' to '0'
+Sat Apr  4 19:02:14 2009 [14692   ] 'Ronnie' changed max_sim_up for 'jonnn' from '2' to '0'
+Sat Apr  4 19:02:14 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mania' from '2' to '0'
+Sat Apr  4 19:02:14 2009 [14692   ] 'Ronnie' changed max_sim_up for 'pistol' from '2' to '0'
+Sat Apr  4 19:02:14 2009 [14692   ] 'Ronnie' changed max_sim_up for 'marko' from '2' to '0'
+Sat Apr  4 19:02:15 2009 [14692   ] 'Ronnie' changed max_sim_up for 'gow' from '2' to '0'
+Sat Apr  4 19:02:15 2009 [14692   ] 'Ronnie' changed max_sim_up for 'reb' from '2' to '0'
+Sat Apr  4 19:02:15 2009 [14692   ] 'Ronnie' changed max_sim_up for 'bobb' from '2' to '0'
+Sat Apr  4 19:02:15 2009 [14692   ] 'Ronnie' changed max_sim_up for 'madm' from '2' to '0'
+Sat Apr  4 19:02:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'ros' from '2' to '0'
+Sat Apr  4 19:02:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'tony1' from '2' to '0'
+Sat Apr  4 19:02:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'gun' from '2' to '0'
+Sat Apr  4 19:02:16 2009 [14692   ] 'Ronnie' changed max_sim_up for 'croft' from '2' to '0'
+Sat Apr  4 19:02:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'mukka' from '2' to '0'
+Sat Apr  4 19:02:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'danone' from '2' to '0'
+Sat Apr  4 19:02:17 2009 [14692   ] 'Ronnie' changed max_sim_up for 'kbig' from '2' to '0'
+Sat Apr  4 19:08:45 2009 [16302   ] 'Ronnie' added ip '*@1.1.1.1' to 'Ronnie'
+Sat Apr  4 19:15:25 2009 [16533   ] 'tinkerbell' added ip '*@87.127.35.22' to 'Cos'
+Sat Apr  4 19:17:42 2009 [16533   ] 'tinkerbell' added ip '*@86.161.6.72' to 'jonnn'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'degs' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'dg' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'Reverend' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'arcoooo' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'SWINDONK' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'oakm' from '15000' to '153000000'
+Sat Apr  4 19:19:13 2009 [14692   ] 'Ronnie' changed credits for 'nicecupoftea' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'paullyport' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'lucky1' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'gogs1875' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'found' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'shearer69' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'aCAs24v' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'LancashireLad' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'AA3066' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'soda' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'col' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'longtall' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'iamweasel' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'sirmacdunne' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'marchy2007' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'monsoon' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'addicted' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'modchip101' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'Cos' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'nupnnn' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'redeagle1' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'jesmonddene' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'kop106' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'nikki56' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'rem' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'pentagon' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'dayze0' from '15000' to '153000000'
+Sat Apr  4 19:19:14 2009 [14692   ] 'Ronnie' changed credits for 'Villian' from '15000' to '153000000'
+Sat Apr  4 19:19:56 2009 [16533   ] 'tinkerbell' added ip '*@86.157.163.153' to 'mrabc'
+Sat Apr  4 19:20:00 2009 [14692   ] 'Ronnie' changed credits for 'Raven' from '15000' to '153000000'
+Sat Apr  4 19:21:16 2009 [16533   ] 'tinkerbell' added ip '*@86.155.158.55' to 'sim1'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'dog007' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'Trond' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'mastermighty' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'chop' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'crom' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'eagle' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'robotic' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'deacon' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'yamxs500' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'fireblade' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'thatmanmartin' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'lovespuds' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'Musky' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'male' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'cobblerman' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'Exmouse' from '15000' to '153000000'
+Sat Apr  4 19:22:50 2009 [14692   ] 'Ronnie' changed credits for 'kevf773' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'uglym' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'molly' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'coll' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'amp' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'pere' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'mrbrownstone' from '15000' to '153000000'
+Sat Apr  4 19:22:51 2009 [14692   ] 'Ronnie' changed credits for 'mrorange' from '15000' to '153000000'
+Sat Apr  4 19:22:58 2009 [16533   ] 'tinkerbell' added ip '*@86.138.85.151' to 'xt'
+Sat Apr  4 19:24:19 2009 [16533   ] 'tinkerbell' added ip '*@82.4.225.11;' to 'madm'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'PhatPhuka' from '15000' to '307000000'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'oilyfish' from '15000' to '307000000'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'sin' from '15000' to '307000000'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'LUCYBABY' from '15000' to '307000000'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'dom100' from '15000' to '307000000'
+Sat Apr  4 19:24:22 2009 [14692   ] 'Ronnie' changed credits for 'mussolini' from '15000' to '307000000'
+Sat Apr  4 19:29:18 2009 [16533   ] 'tinkerbell' added ip '*@86.137.182.250' to 'trott'
+Sat Apr  4 19:31:35 2009 [16533   ] 'tinkerbell' added ip '*@93.96.53.1' to 'ham'
+Sat Apr  4 19:34:56 2009 [16533   ] 'tinkerbell' added ip '*@78.149.124.65' to 'oengine'
+Sat Apr  4 19:36:24 2009 [16533   ] 'tinkerbell' added ip '*@82.42.251.125' to 'magic'
+Sat Apr  4 19:41:00 2009 [16533   ] 'tinkerbell' added ip '*@94.193.131.206' to 'ddan'
+Sat Apr  4 19:43:46 2009 [16533   ] 'tinkerbell' added ip '*@91.107.165.214' to 'robo'
+Sat Apr  4 19:46:48 2009 [16533   ] 'tinkerbell' added ip '*@86.27.203.243' to 'mania'
+Sat Apr  4 19:53:31 2009 [17963   ] 'Ronnie' (siteop) transferred 157286400K to tinkerbell
+Sat Apr  4 19:58:49 2009 [17963   ] 'Ronnie' (siteop) transferred 1048576K to tinkerbell
+Sat Apr  4 20:04:49 2009 [18420   ] 'tinkerbell' added ip '*@84.70.6.245' to 'croft'
+Sat Apr  4 20:12:35 2009 [18420   ] 'tinkerbell' added ip '*@78.149.2.145' to 'mastermighty'
+Sat Apr  4 20:15:59 2009 [18420   ] 'tinkerbell' added ip '*@82.21.167.251' to 'audia'
+Sat Apr  4 20:18:05 2009 [18420   ] 'tinkerbell' added ip '*@90.210.102.2' to 'longtall'
+Sat Apr  4 20:18:33 2009 [18818   ] 'random' added ip '*@62.212.71.*' to 'Yoshi'
+Sat Apr  4 20:18:33 2009 [18818   ] 'random' added ip 'Rodrigo@189.15.*.*' to 'Yoshi'
+Sat Apr  4 20:18:33 2009 [18818   ] 'random' added user 'Yoshi' to group 'iND'.
+Sat Apr  4 20:21:37 2009 [18420   ] 'tinkerbell' added ip '*@86.31.101.34' to 'nupnnn'
+Sat Apr  4 20:26:48 2009 [19384   ] 'tinkerbell' added ip '*@86.145.167.186' to 'deacon'
+Sat Apr  4 20:27:48 2009 [19478   ] 'random' added ip 'bailey@94.213.*.*' to 'bailey'
+Sat Apr  4 20:27:48 2009 [19478   ] 'random' added user 'bailey' to group 'iND'.
+Sat Apr  4 20:30:16 2009 [19384   ] 'tinkerbell' added ip '*@77.98.194.151' to 'yamxs500'
+Sat Apr  4 20:30:45 2009 [19478   ] 'random' deleted user 'Yoshi'.
+Sat Apr  4 20:31:05 2009 [19478   ] 'random' purged 'Yoshi'
+Sat Apr  4 20:31:26 2009 [19478   ] 'random' added ip '*@62.212.71.*' to 'Yoshi'
+Sat Apr  4 20:31:26 2009 [19478   ] 'random' added ip 'Rodrigo@189.15.*.*' to 'Yoshi'
+Sat Apr  4 20:31:26 2009 [19478   ] 'random' added user 'Yoshi' to group 'iND'.
+Sat Apr  4 20:46:06 2009 [20131   ] 'random' added ip '*@62.212.71.*' to 'RoCCoBR'
+Sat Apr  4 20:46:06 2009 [20131   ] 'random' added ip '*@216.150.79.*' to 'RoCCoBR'
+Sat Apr  4 20:46:06 2009 [20131   ] 'random' added user 'RoCCoBR' to group 'iND'.
+Sat Apr  4 20:51:23 2009 [20182   ] 'tinkerbell' added ip '*@86.46.80.70' to 'ray'
+Sat Apr  4 20:58:59 2009 [20182   ] 'tinkerbell' added ip '*@91.109.11.25' to 'rem'
+Sat Apr  4 21:03:49 2009 [20182   ] 'tinkerbell' added ip '*@82.21.167.111' to 'mussolini'
+Sat Apr  4 21:07:48 2009 [20182   ] 'tinkerbell' added ip '*@90.206.6.253' to 'soda'
+Sat Apr  4 21:09:19 2009 [20182   ] 'tinkerbell' added ip '*@90.217.30.11' to 'paullyport'
+Sat Apr  4 21:10:38 2009 [20182   ] 'tinkerbell' added ip '*@87.194.183.19' to 'jesmonddene'
+Sat Apr  4 21:11:27 2009 [20656   ] 'Ronnie' added ip '*@91.109.11.25,' to 'rem'
+Sat Apr  4 21:23:10 2009 [20656   ] 'Ronnie' changed credits for 'doodoooby' from '15000' to '153000000'
+Sat Apr  4 21:41:22 2009 [21761   ] 'tinkerbell' added ip '*@81.141.16.210' to 'molly'
+Sat Apr  4 21:44:32 2009 [21761   ] 'tinkerbell' added ip '*@82.42.97.126' to 'meeben'
+Sat Apr  4 21:47:43 2009 [21939   ] 'tinkerbell' added ip '*@85.17.145.39' to 'aCAs24v'
+Sat Apr  4 21:49:24 2009 [21939   ] 'tinkerbell' added ip '*@94.172.27.124' to 'oakm'
+Sat Apr  4 22:10:45 2009 [22591   ] 'tinkerbell' added ip '*@82.43.252.142' to 'amp'
+Sat Apr  4 22:14:13 2009 [22859   ] 'Ronnie' added ip '*@90.198.183.53' to 'gun'
+Sat Apr  4 22:16:43 2009 [22859   ] 'Ronnie' changed credits for 'gun' from '15000' to '153000000'
+Sat Apr  4 22:17:04 2009 [22591   ] 'tinkerbell' added ip '*@82.29.83.149' to 'firefox'
+Sat Apr  4 22:24:25 2009 [22591   ] 'tinkerbell' added ip '*@90.203.4.137' to 'yah'
+Sat Apr  4 22:26:58 2009 [22859   ] 'Ronnie' (siteop) transferred 52428800K to robo
+Sat Apr  4 22:27:53 2009 [22591   ] 'tinkerbell' added ip '*@92.236.202.39' to 'coll'
+Sat Apr  4 22:29:56 2009 [22591   ] 'tinkerbell' added ip '*@94.171.20.136' to 'redeagle1'
+Sat Apr  4 22:47:15 2009 [23905   ] 'tinkerbell' added ip '*@99.224.244.99' to 'doodoooby'
+Sat Apr  4 23:30:37 2009 [25605   ] 'random': successfully removed from 'Nuke' by random
+Sat Apr  4 23:30:46 2009 [25605   ] 'random': successfully added to 'iND' by random
+Sat Apr  4 23:40:02 2009 [26087   ] 'tinkerbell' added ip '*@shearer69' to 'shearer69'
+Sat Apr  4 23:41:14 2009 [26087   ] 'tinkerbell' added ip '*@77.103.175.4' to 'shearer69'
+Sat Apr  4 23:48:25 2009 [26450   ] 'random' deleted user 'NUKER'.
+Sat Apr  4 23:50:44 2009 [26450   ] 'random' added ip '*@115.124.116.*' to 'NUKER'
+Sat Apr  4 23:50:44 2009 [26450   ] 'random' added user 'NUKER' to group 'Nuke'.
+Sat Apr  4 23:52:32 2009 [26728   ] 'random' changed flags for 'NUKER' from '3C' to '3ABCD'
+Sun Apr  5 00:07:29 2009 [26802   ] 'random' killed PID 21424 (Equal).
+Sun Apr  5 00:07:29 2009 [26802   ] 'random' killed PID 21660 (Equal).
+Sun Apr  5 00:07:29 2009 [26802   ] 'random' killed PID 21683 (Equal).
+Sun Apr  5 00:07:29 2009 [26802   ] 'random' killed PID 21673 (Equal).
+Sun Apr  5 00:07:29 2009 [26802   ] 'random' killed PID 21677 (Equal).
+Sun Apr  5 00:07:35 2009 [26802   ] 'random' deleted user 'Equal'.
+Sun Apr  5 00:07:44 2009 [26802   ] 'random' killed PID 26805 (Equal).
+Sun Apr  5 00:07:44 2009 [26802   ] 'random' killed PID 26807 (Equal).
+Sun Apr  5 00:07:44 2009 [26802   ] 'random' killed PID 26808 (Equal).
+Sun Apr  5 00:07:44 2009 [26802   ] 'random' killed PID 26809 (Equal).
+Sun Apr  5 00:07:44 2009 [26802   ] 'random' killed PID 26810 (Equal).
+Sun Apr  5 00:08:35 2009 [26802   ] 'random' readded 'Equal'.
+Sun Apr  5 00:20:50 2009 [26892   ] 'random' added ip '*@62.212.74.*' to 'RM08'
+Sun Apr  5 00:20:50 2009 [26892   ] 'random' added user 'RM08' to group 'iND'.
+Sun Apr  5 00:41:04 2009 [27001   ] 'random' added ip '*@62.212.74.*' to 'bobby'
+Sun Apr  5 00:41:04 2009 [27001   ] 'random' added user 'bobby' to group 'iND'.
+Sun Apr  5 00:46:32 2009 [27001   ] 'random' (siteop) transferred 73400320K to bobby
+Sun Apr  5 07:01:03 2009 [27870   ] 'tinkerbell' added ip '*@82.18.175.195' to 'cubem'
+Sun Apr  5 07:04:26 2009 [27870   ] 'tinkerbell' added ip '*@93.97.31.33' to 'cat'
+Sun Apr  5 07:14:26 2009 [27870   ] 'tinkerbell' added ip '*@78.149.181.68' to 'oengine'
+Sun Apr  5 07:26:06 2009 [27923   ] 'tinkerbell' added ip '*@81.153.226.139' to 'eagle'
+Sun Apr  5 08:21:33 2009 [28256   ] 'tinkerbell' added ip '*@78.105.171.26' to 'Reverend'
+Sun Apr  5 08:32:18 2009 [28464   ] 'tinkerbell' added ip '*@82.110.92.198' to 'pistol'
+Sun Apr  5 09:37:30 2009 [28943   ] 'ReggiE' added ip '*@81.149.62.15' to 'Buzby'
+Sun Apr  5 09:37:30 2009 [28943   ] 'ReggiE' added user 'Buzby'.
+Sun Apr  5 09:42:23 2009 [28943   ] 'ReggiE' deleted user 'Buzby'.
+Sun Apr  5 09:42:38 2009 [28943   ] 'ReggiE' purged 'Buzby'
+Sun Apr  5 09:42:54 2009 [28943   ] 'ReggiE' added ip '*@81.149.62.15' to 'Buzby'
+Sun Apr  5 09:42:54 2009 [28943   ] 'ReggiE' added user 'Buzby'.
+Sun Apr  5 09:43:46 2009 [28943   ] 'Buzby': successfully added to 'iND' by ReggiE
+Sun Apr  5 09:53:00 2009 [28943   ] 'ReggiE' changed credits for 'dyna-mite666' from '21124530' to '307200'
+Sun Apr  5 09:55:13 2009 [28943   ] 'ReggiE' changed credits for 'dyna-mite666' from '307200' to '30720000'
+Sun Apr  5 09:59:33 2009 [29547   ] 'tinkerbell' added ip '*@92.19.161.176' to 'kevf773'
+Sun Apr  5 10:05:49 2009 [29547   ] 'tinkerbell' added ip '*@89.240.252.168' to 'kbig'
+Sun Apr  5 10:06:29 2009 [28943   ] 'ReggiE' changed credits for 'lukey' from '19207804' to '30720000'
+Sun Apr  5 10:12:01 2009 [28943   ] 'ReggiE' changed credits for 'lukey' from '30639876' to '307200000'
+Sun Apr  5 10:12:01 2009 [29547   ] 'tinkerbell' added ip '*@80.6.36.132' to 'nicecupoftea'
+Sun Apr  5 10:13:34 2009 [29547   ] 'tinkerbell' added ip '*@92.237.197.208' to 'lucky1'
+Sun Apr  5 10:14:09 2009 [28943   ] 'ReggiE' changed credits for 'dyna-mite666' from '30720000' to '307200000'
+Sun Apr  5 10:14:20 2009 [28943   ] 'ReggiE' changed credits for 'hellb' from '30000000' to '307200000'
+Sun Apr  5 10:14:38 2009 [28943   ] 'ReggiE' changed credits for 'gazmcrea' from '30000000' to '307200000'
+Sun Apr  5 10:14:54 2009 [28943   ] 'ReggiE' changed credits for 'fatboy' from '30000000' to '307200000'
+Sun Apr  5 10:15:08 2009 [28943   ] 'ReggiE' changed credits for 'fluid' from '29576234' to '307200000'
+Sun Apr  5 10:15:17 2009 [28943   ] 'ReggiE' changed credits for 'strip' from '30000000' to '307200000'
+Sun Apr  5 10:15:39 2009 [28943   ] 'ReggiE' changed credits for 'gazzalcfc' from '27110122' to '307200000'
+Sun Apr  5 10:15:40 2009 [29547   ] 'tinkerbell' added ip '*@77.97.104.163' to 'oilyfish'
+Sun Apr  5 10:20:38 2009 [29547   ] 'tinkerbell' added ip '*@82.41.208.158' to 'marko'
+Sun Apr  5 11:50:16 2009 [2781    ] 'Ronnie' removed ip '*@81.153.226.139' from 'eagle'
+Sun Apr  5 11:50:30 2009 [2781    ] 'Ronnie' added ip '*@81.153.226.139' to 'eagle'
+Sun Apr  5 11:57:05 2009 [2781    ] 'Ronnie' (siteop) transferred 146800640K to robo
+Sun Apr  5 11:57:46 2009 [2781    ] 'Ronnie' (siteop) transferred 125829120K to audia
+Sun Apr  5 11:58:06 2009 [2781    ] 'Ronnie' (siteop) transferred 36700160K to sim1
+Sun Apr  5 11:58:25 2009 [2781    ] 'Ronnie' (siteop) transferred 57671680K to magic
+Sun Apr  5 11:58:41 2009 [2781    ] 'Ronnie' (siteop) transferred 36700160K to jig
+Sun Apr  5 11:58:59 2009 [2781    ] 'Ronnie' (siteop) transferred 62914560K to ray
+Sun Apr  5 11:59:37 2009 [2781    ] 'Ronnie' (siteop) transferred 20971520K to guy
+Sun Apr  5 11:59:55 2009 [2781    ] 'Ronnie' (siteop) transferred 31457280K to cat
+Sun Apr  5 12:00:15 2009 [2781    ] 'Ronnie' (siteop) transferred 57671680K to nut
+Sun Apr  5 12:00:29 2009 [2781    ] 'Ronnie' (siteop) transferred 52428800K to ddan
+Sun Apr  5 12:00:46 2009 [2781    ] 'Ronnie' (siteop) transferred 36700160K to oengine
+Sun Apr  5 12:01:10 2009 [2781    ] 'Ronnie' (siteop) transferred 26214400K to trott
+Sun Apr  5 12:01:28 2009 [2781    ] 'Ronnie' (siteop) transferred 125829120K to cubem
+Sun Apr  5 12:01:46 2009 [2781    ] 'Ronnie' (siteop) transferred 57671680K to tan
+Sun Apr  5 12:02:03 2009 [2781    ] 'Ronnie' (siteop) transferred 173015040K to mart
+Sun Apr  5 12:02:18 2009 [2781    ] 'Ronnie' (siteop) transferred 31457280K to kool
+Sun Apr  5 12:02:32 2009 [2781    ] 'Ronnie' (siteop) transferred 41943040K to yah
+Sun Apr  5 12:02:46 2009 [2781    ] 'Ronnie' (siteop) transferred 47185920K to ham
+Sun Apr  5 12:03:00 2009 [2781    ] 'Ronnie' (siteop) transferred 31457280K to mrabc
+Sun Apr  5 12:03:14 2009 [2781    ] 'Ronnie' (siteop) transferred 41943040K to mrcool
+Sun Apr  5 12:03:28 2009 [2781    ] 'Ronnie' (siteop) transferred 56623104K to mrbig
+Sun Apr  5 12:03:45 2009 [2781    ] 'Ronnie' (siteop) transferred 47185920K to dag
+Sun Apr  5 12:03:57 2009 [2781    ] 'Ronnie' (siteop) transferred 47185920K to firefox
+Sun Apr  5 12:04:11 2009 [2781    ] 'Ronnie' (siteop) transferred 52428800K to rift
+Sun Apr  5 12:04:31 2009 [2781    ] 'Ronnie' (siteop) transferred 20971520K to happy
+Sun Apr  5 12:04:54 2009 [2781    ] 'Ronnie' (siteop) transferred 60817408K to dunc
+Sun Apr  5 12:05:09 2009 [2781    ] 'Ronnie' (siteop) transferred 40894464K to xt
+Sun Apr  5 12:05:23 2009 [2781    ] 'Ronnie' (siteop) transferred 68157440K to eee
+Sun Apr  5 12:05:38 2009 [2781    ] 'Ronnie' (siteop) transferred 66060288K to iron
+Sun Apr  5 12:05:51 2009 [2781    ] 'Ronnie' (siteop) transferred 87031808K to iron
+Sun Apr  5 12:08:17 2009 [2781    ] 'Ronnie' (siteop) transferred 68157440K to eee
+Sun Apr  5 12:08:42 2009 [2781    ] 'Ronnie' (siteop) transferred 68157440K to eee
+Sun Apr  5 12:09:06 2009 [2781    ] 'Ronnie' (sysop) took 68157440K from eee
+Sun Apr  5 12:09:19 2009 [2781    ] 'Ronnie' (sysop) took 68157440K from eee
+Sun Apr  5 12:10:36 2009 [2781    ] 'Ronnie' (sysop) took 68157440K from eee
+Sun Apr  5 12:10:50 2009 [2781    ] 'Ronnie' (siteop) transferred 68157440K to eee
+Sun Apr  5 12:11:38 2009 [2781    ] 'Ronnie' (sysop) took 78643200K from iron
+Sun Apr  5 12:12:19 2009 [2781    ] 'Ronnie' (siteop) transferred 29360128K to jonnn
+Sun Apr  5 12:12:45 2009 [2781    ] 'Ronnie' (siteop) transferred 57671680K to mania
+Sun Apr  5 12:13:11 2009 [2781    ] 'Ronnie' (siteop) transferred 192937984K to pistol
+Sun Apr  5 12:13:38 2009 [2781    ] 'Ronnie' (siteop) transferred 47185920K to marko
+Sun Apr  5 12:14:00 2009 [2781    ] 'Ronnie' (siteop) transferred 31457280K to gow
+Sun Apr  5 12:14:20 2009 [2781    ] 'Ronnie' (siteop) transferred 39845888K to reb
+Sun Apr  5 12:14:40 2009 [2781    ] 'Ronnie' (siteop) transferred 188743680K to bobb
+Sun Apr  5 12:15:00 2009 [2781    ] 'Ronnie' (siteop) transferred 136314880K to madm
+Sun Apr  5 12:15:20 2009 [2781    ] 'Ronnie' (siteop) transferred 99614720K to ros
+Sun Apr  5 12:15:41 2009 [2781    ] 'Ronnie' (siteop) transferred 65011712K to tony1
+Sun Apr  5 12:16:05 2009 [2781    ] 'Ronnie' (siteop) transferred 157286400K to gun
+Sun Apr  5 12:16:23 2009 [2781    ] 'Ronnie' (sysop) took 157286400K from gun
+Sun Apr  5 12:16:43 2009 [2781    ] 'Ronnie' (siteop) transferred 125829120K to croft
+Sun Apr  5 12:17:02 2009 [2781    ] 'Ronnie' (siteop) transferred 52428800K to mukka
+Sun Apr  5 12:17:23 2009 [2781    ] 'Ronnie' (siteop) transferred 49283072K to danone
+Sun Apr  5 12:17:50 2009 [2781    ] 'Ronnie' (siteop) transferred 47185920K to kbig
+Sun Apr  5 12:36:49 2009 [3407    ] 'Ronnie' added ip '*@78.32.97.1' to 'AA3066'
+Sun Apr  5 12:37:37 2009 [3407    ] 'Ronnie' added ip '*@86.17.54.51' to 'Exmouse'
+Sun Apr  5 12:40:26 2009 [3407    ] 'Ronnie' added ip '*@90.213.97.153' to 'paullyport'
+Sun Apr  5 13:23:49 2009 [4288    ] 'Ronnie' added ip '*@82.8.237.239' to 'mrbig'
+Sun Apr  5 13:24:20 2009 [4288    ] 'Ronnie' added ip '*@81.110.92.198' to 'pistol'
+Sun Apr  5 13:24:44 2009 [4288    ] 'Ronnie' added ip '*@78.148.123.18' to 'kbig'
+Sun Apr  5 13:30:52 2009 [4288    ] 'Ronnie' added ip '*@90.209.5.180' to 'tony1'
+Sun Apr  5 13:32:20 2009 [4288    ] 'Ronnie' added ip '*@90.195.87.246' to 'buttonz'
+Sun Apr  5 13:36:23 2009 [4288    ] 'Ronnie' removed ip '*@92.19.161.176' from 'kevf773'
+Sun Apr  5 13:36:42 2009 [4288    ] 'Ronnie' added ip '*@*@92.19.161.176' to 'kevf773'
+Sun Apr  5 13:36:55 2009 [4288    ] 'Ronnie' removed ip '*@1.1.1.1' from 'kevf773'
+Sun Apr  5 13:41:12 2009 [4288    ] 'Ronnie' added ip '*@90.192.6.84' to 'nikki56'
+Sun Apr  5 13:43:21 2009 [4288    ] 'Ronnie' added ip '*@86.132.239.109' to 'dog007'
+Sun Apr  5 13:44:52 2009 [4288    ] 'Ronnie' added ip '*@78.144.173.212' to 'danone'
+Sun Apr  5 13:48:58 2009 [4819    ] 'Ronnie' added ip '*@78.143.220.74' to 'crom'
+Sun Apr  5 13:55:34 2009 [4931    ] 'Ronnie' auto-removed ip '*@*@92.19.161.176' from 'kevf773'
+Sun Apr  5 13:55:34 2009 [4931    ] 'Ronnie' added ip '*@92.19.161.176' to 'kevf773'
+Sun Apr  5 14:09:26 2009 [4931    ] 'Ronnie' removed ip '*@1.1.1.1' from 'robo'
+Sun Apr  5 14:12:22 2009 [5094    ] 'Ronnie' added ip '*@82.13.14.191' to 'bobb'
+Sun Apr  5 14:15:43 2009 [5094    ] 'Ronnie' renamed user 'kevf773' to 'kev'.
+Sun Apr  5 14:17:21 2009 [5147    ] 'Ronnie' added ip '*@217.155.36.178' to 'found'
+Sun Apr  5 14:49:07 2009 [5828    ] 'Ronnie' removed ip '*@91.107.165.214' from 'robo'
+Sun Apr  5 14:50:22 2009 [5828    ] 'Ronnie' added ip '*@91.107.165.214' to 'robo'
+Sun Apr  5 14:50:35 2009 [5828    ] 'Ronnie' renamed user 'robo' to 'robbo'.
+Sun Apr  5 14:51:46 2009 [5828    ] 'Ronnie' added ip '*@86.132.175.135' to 'dag'
+Sun Apr  5 15:11:08 2009 [6446    ] 'Ronnie' renamed user 'Exmouse' to 'exmouse'.
+Sun Apr  5 15:12:03 2009 [6446    ] 'Ronnie' removed ip '*@1.1.1.1' from 'exmouse'
+Sun Apr  5 15:14:20 2009 [6446    ] 'Ronnie' renamed user 'marko' to 'marco'.
+Sun Apr  5 15:26:53 2009 [6850    ] 'Ronnie' (siteop) transferred 33554432K to jonnn
+Sun Apr  5 15:28:07 2009 [6850    ] 'Ronnie' added ip '*@78.146.199.164' to 'oengine'
+Sun Apr  5 15:29:45 2009 [6850    ] 'Ronnie' added ip '*@84.130.60.209' to 'coll'
+Sun Apr  5 16:09:04 2009 [7670    ] 'Ronnie' added ip '*@86.26.105.53' to 'arcoooo'
+Sun Apr  5 16:11:11 2009 [7670    ] 'Ronnie' added ip '*@87.81.136.117' to 'degs'
+Sun Apr  5 16:15:22 2009 [7670    ] 'Ronnie' added ip '*@78.86.186.18' to 'bazzza'
+Sun Apr  5 16:15:22 2009 [7670    ] 'Ronnie' added user 'bazzza' to group 'FRiENDS'.
+Sun Apr  5 16:15:44 2009 [7670    ] 'Ronnie' changed max_sim_up for 'bazzza' from '2' to '0'
+Sun Apr  5 16:16:10 2009 [7670    ] 'Ronnie' (siteop) transferred 471859200K to bazzza
+Sun Apr  5 16:47:20 2009 [8403    ] 'Ronnie' added ip '*@90.216.150.28' to 'longtall'
+Sun Apr  5 16:49:15 2009 [8403    ] 'Ronnie' (siteop) transferred 157286400K to meeben
+Sun Apr  5 17:24:14 2009 [9283    ] 'Ronnie' removed ip '*@82.110.92.198' from 'pistol'
+Sun Apr  5 17:24:22 2009 [9283    ] 'Ronnie' removed ip '*@81.110.92.198' from 'pistol'
+Sun Apr  5 17:24:29 2009 [9283    ] 'Ronnie' removed ip '*@1.1.1.1' from 'pistol'
+Sun Apr  5 17:24:49 2009 [9283    ] 'Ronnie' added ip '*@81.110.92.198' to 'pistol'
+Sun Apr  5 17:29:09 2009 [9283    ] 'Ronnie' added ip '*@66.74.73.134' to 'dg'
+Sun Apr  5 17:30:04 2009 [9283    ] 'Ronnie' added ip '*@82.4.225.111' to 'madm'
+Sun Apr  5 18:42:38 2009 [10203   ] 'Ronnie' added ip '*@81.132.200.212' to 'deacon'
+Sun Apr  5 18:46:56 2009 [10203   ] 'Ronnie' added ip '*@94.171.160.111' to 'pentagon'
+Sun Apr  5 19:16:17 2009 [11153   ] 'Ronnie' renamed user 'longtall' to 'long'.
+Sun Apr  5 19:34:42 2009 [11153   ] 'Ronnie' added ip '*@77.100.174.81' to 'jig'
+Sun Apr  5 20:22:51 2009 [12794   ] 'Ronnie' added ip '*@77.103.77.191' to 'robotic'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'dg' from '74181148' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'doodoooby' from '119061429' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'Reverend' from '73882327' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'SWINDONK' from '72580765' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'bluesvennis' from '148593603' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'buttonz' from '63132358' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'oakm' from '110593673' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'nicecupoftea' from '115545288' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'paullyport' from '95473065' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'lucky1' from '150375282' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'babylonx' from '56357064' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'found' from '151060774' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'babylonx' from '0' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'shearer69' from '105071223' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'acas' from '148209248' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'soda' from '58430042' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'col' from '87579952' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'long' from '135581581' to '0'
+Mon Jun  1 19:07:39 2009 [11889   ] 'Ronnie' changed credits for 'iamweasel' from '157286400' to '0'
+Mon Jun  1 19:07:40 2009 [11889   ] 'Ronnie' changed credits for 'iambob' from '132187937' to '0'
+Mon Jun  1 19:07:40 2009 [11889   ] 'Ronnie' changed credits for 'sirmacdunne' from '157286400' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'kin' from '157286400' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'Cos' from '116298778' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'nupnnn' from '101870316' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'redeagle1' from '136288249' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'jesmonddene' from '11140522' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'kop106' from '131023270' to '0'
+Mon Jun  1 19:09:21 2009 [11889   ] 'Ronnie' changed credits for 'nikki56' from '144521227' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'rem' from '84076368' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'dayze0' from '156924822' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'Raven' from '157286400' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'Villian' from '15504' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'dog007' from '93659856' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'Trond' from '135685176' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'mastermighty' from '119184165' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'chop' from '25072010' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'crom' from '147148596' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'eagle' from '130831185' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'robotic' from '88257556' to '0'
+Mon Jun  1 19:09:22 2009 [11889   ] 'Ronnie' changed credits for 'deacon' from '81617477' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'yamxs500' from '74322464' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'lovespuds' from '24971700' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'cobblerman' from '114330841' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'exmouse' from '127831159' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'uglym' from '63888026' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'joem' from '52504411' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'coll' from '151090664' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'amp' from '93810165' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'mrbrownstone' from '157286400' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'mrorange' from '153146428' to '0'
+Mon Jun  1 19:09:33 2009 [11889   ] 'Ronnie' changed credits for 'hill' from '10496605' to '0'
+Mon Jun  1 19:09:34 2009 [11889   ] 'Ronnie' changed credits for 'marchy' from '226864749' to '0'
+Mon Jun  1 19:09:34 2009 [11889   ] 'Ronnie' changed credits for 'male1' from '83289349' to '0'
+Mon Jun  1 19:09:45 2009 [11889   ] 'Ronnie' changed credits for 'oilyfish' from '195866886' to '0'
+Mon Jun  1 19:09:45 2009 [11889   ] 'Ronnie' changed credits for 'mussolini' from '346864316' to '0'
+Mon Jun  1 19:09:45 2009 [11889   ] 'Ronnie' changed credits for 'sin' from '196667' to '0'
+Mon Jun  1 19:10:02 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to dg
+Mon Jun  1 19:10:02 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to doodoooby
+Mon Jun  1 19:10:02 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to Reverend
+Mon Jun  1 19:10:02 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to SWINDONK
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to bluesvennis
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to buttonz
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to oakm
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to nicecupoftea
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to paullyport
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to lucky1
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to babylonx
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to found
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to babylonx
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to shearer69
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to acas
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to soda
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to col
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to long
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to iamweasel
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to iambob
+Mon Jun  1 19:10:03 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to sirmacdunne
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to kin
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to Cos
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to nupnnn
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to redeagle1
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to jesmonddene
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to kop106
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to nikki56
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to rem
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to dayze0
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to Raven
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to Villian
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to dog007
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to Trond
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to mastermighty
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to chop
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to crom
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to eagle
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to robotic
+Mon Jun  1 19:10:23 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to deacon
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to yamxs500
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to lovespuds
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to cobblerman
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to exmouse
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to uglym
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to joem
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to coll
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to amp
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to mrbrownstone
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to mrorange
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to hill
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to marchy
+Mon Jun  1 19:10:35 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to male1
+Mon Jun  1 19:10:46 2009 [11889   ] 'Ronnie' (siteop) transferred 314572800K to oilyfish
+Mon Jun  1 19:10:46 2009 [11889   ] 'Ronnie' (siteop) transferred 314572800K to sin
+Mon Jun  1 19:10:46 2009 [11889   ] 'Ronnie' (siteop) transferred 314572800K to mussolini
+Mon Jun  1 19:12:23 2009 [11889   ] 'Ronnie' changed credits for 'babylonx' from '314572800' to '0'
+Mon Jun  1 19:12:49 2009 [11889   ] 'Ronnie' (siteop) transferred 157286400K to babylonx
+Mon Jun  1 22:32:04 2009 [26130   ] 'Ronnie' added ip '*@91.85.135.98' to 'ros'
+Mon Jun  1 23:31:04 2009 [26130   ] 'Ronnie' added ip '*@91.107.159.39' to 'robbo'
+Tue Jun  2 09:03:53 2009 [20250   ] 'Ronnie' added ip '*@86.133.47.84' to 'dag'
+Tue Jun  2 14:09:18 2009 [7662    ] 'Ronnie' added ip '*@86.3.29.*' to 'ReggiE'
+Tue Jun  2 14:52:45 2009 [6222    ] 'ReggiE' added ip '*@86.153.53.*' to 'fluid'
+Tue Jun  2 14:55:00 2009 [6222    ] 'ReggiE' removed ip '*@217.44.*.*' from 'fluid'
+Wed Jul  1 12:20:20 2009 [30323   ] 'ReggiE' added ip '*@78.151.*.*' to 'strip'
+Wed Jul  1 12:36:57 2009 [9509    ] 'Ronnie' changed credits for 'dg' from '117255427' to '0'
+Wed Jul  1 12:36:57 2009 [9509    ] 'Ronnie' changed credits for 'doodoooby' from '125608883' to '0'
+Wed Jul  1 12:36:57 2009 [9509    ] 'Ronnie' changed credits for 'Reverend' from '50902281' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'SWINDONK' from '39495237' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'bluesvennis' from '157015016' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'buttonz' from '77497002' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'oakm' from '148355600' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'nicecupoftea' from '88417776' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'paullyport' from '137319332' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'lucky1' from '152954680' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'found' from '150067473' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'babylonx' from '78452363' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'shearer69' from '89831988' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'acas' from '97986652' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'soda' from '95765717' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'col' from '119944398' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'long' from '112844424' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'iamweasel' from '157286400' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'iambob' from '148014671' to '0'
+Wed Jul  1 12:36:58 2009 [9509    ] 'Ronnie' changed credits for 'sirmacdunne' from '157286400' to '0'
+Wed Jul  1 12:37:13 2009 [9509    ] 'Ronnie' changed credits for 'kin' from '157286400' to '0'
+Wed Jul  1 12:37:13 2009 [9509    ] 'Ronnie' changed credits for 'Cos' from '120733771' to '0'
+Wed Jul  1 12:37:13 2009 [9509    ] 'Ronnie' changed credits for 'nupnnn' from '118560132' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'redeagle1' from '118156502' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'jesmonddene' from '40528172' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'kop106' from '138904801' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'nikki56' from '131792460' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'rem' from '157286400' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'dayze0' from '157286400' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'Raven' from '157286400' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'Villian' from '5376' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'dog007' from '92399359' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'Trond' from '141423800' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'mastermighty' from '32901566' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'chop' from '110715254' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'crom' from '100780620' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'eagle' from '122949074' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'robotic' from '18872525' to '0'
+Wed Jul  1 12:37:14 2009 [9509    ] 'Ronnie' changed credits for 'deacon' from '89613924' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'yamxs500' from '107864730' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'lovespuds' from '16002514' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'cobblerman' from '141574949' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'exmouse' from '131870775' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'uglym' from '72528424' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'joem' from '82130306' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'coll' from '157286400' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'amp' from '157286400' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'mrbrownstone' from '157286400' to '0'
+Wed Jul  1 12:37:25 2009 [9509    ] 'Ronnie' changed credits for 'mrorange' from '157286400' to '0'
+Wed Jul  1 12:37:26 2009 [9509    ] 'Ronnie' changed credits for 'hill' from '44908905' to '0'
+Wed Jul  1 12:37:26 2009 [9509    ] 'Ronnie' changed credits for 'marchy' from '157286400' to '0'
+Wed Jul  1 12:37:26 2009 [9509    ] 'Ronnie' changed credits for 'male1' from '4801468' to '0'
+Wed Jul  1 12:37:36 2009 [9509    ] 'Ronnie' changed credits for 'mrbrownstone' from '0' to '0'
+Wed Jul  1 12:38:03 2009 [9509    ] 'Ronnie' changed credits for 'oilyfish' from '253274898' to '0'
+Wed Jul  1 12:38:03 2009 [9509    ] 'Ronnie' changed credits for 'mussolini' from '314572800' to '0'
+Wed Jul  1 12:38:03 2009 [9509    ] 'Ronnie' changed credits for 'sin' from '45833277' to '0'
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to dg
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to doodoooby
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to Reverend
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to SWINDONK
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to bluesvennis
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to buttonz
+Wed Jul  1 12:41:39 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to oakm
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to nicecupoftea
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to paullyport
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to lucky1
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to found
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to babylonx
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to shearer69
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to acas
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to soda
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to col
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to long
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to iamweasel
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to iambob
+Wed Jul  1 12:41:40 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to sirmacdunne
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to kin
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to Cos
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to nupnnn
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to redeagle1
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to jesmonddene
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to kop106
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to nikki56
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to rem
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to dayze0
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to Raven
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to Villian
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to dog007
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to Trond
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to mastermighty
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to chop
+Wed Jul  1 12:41:55 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to crom
+Wed Jul  1 12:41:56 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to eagle
+Wed Jul  1 12:41:56 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to robotic
+Wed Jul  1 12:41:56 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to deacon
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to yamxs500
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to lovespuds
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to cobblerman
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to exmouse
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to uglym
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to joem
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to coll
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to amp
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to mrbrownstone
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to mrorange
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to hill
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to marchy
+Wed Jul  1 12:42:11 2009 [9509    ] 'Ronnie' (siteop) transferred 157286400K to male1
+Wed Jul  1 12:42:27 2009 [9509    ] 'Ronnie' (siteop) transferred 314572800K to oilyfish
+Wed Jul  1 12:42:27 2009 [9509    ] 'Ronnie' (siteop) transferred 314572800K to sin
+Wed Jul  1 12:42:27 2009 [9509    ] 'Ronnie' (siteop) transferred 314572800K to mussolini
+Wed Jul  1 12:44:52 2009 [25491   ] 'Ronnie' added ip '*@86.150.98.136' to 'sim1'
+Wed Jul  1 19:22:28 2009 [19977   ] 'Ronnie' added ip '*@78.105.243.67' to 'deacon'
+Wed Jul  1 19:25:51 2009 [19977   ] 'Ronnie' added ip '*@90.200.229.49' to 'long'
+Wed Jul  1 19:27:28 2009 [19977   ] 'Ronnie' added ip '*@91.84.123.143' to 'ros'
+Wed Jul  1 20:19:18 2009 [19977   ] 'Ronnie' added ip '*@217.44.30.235' to 'trott'
+Wed Jul  1 20:21:17 2009 [19977   ] 'Ronnie' (siteop) transferred 33554432K to trott
+Thu Jul 23 05:52:03 2009 [17204   ] 'tinkerbell' added ip '*@81.159.92.250' to 'jonnn'
+Thu Jul 23 07:12:46 2009 [26430   ] 'tinkerbell' added ip '*@82.152.194.62' to 'ros'
+Thu Jul 23 08:06:33 2009 [32159   ] 'tinkerbell' added ip '*@92.21.58.234' to 'thehonestman'
+Thu Jul 23 14:40:12 2009 [22815   ] 'tinkerbell' added ip '*@91.107.160.111' to 'robbo'
+Thu Jul 23 15:27:32 2009 [11537   ] 'Ronnie' added ip '*@90.195.87.241' to 'buttonz'
+Thu Jul 23 17:21:20 2009 [13909   ] 'tinkerbell' added ip '*@90.209.164.149' to 'paullyport'
+Thu Jul 23 17:34:16 2009 [15646   ] 'tinkerbell' added ip '*@86.166.205.45' to 'dog007'
+Thu Jul 23 17:35:11 2009 [15646   ] 'tinkerbell' added ip '*@90.207.10.88' to 'long'
+Thu Jul 23 19:38:11 2009 [5851    ] 'tinkerbell' added ip '*@86.156.3.83' to 'mrabc'
+Fri Jul 24 05:47:06 2009 [9082    ] 'tinkerbell' added ip '*@81.156.80.49' to 'dayze0'
+Fri Jul 24 07:06:42 2009 [16337   ] 'tinkerbell' added ip '*@86.149.84.187' to 'dayze0'
+Fri Jul 24 10:06:40 2009 [7161    ] 'tinkerbell' added ip '*@91.85.185.122' to 'ros'
+Fri Jul 24 10:29:12 2009 [10598   ] 'tinkerbell' added ip '*@86.10.19.227' to 'nupnnn'
+Fri Jul 24 18:49:49 2009 [25423   ] 'Ronnie' added ip '*@91.107.170.117' to 'robbo'
+Fri Jul 24 18:50:38 2009 [25423   ] 'Ronnie' added ip '*@81.141.16.190' to 'joem'
+Fri Jul 24 18:51:05 2009 [25423   ] 'Ronnie' added ip '*@90.207.27.100' to 'long'
+Fri Jul 24 19:36:12 2009 [20525   ] 'Ronnie' added ip '*@86.134.48.79' to 'sim1'
+Fri Jul 24 20:54:08 2009 [20525   ] 'Ronnie' added ip '*@90.194.117.74' to 'long'
+Sat Jul 25 02:11:12 2009 [21614   ] 'E-bola' added ip '*@174.113.*.*' to 'Gumbas'
+Sat Jul 25 13:02:55 2009 [15438   ] 'Ronnie' added ip '*@90.195.87.10' to 'buttonz'
+Sat Jul 25 15:44:46 2009 [15438   ] 'Ronnie' added ip '*@89.240.90.119' to 'kbig'
+Sat Jul 25 17:59:41 2009 [28828   ] 'Ronnie' added ip '*@90.207.169.250' to 'long'
+Sun Jul 26 10:26:51 2009 [11939   ] 'Ronnie' added ip '*@92.24.146.157' to 'kbig'
+Sun Jul 26 10:37:16 2009 [12886   ] 'Ronnie' added ip '*@86.131.111.107' to 'xt'
+Sun Jul 26 10:37:58 2009 [12886   ] 'Ronnie' added ip '*@82.4.224.254' to 'madm'
+Sun Jul 26 10:43:54 2009 [12886   ] 'Ronnie' added ip '*@91.110.80.6' to 'rem'
+Sun Jul 26 14:42:32 2009 [22802   ] 'Ronnie' added ip '*@94.169.250.19' to 'hill'
+Fri Jul 31 22:39:02 2009 [15404   ] 'ReggiE' deleted user 'dyna-mite666'.
+Sat Aug  1 11:05:48 2009 [7942    ] 'Ronnie' deleted user 'mussolini'.
+Sat Aug  1 11:05:55 2009 [7942    ] 'Ronnie' purged 'mussolini'
+Sat Aug  1 11:05:55 2009 [7942    ] 'Ronnie' purged 'dyna-mite666'
+Sat Aug  1 11:05:55 2009 [7942    ] 'Ronnie' purged 'Yoshi'
+Sat Aug  1 11:07:50 2009 [7942    ] 'Ronnie' deleted user 'mrbrownstone'.
+Sat Aug  1 11:07:57 2009 [7942    ] 'Ronnie' purged 'mrbrownstone'
+Sat Aug  1 11:08:45 2009 [7942    ] 'Ronnie' deleted user 'jean'.
+Sat Aug  1 11:08:55 2009 [7942    ] 'Ronnie' purged 'jean'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'dg' from '100421194' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'doodoooby' from '127787397' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'Reverend' from '157286400' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'buttonz' from '72288943' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'oakm' from '139114943' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'nicecupoftea' from '130177202' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'paullyport' from '120430307' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'found' from '145911900' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'ftplover' from '66063815' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'shearer69' from '114718732' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'acas' from '49258794' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'soda' from '112277439' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'col' from '72385248' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'long' from '118342510' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'iambob' from '147706417' to '0'
+Sat Aug  1 11:10:24 2009 [8003    ] 'Ronnie' changed credits for 'sirmacdunne' from '154730691' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'Cos' from '114742205' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'nupnnn' from '39242035' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'redeagle1' from '121159418' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'jesmonddene' from '57680155' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'kop106' from '148018448' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'nikki56' from '124943386' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'rem' from '93045787' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'dayze0' from '157255768' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'Villian' from '90355265' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'dog007' from '123188169' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'Trond' from '151469127' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'mastermighty' from '105322539' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'chop' from '125871866' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'crom' from '132990166' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'robotic' from '113735361' to '0'
+Sat Aug  1 11:11:38 2009 [24401   ] 'Ronnie' changed credits for 'deacon' from '109768802' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'yamxs500' from '96664360' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'lovespuds' from '86574686' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'cobblerman' from '138765043' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'exmouse' from '131492824' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'uglym' from '109568643' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'joem' from '95599285' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'amp' from '157286400' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'hill' from '136304388' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'marchy' from '157286400' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'male1' from '46048942' to '0'
+Sat Aug  1 11:12:29 2009 [24401   ] 'Ronnie' changed credits for 'thatm' from '130253248' to '0'
+Sat Aug  1 11:12:35 2009 [24401   ] 'Ronnie' changed credits for 'oilyfish' from '165631460' to '0'
+Sat Aug  1 11:12:35 2009 [24401   ] 'Ronnie' changed credits for 'sin' from '83071900' to '0'
+Sat Aug  1 11:12:39 2009 [24401   ] 'Ronnie' changed credits for 'bazzza' from '301571' to '0'
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to dg
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to doodoooby
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to Reverend
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to buttonz
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to oakm
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to nicecupoftea
+Sat Aug  1 11:16:25 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to paullyport
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to found
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to ftplover
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to shearer69
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to acas
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to soda
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to col
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to long
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to iambob
+Sat Aug  1 11:16:26 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to sirmacdunne
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to Cos
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to nupnnn
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to redeagle1
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to jesmonddene
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to kop106
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to nikki56
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to rem
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to dayze0
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to Villian
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to dog007
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to Trond
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to mastermighty
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to chop
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to crom
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to robotic
+Sat Aug  1 11:16:43 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to deacon
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to yamxs500
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to lovespuds
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to cobblerman
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to exmouse
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to uglym
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to joem
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to amp
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to hill
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to marchy
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to male1
+Sat Aug  1 11:17:11 2009 [24401   ] 'Ronnie' (siteop) transferred 157286400K to thatm
+Sat Aug  1 11:17:39 2009 [24401   ] 'Ronnie' (siteop) transferred 314572800K to oilyfish
+Sat Aug  1 11:17:39 2009 [24401   ] 'Ronnie' (siteop) transferred 314572800K to sin
+Sat Aug  1 11:17:45 2009 [24401   ] 'Ronnie' (siteop) transferred 471859200K to bazzza
+Sat Aug  1 11:23:42 2009 [7942    ] 'Ronnie' added ip '*@90.210.103.108' to 'long'
+Sat Aug  1 11:24:07 2009 [7942    ] 'Ronnie' added ip '*@86.20.112.68' to 'male1'
+Sat Aug  1 11:25:45 2009 [7942    ] 'Ronnie' added ip '*@86.158.123.22' to 'mrabc'
+Sat Aug  1 11:40:29 2009 [7942    ] 'Ronnie' added ip '*@86.158.123.222' to 'mrabc'
+Sat Aug  1 16:38:35 2009 [25127   ] 'Ronnie' added ip '*@91.107.168.176' to 'robbo'
+
+Wed Aug  5 13:48:00 2009 [25742   ] 'tinkerbell' added ip '*@94.3.151.255' to 'long'
+Wed Aug  5 16:22:49 2009 [14560   ] 'Ronnie' added ip '*@90.195.87.49' to 'buttonz'
+Wed Aug  5 16:52:03 2009 [18636   ] 'superted' deleted user 'sonny'.
+Wed Aug  5 16:52:13 2009 [18636   ] 'superted' purged 'sonny'
+Wed Aug  5 17:54:00 2009 [19336   ] 'tinkerbell' added ip '*@89.241.126.253' to 'kbig'
+Wed Aug  5 18:40:21 2009 [14560   ] 'Ronnie' deleted user 'marchy'.
+Wed Aug  5 18:43:12 2009 [14560   ] 'Ronnie' deleted user 'pot'.
+Wed Aug  5 18:43:56 2009 [14560   ] 'Ronnie' deleted user 'firefox'.
+Wed Aug  5 18:44:52 2009 [14560   ] 'Ronnie' deleted user 'dag'.
+Wed Aug  5 18:47:20 2009 [14560   ] 'Ronnie' deleted user 'med4'.
+Wed Aug  5 18:48:12 2009 [14560   ] 'Ronnie' deleted user 'tony1'.
+Wed Aug  5 18:48:48 2009 [14560   ] 'Ronnie' deleted user 'croft'.
+Wed Aug  5 18:49:42 2009 [14560   ] 'Ronnie' deleted user 'xt'.
+Wed Aug  5 18:50:28 2009 [14560   ] 'Ronnie' deleted user 'roc'.
+Wed Aug  5 18:51:37 2009 [14560   ] 'Ronnie' deleted user 'IMperator'.
+Wed Aug  5 18:52:39 2009 [14560   ] 'Ronnie' deleted user 'kbig'.
+Wed Aug  5 18:53:36 2009 [14560   ] 'Ronnie' deleted user 'mrcool'.
+Wed Aug  5 18:54:25 2009 [14560   ] 'Ronnie' deleted user 'magic'.
+Wed Aug  5 18:55:07 2009 [14560   ] 'Ronnie' deleted user 'mania'.
+Wed Aug  5 18:55:34 2009 [14560   ] 'Ronnie' deleted user 'chop'.
+Wed Aug  5 18:55:58 2009 [14560   ] 'Ronnie' deleted user 'dunc'.
+Wed Aug  5 18:56:30 2009 [14560   ] 'Ronnie' deleted user 'wood'.
+Wed Aug  5 18:57:04 2009 [14560   ] 'Ronnie' deleted user 'silvertech'.
+Wed Aug  5 18:59:16 2009 [14560   ] 'Ronnie' deleted user 'cubem'.
+Wed Aug  5 18:59:39 2009 [14560   ] 'Ronnie' deleted user 'fluid'.
+Wed Aug  5 19:01:02 2009 [14560   ] 'Ronnie' deleted user 'nymfo'.
+Wed Aug  5 19:01:57 2009 [14560   ] 'Ronnie' deleted user 'bobb'.
+Wed Aug  5 19:03:24 2009 [14560   ] 'Ronnie' deleted user 'oengine'.
+Wed Aug  5 19:03:50 2009 [14560   ] 'Ronnie' deleted user 'Trond'.
+Wed Aug  5 19:04:14 2009 [14560   ] 'Ronnie' deleted user 'sim1'.
+Wed Aug  5 19:05:06 2009 [14560   ] 'Ronnie' deleted user 'amp'.
+Wed Aug  5 19:05:45 2009 [14560   ] 'Ronnie' deleted user 'mia'.
+Wed Aug  5 19:07:12 2009 [14560   ] 'Ronnie' deleted user 'ddan'.
+Wed Aug  5 19:08:07 2009 [14560   ] 'Ronnie' deleted user 'nitrogen'.
+Wed Aug  5 19:09:21 2009 [14560   ] 'Ronnie' deleted user 'quan'.
+Wed Aug  5 19:09:52 2009 [14560   ] 'Ronnie' deleted user 'area'.
+Wed Aug  5 19:10:54 2009 [14560   ] 'Ronnie' deleted user 'gas'.
+Wed Aug  5 19:11:19 2009 [14560   ] 'Ronnie' deleted user 'marco'.
+Wed Aug  5 19:11:33 2009 [14560   ] 'Ronnie' deleted user 'danone'.
+Wed Aug  5 19:11:47 2009 [14560   ] 'Ronnie' deleted user 'rift'.
+Wed Aug  5 19:12:34 2009 [14560   ] 'Ronnie' deleted user 'chrisp'.
+Wed Aug  5 19:13:05 2009 [14560   ] 'Ronnie' deleted user 'Reverend'.
+Wed Aug  5 19:15:11 2009 [14560   ] 'Ronnie' deleted user 'iron'.
+Wed Aug  5 19:15:55 2009 [14560   ] 'Ronnie' deleted user 'kool'.
+Wed Aug  5 19:16:21 2009 [14560   ] 'Ronnie' deleted user 'kop106'.
+Wed Aug  5 19:17:14 2009 [14560   ] 'Ronnie' deleted user 'direct'.
+Wed Aug  5 19:19:08 2009 [14560   ] 'Ronnie' deleted user 'bolt'.
+Wed Aug  5 19:19:38 2009 [14560   ] 'Ronnie' deleted user 'mg'.
+Wed Aug  5 19:20:17 2009 [14560   ] 'Ronnie' deleted user 'lin'.
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'marchy'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'pot'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'firefox'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'dag'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'med4'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'tony1'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'croft'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'xt'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'roc'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'IMperator'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'kbig'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'mrcool'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'magic'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'mania'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'chop'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'dunc'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'wood'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'silvertech'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'cubem'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'fluid'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'nymfo'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'bobb'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'oengine'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'Trond'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'sim1'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'amp'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'mia'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'ddan'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'nitrogen'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'quan'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'area'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'gas'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'marco'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'danone'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'rift'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'chrisp'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'Reverend'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'iron'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'kool'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'kop106'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'direct'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'bolt'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'mg'
+Wed Aug  5 19:21:35 2009 [14560   ] 'Ronnie' purged 'lin'
+Wed Aug  5 19:51:03 2009 [22697   ] 'glftpd' added ip '*@217.43.155.60' to 'fluid'
+Wed Aug  5 19:51:03 2009 [22697   ] 'glftpd' added user 'fluid' to group 'FRiENDS'.
+Wed Aug  5 19:51:51 2009 [22724   ] 'ReggiE' auto-removed ip '*@217.43.155.60' from 'fluid'
+Wed Aug  5 19:51:51 2009 [22724   ] 'ReggiE' added ip '*@217.43.*.*' to 'fluid'
+Wed Aug  5 19:51:52 2009 [22720   ] 'superted' (siteop) transferred 314572800K to fluid
+Wed Aug  5 20:02:09 2009 [14560   ] 'Ronnie' deleted user 'angel'.
+Wed Aug  5 20:02:21 2009 [14560   ] 'Ronnie' purged 'angel'
+Wed Aug  5 21:01:26 2009 [2835    ] 'tinkerbell' added ip '*@86.150.10.224' to 'dayze0'
+Wed Aug  5 21:27:01 2009 [14560   ] 'Ronnie' deleted user 'Forbes'.
+Wed Aug  5 21:27:07 2009 [14560   ] 'Ronnie' purged 'Forbes'
+Wed Aug  5 22:35:19 2009 [5726    ] 'ReggiE' added ip '*@90.207.*.*' to 'fatboy'
+Thu Aug  6 06:41:13 2009 [11182   ] 'tinkerbell' added ip '*@90.206.6.5' to 'soda'
+Thu Aug  6 17:58:59 2009 [27700   ] 'superted' added ip '*@157.181.151.*' to 'rosy'
+Thu Aug  6 17:58:59 2009 [27700   ] 'superted' added user 'rosy' to group 'iND'.
+Thu Aug  6 18:03:51 2009 [27700   ] 'superted' (siteop) transferred 524288000K to rosy
+Thu Aug  6 19:05:40 2009 [14251   ] 'Ronnie' added ip '*@82.42.101.40' to 'gic'
+Thu Aug  6 19:05:40 2009 [14251   ] 'Ronnie' added user 'gic' to group 'FRiENDS'.
+Thu Aug  6 19:06:00 2009 [14251   ] 'Ronnie' changed max_sim_up for 'gic' from '2' to '0'
+Thu Aug  6 19:06:06 2009 [14251   ] 'Ronnie' changed max_sim_down for 'gic' from '1' to '2'
+Thu Aug  6 19:06:18 2009 [14251   ] 'Ronnie' (siteop) transferred 33554432K to gic
+Thu Aug  6 22:00:37 2009 [17805   ] 'Ronnie' added ip '*@86.149.87.83' to 'dayze0'
+Fri Aug  7 07:38:41 2009 [16341   ] 'Ronnie' added ip '*@86.134.48.79' to 'sim1'
+Fri Aug  7 07:38:41 2009 [16341   ] 'Ronnie' added user 'sim1' to group 'FRiENDS'.
+Fri Aug  7 07:38:53 2009 [16341   ] 'Ronnie' changed max_sim_up for 'sim1' from '2' to '0'
+Fri Aug  7 07:39:00 2009 [16341   ] 'Ronnie' changed max_sim_down for 'sim1' from '1' to '2'
+Fri Aug  7 07:39:05 2009 [16341   ] 'Ronnie' (siteop) transferred 33554432K to sim1
+Fri Aug  7 08:11:43 2009 [16341   ] 'Ronnie' added ip '*@86.9.*.*' to 'ReggiE'
+Fri Aug  7 16:46:41 2009 [16520   ] 'Ronnie' added ip '*@86.134.75.174' to 'sim1'
+Fri Aug  7 18:41:39 2009 [29408   ] 'Ronnie' added ip '*@90.206.241.182' to 'long'
+Fri Aug  7 19:59:52 2009 [20758   ] 'Ronnie' added ip '*@82.43.152.12' to 'bolts'
+Fri Aug  7 19:59:52 2009 [20758   ] 'Ronnie' added user 'bolts' to group 'FRiENDS'.
+Fri Aug  7 20:01:49 2009 [20758   ] 'Ronnie' changed max_sim_up for 'bolts' from '2' to '0'
+Fri Aug  7 20:01:57 2009 [20758   ] 'Ronnie' changed max_sim_down for 'bolts' from '1' to '2'
+Fri Aug  7 20:02:06 2009 [20758   ] 'Ronnie' (siteop) transferred 33554432K to bolts
+Fri Aug  7 23:02:57 2009 [11835   ] 'Ronnie' added ip '*@82.43.152.128' to 'bolts'
+Sat Aug  8 08:37:29 2009 [13445   ] 'tinkerbell' added ip '*@86.165.94.219' to 'mrabc'
+Sat Aug  8 10:48:47 2009 [30764   ] 'tinkerbell' added ip '*@92.10.87.90' to 'thehonestman'
+Sat Aug  8 14:24:44 2009 [25722   ] 'Ronnie' added ip '*@93.97.211.49' to 'del'
+Sat Aug  8 15:14:34 2009 [5688    ] 'ReggiE' added ip '*@66.241.180.*' to 'fsk'
+Sat Aug  8 15:14:34 2009 [5688    ] 'ReggiE' added ip 'necro@217.20.*.*' to 'fsk'
+Sat Aug  8 15:34:29 2009 [4289    ] 'ReggiE' added ip '*@90.210.38.29' to 'fatboy'
+Sat Aug  8 19:58:55 2009 [25752   ] 'Ronnie' added ip '*@82.195.101.189' to 'mp3direct'
+Sat Aug  8 19:58:55 2009 [25752   ] 'Ronnie' added user 'mp3direct' to group 'FRiENDS'.
+Sat Aug  8 19:59:36 2009 [25752   ] 'Ronnie' renamed user 'mp3direct' to 'dir'.
+Sat Aug  8 20:00:40 2009 [25752   ] 'Ronnie' changed max_sim_up for 'dir' from '2' to '0'
+Sat Aug  8 20:00:47 2009 [25752   ] 'Ronnie' changed max_sim_down for 'dir' from '1' to '2'
+Sat Aug  8 20:00:58 2009 [25752   ] 'Ronnie' (siteop) transferred 33554432K to dir
+Sun Aug  9 08:35:04 2009 [2562    ] 'superted' added ip '*@85.12.10.26' to 'Gaylord'
+Sun Aug  9 08:35:04 2009 [2562    ] 'superted' added user 'Gaylord' to group 'iND'.
+Sun Aug  9 11:27:25 2009 [11549   ] 'Ronnie' added ip '*@81.153.220.13' to 'dog007'
+Sun Aug  9 14:10:32 2009 [4637    ] 'tinkerbell' added ip '*@86.158.121.195' to 'mrabc'
+Sun Aug  9 14:13:14 2009 [4637    ] 'tinkerbell' added ip '*@90.221.103.121' to 'mastermighty'
+
+Mon Aug 10 21:07:19 2009 [3193    ] 'tinkerbell' added ip '*@86.148.254.54' to 'mrabc'
+Tue Aug 11 12:05:18 2009 [20771   ] 'Ronnie' added ip '*@92.23.13.204' to 'thehonestman'
+Tue Aug 11 17:48:05 2009 [17773   ] 'tinkerbell' added ip '*@90.207.138.218' to 'long'
+Tue Aug 11 18:37:47 2009 [17871   ] 'tinkerbell' added ip '*@91.107.131.170' to 'robbo'
+Tue Aug 11 21:40:37 2009 [14603   ] 'tinkerbell' added ip '*@91.109.52.191' to 'rem'
+Wed Aug 12 11:24:30 2009 [24790   ] 'Ronnie' added ip '*@93.97.201.24' to 'del'
+Wed Aug 12 16:49:22 2009 [5305    ] 'ReggiE' added ip '*@86.159.*.*' to 'fluid'
+Thu Aug 13 16:13:54 2009 [25744   ] 'ReggiE' added ip '*@90.221.*.*' to 'fatboy'
+Thu Aug 13 18:08:44 2009 [8653    ] 'tinkerbell' added ip '*@90.206.6.187' to 'soda'
+Thu Aug 13 20:08:57 2009 [31265   ] 'tinkerbell' added ip '*@81.141.16.175' to 'joem'
+Thu Aug 13 20:31:50 2009 [28685   ] 'Ronnie' added ip '*@90.196.192.57' to 'buttonz'
+Fri Aug 14 07:09:36 2009 [16157   ] 'tinkerbell' added ip '*@91.84.124.14' to 'ros'
+Fri Aug 14 14:20:14 2009 [23554   ] 'glftpd' added ip '*@86.8.214.72' to 'superted'
+Fri Aug 14 19:30:52 2009 [8485    ] 'buhao' added ip '*@94.23.207.*' to 'jerry'
+Sat Aug 15 17:56:42 2009 [9301    ] 'Ronnie' added ip '*@212.56.100.19' to 'ftplover'
+Sat Aug 15 18:08:16 2009 [9301    ] 'Ronnie' added ip '*@90.194.96.165' to 'long'
+Sat Aug 15 18:08:49 2009 [9301    ] 'Ronnie' added ip '*@91.107.149.60' to 'robbo'
+Sat Aug 15 18:13:37 2009 [9301    ] 'Ronnie' added ip '*@86.134.77.133' to 'sim1'
+
+
+Mon Aug 17 17:55:10 2009 [31926   ] 'tinkerbell' added ip '*@86.17.63.48' to 'exmouse'
+Mon Aug 17 17:56:14 2009 [31926   ] 'tinkerbell' added ip '*@91.85.130.85' to 'ros'
+Mon Aug 17 19:01:34 2009 [29319   ] 'tinkerbell' added ip '*@90.221.255.116' to 'long'
+Mon Aug 17 19:58:02 2009 [5098    ] 'tinkerbell' added ip '*@91.109.23.10' to 'rem'
+Mon Aug 17 21:40:00 2009 [18527   ] 'tinkerbell' added ip '*@90.210.128.28' to 'cobblerman'
+Tue Aug 18 05:51:43 2009 [29082   ] 'tinkerbell' added ip '*@86.139.162.133' to 'sim1'
+Tue Aug 18 08:21:16 2009 [5285    ] 'tinkerbell' added ip '*@86.138.141.237' to 'dag'
+Tue Aug 18 10:51:21 2009 [18608   ] 'Ronnie' (siteop) transferred 214958080K to mart
+Tue Aug 18 14:47:31 2009 [16781   ] 'tinkerbell' added ip '*@91.107.157.233' to 'robbo'
+Tue Aug 18 15:11:13 2009 [1785    ] 'Ronnie' (siteop) transferred 110100480K to robbo
+Tue Aug 18 16:28:54 2009 [28780   ] 'Ronnie' added ip '*@188.220.125.142' to 'del'
+Tue Aug 18 17:37:42 2009 [12856   ] 'tinkerbell' added ip '*@90.216.21.250' to 'long'
+Tue Aug 18 17:38:38 2009 [12856   ] 'tinkerbell' added ip '*@92.30.83.104' to 'jonnn'
+
+
+Mon Aug 24 10:02:59 2009 [6936    ] 'tinkerbell' added ip '*@86.154.23.130' to 'dag'
+Mon Aug 24 14:16:00 2009 [25115   ] 'tinkerbell' added ip '*@86.163.184.248' to 'dayze0'
+Mon Aug 24 14:23:04 2009 [32323   ] 'tinkerbell' added ip '*@90.210.11.75' to 'long'
+Mon Aug 24 18:15:21 2009 [13206   ] 'tinkerbell' added ip '*@90.215.110.148' to 'mastermighty'
+Mon Aug 24 18:18:16 2009 [14387   ] 'ReggiE' changed credits for 'gazzalcfc' from '3841' to '0'
+Mon Aug 24 18:18:49 2009 [14387   ] 'ReggiE' (siteop) transferred 314572800K to gazzalcfc
+Mon Aug 24 21:27:02 2009 [19368   ] 'tinkerbell' added ip '*@91.109.59.166' to 'rem'
+Tue Aug 25 08:36:34 2009 [15956   ] 'ReggiE' auto-removed ip '*@92.27.210.*' from 'strip'
+Tue Aug 25 08:36:34 2009 [15956   ] 'ReggiE' added ip '*@92.27.*.*' to 'strip'
+Tue Aug 25 14:29:17 2009 [15506   ] 'tinkerbell' added ip '*@90.210.35.220' to 'long'
+Tue Aug 25 21:09:54 2009 [26988   ] 'ReggiE' deleted user 'gazmcrea'.
+Tue Aug 25 21:10:28 2009 [26988   ] 'ReggiE' purged 'gazmcrea'
+Wed Aug 26 09:45:41 2009 [14618   ] 'tinkerbell' added ip '*@92.30.28.48' to 'jonnn'
+Wed Aug 26 12:12:10 2009 [9664    ] 'tinkerbell' added ip '*@92.20.202.82' to 'thehonestman'
+Wed Aug 26 20:56:52 2009 [20937   ] 'Ronnie' (siteop) transferred 33554432K to mrbig
+Wed Aug 26 21:02:24 2009 [20937   ] 'Ronnie' (siteop) transferred 33554432K to madm
+Wed Aug 26 21:11:14 2009 [20937   ] 'Ronnie' added ip '*@81.154.89.22' to 'yah'
+Wed Aug 26 21:45:28 2009 [17330   ] 'tinkerbell' added ip '*@86.150.12.24' to 'dayze0'
+Wed Aug 26 23:09:35 2009 [20937   ] 'Ronnie' added ip '*@86.164.142.3' to 'yah'
+Thu Aug 27 06:43:24 2009 [1067    ] 'Ronnie' added ip '*@90.211.112.98' to 'blue'
+Thu Aug 27 06:43:24 2009 [1067    ] 'Ronnie' added user 'blue' to group 'FRiENDS'.
+Thu Aug 27 06:43:25 2009 [1067    ] 'Ronnie' changed max_sim_up for 'blue' from '2' to '0'
+Thu Aug 27 06:43:25 2009 [1067    ] 'Ronnie' changed max_sim_down for 'blue' from '1' to '2'
+Thu Aug 27 06:43:35 2009 [1067    ] 'Ronnie' (siteop) transferred 33554432K to blue
+Thu Aug 27 13:17:50 2009 [2028    ] 'tinkerbell' added ip '*@929.137.181' to 'thehonestman'
+Thu Aug 27 17:12:07 2009 [30514   ] 'superted' changed max_sim_down for 'icebird' from '1' to '4'
+Thu Aug 27 19:22:41 2009 [24614   ] 'tinkerbell' added ip '*@90.220.168.187' to 'blue'
+Thu Aug 27 20:54:21 2009 [16682   ] 'Ronnie' added ip '*@81.154.233.84' to 'will'
+Thu Aug 27 20:54:21 2009 [16682   ] 'Ronnie' added user 'will' to group 'FRiENDS'.
+Thu Aug 27 20:54:22 2009 [16682   ] 'Ronnie' changed max_sim_up for 'will' from '2' to '0'
+Thu Aug 27 20:54:22 2009 [16682   ] 'Ronnie' changed max_sim_down for 'will' from '1' to '2'
+Thu Aug 27 20:54:29 2009 [16682   ] 'Ronnie' (siteop) transferred 33554432K to will
+Fri Aug 28 05:41:56 2009 [28584   ] 'tinkerbell' added ip '*@86.155.49.45' to 'mrabc'
+Fri Aug 28 08:16:56 2009 [7006    ] 'tinkerbell' added ip '*@92.22.95.73' to 'thehonestman'
+Fri Aug 28 20:18:18 2009 [15564   ] 'Ronnie' added ip '*@82.152.212.88' to 'ros'
+Fri Aug 28 20:25:08 2009 [16694   ] 'Ronnie' added ip '*@81.141.16.196' to 'joem'
+Fri Aug 28 20:29:36 2009 [17950   ] 'Ronnie' added ip '*@195.93.21.101' to 'dm'
+Fri Aug 28 20:29:36 2009 [17950   ] 'Ronnie' added user 'dm' to group 'FRiENDS'.
+Fri Aug 28 20:29:36 2009 [17950   ] 'Ronnie' changed max_sim_up for 'dm' from '2' to '0'
+Fri Aug 28 20:29:36 2009 [17950   ] 'Ronnie' changed max_sim_down for 'dm' from '1' to '2'
+Fri Aug 28 20:29:36 2009 [17950   ] 'Ronnie' (siteop) transferred 33554432K to dm
+Sat Aug 29 13:04:52 2009 [4656    ] 'Ronnie' added ip '*@92.8.7.251' to 'thehonestman'
+Sat Aug 29 13:05:17 2009 [4656    ] 'Ronnie' added ip '*@91.107.140.108' to 'robbo'
+Sat Aug 29 19:17:14 2009 [23925   ] 'Ronnie' added ip '*@78.105.247.63' to 'del'
+Sat Aug 29 19:49:42 2009 [21219   ] 'Ronnie' added ip '*@91.107.163.204' to 'robbo'
+Sat Aug 29 19:51:20 2009 [21219   ] 'Ronnie' added ip '*@86.134.11.142' to 'robbo'
+Sat Aug 29 19:57:52 2009 [21219   ] 'Ronnie' added ip '*@81.141.16.247' to 'joem'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'dg' from '128656108' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'doodoooby' from '124391558' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'buttonz' from '54563035' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'oakm' from '131042504' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'nicecupoftea' from '106119121' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'paullyport' from '85619596' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'found' from '151605389' to '0'
+Wed Sep  2 16:56:41 2009 [22529   ] 'Ronnie' changed credits for 'ftplover' from '153880595' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'shearer69' from '44521149' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'acas' from '43005505' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'soda' from '116921322' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'col' from '84994675' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'long' from '127036716' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'iambob' from '149009569' to '0'
+Wed Sep  2 16:56:42 2009 [22529   ] 'Ronnie' changed credits for 'sirmacdunne' from '133397023' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'Cos' from '113072574' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'nupnnn' from '64414504' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'redeagle1' from '128149868' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'jesmonddene' from '68290777' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'nikki56' from '157286400' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'rem' from '123631111' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'dayze0' from '157180479' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'Villian' from '56373537' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'dog007' from '125415172' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'mastermighty' from '59835656' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'crom' from '110455449' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'robotic' from '73671480' to '0'
+Wed Sep  2 16:57:48 2009 [22529   ] 'Ronnie' changed credits for 'deacon' from '122594056' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'yamxs500' from '115091774' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'lovespuds' from '62652717' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'cobblerman' from '134089159' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'exmouse' from '118269109' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'uglym' from '116105233' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'joem' from '110156290' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'hill' from '146101120' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'male1' from '129623432' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'thatm' from '103970108' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'chop' from '147619851' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'butlin' from '150336479' to '0'
+Wed Sep  2 16:58:41 2009 [22529   ] 'Ronnie' changed credits for 'mike2009' from '156659676' to '0'
+Wed Sep  2 16:58:50 2009 [22529   ] 'Ronnie' changed credits for 'oilyfish' from '238996705' to '0'
+Wed Sep  2 16:58:50 2009 [22529   ] 'Ronnie' changed credits for 'sin' from '25647155' to '0'
+Wed Sep  2 16:59:02 2009 [22529   ] 'Ronnie' changed credits for 'sin' from '0' to '0'
+Wed Sep  2 16:59:11 2009 [22529   ] 'Ronnie' changed credits for 'bazzza' from '321206' to '0'
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to dg
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to doodoooby
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to buttonz
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to oakm
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to nicecupoftea
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to paullyport
+Wed Sep  2 17:01:00 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to found
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to ftplover
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to shearer69
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to acas
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to soda
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to col
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to long
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to iambob
+Wed Sep  2 17:01:01 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to sirmacdunne
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'Cos' from '0' to '0'
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'nupnnn' from '0' to '0'
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'redeagle1' from '0' to '0'
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'jesmonddene' from '0' to '0'
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'nikki56' from '0' to '0'
+Wed Sep  2 17:01:18 2009 [22529   ] 'Ronnie' changed credits for 'rem' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'dayze0' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'Villian' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'dog007' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'mastermighty' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'crom' from '0' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'robotic' from '-97656' to '0'
+Wed Sep  2 17:01:19 2009 [22529   ] 'Ronnie' changed credits for 'deacon' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'yamxs500' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'lovespuds' from '-97656' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'cobblerman' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'exmouse' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'uglym' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'joem' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'hill' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'male1' from '0' to '0'
+Wed Sep  2 17:01:27 2009 [22529   ] 'Ronnie' changed credits for 'thatm' from '0' to '0'
+Wed Sep  2 17:01:28 2009 [22529   ] 'Ronnie' changed credits for 'chop' from '0' to '0'
+Wed Sep  2 17:01:28 2009 [22529   ] 'Ronnie' changed credits for 'butlin' from '0' to '0'
+Wed Sep  2 17:01:28 2009 [22529   ] 'Ronnie' changed credits for 'mike2009' from '0' to '0'
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to Cos
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to nupnnn
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to redeagle1
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to jesmonddene
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to nikki56
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to rem
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to dayze0
+Wed Sep  2 17:02:10 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to Villian
+Wed Sep  2 17:02:11 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to dog007
+Wed Sep  2 17:02:11 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to mastermighty
+Wed Sep  2 17:02:11 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to crom
+Wed Sep  2 17:02:11 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to robotic
+Wed Sep  2 17:02:11 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to deacon
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to yamxs500
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to lovespuds
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to cobblerman
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to exmouse
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to uglym
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to joem
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to hill
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to male1
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to thatm
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to chop
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to butlin
+Wed Sep  2 17:02:22 2009 [22529   ] 'Ronnie' (siteop) transferred 157286400K to mike2009
+Wed Sep  2 17:02:31 2009 [22529   ] 'Ronnie' (siteop) transferred 314572800K to oilyfish
+Wed Sep  2 17:02:31 2009 [22529   ] 'Ronnie' (siteop) transferred 314572800K to sin
+Wed Sep  2 17:02:37 2009 [22529   ] 'Ronnie' (siteop) transferred 471859200K to bazzza
+Wed Sep  2 17:12:03 2009 [8336    ] 'tinkerbell' added ip '*@86.134.11.142' to 'sim1'
+Wed Sep  2 18:39:08 2009 [10203   ] 'tinkerbell' added ip '*@86.154.162.33' to 'mike2009'
+Wed Sep  2 19:23:07 2009 [8605    ] 'tinkerbell' added ip '*@92.14.222.97' to 'dm'
+Wed Sep  2 19:34:07 2009 [10830   ] 'Ronnie' added ip '*@86.145.60.118' to 'mike2009'
+Wed Sep  2 22:38:25 2009 [28943   ] 'tinkerbell' added ip '*@92.9.72.137' to 'dm'
+Wed Sep  9 14:29:24 2009 [31672   ] 'Ronnie' added ip '*@90.195.87.80' to 'buttonz'
+Wed Sep  9 17:09:24 2009 [29778   ] 'Ronnie' added ip '*@86.140.33.1' to 'tan'
+Wed Sep  9 17:10:04 2009 [29778   ] 'Ronnie' added ip '*@188.220.39.170' to 'pistol'
+Wed Sep  9 17:10:39 2009 [29778   ] 'Ronnie' added ip '*@91.107.185.98' to 'robbo'
+Wed Sep  9 17:11:05 2009 [29778   ] 'Ronnie' added ip '*@91.85.163.226' to 'ros'
+

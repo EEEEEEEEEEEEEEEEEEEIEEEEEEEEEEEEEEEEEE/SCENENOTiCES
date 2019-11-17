@@ -1,0 +1,98 @@
+
+
+          ______ ______  _______ ______   _____  _______    _        
+         (_____ (_____ \(_______|____  \ / ___ \(_______)  | |       
+          _____) )____) )_____   ____)  ) |   | |_          \ \      
+         |  ____(_____ (|  ___) |  __  (| |   | | |          \ \     
+         | |          | | |_____| |__)  ) |___| | |_____ _____) )    
+         |_|          |_|_______)______/ \_____/ \______|______/     
+                                  UNITE
+
+
+   This is the first scene-notice from us, as we, prebot owners, have been
+   watching too long for now how the things have gone.
+
+   This nfo contains current things that NEED to be fixed. It also has
+   some solutions for them. It is intended for prebot owners, if you dont
+   own one you probably wont do anything with this notice.
+
+
+   #1 Bots Echoing From Filtered Sitechans
+
+     This is why we see those echos with underlines replaced with dots and
+     so on. So now, _every_ prebot owner, stop echoing from preannounce
+     channels. Why the hell even do that? If your bots echoes, echo from
+     those channels designed for bots. DO NOT try to guess missing characters
+     or try to fix the releasename IN ANY WAY! Just send it over in the
+     same condition you got it.
+
+   #2 PreHQ Security
+
+     Recently, there has been some PreHQ's widely open. Most of them were on
+     EFNet, and were open for everybody. Yea, even for NON-SCENERS if you
+     just knew the channel or guessed it. This is one reason why prespam
+     has been grown lately. Even most of the sceners shouldn't have access to
+     these places if they dont run a prebot, so why the hell non-sceners have.
+     So SECURE YOUR CHANNELS NOW!
+
+   #3 Nuke/Unnuke Looping
+
+     This is not really an issue for good bots who dont take the nukes
+     again. Main issue with this is that it causes spam, and shows
+     how many noob bots there are. Why even announce nukes like a 4
+     hours after the real nuketime? Yea, they're looping and wont
+     stop it. They also cause problems with other things issued in this nfo
+
+   #4 Adding Old Releases
+
+     This is caused by adding on new dirs. Bots should only add from
+     REAL SITEPRES. Again it messes up db's and bots with small databases.
+     (small db for whatever reason, it could be also speed issue on the adder)
+
+   #5 Stolen Or Shitty Scripts
+
+     Wow, there really are people who cant script their bots but still
+     are running them. They have either received it or stolen it from
+     some other prebot owner. IF YOU CANT HANDLE SOMETHING, DONT DO IT.
+     If you cant handle your bot, DONT RUN IT! OR AT LEAST DONT ADD AND
+     SCREW UP EVERYONES DB'S!
+
+   #6 Prespam And Fakes
+
+     This is the worst thing ever. There are way too many noobs around preadd
+     scene today. Probably everyone noticed the Lost thing yesterday. First,
+     someone added a fake 6 hours before the pre, guessing the dirname
+     (and its usually the same). Now, all prebots saved the pretime of it.
+     Some did delpre. Some racers actually raced the empty dir around.
+     Now, right before the real pre came another addpre, and LOL released
+     it five minutes later. Prebots got that old time, and we're autonuking
+     on sites for backfill. The real release spread very hardly around, and
+     very slow. Sites nuked the old as fake, and racers couldn't make
+     dir for the real release. Then after the XOR proper came more and more
+     prespam and racers raced empty dirs around. And again predb's are filled
+     with fake pres and dirname of the next weeks Lost. Really mature guys.
+     And because of delpre's, other db's have it and other dont. Then they're
+     always adding old releases and messing it up, nukelooping and nuking
+     the REAL RELEASE for fake because it was fake before the group really
+     pred it. WTF GUYS!
+
+   #7 FXP board, public and P2P prebots
+
+     These aren't tolerated either. In addition to that they leak pre
+     info, they allow to spam shit. And heres one of the P2P bots: _martin
+     Its running on a large PreHQ at EFNet and has connections to torrent
+     sites. This goes to all of you too, if you leak preinfo and spam shit,
+     you will get banned.
+
+   So stop this shit now. In your db start saving the botname who first
+   added the release for you, same for nukes and unnukes. This information will
+   come handy soon. If you have shitty scripts, please try to fix them. We will
+   soon autonuke bad echos and if our bot sees your bot as the first adder,
+   you bot's nick will show up on the nuke.
+
+
+   If you have questions, would like to discuss this thing, or want
+   to help out, you can contact us via pbunite@hush.com
+
+
+                                     ...this rls passed the security gates of [RL]

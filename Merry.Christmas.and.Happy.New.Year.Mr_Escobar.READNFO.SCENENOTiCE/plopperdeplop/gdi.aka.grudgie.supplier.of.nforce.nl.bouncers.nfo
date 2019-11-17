@@ -1,0 +1,37 @@
+
+
+Please make note of the following:
+GDI aka grudgie aka _|GDI| on efnet/linknet (and who knows what other net) is the main supplier of a range of bouncers who run in the RIPE registered NFOrce.nl range.
+
+-------------------------------------------------------
+_|GDI| is n0b0dy@rookt.wiet.want.hetbierisop.nl * c
+_|GDI| using efnet.xs4all.nl follow the white rabbit!
+_|GDI| actually using host 85.17.52.157
+_|GDI| End of /WHOIS list.
+-------------------------------------------------------
+
+A simple WHOIS lookup for the ip 85.17.52.157 returns 
+inetnum:        85.17.52.0 - 85.17.52.255
+netname:        NFORCE
+descr:          NFOrce
+descr:          Netherlands
+descr:          http://www.nforce.nl
+
+www.nforce.nl is bound to IP 85.17.52.239
+
+I came across this when he offered me a bouncer himself, running on christina.nforce.nl:2500
+
+# telnet christina.nforce.nl 2500
+Trying 85.17.40.216...
+Connected to christina.nforce.nl.
+Escape character is '^]'.
+:Welcome!psyBNC@lam3rz.de NOTICE * :psyBNC2.3.1
+
+85.17.40.216 is bound to another NFOrce.nl range (http://www.iptools.com/dnstools.php?tool=ipwhois&user_data=85.17.40.216&submit=Go)
+
+Siteops,
+Do I have to make this any more clearer that a person who HAS ACCESS to the nforce.nl domain and SUPPLIES bouncers (and probably sniffs/logs the traffic from the users who use this) DOES NOT BELONG IN THE SCENE??
+
+Please take the appropriate actions against this unsecure public scene guy and delpurge him now.
+
+- For the sake of scene security

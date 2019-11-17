@@ -1,0 +1,67 @@
+Read.This.About.Insecure.User.Gid3oN-UPDATE-SiCKNESS
+
+Here's an update on the last scenenotice about Gid3oN (trading under: GideoN/SiCKNESS). 
+
+I couldnt really read what was there since im not swedish but i tried to nmap his IP in the nfo
+
+Starting Nmap 4.01 ( http://www.insecure.org/nmap/ ) at 2008-03-03 22:40 CET
+Machine 83.250.74.95 MIGHT actually be listening on probe port 80
+DNS resolution of 1 IPs took 0.14s. Mode: Async [#: 2, OK: 1, NX: 0, DR: 0, SF: 0, TR: 1, CN: 0]
+Initiating Connect() Scan against c83-250-74-95.bredband.comhem.se (83.250.74.95) [1672 ports] at 22:40
+Discovered open port 113/tcp on 83.250.74.95
+Discovered open port 80/tcp on 83.250.74.95
+Connect() Scan Timing: About 39.98% done; ETC: 22:42 (0:00:45 remaining)
+Increasing send delay for 83.250.74.95 from 0 to 5 due to 11 out of 14 dropped probes since last increase.
+Connect() Scan Timing: About 52.81% done; ETC: 22:43 (0:01:07 remaining)
+Discovered open port 8080/tcp on 83.250.74.95
+The Connect() Scan took 123.42s to scan 1672 total ports.
+Host c83-250-74-95.bredband.comhem.se (83.250.74.95) appears to be up ... good.
+Interesting ports on c83-250-74-95.bredband.comhem.se (83.250.74.95):
+(The 1668 ports scanned but not shown below are in state: filtered)
+PORT     STATE  SERVICE
+80/tcp   open   http
+113/tcp  open   auth
+114/tcp  closed audionews
+8080/tcp open   http-proxy
+
+Nmap finished: 1 IP address (1 host up) scanned in 123.780 seconds
+
+
+AWESOM! open ports, lets see what runs on port 80... hmm FU_AUTO... nice... see the attached IMG for proof (Removed the sites that already purged him)
+
+
+WELCOME TO FU_AUTO WEBSTATS
+
+Last Race Name: 
+
+Neverstore-Heroes_Wanted-2008-DQM 
+
+Last Race Section:
+
+MP3 
+
+Current Pretime For Last Race: 
+
+1min 1sec 
+
+Last Race Affil Sites:
+
+NONE 
+
+Last Race Allowed Sites: 
+
+rig valient wga tg wori ninja  
+
+Chains For Last Race: 
+
+CHAIN1: rig;valient;wga;ninja 
+
+CHAIN2: rig;wga 
+
+CHAIN3: valient;rig 
+
+CHAIN4: rig;tg 
+
+CHAIN5: tg;wga 
+
+

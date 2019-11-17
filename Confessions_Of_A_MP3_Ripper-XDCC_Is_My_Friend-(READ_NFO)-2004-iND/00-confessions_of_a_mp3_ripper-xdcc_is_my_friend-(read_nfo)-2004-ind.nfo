@@ -1,0 +1,227 @@
+     ...           .,,.   :::,.,,..    .   MMMM,ri; ;. .;    , i      X;7ZX2i     rS;i.a0MM      WMB
+:,,,.  .,.  :,i...                 ...           .r2a0rr0SiM882.2M8.0.ri  : XWiMX8., ; i ZM      WMW
+ ........,.  . ..,  ..  . :.,  .,        20iSX;ZWS.8.   ;8SXiB0; .00::aaBZMMW@@B:::XSMMX :;. , 0MMMW
+                 . . ..,    ,.        iS8r.7 r7  i7MaMMX: ;ai ;0aXarX ZX:a2 , .Baa;:ZZ;:a7S     MMMW
+..    ,.                            7;0X:2r7S8XB78,iSa,iZW2rar:..  SM8iirM2B8X 7WXMWM W  Wa;.   :@@@
+                                  rZrZZ.;@Z82aZZWB7ZaiZWi;; 2ZMS0M0r iM@iMMaMWM,  S.,:8aXXXXZ    WMW
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMZWaWX8a28aXZ@20Z2@M0MWZ@8@MW@ZMMMB7r ;2 0ZMaMMMa;X :X7;,:,MS W7@W0
+                                 78BXWX80ZZ@a8XiXWaa022ZZaZBZZ;a827XMMZZWX.72XMS0MMMMM7i@2: B0 aM@80
+                            Z0M20MB2X@SBB202a77@W0a2W8@MB@0aZBWBWB0Z@ZSBMM7:8BB2ZMWaXM7 ZZMii7BBM8ZB
+                          8MMB  S2MZr0r2@02W8WMZaZaWZBMW 2M82Z2a0BWMWW@@ZBWMM0WWBXaMMM@MMZ8M8,r:M@WB
+                         MMB;Z;XZaMMBW8B8Z0B820Z088WZWMMMMMMZ@W@@BM@8BB2aB2WBBWMW88080Wa2irrW7  MWaa
+                        Z8.  :8MW8M0MMaZB08XZ0ZWWSBaZWW7@WBMB@00a808ZaW@@M@WW080W8WBM8MM8MS r; i2M@8
+                        MrZ80BBMW2WB@MBSSZ2WS02aWB0WW@80MMM@aS80BB0WBW@B@B8B0W0@M80Z88270XMB2M , MW8
+                        MBM2WMWBWBX8B@0SZB08ZMW8@Z828WXaB8W0ZZ88B@MBaW@BZ0@BBZZWW0WBZWWX8BMM MBS MMW
+                        MXBa@MWB@M;aB822BW0W28ZS0ZSS88ZBWX0a@Z0B80BWWWWBWWB0@B08Z@MZ0MMWWS7@ZW.8  MM
+                        MMM8Z0W0WM0rZ2aB28aWB0Z8BZWZBMZ0B2@00a8@BB82@0aZWW0@ZWWWWBM8WWaBW72i i. @ WM
+                        ,MMM@BWWBW@a8MXBa0aWSX@@M0B0MBZMWWWB0WS0ZBBZMBMWWW088WW@08War;77SMMWZ8M.; .M
+                           MMM@80BMW:00WZ2ZSaZ22SWaZW8a700WM8@@28ZWW08WBZB0000B8BWB0ZM@MB W2a iM,r B
+                             MMW08MMZaZBMBMMMM0; ,0iZ8Z8,  ;080a@0WBB80WBW0W@0ZB0BMWW@727:B2MM ,Zr7
+                              MMMB0@M02ZB0WWW@MMMBMMM@@WMMBBB80ZZ@@BW0@@0WB0WWWBBWMZrBai27r   Si,..r
+                               @MMMWB@@SBZ0WW@W0BBW0B00000000808aZBB8Z800WMWBWWWBBB@M@W8M0B;M@M8W8ii
+                                 MMMM@MXZ@MW88WWBBB00B00000000000ZZW00BWBWB8BBBW@WZ0BXBMW 2,.,   iWS
+                                    MMMMr78WBWWWBB000088008088088ZX0BBBW80B0000WWZBWWaa888M2 . X
+                                      MMM@88BB@@WWBB0BB8Z8008888BBBZ8BW0WB0W@BWMWWB@BB2@W8X07X, a7r
+                                         MMW@8WZ0@@BB@MMMMMMMMWBMMMMaWBBZBa8BW8ZZWWWBaaW@aM7raSZM8a0
+                                           iM@@WBBWWWM: SMM :0MMZ ;WMMMM00@@W@@B0W@0BW@BBMB0BM8Z77XS
+                                            ;SBB@BWBWM.  ,. ,  Sr ..: Z@BB02WBBBBB@WBWMB@MBWWBBM@0@a
+                                            87X0WBB@WMMi:. .i,.  .,.  ,BWWW8@@WWB2BWWBW00WWW880WB08Z
+                                           7MM02B@00aBB@MM@WW08BW0ZZZSi2Z@8W880BWWWW8080M@@W0B0B0WB0
+                                           2M@M82Z80B8Z0WZ8Z0WWBWM@WWM@22WZ8BWWWWWBBBW@WWB0@WWWBBBB0
+                                           7MBWM8raWBaZZa7W8@0ZZ82Z8ZB80aM@BZWW0B8BBBBBBM0BMW@W0B8W0
+                                           rMWW@M8:8MW000B@a2SZaW8ZaB08BZa8BWWMZ0B@MMB0WW00@BB@W08@W
+                                           ,M80WWMM7ZB8W28080a0aZZ8Z0W80B0BMaZB0@WMW80BWWBWWWW@WBWWB
+                                     .     iMWWW0MM  MMZB8ZB0@800B00BWZZB8Z080MWWWW80MWWW8WW@W@@BB0B
+                                           rMMMMMMM  iM0B00W8aa88W08B8BBMB8W8BW0B8BBW@WWW@BWWWWM@@BB
+                                  SM        87XMS7M2   a00828W800BB8B@MW8Z0W@W0Z@WBB@WWBB@WB@@@@WW8B
+                                .  M           ZMWMZMM7 ZM80ZWMW8BW0B@aZWBWW0B@0WBW@WBWWWWW@BWMMW8BB
+                                  ,MiWWBM2     MMMM; MMM:WZ8Ba8ZZ00ZBB0W@Z88B8WBWB0BB0BBB8WWW@W00888
+                                  :Mra7aW8MMa272SXZMMMMMMWMM00BBB8B0W88B8BMBWZ@WZMB0BB0WW@MMMB0Z08B8
+                   .              :MrZ2BaS22r.            :B02@20B8BB8W8WBZBB0WBaZWW@BW@@@MBZZZ208WB
+                             rS:i MM8M@@a00B@MM@W8XMWar    2ZZB80B00ZBB0B8ZBB0WWWWWBBBWBWM07Z8WWWZWB
+WMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMMM@BZ0MMMWWW@WWWWW@MMMMMMMMM8MZ00882ZBWZ80WB0080W0B0BWWW@MMS8WZ@MZ0@8
+                                  ..:;7WMMMMM@WWWWWBB0BBBMrX0WBBMMWB80800888080BBBBMMMMMW08W8aBZ208B
+     ....  ,, ..  ,  r          :,,..    :ZMMMMMMMMMMMMMMM;W2B88M@@MM@WWB@BWWBWWMMM@BBZ8Za28WW888BMW
+.,,..   .        aMM; Xa    ; .                ;BMMMMMMMMM8MMMW0aZZW8W@M@MW@@@MMWBB08BWMMBB0022B0ZZ8
+    ...     SW    ,MMMZMMMMMS    ... .  ..:iiiiirri          XMMMMWM@MMW@@@@@@B8a0ZZZZ0ZBZ0SZMBMW0B@
+...     ;MMMMM        WMMMr,,MMi     ;7.::r:,:       XWW020X    ZMMMMMMXWMMWMW808WB00W@0BW0W88SSWBBW
+      rMMM@WWM        M7                        8,ZZX@Z SX7MMZMZ     8Bi,0MWWB8ZZBa0Wa0BBWZ80W@0WW@8
+     iMMMBWWWM0MM0; ,. :Xr:            ,MiX  WX MMW@0MMMMM@W@S2@MMM8  MMi MMM8ZaMa8BWZ0WW00WBW8@W8BB
+7X7;;BMWWWWW@M@@W@M2    ,iiiir   ...        Z@S  WWMBM0ZMMMM@MMZZM8  Z0M  BMM@WZBZ8WZ8@ZBZWB@BBWMM0Z
+XXXX8MMWWWWWWB@M@BMMMB;      r      MWMMMMM iWMMMZa0BWB20MB7MMMMMMZ ;    W0r  a8Z8Za0Z8aSZ00BBWWB8B8
+XX7ia8MWWWWWWWWWMMWW0@MX::   iX     Mr8ZBaMMW2aB@MBBWWMMa882X;;i;@MM   rBMMMa:@8S80Zaa8B0BB8Z8BBWWBa
+SXX;i;@WWWWWWBBWW0BMWBW@MWMM@BMi SM MMMMMMMMMMMMMMMMMM@:..:::rrr;SMMMM; MMMMBMMMMMM@@B00@WBBW@@MMMMM
+  7S08@@M@@@WBBBBBWMMMMMMMMMMMMMMMMMMM@W8Z8ZZBWBM@WMMMMMMMMMMMMMMBr.,r8 ,ir      :S0MMMMMMMMMMMM@Z,
+r:, .iSa8808a888008ZaSi
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMM.         MMMMMM       MMi      7MM       MMS     8MMZ     WMMMM,          ;MMMMM             MMM
+MZ        a.   MMMM: .    MM     XirMM   .. .MMM      MMM  2XaMMMM              0MMM               M
+M      MMXX:    MMMM      MM        MM      MMMM      .MM  ;  MMMZ      MMM .    MMM  .   0MM      M
+M      MM7   .  MMMM .    MM        MM      MMMM   ,   MM  S  MMM;      MMr .    MMM      :MM      M
+M      MMM Z,.  MMMM      MM        MM      MMMM       iM  X  MMMMMMMMMMMMi .    MMM       MM   .  M
+M      MMM      MMMM      MZ .      MW      MMMM        S  2: MMMMMMMM2       rMMMMM       MM   .  M
+M ,    MMM   .  MMMMM     M  , :. , MX     8MMMM          :2, MMMMMMMMS         rMMM       MM   ,  M
+M 8WWZ MMZr@SB0.MMMMM     M    M8   M      MMMMM              MMMMMMMMMMMM       MMM       MM   .  M
+M      MM;70    MMMMM     2    MM   @      MMMMM     M        MMM;      MMM   2M MMM       MM   .  M
+M .    MMX   .  MMM@M          MM          MMMMM     MX  .    MMMW      MMMB   : MMM       MM   .  M
+M      MMW      MMMMM7         MM         XMMMMM     MM  .    MMMW   :, MMMM iMM MMM      8MM   .  M
+M       i      BMMMWMM        aMMS        MMMMMM     MMi      MMMM        MM   7MMMM               M
+MMM          ,MMMMMMMM        MMMM        MMMMM2     MMM      MMMMMS           XMMMM              0M
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MM                                         , , :  ,Xr                                             MM
+MM  i ......................................  OWN3D .......................................... :  MM
+MM  X                                                                                          M  MM
+MM  S                                                                                          M  MM
+MM  S                   -=\ Date Created: 08-24-04 / Released: 09-30-04 /=-                    M  MM
+MM  S                                                                                          M  MM
+MM  S   Introduction:                                                                          M  MM
+MM  S                                                                                          M  MM
+MM  S   The scene has done many great things in the past years, avoiding possible              M  MM
+MM  S   destruction due to authorities, and organizations such as the RIAA, understanding      M  MM
+MM  S   that security is a priority that cannot be second best. Releases are nothing without   M  MM
+MM  S   making sure the releaser and group is safe from harms way.                             M  MM
+MM  S                                                                                          M  MM
+MM  S   This person, I've came across so many times, I am fed up with his mistakes and his     M  MM
+MM  S   purposely made errors. Capn a.k.a. Capnwells a.k.a. [lynch] a.k.a. ShamrockNrollDKM    M  MM
+MM  S   (on AIM) lack of thinking, spanned over months without recognition, but now the        M  MM
+MM  S   scene will see, he has no usefulness within the MP3 scene or any scene for that        M  MM
+MM  S   matter. It's not just one thing here, it's not only running an XDCC chan. From AIM     M  MM
+MM  S   logs, to IRC chat logs will show he's nothing but a nuisance and a security risk.      M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   03-21-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   (Capn's Plot on how to stay in #AbsolutePunk @ EFnet while trying to go scene, A       M  MM
+MM  S   plot he accomplishes shown in this AIM conversation):                                  M  MM
+MM  S                                                                                          M  MM
+MM  S   ShamrockNrollDKM (9:38:39 PM): how bout this                                           M  MM
+MM  S   ShamrockNrollDKM (9:38:43 PM): capn goes scene...poof                                  M  MM
+MM  S   ShamrockNrollDKM (9:39:02 PM): Lynch (another name i like) comes on #absolutepunk      M  MM
+MM  S   and helps out :p                                                                       M  MM
+MM  S   ShamrockNrollDKM (9:39:14 PM): lynch chills in the ops room but DOESNT get ops in      M  MM
+MM  S   the main chan                                                                          M  MM
+MM  S   ShamrockNrollDKM (9:39:22 PM): after a while, lynch gets ops for being cool            M  MM
+MM  S   ShamrockNrollDKM (9:39:57 PM): dude                                                    M  MM
+MM  S   ShamrockNrollDKM (9:40:00 PM): ill make a statement                                    M  MM
+MM  S   ShamrockNrollDKM (9:40:02 PM): and resign                                              M  MM
+MM  S   ShamrockNrollDKM (9:40:11 PM): ill say the RIAA busted me                              M  MM
+MM  S   ShamrockNrollDKM (9:40:23 PM): lol ok                                                  M  MM
+MM  S   ShamrockNrollDKM (9:40:37 PM): can i just "quit"                                       M  MM
+MM  S   ShamrockNrollDKM (9:40:49 PM): like fake that im just fed up with senses fail fans?    M  MM
+MM  S   ShamrockNrollDKM (9:41:49 PM): ill just go scene with the new nick                     M  MM
+MM  S   ShamrockNrollDKM (9:41:51 PM): easy.                                                   M  MM
+MM  S   ShamrockNrollDKM (9:41:58 PM): [capn] stays in the ops chan                            M  MM
+MM  S   ShamrockNrollDKM (9:42:07 PM): and CapnWells joins #absolutepunk                       M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   06-19-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   (I've read many site rules showing the importance on making sure sites aren't          M  MM
+MM  S   mentioned outside of the site chan. Well I doubt it's safe speaking about it to        M  MM
+MM  S   random people on AIM):                                                                 M  MM
+MM  S                                                                                          M  MM
+MM  S   ShamrockNrollDKM (4:00:54 PM): i got ANOTHER site                                      M  MM
+MM  S   ShamrockNrollDKM (4:01:06 PM): so i have 3 good ones and an archive                    M  MM
+MM  S   ShamrockNrollDKM (4:01:07 PM): w00t                                                    M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   08-23-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   <He was caught by a few sites for his reckless reguard for rules, and asked to leave   M  MM
+MM  S   everything and depart from all his scene duties, we told everyone he quit everything   M  MM
+MM  S   scene, but then roomers of his return led me to an Informant who gave me the truth):   M  MM
+MM  S                                                                                          M  MM
+MM  S   [21:14] <xxxxxxx-> hey dude, how did capn come back? i thought he left?                M  MM
+MM  S   [21:16] <xxxxxxxxx> he left?                                                           M  MM
+MM  S   [21:16] <xxxxxxx-> wait a minute                                                       M  MM
+MM  S   [21:16] <xxxxxxx-> he never left Sxx?                                                  M  MM
+MM  S   [21:16] <xxxxxxxxx> umm....i dont kno if im supposed to say so shh but no              M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   07-16-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   (Here's a log that came across in a non-scene channel. Asking for help is fine, but    M  MM
+MM  S   when you mention the site name, the sites ip, AND it's port. That's a huge problem..   M  MM
+MM  S   siteops are risking their sites  security by allowing him to be added. He totally      M  MM
+MM  S   lacks common sense. (i censored some of the numbers and letters for security           M  MM
+MM  S   reasons>:                                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   <15:12:02) (@[capn]) xxxxxxx                                                           M  MM
+MM  S   (15:12:06) (@[capn]) i need help                                                       M  MM
+MM  S   (15:12:08) (@xxxxxxxxx) what with?                                                     M  MM
+MM  S   (15:12:16) (@xxxxxxxxx) and hurry im leavin in 3 minutes, gotta get ready for work     M  MM
+MM  S   and crap                                                                               M  MM
+MM  S   (15:14:03) (@xxxxxxxxx) okay..                                                         M  MM
+MM  S   (15:14:29) (@[capn]) oh                                                                M  MM
+MM  S   (15:14:35) (@[capn]) well this site, wont let me connect                               M  MM
+MM  S   (15:14:44) (@xxxxxxxxx) be more specific                                               M  MM
+MM  S   (15:14:47) (@[capn]) i can get on 2 of the sites in this ring, but the other 2 i get   M  MM
+MM  S   a weird error.                                                                         M  MM
+MM  S   (15:14:48) (@xxxxxx) site undupe 02-boehse_onkelz-heilige_lieder-gore.mp3              M  MM
+MM  S   (15:14:58) (@[capn]) [R] Connecting to c* mp3 -> IP=6*.*8.*0.* PORT=**3*2              M  MM
+MM  S   (15:14:58) (@[capn]) [R] Connected to c* mp3                                           M  MM
+MM  S   (15:14:58) (@[capn]) [R] Connection failed (Connection lost)                           M  MM
+MM  S   (15:15:15) (@xxxxxx) capn FOR THE LOVE OF GOD, dont show the damn sitename             M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   06-23-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   (In this log, you have capn talking about his sites to a reg. in another non-scene     M  MM
+MM  S   chan while admiting his affiliation with his group, as well as boasting that he        M  MM
+MM  S   could get anything he wanted through them>:                                            M  MM
+MM  S                                                                                          M  MM
+MM  S   [6:38pm] [capn] *b* is shit                                                            M  MM
+MM  S   [6:38pm] [capn] s** leader today asked me if i was fine with my sites, if i needed     M  MM
+MM  S   anything, wanted to make sure i was happy. <3                                          M  MM
+MM  S   [6:56pm] [capn] in S** they call me the GANGSTA TRANCE DANCER                          M  MM
+MM  S   [6:56pm] [capn] so no one will know im racing :p                                       M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   04-13-2004                                                                             M  MM
+MM  S                                                                                          M  MM
+MM  S   (Many wonder what really did happen to that SDR release. Well here is the proof. A     M  MM
+MM  S   picture of capn confessing, and trying to keep the guy quiet. The picture says it      M  MM
+MM  S   all, who knows what else capn or "[lynch]" stole, re-encoded or cheated to get>:       M  MM
+MM  S                                                                                          M  MM
+MM  S   -=\ View 01-chat_log /=-                                                               M  MM
+MM  S                                                                                          M  MM
+MM  S   ------------------------------------------------------------------------------------   M  MM
+MM  S   -------------------------                                                              M  MM
+MM  S                                                                                          M  MM
+MM  S   So in the end, we don't need any of this. With the fake releases by channels           M  MM
+MM  S   slipping into sites, and the arguing over stolen releases and fake re-encodes,         M  MM
+MM  S   web-rips. Things need to happen. And to the group, it's a shame you have to go         M  MM
+MM  S   through this, but you guys even lied saying you dropped him, but he wasn't too         M  MM
+MM  S   quiet, he was caught. This is clear, one less problem, one less slip up. Start         M  MM
+MM  S   today, and lets get this out there, We Don't Need This!                                M  MM
+MM  S                                                                                          M  MM
+MMr i                                                                                          M  MM
+MM O :                                                                                        X O MM
+MW W ,                                                                                        0 W MM
+MM N i                                                                                        a N MM
+MM 3 ,                                                                                        Z 3 MM
+MM D :                                                                                        a D MM
+MM  i                                                                                          r  MM
+MM  S                                                                                          M  MM
+MM  S                                 M      M                                                 M  MM
+MM  S                                 M      M                                                 M  MM
+MM  S                                 M      M                                                 M  MM
+MM  S                                 M      M                                                 M  MM
+MM  S                                 S   M  a                                                 M  MM
+MM  X                               MMMM;   .BMMMM                                             M  MM
+MM  ; .............................     OWN3D     ............................................ ;  MM
+MM                                                                                                MM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

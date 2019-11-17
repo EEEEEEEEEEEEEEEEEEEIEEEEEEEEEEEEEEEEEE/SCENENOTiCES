@@ -1,0 +1,106 @@
+___                      _   _
+/___\_ __   ___ _ __ __ _| |_(_) ___  _ __
+//  // '_ \ / _ \ '__/ _` | __| |/ _ \| '_ \
+/ \_//| |_) |  __/ | | (_| | |_| | (_) | | | |
+\___/ | .__/ \___|_|  \__,_|\__|_|\___/|_| |_|
+|_|
+__     _____       _
+/ _\ __/__   \   __| | _____      ___ __
+\ \ / __|/ /\/  / _` |/ _ \ \ /\ / / '_ \
+_\ \ (__/ /    | (_| | (_) \ V  V /| | | |
+\__/\___\/      \__,_|\___/ \_/\_/ |_| |_|
+sponsored by HeMan and The Masters Of The Universe
+
+PART TROIS.
+---------
+
+Yes! we're back so soon with more juicy info.
+Now, unfortunatly, the sites that ScT mainly sources from (lame colos)
+are running drftpd, which dosn't have a proper working xferlog, that is,
+if they fxp to their seeding boxes, that boxes ip will not appear in logs
+unless they used reverse-fxp and swapped the pasv round, leaving the PORT line
+visible in drftpd.log with the boxes ip... But because fxps generally use PASV on the source
+it means that the ips won't show up in logs without some special modifications and slave updates.
+
+So, how to track the bastards? Up to you, either make modifications to drftpd to log fxp ips,
+or perhaps get iptables to log connections, or a script checking netstat, whatever, use your initive
+If there's a torrent posted on ScT some time after pre (few hours or whatever), check your drftpd.log
+for people RETR various filenames from that release, if you find someone has grabbed it 5mins or so before
+it's posted on ScT, flag them as suspicous.
+
+Now for the goodies... Here's the ips of most of their seed boxes.
+
+72.26.240.2
+69.93.111.173
+72.232.42.122
+72.232.52.74
+72.232.19.250
+72.232.56.178
+216.32.81.10
+193.11.11.95
+72.232.9.98
+
+ScT tend to own slaves on some .us colos, they have 1 account which they share out with a seedbox as addip.
+amongst themselfs, and allow all thier members to fxp from it to various seed boxes (which we believe are shared)
+We know that they have used 69.93.111.* in an addip, which is either running a proxy or is a win box with ftp
+client on it (flash 3.2.0).
+
+I need not have to reinforce how INSECURE this is, having "public" accounts on sites. Please grep your userfiles
+for ips above. In addition, some uploaders (firecos) of ScT have been selling leech on sites.
+
+It is also suspected that ScT *may* be getting supplied by the admin on torrentleech, Koalave, who calls himself OneTwoThree
+on ScT, the only ip we have for him is 198.240.212.26 (WWW-GW1.CREDIT-SUISSE.COM), which looks a bit like a web proxy.
+Koalave supplies most of the uploaders on torrentleech.
+
+One site in perticular that has come to our attention as a highly likely source of ScTs uploads is the well-known colo, MLR.
+While we do not think MLR or staff has any involvement or knowledge, it does seem very likely, through our tracking, that
+ScT is sourcing from this site (amongst others), and has at least 1 account on it, probably as a slave owner. One username
+that we were informed to be used by ScT is "7363656E65" (which ironically is the hex for ascii string "scene"). Check your 
+sysop.log for any recent renusers.
+
+If you are a site owner (us colo especially),
+DO NOT SIT BACK AND DO NOTHING.
+If siteops do not make an effort to catch and track these lamers, they will continue their activities and lessening the security
+of the scene.
+GET OFF YOUR ARSE AND MAKE AN EFFORT TO FIND THEM.
+GREP LOGS, CORROLATE DATA, SETUP TRAPS AND HONEYPOTS,
+WATERMARK SFVS.
+DO WHATEVER YOU MUST TO CATCH AND PURGE THESE FUCKS.
+
+___                      _   _
+/___\_ __   ___ _ __ __ _| |_(_) ___  _ __
+//  // '_ \ / _ \ '__/ _` | __| |/ _ \| '_ \
+/ \_//| |_) |  __/ | | (_| | |_| | (_) | | | |
+\___/ | .__/ \___|_|  \__,_|\__|_|\___/|_| |_|
+|_|
+__     _____       _
+/ _\ __/__   \   __| | _____      ___ __
+\ \ / __|/ /\/  / _` |/ _ \ \ /\ / / '_ \
+_\ \ (__/ /    | (_| | (_) \ V  V /| | | |
+\__/\___\/      \__,_|\___/ \_/\_/ |_| |_|
+sponsored by HeMan and The Masters Of The Universe
+
+
+ps. as an extra special treat, here is some ips of torrentleech uploaders.
+
+TL Uploaders:
+ANoMaLY / 24.250.203.203 (IP24-250-203-203.GA.AT.COX.NET)
+CHC / 85.21.222.16
+CoRkyXx / 172.216.230.90 (ACD8E65A.IPT.AOL.COM)
+DirtyWizard / 212.112.181.29 (212-112-181-29.OPENNET.WTNORD.NET)
+deathrow / 216.32.81.10
+Koalave / 198.240.212.26 (WWW-GW1.CREDIT-SUISSE.COM) (aka OneTwoThree)
+DrDrago / 81.161.180.113
+Emerald / 202.89.145.39
+w000t / 82.209.134.135 (MKB-134-135-209-82.3.CUST.BREDBAND2.COM)
+ChRiiLLe / 212.105.81.52
+pimpycat / 38.99.4.34
+kingrob aka uploader2 / 66.90.103.142
+kingrob / 82.34.225.55 (82-34-225-55.CABLE.UBR04.GILL.BLUEYONDER.CO.UK)
+Xedout / 69.207.93.112 (CPE-69-207-93-112.TWCNY.RES.RR.COM)
+Ellinas / 62.38.9.153
+lallar / 194.16.220.126
+genaroX / 132.248.36.141
+nuk3b0y / 213.140.17.228 (213-140-17-228.IP.FASTWEBNET.IT)
+
+66.90.103.142:35895 <-uploader2 seed box

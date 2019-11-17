@@ -1,0 +1,51 @@
+We made a discovery that a sitering named 'STUD' might have affiliations
+with a DC-Hub called "rartaliban.mine.nu".
+Their 0day site called "DiR"(ip: 82.209.190.237) was running a webserver
+with a page with info about their dchub "rartaliban"
+(the page was removed when they got to know that someone they didn't know
+found it, see the screenshot provided for proof )
+They also provided info for their own IRC network for the hub:
+#rartaliban @ rartaliban.mine.nu:6667 or
+rartaliban.mine.nu:7000 for SSL
+well not so much more to say, the screenshot speaks for itself, but i'll
+ provide some logs and shit:
+
+siteops info:
+
+sabrelance, Blak||, Gertzy, JAFO-AFK, Odin-AFK, chirs, daSpiDaH, digito,Lordmp3, Jawad
+
+site info:
+ STUD :: Site Information ::
+ RiNG-DiR :: UP :: DiR.UfNet.Be:3912 :: 125 :: 100.SE :: APPS/GAMES/XVID/0DAY ::
+ RiNG-iON :: UP :: iON.UfNet.Be:4242 :: 120 :: 100.SE :: TV/DVDR ::
+ RiNG-RAS :: UP :: RAS.UfNet.Be:7210 :: 157 :: 100.SE :: REQUESTS/XXX ::
+ RiNG-TSM :: UP :: TSM.UfNet.Be:8020 :: 139 :: 100.SE :: MP3/MVID ::
+
+Affils: MFN TBVCD DeLiTE SKENHELiG Sex4Free BbP TURKiSO CAULDR0N FFM LMi THM Sparkle VOC STR Spiro Pappas DsM4U FOSi CLXXX BELiVE TURKMP3 SUiKERSPiN ANARCHY
+
+We also found that there was a potential linkowner since he has a bb2 and was on DC Hub and LinkNet server, 
+so you guys might want to give it a look at your sites. Possible security risk involved. Here are the whois for this guy:
+
+RARTaliban IRC Server:
+[whois: gulash]
+ › name: gulash soppa
+ › address: gulash@taliban-1283170.cust.bredband2.com
+ › chans(1): #rartaliban
+ › server: rartaliban.mine.nu (Rartaliban Irc Server)
+ › idle: 13s, signon: 12:05:58 - 22/05/2006 (-63635s ago)
+[/whois: 18:25]
+
+LinkNet IRC Server:
+[whois: gulash]
+ › name: gulash soppa
+ › address: gulash@af-241-190-209-82.3.cust.bredband2.com
+ › server: link-net.org (LinkNet IRC Network) › idle: 17m 33s, signon: 12:03:33 - 22/05/2006 (-66798s ago)
+[/whois: 17:30]
+
+Respectz to all the ppl out there that has still the true scene concept and does this just for fun... 
+
+P.S
+
+The only reason we put affil list here is to warn them from this security risk
+
+- Over and out.

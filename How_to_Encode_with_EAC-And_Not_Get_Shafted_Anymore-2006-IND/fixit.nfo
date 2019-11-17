@@ -1,0 +1,89 @@
+OK. 
+
+I can't stand it anymore. Seeing rippers good releases get nuked because of this encode misunderstanding
+is is too much for me to bare. For everyone who doesn't know it yet there can be a bug with EAC and Lame 3.90.3
+if you set the external encoder to :Lame Encoder" instead of "User Defined".
+
+Well, just kill the prob on the spot and check out below.
+
+1. Start using Lame 3.97 TODAY! (if you aren't already)
+Get it here - http://www.rarewares.org/dancer/dancer.php?f=109
+
+2. Get the newest EAC (if you don't have it yet)
+German Page - http://www.digital-world.de/index.cfm?pid=303&pk=1253374
+English Page - http://www.digital-world.de/downloads/audio/software/1253089/index.html
+
+3. Go to your Compressions tab in EAC - F11 \ External Compression
+Check "Use External Compression"
+Parameter Passing Scheme = "User Defined Encoder" >>>> NOT Lame MP3 Encoder!
+Browse to your Lame.exe (3.97!) if you didn't just replace your old one.
+!ATTENTION! Additional Command Line Options = -V2 --vbr-new %s %d 
+The other check boxes are optional (even though I think it will auto set Bit Rate to 96kBit/s
+
+4. Download Audio Identifier - http://www.bitattack.com/ or http://www.bitattack.com/catalog.html#AI
+Browse to the mp3s you want to check. 
+Right Click and choose "Display Lame Tag"
+The important lines to check are: 
+
+Version string:  3.97 
+
+Quality: 77 (V2 and q3) (Attention, if its V1 or V0 expect the nuke!)
+
+Encoding method: vbr old / vbr rh (or mtrh)
+
+ATH type:  4
+
+Noise shaping: 1  (Attention, if its value is 2 or higher expect the nuke!)
+
+V2: preset standard or V2: preset standard (fast mode) 
+- the suggested command line parameter in the Council Nfo  ("-V2 --vbr-new") will 
+give V2: preset standard (fast mode) -
+
+- This is what I have heard are the important results to watch for. I have no idea technically why they 
+are important (soundshape?) but of course it gives us the quality level of the encode. If you want to know more
+You will have to search that out yourself. I'm just passing on what I was told were the problems with the nukes
+as of late. 
+SO: I'm putting this info out to stimulate everyone and hopefully clear up confusion. If there is anything incorrect
+with this info I'm also hoping it will create an impulse to correct it, so that by next week EVERYONE
+knows what the hell is going on and how to fix it for themselves!
+
+____________________________________________________________________________________________________
+
+Some ppl will have a smartass answer and say it was in the nfo blah blah, but I don't know why
+these encoding parameters weren't stated more clearly. (No i'm not talking about "use lame 3.97 with 
+-V2 --vbr-new") but the exact parameters for EAC and the fact that there was a bug. I for one didn't know
+about this and thought I had been sticking "to the rules". 
+Also I don't know why there wasn't more of a deal made (A count down - "7 more days and scene rules will
+be in effect so be ready everyone". (Again for the smartasses: Yes the dates are in the council rules
+but the real world is different plus the fact again that some ppl thought they WERE encoding correctly and HAD
+read the info using the CORRECT presets. Why would this all be happeing if it was "so clear"?
+But as we know some ppls egos are boosted by others mistakes so i'm sure there is even an enjoyment by some 
+that THEY knew it already instead of us all just getting together and helping each other out when we saw 
+there was a confusion).
+It would have saved everyone so much time and effort if this stuff had been more accented. But yes, it was 
+in the info right? Well, If THIS info i'm posting now had been passed around IN the council rules or at least
+spread in the beginning of January it would have saved alot of rippers works and Nukenet nukes. But from what
+I have heard nukenet doesn't mind that anyway do they? Now they can show their stuff. 
+I mean this whole deal was started and signed by 50+ groups so it was in everyones interest to have the whole 
+lowdown. Or am I wrong?
+
+Anyway, I hope this updates all good rippers (and racers) to what is going on when you see a nuke and it only says
+"Read Rules" (Jezuz that tees me off).
+
+Power to all the blokes that keep this great mp3 scene going and hopefully in a couple days we won't see anymore
+"Read Rules" nukes, at least for encoding. Tagging is another subject for another info :P
+
+PZ
+
+
+ 
+
+  
+
+
+
+
+
+
+
+

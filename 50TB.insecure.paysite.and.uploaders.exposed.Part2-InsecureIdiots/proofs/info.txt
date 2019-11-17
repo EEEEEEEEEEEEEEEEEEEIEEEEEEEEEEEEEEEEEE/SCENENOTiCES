@@ -1,0 +1,23 @@
+Szia Atomkutató!
+
+Nyugalom, semmi gond, a szokásos biztonsági váltás történik.
+Tehát ezt az txt-t most azért látod, mert megváltozott a szerver elérhetõsége.
+Ezentúl mindig a fusionring.hopto.org ftp címre kapcsolódj és a régit
+töröld ki mindenhonnnan (mindenhonnan!!). Megváltozott mindemellett a localmail és a weboldal elérhetõsége is. 
+Fontos, hogy megnézd a localmailed és a weboldalt is, mert változott a befizetési név és számlaszám is.
+----------------------------------------------------------------------------------------------------------
+
+AMÍG NEM LÉPSZ BE AZ ÚJ WEBOLDALRA ELFOGADNI AZ ÚJ INFORMÁCIÓKAT, ADDIG NEM TUDSZ AZ ÚJ HOSTRÓL LETÖLTENI!
+
+----------------------------------------------------------------------------------------------------------
+
+https://fusionring.hopto.org/mail/
+https://fusionring.hopto.org/hp/
+
+Kérünk, hogy az általad ajánlott felhasználóknak is jelezd, nehogy a
+változások miatt ne tudják elérni a Fusion szerverét.
+
+Bármi kérdés, kérés esetén nyugodtan írj Serapis -nak.
+
+Üdvözlettel:
+F.O.F Team

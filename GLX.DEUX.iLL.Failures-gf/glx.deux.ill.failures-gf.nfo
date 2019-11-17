@@ -1,0 +1,87 @@
+This notice is about the guy who is known with the following nicks:
+lotuz, thief, tazmanic, zachariah, lablec, _astra_
+his wife is also in the scene with nicks teufel, babe, and _opel_ maybe
+
+Glftpd userfiles are attached.
+
+About the included scans:
+otp1.gif:
+You sent 596 euros on end of november. (nah not 600 you were always fault-finding)
+
+bill1.gif:
+I bought the box on 30th of november, it was 9000 huf = 36 euro
+
+bill2.gif:
+the hw's on 3rd of december, it was 135000 huf = 540 euro
+
+I also needed to buy extra sata cables, graphics card, which i have no bills about,
+but we got the 596 euro...
+
+The box was online from ~10th of december.
+
+otp2.gif:
+You sent 90 euro for hosting on 1st of january... for the hosting fee of december...
+
+I think we have no more to discuss.
+I was always tolerant for your lamenesses, but now it was enough.
+
+
+1st: isp called me on the first day when the box was online, 
+their router marked, that your box has changed its mac address.
+So i changed root pw, and told you its me who will do scripting/etc in the future.
+Of course you denied this, and were peeved. After crying like a baby that much
+i said ok, but after the next failure i'll send back your box immediately.
+
+
+2nd: so galaxis has started. Then you said "every prob seems to be solved, 
+now you can leave #galaxis" 
+I didnt understand wtf? Some hours later i was kicked out from the sitechan with
+reason "internal"
+This was the most foully thing you ever done.
+Then you sent your asslickers for asking excuse.
+And i gave you a new chance again...
+
+3rd: german busts at end of january. So you stopped Galaxis and wanted to restart it
+with a new name, new staff, new userbase. Since that fbi spy was added on your site either... 
+i wonder why they did not bust it....
+So i asked the isp for a new ip and you started DEUX.
+
+4th: you messaged an unfortunately accident happened, some logs were pasted from the
+staff chan to the site chan, and your traders/affils have leaved. I didnt understand
+what the fuck they did this, and when you showed me logs it was about leech slots as far
+as i noticed.
+So you asked me for the old ip again, to start a new site with new name and new users...
+
+5th: site name is illuminati now...
+You messaged me that the box is offline... i called the isp asked them for reboot.
+still offline, although support guy said the login prompt seems to be workin...
+New call, asked them for ip based console (kvm or something like that)
+it worked, and i could see interfaces are not up. /etc/networking/interfaces was okay
+so i didnt understand whats up? i did /etc/init.d/networking restart (debian system) 
+and the file was not found !  so i copied it back from another box via clipboard 
+(since the box was not online) and /sbin/ifup missed either...
+so i configured the interface with ifconfig, and downloaded that missing file.
+after all of these the networkin script worked fine, after a reboot the box was online
+successfully.
+i am sure somebody did something nasty. then you said you would ask about this from your
+american techop... oh god, why dont you work with fbi agents?
+And he (or you?) lied again... the story was "he tried to encrypt the /etc partition"
+this is stupid. without /etc you cant boot the os. two cases:
+ #1: he is such stupid for linux administration
+ #2: he simple lied for some reason.
+
+6th: isp has called me that a thousands of email spams were sent out from the box
+they got a lot of reports so they decided to turn off the box.
+I checked spamcop and some another sites and the ip was blacklisted...
+
+I am fed up with all of these and i dont trust you anymore at all.
+
+You suspected me of being a liar several times. You never respected me, 
+you are unsecure, and you still owe me the hosting fee of the last month.
+
+Talk to a lawyer or the police as you said. lol, they are welcome 
+proofs are on my side. 
+
+Or travel to .hu and kick my ass. I will publish your realnames and do the same.
+
+Dont answer. You are a failure. Cum shit and die, and leave me alone.

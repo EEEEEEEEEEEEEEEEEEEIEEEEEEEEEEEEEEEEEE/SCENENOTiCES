@@ -1,0 +1,146 @@
+
+      Lamer Alert!  Lamer Alert!  Lamer Alert!  Lamer Alert!  Lamer Alert!  
+
+      Observe the previous attempt(s) to STEAL a TNT crack:
+
+      02-04-2007  Doom.3.and.Resurrection.of.Evil.v1.3.1.UPDATE.CRACKED.Incl.
+                  Win.98.FiX-Unleashed
+
+
+Let's get this out in the open up-front.  You wonder why the rest of this NFO 
+file sounds insulting and is full of profanity and extremely harsh words?  Why 
+don't we just say  ""other rls is stolen, use this proper one instead. 
+-end of nfo-""?  It is because this is not the first time Unleashed has done 
+this.  Our arrogant, insulting attitude in the culmination of years of conflict 
+with these "Unleashed" people.  We are quite frankly FED UP with them!
+
+Unleashed copied (meaning STOLE) code from the previous TNT crack of this game:
+
+05-25-2005  Doom_3_and_Doom_3_Resurrection_of_Evil_v1.3_KeyCheck_Crack-TNT
+
+Quote from that old TNT NFO file:
+
+v1.3 added more checks over v1.2.  It does a local CD-Key check now as well as 
+the previous online CD-Key check before you can even gain access to the Main 
+Menu.  This crack will allow you to play Single Player without a valid Key so 
+that you may try out the game some more BEFORE YOU GO AND BUY IT.  Now, go buy 
+the game and show ID SOFTWARE that you love their work!
+
+-END QUOTE
+
+
+NOTE: 
+
+     Last we checked, the keys made by any scene keymakers no longer worked and 
+still caused to game to say you were using an invalid key (before the main menu 
+even loads).  Using firewalls or modified windows\HOSTS files to try and 
+by-pass a protection is lame and amateurish.  A scene release should work 
+without having to HACK your Windows or run lame firewalls.
+
+     Look at: ".\PROOF\DOOM\*.txt".  You can see a disassembly comparison of 
+the old 1.3 TNT crack versus the stolen 1.3.1 "crack" from ~Unleashed~.  It is 
+best to load them up on top of each other and Alt-Tab or switch between them.  
+You can obviously see how they copied our method (by patching the exact same 
+locations when there were 100s of different ways it COULD HAVE BEEN DONE).  And 
+it definitely was OUR METHOD because as you can see in the quote above 
+"v1.3 added more checks over v1.2".  We are the only group in the scene to have 
+ever found, understood, and then cracked those NEW checks they added from 1.3 
+and upward.  Finally, if you have ever looked at a previous ~Unleashed~ NoCD 
+crack, you will remember that they never do any cracks similar to our methods.  
+Most of their "work" is simply allowing the checks to FAIL, and then changing a 
+conditional jump (ie JE ###### or JNE ######) to an unconditional jump 
+(ie JMP ######) to skip over the Failed CD check error messages 
+(ie: Please insert the game disc).  Talk about half-assery.  That is the full 
+extent of the ~Unleashed~ "knowledge" of the "cracking scene".  Lol!
+
+     Also, ~Unleashed~ STUPIDLY copied our "TAG" as well!  Yes it is true; we 
+tag about 99% of all of our releases with data to identify the crack as a TNT 
+original.  Usually it is data that is NOT EVEN PART OF THE CRACK.  We might 
+change some part of the code that doesn't really need to be changed, as a 
+secret way of tagging it.  The thieves don't know which parts are the tag and 
+which are really needed for the crack to function.  It is extra stuff we do 
+just to purposefully tag it.  We do it because we are egotistical, prideful 
+assholes that want everyone to know that TNT cracked the game they are 
+playing.  Also, they are tagged to catch STUPID thieves that copy our cracks 
+and/or tags without realizing that they are TAGGED.  We just LOVE catching and 
+exposing thieves.
+
+     And the only reason why they tried to make a Win 98/ME fix for it too, is 
+because they already had our old NFO file and old CRACK that they were busy 
+stealing.  If they had tried to crack it on their own, they would have never 
+read our old NFO file and never known it needed a Win 98/ME fix, nor HOW TO 
+FIX IT.  Thief thief, there is a thief in my backyard!
+
+
+WORKING:
+     Their stolen release also has non-working "Win 9x fixes", seen in these 
+     2 error messages when launching "their" *cough* (stolen from TNT) cracks:
+
+     Main EXE:  DOOM 1.3.1.1304 win-x86 Jan 16 2007 15:36:51
+     DedServer: DOOM 1.3.1.1304 win-x86 Jan 16 2007 15:41:40
+
+     Couldn't get OS info
+     Shutting down OpenGL subsystem
+     ...shutting down QGL
+
+     -END error message
+
+     That is the blue-coloured Doom Console window, which also means that the 
+     game will not even start.  All you can do is close it and then stare at a 
+     Windows Desktop!
+
+     So what happened?  Well in 1.3.1, id Software introduced new OS detection 
+     methods to see what VERSION of Windows you are running upon.  The 
+     detection methods fail to determine the Windows version on Win 9x systems, 
+     which means secondary cracks are needed to make a WORKING Win 9x fix.  We 
+     have taken care of this for you.
+-END WORKING
+
+
+     If this information is not enough for you to de-affil, purge, and ban the 
+thieves of Unleashed, then read the following:
+
+     TRUTH.NFO (the exposing of the history of a thief group)
+     PROOF\*.* (and all sub-directories.  This contains various scene released 
+               NFO files by TNT, Unleashed, and *others* for you to compare and 
+               contrast.  It is best to read a release from the THIEVES\ dir 
+               first, then to next read the corresponding PROPER that came out 
+               afterward in either TNT\ or SCENE\.  This way you understand why 
+               ~Unleashed~ is always being propered.  There is more than enough 
+               truthful information to warrant the banning of Unleashed 1000x 
+               over!  Read the idiotic ~Unleashed~ comments in their NFO files 
+               and then read the replies from other groups.  You can plainly 
+               see that Unleashed is completely retarded and doesn't have a 
+               clue about what they say, nor a clue about how to crack.
+
+               And if you just like humour, read all of the little quotes at 
+               the end of all the NFO files.  There are lots of insult, boasts, 
+               and jabs that the groups take at one another.  Very funny!
+
+               There are plenty more missing NFO files but it is such a chore 
+               to find them all.  This is more than enough for now.
+
+               ** One that you don't wanna miss is:
+               Postal_2_Apocalypse_Weekend_UNLOCKER_READ_NFO_FOR_SCENE_NOTE-RVL
+               check the TNT.NFO comments there as well.  Cya!
+
+
+     Some people will say: "ah shut up TNT, who cares what Unleashed does.  Why 
+should it matter to you?  If they wanna steal shit, what business is it of 
+yours?  Just leave them alone and let them make their releases in peace."
+
+     Yah well...  You know what.  When a hard working group like TNT sees 
+another group making tons of broken non-working releases and tons of stolen 
+stuff, it really rubs us the wrong way.  We can't just ignore it.  And the 
+icing on the cake is that we now have PROOF they stole one of our cracks.  
+Stealing is one of the most insulting things in the scene, other than narq'ing 
+on another group and watching them end up in a prison cell.  Someone STOLE your 
+hard work and tried to pass it off as his own.  Tell me that such an event 
+would not irritate you?  Tell me that you would just shrug it off and forget 
+about it the next day?  Tell me it would not upset you to see the thieves 
+getting added to even MORE SITES and getting leech slots for having stolen 
+YOUR HARD WORK?  Or for having stolen public shit from the web, while on the 
+other hand, your group was doing the work on its own (the HARD WAY, the REAL 
+WAY)?  The things Unleashed have done in the past and those they are continuing 
+to do are completely unacceptable in the scene.  If you would care to debate 
+that issue, then by God, WE ARE ALL EARS!

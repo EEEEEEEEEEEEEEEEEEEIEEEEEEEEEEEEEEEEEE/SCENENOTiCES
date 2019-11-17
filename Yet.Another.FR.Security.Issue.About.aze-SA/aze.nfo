@@ -1,0 +1,74 @@
+Yet another security issue in france thanks to aze this time, aka Ch0kPiC owning Secret Area
+this site is hosting those grp: BOOBS DJiNN DUPLI TESORO VORTEX
+this guy is just selling some great leech slots 
+
+bnc: 91.197.137.153:48107 (yes.. no security, no bnc)
+passive ip: 91.197.137.153
+
+siteop ip address: 212.194.128.86 (bty91-1-212-194-128-86.dsl.club-internet.fr)
+a littl whois on the ip :
+
+inetnum	  91.197.136.0 - 91.197.139.255
+netname	EBSD
+descr	EBSD SARL
+country	FR
+org	ORG-ES52-RIPE
+admin-c	GD3498-RIPE
+tech-c	GD3498-RIPE
+status	ASSIGNED PI
+mnt-by	RIPE-NCC-HM-PI-MNT
+mnt-lower	RIPE-NCC-HM-PI-MNT
+mnt-by	COGENT-HM-MNT
+mnt-routes	COGENT-ROUTE-MNT
+mnt-domains	COGENT-HM-MNT
+source	RIPE # Filtered
+
+organisation	ORG-ES52-RIPE
+org-name	Ebsd SARL
+org-type	OTHER
+address	15 Cote de Montaure
+27400 La Haye Malherbe
+FR
+phone	+33 2 31 85 67 22
+e-mail	gary.delobel@ebsd.net
+admin-c	GD3498-RIPE
+tech-c	GD3498-RIPE
+mnt-ref	COGENT-HM-MNT
+mnt-by	COGENT-HM-MNT
+source	RIPE # Filtered
+
+person	Gary Delobel
+address	Ebsd SARL
+15 Cote de Montaure
+27400 La Haye Malherbe
+FR
+phone	+33 2 31 85 67 22
+e-mail	contact@ebsd.net
+nic-hdl	GD3498-RIPE
+mnt-by	COGENT-HM-MNT
+source	RIPE # Filtered
+
+
+now what we got 91.x.x.x 91.255.255.25 -> ovh, yes another one... you can't stop them..
+
+
+Interesting ports on 91.197.137.153:
+Not shown: 64971 closed ports
+PORT      STATE    SERVICE
+21/tcp    open     ftp < yes another security
+25/tcp    filtered smtp
+111/tcp   open     rpcbind
+113/tcp   open     auth
+1338/tcp  open     unknown
+3131/tcp  open     unknown
+4657/tcp  open     unknown
+22133/tcp open     unknown
+48107/tcp open     unknown << great! you got it!
+54321/tcp open     unknown
+Device type: general purpose
+Running: Linux 2.4.X|2.6.X
+OS details: Linux 2.4.18 - 2.4.27, Linux 2.6.5 - 2.6.11
+
+some interesting ports if you want a psybnc hehe, but to go deeper, you have to check the screen.jpg to find some more useful information
+how could you get a 4tb .fr private line and have over 25 suppliers?
+so please guys, keep the scene as secure as possible

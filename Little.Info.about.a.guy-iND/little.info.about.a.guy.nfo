@@ -1,0 +1,44 @@
+Hi,
+
+also erstmal einen kleine geschichte...
+
+Ich habe am 07.05.2004 einen neuen User auf meiner Site added...
+und wie es sich gehört habe ich ihn natürlich erstmal beobachtet nachdem er den ersten Film geflasht hatte habe ich mir dir logs mal angeschaut 
+und dabei festgestellt das dieser User von einem Schweizer Server(genauergesagt ethz.ch IP: 129.132.84.131) geflasht hatte.
+
+Ich habe ihn daraufhin angeredet und er sagte nur er wäre dort zufäälig drauf und hätte diesen Server eben gedropped...
+
+Ich informierte mich daraufhin weiter und fand raus das dieser server einer hacked crew namens "xtc" gehört
+und fand ausserdem raus das dieser oben genannte server ein Server war nur für die Siteops von "xtc"
+
+Und da wurde ich stutzig wie nun der typ dadraufkam wenn es halt nur für die SiteOps war...
+
+Ich informierte mich weiter und fand raus das einer der Admins aus Chemnitz kommt und eine AT Site ("legal") führt
+
+Genauso wie der typ von dem ich die ganze Zeit rede...
+
+Also ich würde um Sceneban bzw droppen von allen sites des users:
+
+---------------------------------
+ "SITESCENE":
+ "Achilles" (IRC-NAME: Achilles|)
+---------------------------------
+ "HACKED CREWS":
+ "Rimp" (IRC-NAME: Rimpor)
+---------------------------------
+
+
+Ich hoffe damit einigen leuden geholfen zu haben und fordere andere Siteops auf
+
+SCHAUT EURE TRAFFICLOGS DURCH (Löschen nicht vergessen wenn ihr fertig seid)
+
+
+
+
+MFG
+
+
+Siteop
+
+PS 
+die Informationen stammen alle von einen Kumpel aus meiner Schule der mich aber sicher nicht verarscht wenn ich ihn wegen soetwas anfrage...

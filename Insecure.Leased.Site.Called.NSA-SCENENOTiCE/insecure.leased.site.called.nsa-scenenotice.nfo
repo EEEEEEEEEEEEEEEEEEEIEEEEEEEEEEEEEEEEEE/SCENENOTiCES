@@ -1,0 +1,38 @@
+Want to give people a heads up about this insecure site run by rekan, Pias, labyrinth, krille|
+and PulsE.. 
+
+they are running a drftpd site called NSA, with these current BNCs:
+main: 076.0113.0366.0106
+backup: nsa.selfip.biz
+
+so i did a traceroute on the nsa.selfip.biz - this is what i got
+
+TraceRoute to 62.75.246.70 [nsa.selfip.biz]
+Hop	(ms)	(ms)	(ms)		IP Address	Host name
+1	0	0	0		66.98.244.1	gphou-66-98-244-1.ev1servers.net
+2	0	0	0		66.98.241.16	gphou-66-98-241-16.ev1servers.net
+3	0	0	0		66.98.240.10	gphou-66-98-240-10.ev1servers.net
+4	0	0	0		38.112.25.21	g0-3.na21.b015619-0.iah01.atlas.cogentco.com
+5	7	1	1		66.28.64.61	g0-1.core01.iah01.atlas.cogentco.com
+6	32	35	32		154.54.5.90	p3-0.core01.atl01.atlas.cogentco.com
+7	50	50	50		154.54.5.97	p1-0.core01.jfk02.atlas.cogentco.com
+8	119	119	119		130.117.2.106	p13-0.core02.lon01.atlas.cogentco.com
+9	130	130	130		130.117.1.109	p1-0.core01.ams03.atlas.cogentco.com
+10	130	130	130		130.117.0.238	t3-2.mpd01.ams03.atlas.cogentco.com
+11	130	130	130		195.69.144.155	ge-4-0.edge1.ams1.nl.inetbone.net
+12	134	141	134		213.203.213.70	ae-1-19.bbr1.dus1.de.inetbone.net
+13	150	152	150		213.203.192.178	intergenia-gw.dus2.de.inetbone.net
+14	134	134	134		85.25.95.254	static-ip-85-25-95-254.inaddr.intergenia.de
+15	134	133	134		62.75.246.70	static-ip-62-75-246-70.inaddr.intergenia.de
+
+turns out intergenia.de is a german hostingcenter or something like that..
+i dont wanna waste too much time, so i haven't got ips on the other boxes.. 
+but if you care about security and dont wanna be seen in a future nfo with udb,
+you better leave the site ASAP!
+this is what we were able to get from one of the siteops:
+
+<rekan> The servers are hosted within the renting companies yes. But I have quite some contacts in that business, and neither of these are really rented. They are hosted by service/tech admins within each company
+
+so its not just ONE rented box.. they're all rented... 
+the reason i got suspicious was another guy saying it was rented, and the fact
+that they have 3x 100/100, with only 1.1tb diskspace.. what a coincidence.

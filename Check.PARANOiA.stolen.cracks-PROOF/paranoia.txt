@@ -1,0 +1,183 @@
+http://tsrh.crackz.ws
+
+
+---------
+
+010905 Remote.Installer.v1.3.73.WinALL.CRACKED-PARANOiA
+
+Remote Installer 1.3.73 - 07.01.2005 - Cracked .EXE - Vepergen
+
+0xC8: 2E273D16 xor 46756E42 ("FunB") = 68525354 ("TSRh")
+
+0xFC: 7A66052C xor 12345678 = 68525354 = "TSRh"
+
+
+
+020205 Audiotools.v5.20.WinALL.CRACKED-PARANOiA
+
+Audiotools 5.20 - 31.01.2005 - Cracked .EXE - Vepergen
+
+
+0x15C: 7A66052C xor 12345678 = 68525354 = "TSRh"
+
+0x128: 2E273D16 xor 46756E42 ("FunB") = 68525354 ("TSRh")
+
+---------------------------------------------------------------------------
+
+
+20050203 TreePad.X.Enterprise.256.GB.Single.User.7.5.3.WinALL.CRACKED-PARANOiA
+20050203 TreePad.Business.Edition.7.1.4.WinALL.CRACKED-PARANOiA
+
+TreePad X Enterprise (256 Gb single user) 7.5.3 B-$hep Cracked 2005-01-31
+TreePad Business Edition 7.1.4 B-$hep Cracked 2005-01-30
+
+that shit was protected by ASProtect 2.0...i made inline patch for that and add watermark:
+
+in TSRH release:
+
+0000006A: TSRH2k5
+
+in PARANOiA release:
+
+0000006A:  PNi2oo5
+
+--------------------------------------------------------------------------------
+
+On 22 Feb 2005, this was released:
+
+Goravani Jyotish 2.50 *READ NFO* - 22.02.2005 - Crack - Vepergen & Baxter
+
+On 23 Feb 2005, the very next day, this was released by PARANOiA
+
+Strange coincidence??
+
+But coincidences do happen right??
+
+Oh.. but what about this:
+
+http://anonym.to/?http://img162.exs.cx/img162/4249/demo9gm.jpg
+
+Note the text in RED this has absolutely nothing to do with the cracked version - this is the DEMO version text.
+
+After this app was cracked, this text is still there - this text has NOTHING to do with the app being cracked.
+
+I deleted this text and replaced it with this text...
+
+http://anonym.to/?http://img162.exs.cx/img162/2714/reg9zv.jpg
+
+This was a cosmetic improvement made by me, so that end users would feel better when they clicked on the "about" box.
+
+But low and behold PARANOiA's release has EXACTLY the same costemic improvement!!
+
+Damn.. what a miracle of life.. two people located on the other side of the world thinking to make the same cosmetic change... and using the EXACT same wording... including a RARE 'fullstop' after the line!!!
+
+If you were a doubtful man.. you would almost be inclined to think they used our patch wouldn't you???
+
+---------------------------------------------------------------------------------
+022305 Now.SMS.MMS.Gateway.v5.51a.REGGED-PARANOiA
+20-02-2005    Now SMS/MMS Gateway 5.51a - Serial - B-$hep/TSRH
+
+TSRH NFO:
+
+-Install the app.                                                       -
+-Use our serial to register app!                                        -
+-                                                                       -
+-serial: 00002020                                                       -
+-MessageCount: 12000                                                    -
+-Key: OkZEMlZk                                                          -
+-                                                                       -
+-serial: 00002021                                                       -
+-MessageCount: 12000                                                    -
+-Key: ZJMMYVZZ                                                          -
+-                                                                       -
+-serial: 00002022                                                       -
+-MessageCount: 12000                                                    -
+-Key: NQZNNcOF                                                          -
+-                                                                       -
+-serial: 00002023                                                       -
+-MessageCount: 12000                                                    -
+-Key: ZQOIMQYQ                                                          -
+-                                                                       -
+-serial: 00002024                                                       -
+-MessageCount: 12000                                                    -
+-Key: MAYYNIMZ                                                          -
+-                                                                       -
+-                                                                       -
+-Enjoy! 
+
+PARANOiA NFO:
+
+ iNSTALL nOTES:                                         ?
+ 
+         ?   ^^^^^^^^^^^^^^                                         ?
+ 
+         ?   1.) Unzip, and unrar.                                  ?
+ 
+         ?   2.) Run the setup.                                     ?
+ 
+         ?   3.) Enter one of these infos:                          ?
+ 
+         ?                                                          ?
+ 
+         ?     serial: 00002020                                     ?
+ 
+         ?     MessageCount: 12000                                  ?
+ 
+         ?     Key: OkZEMlZk                                        ?
+ 
+         ?                                                          ?
+ 
+         ?     serial: 00002021                                     ?
+ 
+         ?     MessageCount: 12000                                  ?
+ 
+         ?     Key: ZJMMYVZZ                                        ?
+ 
+         ?                                                          ?
+ 
+         ?     serial: 00002022                                     ?
+ 
+         ?     MessageCount: 12000                                  ?
+ 
+         ?     Key: NQZNNcOF                                        ?
+ 
+         ?                                                          ?
+ 
+         ?     serial: 00002023                                     ?
+ 
+         ?     MessageCount: 12000                                  ?
+ 
+         ?     Key: ZQOIMQYQ                                        ?
+ 
+         ?                                                          ?
+ 
+         ?     serial: 00002024                                     ?
+ 
+         ?     MessageCount: 12000                                  ?
+ 
+         ?     Key: MAYYNIMZ                                        ?
+ 
+         ?                                                          ?
+ 
+         ?       Enjoy!                                             ?
+
+
+THE SAME SERIAL!!!!
+
+--------------------------------------------------------------------------------------------------------------------------
+
+030405 EyeBatch.v2.0.15.WinALL.CRACKED-PARANOiA 
+EyeBatch 2.0.15 - 03.03.2005 - Cracked - EGOiST/TSRh
+
+first of all is that, i have renamed the last section to ".ego.im."
+("ego" is from EGOiST as u see) and in their release section have the same name.
+Next i have there GetEnvironmentVariable api emulation code start from 007433c0,
+as u can see it's identical: and in that code i have added "nop" opcode at 0074343b..
+why they added "nop" opcode at the same place?
+Then at 00743390 u can see strings for emulation.. and there is my nick, after
+it i set 2 digits "12" (for returning to DAYSLEFT), as u can see they uses the
+same digits lol...
+
+they just changed my nick and removed one watermark in PE Header..
+
+---------------------------------------------------------------------------------------------------

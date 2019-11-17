@@ -1,0 +1,88 @@
+Some websites leaked a huge ftp list and I have randomly found this inside.
+
+see proof_01.jpg
+
+OK so lets use some socks proxy and try to connect there.
+And wtf is this? Some paysite with all the infos in welcome message.
+
+Hmm nice so see proof_02.jpg and we can continue.
+The language in that msg is hungarian, if you didnt recognize it yourself. So we can see here 41TB site (its almost 50TB as you can see later) on 2000Mbit link with bank contact info a price in welcome msg :D
+
+from 150Kbps for 2000 forints/month (about 7 euro)
+to 1300Kbps for 11000 forints/month (about 39 euro)
+and we have account for 2500 forints now created 5 years ago, very nice business for owners probably.
+
+Also we can see ftp, http and irc adress here. okok this start to be interesting. So lets explore the site.
+See proof_03.jpg - proof_10.jpg
+
+As you can see on screens there is not much uploaders but site is good supplied.
+There are more sections than you can see on screens but I thing this is enough.
+
+Now we can check the website from welcome msg.
+On proof_11.jpg you can see bank contact and prices again.
+
+proof_12.jpg some personal info on account we have and here I must say "thank you movi for your stupidity and providing login infos" :D
+
+proof_13.jpg and proof_14.jpg are top up/down so if you have any of those users on your site you know what to do
+
+proof_15.jpg here you can see users and siteops on main channel
+
+proof_16.jpg users on announce channel
+
+proof_17.jpg current site space and bw with 165 leechers nice
+
+Now depending on this site I found some other bnc of this site
+
+see http://www.robtex.com/cnet/195.56.172.html
+ and proof_18.jpg proof_19.jpg proof_20.jpg
+195.56.172.34
+195.56.172.35
+195.56.172.46
+195.56.172.86
+
+This all matches corefusion-home.hopto.org
+
+Ok why not try to google that ips and wtf we find? Another logins to site but probably already dead.
+
+see proof_21.jpg proof_22.jpg proof_23.jpg
+
+Here is whois ops and users in channel:
+#future vroland H vroland@fof-AE70A04C.catv.broadband.hu :0 s6oSeO3aK
+#future SortrenD H+ sortrend@fof-57B0CB6C.catv.broadband.hu :0 sortrend
+#future [Hokusz] H _Hokusz_@fof-1C426498.static.hdsnet.hu :0 .
+#future Studi_work H dealer@fof-CF10B48C.dsl.pool.telekom.hu :0 Studi_work
+#future MrBarnes H+ Mr@fof-FED5125F.externet.hu :0 Mr Barnes
+#future broz H+ broz@fof-10F539E5.mobbin.org :0 broz
+#future marunga H+ marunga@fof-F1017576.catv.pool.telekom.hu :0 dddddddddddd
+#future F16falcon Hr@ F16falc@a.fogonosz.a.poklok.ura :0 F16falc
+#future forbidden Hr*& kissmydick@admin.fusion :0 doggystyler
+#future _sh H+ sh@A7E667CB.65893903.85744335.IP :0 sh
+#future martin H+ martin@121217FC.303F4D23.57D5EAD1.IP :0 martin
+#future bogyoka Hr@ bogyoka@sitebot.fusion :0 i'am bogyoka
+#future Keksz H+ keksz@10901D04.EAAEC5C9.A05AB47B.IP :0 dontwhoismebitch
+#future ReaKToR Hr@ reaktor@sitebot.fusion :0 i'am reaktorocska
+#future sleepee H@ sleepee@240738DC.F13263AF.A05AB47B.IP :0 sleepee
+#future delma_pihi H@ delma_pihi@A4BB81B9.F13263AF.A05AB47B.IP :0 delma_pihi
+#future infected H infected@fof-48639A68.szamuraj.com :0 infected
+#future drkotasz|BNC H drkotassz@A7E1AB30.E58BA24D.33C29C07.IP :0 drkotassz
+#future SerapisAW H@ Serapis@7AAA13A3.E58BA24D.33C29C07.IP :0 Serapis
+#future zEuS H+ zEuS@FBF4D932.CD801C92.111862E8.IP :0 zEuS
+#future prehun H prehun@A262BFB0.9060FB37.2869C819.IP :0 main
+#future toget Hr*~ toget@ha.beszolsz.ki.leszel.baszva.nem.kicsit.hu :0 toget
+#future haribo H+ mayday@10901D04.EAAEC5C9.A05AB47B.IP :0 mayday
+#future quick H+ quick@C0914AA3.F5FCA316.7C78B39B.IP :0 quicky
+#future End of /WHO list.
+
+marunga is also known as GMR
+here is whois marunga from IRCnet
+marunga is akarmi76@54039E38.catv.pool.telekom.hu * dddddddddddd
+marunga using *.hu ATW
+marunga End of WHOIS list.
+
+and whois GMR from LinkNET
+GMR is akarmi76@LinkNet-690fbbbfd9.pool.telekom.hu * eeggdssdgdsyy
+GMR using link-net.org LinkNet IRC Network
+GMR is an SSL Encrypted Client
+gmr End of /WHOIS list.
+
+Delpurge these fuckers and make scene little more secure.

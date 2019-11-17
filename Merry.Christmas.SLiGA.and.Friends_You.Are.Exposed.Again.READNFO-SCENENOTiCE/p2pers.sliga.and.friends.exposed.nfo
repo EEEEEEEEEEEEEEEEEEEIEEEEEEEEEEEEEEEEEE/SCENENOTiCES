@@ -1,0 +1,281 @@
+Merry.Christmas.SLiGA.and.Friends_You.Are.Exposed.Again.READNFO-SCENENOTiCE
+12th December 2007
+
+I've been sitting on this info for a while now, a bit of the information may have changed by now.
+Anyway, here it all is. Those of you with a brain will be able to follow it and piece things together.
+
+By now most of the .dk scene is in agreement that -DanTV was a p2p group and that their leader
+th0rzen aka g0rhee aka GuRu133 was p2p. They were busted in late August. They lost every
+single site they had (or that's what we thought at least since their releases were not spreading
+to any normal .dk sites). However, their releases continued to be added to prebots.
+
+A bit of searching led me to a pre network which will remain nameless. Before DanTV
+was exposed as p2p their users were on this pre network. Everything from this point on is after 
+DanTV was exposed as p2p. Some lines from old logs:
+* th0rzen (th0rzen@x-b4fea7cf7c.cust.bredbandsbolaget.se) has joined #pre
+* DeX (DeX@DanTV.DK) has joined #pre (yes that's the vhost he used)
+The three members of DanTV were: th0rzen DeX and t0z.
+th0rzen was last seen on this pre network on 20070825
+
+on 20070908 a new person pops up called crock.
+ * crock (crock@x-5D1AA442.c45-01-01.dyn.perspektivbredband.net) has joined #pre
+He later got a vhost:
+* crock (crock@Danish.PDTV.Cap.EnCoder) Quit (Ping timeout)
+
+Here's some interesting lines from the channel:
+<crock> !nr Peking.Express.S01E02.DANiSH.PDTV.XviD-DiViSiON dupe.DanTV.2007.09.14
+<crock> !nr Peking.Express.S01E02.DANiSH.PDTV.XviD-DiViSiON 
+dupe.DanTV.2007.09.14_Kiddies.dont.play.if.u.cant.win
+<crock> !nr Peking.Express.S01E02.DANiSH.PDTV.XviD-DiViSiON 
+dupe_DanTV..2007.09.14.is.a.scene.group
+<crock> !nr Peking.Express.S01E02.DANiSH.PDTV.XviD-DiViSiON 
+DanTV.IS.a.scene.grp.stop.duping.retards
+Some of you may remember that particular release being nuked and unnuked a few times.
+Note that !nr means nuke request.
+
+Around this time another guy seemed to be quite interested in DanTV:
+Toop (Pc@A2A34DF3.3384B5A4.11BBB419.IP) has joined #pre
+<Toop> !pre Vild.Med.Dans.S04E03.DANiSH.WS.PDTV.XviD-DanTV
+<Toop> !group DanTV
+<Toop> !pre Sas.Liga.22.09.07.AGF-FC.Nordsjaelland.DANiSH.PDTV.XViD-DanTV
+<Toop> !group DanTV
+
+So I msged him and talked to him for a little while. It turns out that Toop runs a site (probably the 
+only one) that still affiled DanTV. Bear in mind this was a MONTH after they were exposed as 
+p2p). I convinced him to add me to this site, with a false promise of giving him another site in 
+return. Here are some of the details I picked up on this site (they might be a little outdated, this 
+info is over 2 months old):
+Site Name: M O N S U N
+Site Address: monsun.kicks-ass.org (81.161.147.107)
+Admins: Toop Downunder
+Active People:
+Toop@Admin
+noodlez@DanTV
+crock@DanTV
+JrA@iND
+playmate@iND
+skrutt@iND
+
+Those were the only nicknames I could find in such a short time (I was stalling him while I 
+collected this info). A txt file is available in the rar enclosed. It contains FTP logs of me searching 
+the directories for names & information, whoises etc is available in the rar. The only thing that has 
+been edited in that txt file is the IP of the ftp bnc I connected to the site with. I have marked that 
+with CENSORED. And the nickname I used was one I made up in that second, I don’t care about 
+that so I left it in ;)
+
+Here’s some recent whoises of the guilty:
+Toop is ~PC@58.147.36.210 * PC.NU
+Toop using irc.inet.tele.dk Better than WoW
+Toop actually using host 58.147.36.210
+Toop End of /WHOIS list.
+
+noodlz is noodlez@75.127.66.129 * noodlz
+noodlz using irc.choopa.ca Blame Canada
+noodlz actually using host 75.127.66.129
+noodlz End of /WHOIS list.
+
+crock is ~crock@h59ec033c.c45-01-01.dyn.perspektivbredband.net * crock
+crock using irc.inet.tele.dk Better than WoW
+crock actually using host 89.236.3.60
+crock End of /WHOIS list.
+
+crock is crock@LinkNet-d238f79bd9.fucking.ownz.dk * crock
+crock using link-net.org LinkNet IRC Network
+crock is an SSL Encrypted Client
+crock End of /WHOIS list.
+
+JrA is ~jndjnas@82-192-161-34.ho.dsl.struer.net * Hubba
+JrA using irc.choopa.net It rubs the lotion on its skin
+JrA actually using host 82.192.161.34
+jra End of /WHOIS list.
+
+skrutt is ~nana@0x50a6ab44.kjnxx6.adsl-dhcp.tele.dk * skrutt
+skrutt using irc.inet.tele.dk Better than WoW
+skrutt actually using host 80.166.171.68
+skrutt End of /WHOIS list.
+
+And an old whois of Downunder & the sitebot:
+
+Downunder is ~Downunder@0x5733e1cb.hknxx4.adsl-dhcp.tele.dk * Downunder
+Downunder using irc.inet.tele.dk Better than WoW
+Downunder actually using host 87.51.225.203
+Downunder has been idle 3hrs 17mins 39secs, signed on Mon Sep 03 22:43:14
+downunder End of /WHOIS list.
+
+M-N_BoT is ~M-N_BoT@81.161.147.107 * Irc Bot
+M-N_BoT using irc.inet.tele.dk Better than WoW
+M-N_BoT actually using host 81.161.147.107
+M-N_BoT has been idle 10secs, signed on Sat Sep 15 02:07:32
+M-N_BoT End of /WHOIS list.
+
+Take special note of crock.
+On LinkNet he uses an eushells bnc
+On EFnet he uses his real ip (89.236.3.60)
+And here’s his old IP masks: 
+th0rzen is connecting from *@hd5b9116d.c45-01-19.dyn.perspektivbredband.net 213.185.17.109
+th0rz@213.185.*, *@213.185.*, *@80.167.171.*
+It looks like he either had his IP changed or has a dynamic IP. Anyway, it’s from the same ISP. 
+Also, th0rzen used an eushells bnc.
+
+Here’s an old whois of both crock & noodlz: 
+/whois crock   -   -
+::: Host: crock@LinkNet-d238f79bd9.fucking.ownz.dk
+::: Name: crock
+::: Channels: #welovecappingtv
+::: Server: link-net.org LinkNet IRC Network
+crock has been idle 41secs, signed on Sun Sep 23 08:35:43
+End of /whois crock   -   -
+
+/whois noodlez   -   -
+::: Host: noodlez@LinkNet-47cc66b552.quite.c00l.info
+::: Name: noodlez
+::: Channels: @#welovecappingtv
+::: Server: link-net.org LinkNet IRC Network
+End of /whois noodlez   -   -
+
+Notice how they both were on the same chan #welovecappingtv (that used to be DanTV’s home 
+channel)
+
+A recent whois on psxman, who is gadmin of SLiGA on some sites:
+
+psxman is ~psxman_dk@0x57327cbc.hknxx4.adsl-dhcp.tele.dk * psxman
+psxman using efnet.demon.co.uk mmmm internet
+psxman actually using host 87.50.124.188
+psxman End of /WHOIS list.
+
+psxman is probably the new nickname of Downunder (not sure though). I did some asking around 
+on psxman, here’s what I was told by a person:
+<Abc123> their leader "psxman" is an old p2p'er, for like 4-5 years ago one of my contacts found 
+him, and hes box was added on the site.....
+<Abc123> some weeks later i discoverd he was from p2p and i kicked em both, and psxman has 
+since tried to bed leech from me but i have
+<Abc123> just ignored him untill he talked about starting a group
+<Abc123> I also have this intresting pm with an danish siteop...
+<Abc123> (x) dantv
+<Abc123> (x) de er sliga nu
+<Abc123> (unkn0wn) ja i know
+<Abc123> (x) w00t
+<Abc123> (x) hvorfor har du ikke lavet en nfo
+<Abc123> (unkn0wn) aner jeg ikk
+<Abc123> (unkn0wn) de gir mig 2900
+<Abc123> What he says is, he knows they are the old DanTV but he have given the info away or 
+pre'd a nfo about it because they give
+<Abc123> him 2900 happiness a danish sucky dallas rip off :S 
+
+Here’s some more evidence:
+Forbrydelsen.S02E01.DANiSH.WS.PDTV.XviD-DanTV - 72d 11h 46m 46s
+DanTV is exposed as p2p, finally quits and then just EIGHT days after DanTV stops preing a new 
+Danish TV group called SLiGA pop up. Let’s go back and see what their first pres were:
+Sas.Liga.30.09.07.FCM-AGF.DANiSH.PDTV.XViD-SLiGA - 64d 18h 35m 49s
+Sas.Liga.30.09.07.FCM-AGF.DANiSH.PDTV.XViD.REPACK-SLiGA - 64d 17h 29m 12s 
+If you guys search your predbs you will see that the only other group to ever release a cap of the 
+tv show Sas.Liga was DanTV. Also, did no one else find it strange that these –SLiGA people 
+were complete unknowns and not on any normal sites?
+
+
+Anyway, I decided to pick up some fresh IPs on SLiGA so I spoke to Toop. I managed to 
+convince him that I run a .dk site that actually wants –SliGA. Here’s a chat log:
+
+[17:17] <x> addline?
+[17:17] <Toop> site gadduser SLiGA Toop Toop1234567890 *@58.147.*.*
+[17:18] <Toop> this one for LEECH
+[17:18] <Toop> and this for 1:3 site gadduser SLiGA psxman Jari2007 *@87.51*.*
+[17:22] <x> [1] 200- IP not added: it is not specific enough.
+I just wanted more of their IP’s
+[17:22] <x> same for both of those
+[17:23] <x> security is turned up on this server so it needs another octect
+[17:23] <Toop> okay. but so you have to add 2 IPs for me, because the last 2 and 2 is changed 
+often
+[17:23] <Toop> site gadduser SLiGA Toop Toop1234567890 *@58.147.36.*
+[17:24] <Toop> i mean .36 sometines change to .35 and .37
+[17:24] <x> ok, that worked
+[17:24] <x> what's addline of the leech guy?
+[17:24] <Toop> i Live in Thailand as you can se from the IP...
+Something isn't right here, he lives in Thailand but speaks Danish and is gadmin of a Danish 
+group? :S
+[17:24] <x> > this one for LEECH
+[17:24] <Toop> make Toop for the LEECH
+[17:24] <x> and psxman ratio?
+[17:24] <Toop> yes
+[17:24] <x> i need another octect for him
+[17:25] <Toop> i find psxman IP also now
+[17:25] <x> and if there's anyone else you want added I need that too
+[17:26] <Toop> I can see psxman IP have changed to : 87.50.124.*
+[17:27] <Toop> site gadduser SLiGA psxman Jari2007 *@87.50.124.*
+[17:27] <Toop> the last i will give you later today, when he wake up
+[17:27] <x> ok
+[17:28] <x> sitename: CRM
+and for you dumbasses out there, no this site doesn't exist.
+[17:28] <x> 194.150.113.12:41222
+[17:28] <x> ircd:
+[17:28] <x> 194.150.113.12:41223 (SSL + server password danishcookies)
+[17:29] <Toop> okay
+[17:29] <Toop> i try
+[17:31] <Toop> SSL or TLS for FTP server ?
+[17:32] <x> SSL
+[17:32] <Toop> okay
+[17:48] <x> im going to take off, leave me a msg with addline of your 3rd guy
+[17:49] <Toop> okay, CU
+[19:41] <Toop> Hey again, cant connect to FTP to that IP you gave me
+Oh, whoops, this might be why:
+::: (resolved: (antipirat.dk - 194.150.113.12) (194.150.113.12) )
+[20:46] <Toop> ip is wrong or i not get connectet to the site
+[20:46] <Toop> Connection failed (Connection timed out)
+[20:46] <Toop> [L] Delaying for 120 seconds before reconnect attempt #1
+[20:48] <x> hmm that's weird
+[20:49] <x> must be the routing to thailand isn't very good
+[20:49] <Toop> yes.. strange
+[20:49] <x> do you have someone else I could add instead?
+[20:49] <Toop> add my DK ip also to my user name.
+[20:50] <Toop> addip *@81.161.147.*
+[20:51] <x> [1] 200- IP not added: it is not specific enough.
+[20:52] <Toop> arhh., :)              site addip Toop *@81.161.147.*
+[20:52] <x> [1] 200- IP not added: it is not specific enough.
+[20:54] <Toop> k, so i dont know what to do.
+[20:54] <Toop> can you check site uinfo Toop
+[20:54] <x> it needs another octect
+He didn’t want to give away any more of it from then on. But 81.161.147.* looks pretty similar to 
+the IP of monsun (81.161.147.107)
+
+And finally a bit of info on noodlz:
+He is now a member of, possibly even the gadmin of -ETACH. A note to people, -ETACH is the name of the -DiSNEY4U group.
+Some of you may remember a lot of rumours flying around -DiSNEY4U being p2p because a lot of their releases were leaked
+to torrent sites within 1-2 minutes of pre. Occasionally they were uploaded to torrent sites even before -DiSNEY4U pred
+that particular release on sites. Some people suspected that -DiSNEY4U was g0rhee's group and since we now know that
+th0rzen == g0rhee we can confirm this.
+
+Summary:
+crock = th0rzen/g0rhee/GuRu133 , now a member of SLiGA
+noodlz = either DeX or t0z, now a member (possibly gadmin) of -ETACH aka -DiSNEY4U
+Toop = gadmin of SLiGA, ran site that affiled DanTV a month after they were exposed
+Psxman = other gadmin of SLiGA (possibly co-admin of that site, Downunder)
+Downunder = co-admin of the site that affiled DanTV
+JrA = possible member of SLiGA (unconfirmed), raced on the site that still affiled DanTV
+skrutt = racer on that site
+playmate = racer on that site
+
+To siteops with SLiGA as affils:
+Where is your brain? It’s fucking ridiculous how just 2 months after being exposed as 
+p2pers they are already back on sites, back in the scene. Do the right thing and get rid of 
+these fucks once and for all. Purge the whole group and purge whoever got them added to 
+your site. P2Pers don’t just magically enter the scene, people deliberately bring them 
+back in and they are just as guilty as the p2pers.
+
+To other siteops:
+I have no doubt these guys are in the scene with multiple nicknames. Please do check 
+your logs for all the IPs in this notice and if you find a match, make a new scene notice.
+
+To people with SLiGA as affils: 
+Secure yourself and either get the siteops to remove them or ask for a deluser.
+
+To everyone mentioned in this NFO: 
+Psxman aka Michael J**i H*******n who lives at B*********j street in Vrangstrup, 
+just give up. I have decided to be nice and not release your real name, real address etc 
+even though I have it. If I catch you again, it’ll come out. If you do any sort of retaliation 
+notice, it’ll come out. Just leave the scene now and quit while you are ahead.
+
+crock aka th0rzen aka GuRu133 aka g0rhee aka Michael L*******d same thing applies 
+to you. If you’re caught again, your real details come out.
+
+To everyone who provided information and helped make this NFO possible: 
+A big thank you for cleaning up the scene

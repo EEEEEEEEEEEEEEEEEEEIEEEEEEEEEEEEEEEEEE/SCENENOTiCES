@@ -1,0 +1,128 @@
+         ÉÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍ»
+         º                               Site.Security.for.Users.Windows.XP.1.2-acksyn               º
+         ÈÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÍ¼
+
+
+Please read this guide to ensure the safety of not only you, but all of us.
+Feel free to ask specifics on anything I have mentioned.
+
+1.Basic Security for the user
+2.Anonymity for the user
+3.Advanced security methods
+
+There are 2 things that need to be differentiated, security and anonymity.
+
+Security consist of things such as SSL, TLS, PGP, FiSH keys, SSH and Passwords.  Security is not supposed to make life easier, but will make you safer.  You need this if you are reading this document.
+
+Anonymity is hiding yourself in a crowd of other people with no distinct features giving you away.  Tor, Proxies, BNCs, and host mangling are examples of this.  You hide yourself, but do not protect yourself.  Anonymity and Security together, are a force to be reckoned with.
+
+1.  ==Security==
+
+Passwords
+https://www.grc.com/passwords.htm
+First off, let’s go with the most common method of security, a good password.  A good password cannot be easy to remember.  Save it to a file with no title if you must have it locally, or preferably save it to a USB key or CD and put it in a safe place.  Don’t put it on your Desktop called passwordslol.txt.
+
+Visit this url for a ultra secure password, that is completely random and highly secure.
+Use 63 random printable ASCII characters to get your password from. Using 10 characters or more should be very sufficient.  The more complicated the better, it cannot be broken as easy.  Use a different password for different things.  For instance, make a different one for your BNC, IRC, Fish, FTP, E-mail, bank account etc…
+
+I recommend different strengths for different things, if it is a one time forum post on a site that is fine, make it simple, who cares if your account is stolen.  Make it hard as possible for your bank account.
+
+Application Settings
+FTP, IRC, BNC, or any program with sensitive settings should not be saved.  Sure it makes it easy, but do we want anyone to have this information?
+1.Do not auto-login or save connection settings, passwords, server IP, keys.
+
+Login Account Passwords
+1.Use strong passwords for the admin/root accounts.
+2.Disable LANMan registry key for cached credentials on Windows XP or earlier.  Use NTLM2 as it is salted and cannot be broken with precompiled hash tables.
+3.Lock your computer even if you walk away for 5 minutes.
+
+
+PGP (GPG)
+http://www.winpt.org
+File Encryption/Mail Encryption
+1.Create a few keys.  Use DSA and ELG keys.  I’d go with Personal, Work, and highly sensitive data.  I’d go 2048 with Personal and Work, and 4096 for sensitive data.
+2.Create a Revocation Certificate.  This allows you to publish it and notify users that your key has been compromised.
+3.Export your secret and private keys put them on a CD/USB key and put them in a safe place.
+4.Encrypt data for other people using their public keys.  If it is for only you encrypt using your public key.
+
+FiSH
+http://fish.sekure.us/
+IRC encryption
+1.Set the password for FiSH’s settings /setinipw <password>
+2.In private messages type /keyx to create a key for the both of you, have your peer also send you one.
+
+SFTP (Secure FTP)
+Encrypts data between host and destination.
+1.Use SSL connections only, Auth TLS forces you to use SSL connections.  If you do not connect securely, you are denied access.
+
+Hushmail
+http://www.hushmail.com
+Encrypted E-mail using PGP
+Hushmail supports PGP e-mail, both users must have husmhmail to be secure.
+1.Use Tor/Privoxy to visit and view the site, or else the originate IP links to you.
+2.Signup and create a PGP key and have your peer do the same.
+
+2.  ==Anonymity==
+
+IRC
+http://www.xchat.org or http://www.mirc.com
+1.  When setting up your profile, do not use your real name/address/..etc.  If things get scary change your nick/BNC/Tor.  Become a new person.  Reputation is not worth your safety.
+2.  Do not autoconnect to any network, that means your passwords are stored unprotected on your PC.  Someone could use your PC go on a site that is unsafe and cause your real identity to be exposed.
+3.  Use a secure server, such as LinkNet or a private trusted server with and IRCd.
+Require users to only have SSL connections to the server.
+
+Bouncer (BNC)
+http://www.sh3lls.net/
+Provides a way to have a hostname that doesn’t tie you to your IP.  No security here, use SSL and FiSH to protect your chats.
+1.Signup for the service, create a username, preferably not your IRC nick.
+2.Connect to the BNC before getting on an IRC server.
+Note:  See Tor guide for the safest way.
+
+Tor
+http://tor.eff.org/
+Tor is amazing for hiding who you are.  It’s a proxy/BNC/anonymizer all built into one concept.  Most IRC servers do not allow it, link-net does on certain servers, irc.thedome.us allows it.
+In short, it works like this.  You ? Random Server  ? Random Server ? Destination  where everything from You and Destination is sent to various Random servers that cannot read what the previous server could.  Tor does not encrypt your data, use a security program for that (FiSH, SSL, PGP).
+
+1.Download and install Tor/Vidalia/Privoxy.  Configure according to the site’s guide, or ask me.
+2.Set your IRC client to connect to 127.0.0.1:9050 Socks 5 Proxy. And you will have a completely random ident/hostname.
+3.When you open Vidalia, and click New it will create a completely new random route from server to server and change your hostmask again on a reconnect.
+
+I have found the best method is this.  Use FiSH to encrypt your IRC chats, connect to Tor, connect to your BNC, then mangle your hostmask.  This makes it so your BNC has no clue who you are, can’t read what your data was, and a whois reveals nothing.
+
+Privoxy
+http://www.privoxy.org
+Routes your brower’s traffic through a Socks 5 connection via tor, thus hiding your identity.
+1.Requires Tor to be anonymous.  Download it as stated above.
+2.Start Tor and Privoxy on your machine.
+3.In Firefox set your proxy connection to 127.0.0.1:9050 Socks 5 Proxy
+
+Temporary Inbox
+http://www.temporaryinbox.com
+Use a random e-mail address onetime for forum signup or registering for something you wish not to be a part of a mailing list.  No security in these e-mails, don’t transfer sensitive data via this service.
+Note:  Firefox has a great plugin to make and check an account with 1 click.
+
+
+Wireless 802.11x
+Completely insecure if you are using it remove it.  MITM attacks are easy with wireless.  WEP/WPA2/TKIP  all easily breakable with 5 minutes and a proximity of 2 miles of you.  I’m not exaggerating.
+
+3.  ==Advanced Security==
+
+TrueCrypt
+http://www.truecrypt.org
+Harddrive encryption.
+1.Download and install.
+2.Make a copy of your keys on a USB Key/Floppy/CD and put them somewhere safe.
+
+DBAN
+http://dban.sourceforge.net/
+Secure harddrive wipes. When you have to blow away everything fast. (You will lose everything on your harddrive with no recovery.)
+1.Download and Install to Floppy/USB/CD
+2.Use atleast DoD 7 pass wipe, if you have ~30 hours, use Gutmann wipe.
+
+
+Notes:
+All tools listed in this document are completely free and legal for personal use.  An alternative to a pay-for BNC, would be psybnc, but most users will not have access to a server’s DNS records in order to change the hostmask.
+
+This document is an ongoing work of progress.  Your thoughts count, if you want something added or find an error, let me know.
+
+

@@ -1,0 +1,146 @@
+[12:23:03] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'bazzza' from '499877' to '0' :.
+[12:23:10] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 471859200K to bazzza :.
+[13:22:26] [@|TPR|]: [iNFO] .: ReggiE added ip *@78.151.*.* to strip :.
+[13:38:59] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'dg' from '117255427' to '0' :.
+[13:38:59] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'doodoooby' from '125608883' to '0' :.
+[13:38:59] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'Reverend' from '50902281' to '0' :.
+[13:38:59] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'SWINDONK' from '39495237' to '0' :.
+[13:39:00] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'bluesvennis' from '157015016' to '0' :.
+[13:39:02] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'buttonz' from '77497002' to '0' :.
+[13:39:04] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'oakm' from '148355600' to '0' :.
+[13:39:06] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'nicecupoftea' from '88417776' to '0' :.
+[13:39:08] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'paullyport' from '137319332' to '0' :.
+[13:39:10] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'lucky1' from '152954680' to '0' :.
+[13:39:12] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'found' from '150067473' to '0' :.
+[13:39:14] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'babylonx' from '78452363' to '0' :.
+[13:39:16] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'shearer69' from '89831988' to '0' :.
+[13:39:18] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'acas' from '97986652' to '0' :.
+[13:39:20] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'soda' from '95765717' to '0' :.
+[13:39:22] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'col' from '119944398' to '0' :.
+[13:39:24] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'long' from '112844424' to '0' :.
+[13:39:26] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'iamweasel' from '157286400' to '0' :.
+[13:39:28] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'iambob' from '148014671' to '0' :.
+[13:39:30] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'sirmacdunne' from '157286400' to '0' :.
+[13:39:32] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'kin' from '157286400' to '0' :.
+[13:39:34] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'Cos' from '120733771' to '0' :.
+[13:39:36] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'nupnnn' from '118560132' to '0' :.
+[13:39:38] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'redeagle1' from '118156502' to '0' :.
+[13:39:40] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'jesmonddene' from '40528172' to '0' :.
+[13:39:42] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'kop106' from '138904801' to '0' :.
+[13:39:44] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'nikki56' from '131792460' to '0' :.
+[13:39:36] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'nupnnn' from '118560132' to '0' :.
+[13:39:38] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'redeagle1' from '118156502' to '0' :.
+[13:39:40] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'jesmonddene' from '40528172' to '0' :.
+[13:39:42] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'kop106' from '138904801' to '0' :.
+[13:39:44] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'nikki56' from '131792460' to '0' :.
+[13:39:46] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'rem' from '157286400' to '0' :.
+[13:39:48] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'dayze0' from '157286400' to '0' :.
+[13:39:50] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'Raven' from '157286400' to '0' :.
+[13:39:52] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'Villian' from '5376' to '0' :.
+[13:39:54] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'dog007' from '92399359' to '0' :.
+[13:39:56] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'Trond' from '141423800' to '0' :.
+[13:39:58] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mastermighty' from '32901566' to '0' :.
+[13:40:00] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'chop' from '110715254' to '0' :.
+[13:40:02] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'crom' from '100780620' to '0' :.
+[13:40:04] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'eagle' from '122949074' to '0' :.
+[13:40:06] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'robotic' from '18872525' to '0' :.
+[13:40:08] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'deacon' from '89613924' to '0' :.
+[13:40:10] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'yamxs500' from '107864730' to '0' :.
+[13:40:12] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'lovespuds' from '16002514' to '0' :.
+[13:40:14] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'cobblerman' from '141574949' to '0' :.
+[13:40:16] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'exmouse' from '131870775' to '0' :.
+[13:40:18] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'uglym' from '72528424' to '0' :.
+[13:40:20] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'joem' from '82130306' to '0' :.
+[13:40:22] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'coll' from '157286400' to '0' :.
+[13:40:24] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'amp' from '157286400' to '0' :.
+[13:40:26] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mrbrownstone' from '157286400' to '0' :.
+[13:40:28] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mrorange' from '157286400' to '0' :.
+[13:40:30] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'hill' from '44908905' to '0' :.
+[13:40:32] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'marchy' from '157286400' to '0' :.
+[13:40:34] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'male1' from '4801468' to '0' :.
+[13:40:36] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mrbrownstone' from '0' to '0' :.
+[13:40:42] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'oilyfish' from '253274898' to '0' :.
+[13:40:34] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'male1' from '4801468' to '0' :.
+[13:40:36] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mrbrownstone' from '0' to '0' :.
+[13:40:42] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'oilyfish' from '253274898' to '0' :.
+[13:40:44] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'mussolini' from '314572800' to '0' :.
+[13:40:46] [@|TPR|]: [iNFO] .: 'Ronnie' changed credits for 'sin' from '45833277' to '0' :.
+[13:43:41] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to dg :.
+[13:43:42] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to doodoooby :.
+[13:43:42] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Reverend :.
+[13:43:42] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to SWINDONK :.
+[13:43:44] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to bluesvennis :.
+[13:43:47] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to buttonz :.
+[13:43:49] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to oakm :.
+[13:43:51] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to nicecupoftea :.
+[13:43:53] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to paullyport :.
+[13:43:55] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to lucky1 :.
+[13:43:57] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to found :.
+[13:43:59] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to babylonx :.
+[13:44:01] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to shearer69 :.
+[13:44:03] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to acas :.
+[13:44:05] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to soda :.
+[13:44:07] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to col :.
+[13:44:09] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to long :.
+[13:44:11] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to iamweasel :.
+[13:44:13] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to iambob :.
+[13:44:15] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to sirmacdunne :.
+[13:44:19] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to kin :.
+[13:44:21] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Cos :.
+[13:44:23] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to nupnnn :.
+[13:44:25] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to redeagle1 :.
+[13:44:27] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to jesmonddene :.
+[13:44:29] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to kop106 :.
+[13:44:31] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to nikki56 :.
+[13:44:33] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to rem :.
+[13:44:35] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to dayze0 :.
+[13:44:37] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Raven :.
+[13:44:39] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Villian :.
+[13:44:41] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to dog007 :.
+[13:44:43] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Trond :.
+[13:44:45] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to mastermighty :.
+[13:44:39] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Villian :.
+[13:44:41] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to dog007 :.
+[13:44:43] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to Trond :.
+[13:44:45] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to mastermighty :.
+[13:44:47] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to chop :.
+[13:44:49] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to crom :.
+[13:44:51] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to eagle :.
+[13:44:53] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to robotic :.
+[13:44:55] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to deacon :.
+[13:44:57] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to yamxs500 :.
+[13:44:59] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to lovespuds :.
+[13:45:01] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to cobblerman :.
+[13:45:03] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to exmouse :.
+[13:45:05] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to uglym :.
+[13:45:07] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to joem :.
+[13:45:09] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to coll :.
+[13:45:11] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to amp :.
+[13:45:13] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to mrbrownstone :.
+[13:45:15] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to mrorange :.
+[13:45:17] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to hill :.
+[13:45:19] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to marchy :.
+[13:45:21] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to male1 :.
+[13:45:25] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 314572800K to oilyfish :.
+[13:45:27] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 314572800K to sin :.
+[13:45:29] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 314572800K to mussolini :.
+[13:46:54] [@|TPR|]: [iNFO] .: Ronnie added ip *@86.150.98.136 to sim1 :.
+[20:22:03] [@|TPR|]: [iNFO] .: Ronnie added ip *@78.105.243.67 to deacon :.
+[20:25:26] [@|TPR|]: [iNFO] .: Ronnie added ip *@90.200.229.49 to long :.
+[20:27:01] [@|TPR|]: [iNFO] .: Ronnie added ip *@91.84.123.143 to ros :.
+[21:18:45] [@|TPR|]: [iNFO] .: Ronnie added ip *@217.44.30.235 to trott :.
+[21:20:43] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 33554432K to trott :.
+[18:17:19] [@|TPR|]: [iNFO] .: Ronnie added ip *@90.206.199.7 to rift :.
+[18:17:42] [@|TPR|]: [iNFO] .: Ronnie added ip *@82.152.221.91 to ros :.
+[20:30:32] [@|TPR|]: [iNFO] .: Ronnie added ip *@90.200.231.139 to long :.
+[20:32:58] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 33554432K to audia :.
+[20:33:40] [@|TPR|]: [iNFO] .: Ronnie added ip *@86.152.245.223 to sim1 :.
+[20:35:28] [@|TPR|]: [iNFO] .: Ronnie added ip *@92.9.*.** to thatm :.
+[20:35:29] [@|TPR|]: [iNFO] .: Ronnie added user thatm to group FRiENDS :.
+[20:35:40] [@|TPR|]: [iNFO] .: 'Ronnie' changed max_sim_up for 'thatm' from '2' to '0' :.
+[20:35:48] [@|TPR|]: [iNFO] .: 'Ronnie' changed max_sim_down for 'thatm' from '1' to '2' :.
+[20:36:03] [@|TPR|]: [iNFO] .: 'Ronnie' (siteop) transferred 157286400K to thatm :.
+[21:40:54] [@|TPR|]: [iNFO] .: Ronnie added ip *@92.1.34.77 to zan :.
+[22:25:52] [@|TPR|]: [iNFO] .: Ronnie added ip *@62.252.176.97 to audia :.
+[22:33:59] [@|TPR|]: [iNFO] .: Ronnie deleted babylonx :.
+[22:34:09] [@|TPR|]: [iNFO] .: Ronnie purged babylonx :.

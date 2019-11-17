@@ -1,0 +1,262 @@
+SiSQO aka Lagoon WHY THE SHUTDOWN! - 
+
+- Looks like co-owner (Secrez) of SiSQO ring got back home and wanted to kill this ring, 
+  im sorry about this i diden't have any knowledge's about this until today'
+
+First of...
+SiTEOPS, users, and traders of SiSQO aka LAGOON are
+
+SiTEOPS: 
+spasm!spsm@LinkNet-a4f2a502ea.cust.skycom.se,
+Chariot is ~Chariot@LinkNet-f1aea23336.cust.bredbandsbolaget.se * Chariot 
+secrz aka Secrez 
+jms
+
+Users/SiTES/ 
+d-flex is d-flex@LinkNet-eec8691a05.tixit.se * d-flex, 
+n4ll3 is ~whateva@LinkNet-02b52390a4.cust.bredbandsbolaget.se * LikeYouCare, 
+supreme
+Crt
+s-doc
+concrete
+piraya
+
+Traders: 
+Snigelfis/ANCiENT
+D_Norton/ANCiENT
+crest/ANCiENT
+twinky/LUX
+spasm/LUX
+rice/iND
+Chariot/iND
+secrez/iND
+dumdumsill/iND
+nex/iND
+jin/iND
+
+silver/EON
+Xario/ViK
+DirtyHarry/SPiRiTS
+d-flex/Moth
+
+
+Here's the story about a couple of fuck heads. Not so long ago SiSQO was dropped by its owners. The reason was too many rumors running around (most of them true) not that they will admit that but why cares? Anyways, one is that site ops where selling leech witch is true (Br0nx.aka.nap.aka.n__.selling.leech.at.site-SiS made by Secrez) Another one is that p2p users where used as SiTES and allot of p2p users where added on site SiSQO as well. This was a respected SiTE with quite allot Affils. So when the rumors got too heavy they shutdown, told noone, fucked everybody and there longtime admitted tech witch we will not mention by name was caned. And they blamed all that went wrong on him! so fucking immature. They STOLEN his drFTPD.conf the total setup that SiSQO was using but still they drop t him and everybody els except some selected SLAVES/SiTES/LiNKS (also Stolen from a SiTE sometime ago) that today are in use @ LAGOON --> lgn.mine.nu:6543 | As a security they now have ViPs only in "Admin" channel where they are not allowed to see or talk to traders...wounder why? can it be that they got something to hide? yeah they sure do. Some of them have also changed there nicks and are now keeping a low profile. We will end this by saying that SiSQO aka LAGOON is not here so stay. We will do all we can to shut them down cuz there immature, unsafe and steels both links and masters. If ur on this SiTE you would do best to leave it and never look back. This guys is not to be trusted and they are not ur friends.
+
+How this guys work (swedish RAW * = added)
+
+
+Session Start: Mon Feb 26 23:04:26 2007
+Session Ident: Chariot
+[23:04] *** FiSH: Received DH1080 public key from Chariot, sending mine...
+[23:04] *** FiSH: Key for Chariot set to *censored*
+[23:04] <XXX> =)
+[23:05] <Chariot> sry. Men jag kommer att della dig nu. Fick reda på att du inte har någe alls o göra med våran owner för masterlinken. så du har ingenting här o göra egentligen.
+[23:05] <XXX> ursäkta?
+[23:05] <XXX> det är jag som fixade honom till sis *(SiSQO o hit (LAGOON)
+[23:05] <XXX> så ta du o lugna dig annars är ni utan master
+[23:05] <Chariot> jag pratade med honom
+[23:05] <Chariot> han kände ingen som dig
+[23:05] <XXX> LOL
+[23:05] <XXX> inte som XXX nej
+[23:05] <Chariot> och han skulle inte rycka mastern för någon annan :)
+[23:05] <Chariot> så asa han iaf
+[23:06] <XXX> hehe vi får väl se?
+[23:06] <XXX> ska prata med han pronto
+[23:06] <Chariot> aa gör de. för så som ja fått höra så har du inte någe o göra med han.
+[23:07] <Chariot> men kan du bevisa de så kan vi prata igen :P
+[23:07] <XXX> var inte så kaxsig
+[23:07] <XXX> pratar med han nu
+[23:07] <XXX>  som jag sa...han vet inte vem XXX är...
+[23:07] <XXX> nu vet han...
+[23:08] <Chariot> aa be han prata med mig
+[23:08] <Chariot> sjobbe på msn
+[23:10] <XXX> hade varit en ide om ni op pratar med varand... secrez vet tex hur det ligger till!!
+[23:10] <Chariot> nej secrez visste inget
+[23:10] <XXX> nu har du ju calle där nu så d e lungan man värt att tänka på
+[23:10] <XXX> LOL
+[23:10] <Chariot> har frågat han.
+[23:10] <XXX> jo han som adda mig
+[23:10] <XXX> han är senil
+[23:10] <Chariot> hehe jo vet. men pratade med han om just de
+[23:10] <Chariot> men han är väl förvirrad
+[23:10] <XXX> hehe =)
+[23:11] <XXX> han får lägga ner drogerna :P
+[23:13] <Chariot> jadu
+[23:13] <Chariot> ...
+[23:13] <XXX> vad?
+[23:13] <Chariot> vette tusan vad vi ska göra. 
+[23:14] <Chariot> hörde att du har varit o polat en del med (*XXX deras gammla tech som det droppade) oxå
+[23:14] <XXX> vad är polat?
+[23:14] <Chariot> hehe dialekt :p
+[23:14] <Chariot> hängt med
+[23:14] <Chariot> varit med
+[23:15] <XXX> jag är vän med honom ja.
+[23:15] <XXX> alltså jag kan göra det mkt enkelt för dig, jag skaffade denna mastern till sis. 
+[23:15] <Chariot> jo de vet jag
+[23:16] <XXX> Calle e min vän så jag ska nog se till att han bytar site om du inte slutar bråka.
+[23:16] <Chariot> nej han byter inte
+[23:16] <Chariot> så därför har vi ingen nytta av dig <--- här börhar det, så här behandlar det de som hjälpt/hjälper dem
+[23:16] <XXX> vi får väl se
+[23:16] <XXX> och det kommer ju gå vidare hur ni försöker sno en master
+[23:16] <XXX> hehe lycka till 
+[23:16] <Chariot> men vill inte lämna de här på ett personligt plan
+[23:17] <Chariot> ja har inget emot dig 
+[23:17] <XXX> märker de
+[23:17] <XXX> personligt? hmm
+[23:17] <XXX> du försöker blåsa mig
+[23:17] <XXX> är inte det personligt`?
+[23:17] <XXX> [23:16] <Chariot> nej han byter inte
+[23:17] <XXX> [23:16] <Chariot> så därför har vi ingen nytta av dig
+[23:17] <Chariot> okej menade inte så. 
+[23:17] <Chariot> men du fixade linken till en annan site
+[23:17] <Chariot> inte till den här
+[23:17] <XXX> vilken länk?
+[23:18] <Chariot> master
+[23:18] <XXX> jag är på denna siten för att jag fixade master för 3:e gången
+[23:18] <Chariot> och till på de har du raggat på calle att byta till xxx/xxx ring
+[23:18] <XXX> vi har pratat om att han ska byta ja... de var innan jag fick tag på secrez
+[23:18] <XXX> xxx ring? heh nä
+[23:19] <Chariot> hehe nämen han är väl med i knutarna där :p
+[23:19] <XXX> du vill alltså blåsa mig har jag fattat det rätt?
+[23:19] <Chariot> vill inte kalla det blåsa
+[23:19] <Chariot> men om du tolkar det så: så ja <-- Sure, knulla dem som hjälpter...
+[23:19] <XXX> nähä vad kallar du det då?
+[23:19] <XXX> hehe lycka till med att hitta en ny master.
+[23:19] <Chariot> du har gnällt om mera siter och varit site-kåt
+[23:20] <XXX> tar det med calle i morgon
+[23:20] <Chariot> gör så :
+[23:20] <Chariot> )
+[23:20] <XXX> sen ska jag prata lite med folk hur du beter dig
+[23:20] <XXX> hur du snor masters
+[23:20] <Chariot> ingen ide att börja med sånt där
+[23:20] <XXX> jaså =) 
+[23:20] <XXX> hehe vi får väl se
+[23:20] <XXX> jävla idiot
+[23:20] <XXX> du annars inte hur korkat drag detta är
+[23:20] <Chariot> de är dessutom inte bara jag. hela staffen har inte gillat de du gjort
+[23:20] <XXX> det jag gj?
+[23:20] <XXX> va fan snackar du om?
+[23:21] <XXX> va fan har jag gj?
+[23:25] <XXX> inget precis! du bara hittar på något för att kunna della mig varför vet jag fan inte men du e väl girig som fan! kommer jag precis allt jag kan för att sätta dit er o skulle Calle nu inte hoppa av kommer jag sätta dit även han! JÄVLA korkade idioter tror man kan blåsa vemsom helst!
+[23:25] *** FiSH: Received DH1080 public key from Chariot, sending mine...
+[23:25] *** FiSH: Key for Chariot set to *censored*
+-
+[23:25] * Flood protection: 1 message(s) in queue
+-
+[23:26] <Chariot> ÌVÂÏ2ˆë¸›$¬Nh'ö6b°'Å7ñcl;B4Åá¾å
+[23:26] <XXX> ?
+[23:26] *** FiSH: Received DH1080 public key from Chariot, sending mine...
+[23:26] *** FiSH: Key for Chariot set to *censored*
+-
+[23:26] * Flood protection: 2 message(s) in queue
+-
+[23:26] * Flood protection: 0 message(s) in queue
+-
+[23:27] <XXX> ser inte ett skit om du nu försöker skiva
+[23:27] <Chariot> ja tobort fish
+[23:27] <Chariot> jag var emot att adda dig från första början. som sagt inget personligt. för ja visste inte vem du var
+[23:27] <Chariot> vill ha så lite leechers som möjligt
+[23:27] <XXX> skiter jag fullständigt i
+[23:27] <Chariot> du måste ta bort fish
+[23:27] <XXX> du tror att man bara kan ta utan att ge
+[23:27] <Chariot> ja ser inte
+[23:27] <XXX> vi ska se
+[23:27] *** FiSH: Sent my DH1080 public key to Chariot, waiting for reply ...
+[23:27] *** FiSH: Key for Chariot set to *censored*
+[23:27] <Chariot> så
+[23:28] <XXX> 23:27] <Gate> skiter jag fullständigt i
+[23:28] <XXX> [23:27] <Chariot> du måste ta bort fish
+[23:28] <XXX> [23:27] <Gate> du tror att man bara kan ta utan att ge
+[23:28] <XXX> ska bli kul detta ska sänka er totalt! 
+[23:28] <Chariot> nej men du har visat en attityd att du inte vill gagna lagoon heller så.
+[23:28] <Chariot> du vill bara ha fler o fler siter
+[23:28] <Chariot> och de blir inte bra
+[23:28] <XXX> DU!! jag gav säkert 4 länkar till sis
+[23:28] <XXX> fick inte ett skit för det
+[23:28] <XXX> ingen hörde av sig när ni "flyttade"
+[23:28] <Chariot> det var *(XXX gammla tech de nu skyller allt på) som körde sis då
+[23:28] <XXX> så varför skulle jag!!
+[23:29] <XXX> skitsnack
+[23:29] <XXX> jag var där från början
+[23:29] <XXX> när secrez var  hemma din idiot
+[23:29] <XXX> sen räker det gott o väl med att jag fixade en master till er
+[23:30] <XXX> fy fan skulle kunna döda dig! trodde att innom scene att man var lojal...dock e många det så det lär ju ta hårt när folk får redan på hur du driver en site
+[23:30] <XXX> LYCKA TILL!
+[23:30] <XXX> har inte tid med dig nu ska ta reda på var du sitter mm
+[23:31] <Chariot> hehe som sagt. inte bara jag. 
+[23:31] <XXX> skiter jag i
+[23:31] <Chariot> vi har pratat om de i hela staffen och flera vips
+[23:31] <XXX> ni har ingen anledning
+[23:31] <XXX> visst de e ok att radera mig men då ska ni fan inte ha mastern kvar
+[23:31] <XXX> din jävla nöt tror du det funkar så ?
+[23:31] <XXX> hhehe du ska få se
+[23:31] <XXX> el NI!!!
+[23:31] <XXX> whatever
+[23:32] <Chariot> okej.
+[23:32] <Chariot> är vi klara nu
+[23:32] <Chariot> ja var iaf så lojal att ja pratar med dig ;)
+[23:32] <XXX> lycka till ;)
+[23:32] <Chariot> det samma :)
+[23:32] <XXX> thnx
+-
+-
+Session Time: Tue Feb 27 00:00:01 2007
+[00:32] Chariot is ~Chariot@LinkNet-f1aea23336.cust.bredbandsbolaget.se * Chariot
+[00:32] Chariot using link-net.org LinkNet IRC Network
+[00:32] Chariot is an SSL Encrypted Client
+[00:32] Chariot End of /WHOIS list.
+
+Sry that its on Swedish, hope that u that dont understand can have somebody translate this for you. In short its says how Chariot and CO fucks the guy who gave them there Master.
+-
+Some other stuff...
+
+<@|LAGOON|> Done (games) => Galactic_Civilizations_II_Gold_Edition-OVERDUE/CD1 (51f/724.0MB - 10m 34s/1.1MB/s) by 3 users from 2 groups.
+<@|LAGOON|> UserTop:
+<@|LAGOON|> 1. Chariot/iND [386.2MB/27F/52%/2.0MB/s] [MNUP #3]
+<@|LAGOON|> 2. secrez/iND [252.0MB/18F/35%/784.3KB/s] [MNUP #2]
+<@|LAGOON|> 3. d-flex/Moth [85.8MB/6F/11%/3.9MB/s] [MNUP #4]
+<@|LAGOON|> GroupTop:
+<@|LAGOON|> 1. iND [638.2MB/45F/88%/1.2MB/s]
+<@|LAGOON|> 2. Moth [85.8MB/6F/11%/3.9MB/
+
+ <@|LAGOON|> Done (games) => Paws.And.Claws.Pet.Vet-Micronauts (56f/794.9MB - 8m 56s/1.5MB/s) by 3 users from 2 groups.
+ <@|LAGOON|> UserTop:
+ <@|LAGOON|> 1. twinky/LUX [408.6MB/29F/51%/2.1MB/s] [MNUP #6]
+ <@|LAGOON|> 2. spasm/LUX [286.1MB/20F/35%/2.2MB/s] [MNUP #1]
+ <@|LAGOON|> 3. dumdumsill/iND [100.1MB/7F/12%/3.3MB/s] [MNUP #7]
+ <@|LAGOON|> GroupTop:
+ <@|LAGOON|> 1. LUX [694.7MB/49F/87%/2.1MB/s]
+ <@|LAGOON|> 2. iND [100.1MB/7F/12%/3.3MB/s]s
+
+ <@|LAGOON|> UserTop:
+ <@|LAGOON|> 1. nex/iND [323.3MB/23F/46%/1.7MB/s] [MNUP #4]
+ <@|LAGOON|> 2. twinky/LUX [214.6MB/15F/30%/1.2MB/s] [MNUP #5]
+ <@|LAGOON|> 3. crest/ANCiENT [85.8MB/6F/12%/936.6KB/s] [MNUP #8]
+ <@|LAGOON|> GroupTop:
+ <@|LAGOON|> 1. iND [323.3MB/23F/46%/1.7MB/s]
+ <@|LAGOON|> 2. LUX [257.5MB/18F/36%/1.1MB/s]
+
+ <@|LAGOON|> UserTop:
+ <@|LAGOON|> 1. jin/iND [371.9MB/26F/52%/2.0MB/s] [MNUP #13]
+ <@|LAGOON|> 2. D_Norton/ANCiENT [264.8MB/19F/38%/4.7MB/s] [MNUP #10]
+ <@|LAGOON|> 3. twinky/LUX [42.9MB/3F/6%/1.2MB/s] [MNUP #5]
+ <@|LAGOON|> GroupTop:
+ <@|LAGOON|> 1. iND [371.9MB/26F/52%/2.0MB/s]
+ <@|LAGOON|> 2. ANCiENT [264.8MB/19F/38%/4.7MB/s]
+
+[04:17] <@|LAGOON|> 3. Tank14/ANCiENT [19.1MB/1F/10%/203.0KB/s] [MNUP #7]
+
+They really don't have any other traders, we guess what most know who they really are and with this nfo we hope to bring the truth to even more.
+
+SiTES...
+
+ <@d-flex> !slaves
+ <@|LAGOON|> LA1: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 724.8GB/733.6GB ) 
+ <@|LAGOON|> LA2: ( UP: 1 @ 260.5KB/s )-( DN: 0 @ 0B/s )-( DF: 334.1GB/1009.3GB ) 
+ <@|LAGOON|> LA3: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 857.3GB/883.6GB ) 
+ <@|LAGOON|> LR1: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 453.4GB/514.4GB ) 
+ <@|LAGOON|> LR2: ( UP: 0 @ 0B/s )-( DN: 0 @ 0B/s )-( DF: 269.8GB/290.1GB ) 
+
+We hope that you bring this guys too there knees.
+
+/CLEANUP

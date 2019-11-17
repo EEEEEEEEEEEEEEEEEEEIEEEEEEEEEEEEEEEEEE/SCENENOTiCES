@@ -1,0 +1,86 @@
+TO INCORPORATE:
+ALTER AS MUCH FILE ACCESS AS POSSIBLE TO MEMORY RESIDENT VARIABLES
+IT MAY TAKE TIME FOR ME TO UPDATE BUT BE AWARE I WORK FULL TIME AND ALSO:
+IT CAN TAKE AS LONG TO GET THE INTERFACE UP AND RUNNING AS TO WRITE THE ROUTINES
+
+KNOWN BUGS(TO DO):
+NONE YET HEH
+
+UNKNOWN BUGS(LOL):
+BAD RELEASE/NUKED RELEASE NOT 100% TESTED(BIT DIFFICULT TO GET A BAD RLZ HEHE) I NEED FEEDBACK
+VALIDATE button needs to check for non-standard REQUEST setup and the setup for REQUEST does not work yet.
+SITE INDEX does not handle dated dirs
+
+SORTED
+4th Feb 2009 --- FTPRUSH sites limit increased by saving to file - Bug removed deleting sites - script error removed.
+24th Jan 2009 -- Added FTPRUSH check and saving of pathname
+---------------- Added quotes to paths so spaces should now not matter.
+---------------- Site search improved - Filenames now assumed last part with an - in. Should now work on more sites.
+16th May 2006 -- MASSIVE REWRITE OF MAIN ROUTINES
+---------------- MASSIVE USE OF MEMORY RESIDENT VARIABLES REDUCING FILE ACCESS
+---------------- ESTIMATE SPEED INCREASE OF ABOUT /%500
+---------------- EARNS A NEW VERSION OF 3.0 BETA
+21st May 2006 -- ADDED DEBUG OPTIONS FOR MANY INFORMATION MESSAGES
+22nd May 2006 -- CATCHING ETC FOR NEW AND PRE WORKING PERFECTLY
+23rd May 2007 -- SITE SORT FOR SENDS IS REWRITTEN BUT NEED TO LOG SENDS SO NO DUPES ETC
+24th May 2006 -- VALIDATE AD NOW WORKING AND INTERFACE CHANGED SLIGHTLY
+25th May 2006 -- CHECKPRE - MADE SURE PRE-CATCHER SAVES NAME AS COMPLETELY REMOVED
+25th May 2006 -- Rewriting send routine ......................
+4th May 2006 --- Ignore PRE added to send routine (send routine now bugged lol)
+8th June 2006 -- Script now get ul/dl slots from FTPRUSH config file (got rid of multi-send)
+10th June 2006 - Added ADD A CHAN and ADD A CATEGORY - checks channels you in on server
+11th June 2006 - Interface tidied up from resizing and added ADD A NICK - gets nick list from chans u on
+---------------- Added ? to SETUP CHAN so script lists sites you can add ............
+12th June 2006 - Fixed DELETE CHANNEL and DELETE SITE and ADD CAT and DELETE CAT
+12th June 2006 - Fixed site list search - but need to add the extra dirs to be checked also
+12th June 2006 - Started incorporating EU/US options into site list generation .... Got work so continue tomorrow
+14th June 2006 - Logging started so sending windows are hopefully correct. Changed main ignore to include
+15th June 2006 - Working on complete as without this the whole send script for windows will not work correctly
+16th JUne 2006 - Final touches (i hope) to speeding up logging
+17th June 2006 - Yawn 4am and i think EU/US works great. CONNECT and ALL working now as rewritten server script
+---------------- AUTO-JOIN now starts when you load up IRC :) Removed AFFIL bug and added AUTO-SEND AFFIL rlz
+---------------- PRETIME save bug fixed and reading of file saved bug fixed
+18th June 2006 - Fixed DEL ANNOUNCER and fixed interface bug regarding hiding buttons and disable/enabling buttons
+23rd June 2006 - Fixed check pretime bug
+24th June 2006 - Transfer log deleted on startup - and REMOVE/CANCEL transfers etc working now - COMPLETE CATCH ADDED
+26th June 2006 - Added option for time before checking incompletes and the way to deal with them - AUTO/WARN/IGNORE
+28th June 2006 - A few minor bug fixes
+29th June 2006 - INCOMPLETES now actually log into the site to check where possible if incomplete or not.
+30th June 2006 - Major bug fix in the sending routine
+1st July 2006  - Massively updated the site search routine and interface. ADD and DEL work properly.
+---------------- Script now ignores releases with 2 paths in it. Make sure you add to skiplist. */CD*/*
+---------------- Extra dirs added to site search are now searched ......
+12th July 2006 - Small DUPECHECK bug removed.
+13th July 2006 - ON COMPLETE adds release to database for DUPE-CHECK
+14th July 2006 - Fixed PRE'D RELEASE bug that wouldnt race coz was affiliated lol
+15th July 2006 - Fixed bug where if SITE COULD NOT FXP FROM then completes were ignored. Small bug in CONNECT button also fixed.
+---------------- Fixed ALL CONNECT as well. IMDB and REQUEST checks added to VALIDATE.
+20th July 2006 - Ooops haven't recorded what i done recently - ah well added ON-JOIN for added channels for ppl that don't AUTO-JOIN
+---------------- IMDB check added on detection of IMDB announce, and working i hope lol
+21st July 2006 - Adding IMDB check to ON NEW so could be option to pre-record imdb ratings from pre channel. :D
+---------------- Adding wildcards to IMDB. Doing my head in this bit so there are not too many different kinds.
+22nd July 2006 - Fixed bug with second pre-channel setup
+---------------- Because of all the updating i suggest not removing announcers(u can but sum info will not be deleted)
+---------------- Another big rewrite of the main sending routines. Better but still not perfect.
+---------------- Added the rules button for quicker checking if you need to. Thought it might be useful.
+23rd July 2006 - Added the PRE routine to autosend PRE'S
+24th July 2006 - Request fill routine added - but custom one does not work yet
+---------------- Script can now download and install updates when requested
+---------------- Version change 3.2
+27th July 2006 - Massive bug fixed in what type of txt caught etc etc etc
+---------------- Maxcd added but not tested yet .....................
+28th July 2006 - Found and fixed bug in wildcard & and * - fixed bug in spaces in release info also
+29th July 2006 - Fixed a bug in allow/deny and added !! as wildcard so the characters ./_/- are searched either-side of the wildcard
+30th July 2006 - DUPECHECK now does warning if TO FIND is not in the source.
+---------------- SITES with no indexed categories do not force popup at start.(SAYING YOU HAVEN'T INDEXED)
+---------------- Fixed small bug in request routine. Fixed bug in IMDB script. Fixed bug in resending. Fixed bug when sends off.
+---------------- Now 3.31 release
+31st July 2006 - Small bug in VALIDATE routine fixed.
+3rd Aug 2006 -- Nick change bug fixed for "?". Hmm forogt to add what i fixed lol for last cpl days
+4th Aug 2006 -- Major update to INSTALLER script.
+4th Oct 2008 -- To reduce server probs and prior to a major re-write - YES I intend to try to restart this project - I have added wildcards
+                to the server name so you can now use !text as many times as you want.
+
+BE VERY VERY CAREFUL
+THIS SCRIPT IS FAR MORE POWERFUL THAN YOU THINK
+PLZ PLZ PLZ MAKE SURE YOU SET EVERYTHING UP CORRECTLY

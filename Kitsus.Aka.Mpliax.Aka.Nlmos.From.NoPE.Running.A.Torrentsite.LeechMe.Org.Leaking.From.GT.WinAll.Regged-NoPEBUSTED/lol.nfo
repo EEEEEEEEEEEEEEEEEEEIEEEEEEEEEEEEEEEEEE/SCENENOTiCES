@@ -1,0 +1,154 @@
+
+Right.. So my friend HoornHardcore hacked some servers like normal, only this
+time he stumbled upon a site. And he knows im a scener so he notified me.
+
+When he showed me some screenshots of the irc i thought, ok.. ill notify siteop.
+The sysops are NoPE: KaPPa and kitsus aka nlmos aka muadd. 
+
+So we have logged into the server nlmos better known as kitsus uses to rip
+stuff for his group. First off there was a utorrent on, and not just utorrent
+no, it had loads and loads of torrents loaded into it. (screen 1).
+
+http://whois.domaintools.com/94.75.216.41
+IP Location:     Netherlands Amsterdam Leaseweb 
+IP Address:     94.75.216.41                    
+inetnum:        94.75.216.0 - 94.75.216.255
+netname:        LEASEWEB                   
+descr:          LeaseWeb                   
+
+LeaseWeb ripbox... hmmmm
+
+
+It is linked to an ircchan called #TheDump on a private ircd. So far, not much
+wrong. (screen 2 and 3).
+
+But then HH showed me some screenshots of the ftprush.
+There is a site called GT where he is siteop:
+
+ <^GT> ISO >> BReWErS DFA DYNAMiCS PROPHET QUASAR TSG ViTALiTY
+ <^GT> 0DAY >> ARN CRD EAT ENGiNE GRB iPWNPDA NOY OUTLAWS RECOiL rGPDA ROGUE VACE
+
+
+
+http://whois.domaintools.com/78.41.207.169
+IP Location:     Netherlands Amsterdam Redunix-colo-dbg 
+Resolve Host:   horance.colocated.redunix.net
+inetnum:        78.41.207.160 - 78.41.207.175
+netname:        REDUNIX-COLO-DBG
+descr:          DBG
+country:        NL 
+
+
+#GT @kitsus Mindphzer @KaPPa @^GT katakis none Av_O ___reb OldSch00l muadd nlmos
+ Rotting AngeLo| Virlix Clarkson ruth0r |chaos snizzel @redbone 
+ KiTTy| Frogees clerik e|R|p NiXiuS jiM3op JimKnopf pjf Sidewayz sparky ddoss
+ _SoniCFL ddaum SAP g0ne Duplex ReCuRSi0N se7ens __|W|_ spasswu __pfek notif8
+ d00h POiZN egge tvg ||-q||b-|| bonedog skullcatz pfu |s|s _checker orbith
+ hwoarang-
+#GT End of /NAMES list.
+
+
+#GT-NUKE @kitsus @KaPPa @^GT muadd nlmos ddaum
+#GT-NUKE End of /NAMES list.
+
+[2]site who
+[2] 200-  Users Logged Onto GT
+[2] 200- .-------------------------------------------------------------------------.
+[2] 200- | User        Group      Unfo               Action                        |
+[2] 200- |-----------+----------+------------------+-------------------------------|
+[2] 200- | egge      | AOD      | hate worldwide   | IDLE for 0m 13s               |
+[2] 200- | spasswurs | NOY      | elvis has entere | IDLE for 0m 23s               |
+[2] 200- | egge      | AOD      | hate worldwide   | IDLE for 0m 11s               |
+[2] 200- | KaPPa     | GATE     | siia.net         | IDLE for 0m 17s               |
+[2] 200- | nlmos     | GATE     | No Tagline Set   | IDLE for 2m 33s               |
+[2] 200- | KaPPa     | GATE     | siia.net         | STAT -al                      |
+[2] 200- | SAP       | HTG      | mdvdr.whore      | IDLE for 0m 13s               |
+[2] 200- | junk      | ZL       | No Tagline Set   | IDLE for 0m 54s               |
+[2] 200- | redbone   | GATE     | ...              | IDLE for 0m 10s               |
+[2] 200- | junk      | ZL       | No Tagline Set   | IDLE for 0m 54s               |
+[2] 200- | SAP       | HTG      | mdvdr.whore      | PWD                           |
+[2] 200- |-----------+----------+------------+-----+-------------------------------|
+[2] 200- | Total upload speed:        0.0K/s | Total download speed:        0.0K/s |
+[2] 200- |-----------------------------------+-------------------------------------|
+[2] 200- | 11 of 50 User(s) Currently Online                                       |
+[2] 200- `-------------------------------------------------------------------------'
+[2] 200 Command Successful.
+
+Okz, so this site is not bull. Now, to proof that kitsus is mpliax is nlmos, and
+it is a siteop leaking the stuff and not just a normal, user take a look at 
+screenshot 4 and 5. Also look above, in the site who, you can see that nlmos is
+in the same group as KaPPa and redbone. Those 2 are opped in the irc. (scr 6 7 8)
+
+As you cna see in screenshot 4, they use a 2nd box. 94.75.216.55.
+Same logins to the TS, so easy for HH to trace. If you look at screenshot 11,
+you can see they also use eMule. Then take a look at 12, you can see this server
+is also in the 'leechme' ircchan called #thedump.
+All the red x'es in the utorrent is because he fucked up the download folder and
+wiped all their stuff :)
+
+
+Then the torrentsite.. the url is LeechMe.org. 
+
+http://whois.domaintools.com/leechme.org
+Server Type:    Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.8 
+IP Address:     94.75.216.233                                                                      
+IP Location      - Noord-holland - Amsterdam - Leaseweb  
+Created:        2008-11-04   
+Expires:        2010-11-04   
+Updated:        2009-09-05   
+Whois Server:   whois.pir.org
+
+
+
+Welcome back, Uperman  [logout]                        
+Ratio: 939.963  Uploaded: 8.62 TB  Downloaded: 9.39 GB 
+                          ßßßßßßß
+
+Hosted on a leaseweb box, all not so special. But if you look at screenshot 
+9 and 10, you can see that this box is one of the main uploaders on that site.
+Not just an uploader, he seeded over 8,5 TB to there. This also indicates
+this is not something new, but they've been doing it for a while.
+And we've proven above that kitsus = mpliax = nlmos, and this box is on irc
+as nlmos and automaticly leaks our scene pres to that torrent site.
+
+
+
+Conclusion. 
+NoPE is an insecure group, they are main uploaders (maybe even owners?) of the
+torrentsite called LeechMe. I know they affil some pretty nice sites (seen a
+few on their ftprush).
+They autotrade from their affils to GT, and from there it gets automaticly uploaded
+to torrentsites with their auto-upload scripts. 
+I think HoornHardcore supplied me with enough proof against NoPE.
+
+Do with this information what you want.
+
+Greetings,
+A concerned scener.
+
+
+P.S. Note to NoPE:
+We found your other boxes too ;)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

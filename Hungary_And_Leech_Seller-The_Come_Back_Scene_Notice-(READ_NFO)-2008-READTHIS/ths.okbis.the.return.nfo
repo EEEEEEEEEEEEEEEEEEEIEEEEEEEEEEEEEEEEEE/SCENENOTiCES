@@ -1,0 +1,184 @@
+--------------------------------------------------------
+
+Hungary.And.Leech.Seller.The.Come.Back.Scene.Notice.2008
+
+--------------------------------------------------------
+
+
+First of all I feel kinda sorry to do this kind of stuff, but there's something important that users should know.
+
+Site name: THS
+Box Owner: Shemale
+Location: Hungary
+Link: 1 GBit
+BNC: 79.172.201.3 (yeah bad to leak this kind of stuff but read what's coming next)
+HOST: Szervernet Ltd
+Affil: MiiiX
+
+I rather not name others staff members, neither racers, or users on this site, they are all french lamers, which 
+shouldn't get too much attention.
+
+Taking new groups first of all proves how much this site is kinda insecure without knowing who they really are and 
+stuff like that. But anyways whatever it's not my business
+
+
+
+-A- INSECURE BOXOWNER:
+
+So Anyways who's that "Shemale" guy let's have a look on his whois
+
+[1] AT THE MOMENT
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+Whois report for (Shemale) (admin@LinkNet-9347fa9929.1phone.hu)
+• Name: Shemale
+• Channels: &servers
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+
+[2] 10 Days Ago[!] (which was just few days before people noticed that it was him)
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+Whois report for (Shemale) (OkBiS@LinkNet-a948012cb5.catv.broadband.hu)
+• Name: OkbiS
+• Channels: &servers
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+
+[3] 2 Months Ago[!]
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+Whois report for (OkBiS) (okbis@87.229.256.256)
+• Name: OkbiS
+• Channels: &servers
+•››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+
+So basically Shemale = OkbiS, but he had to change ident bnc but kept his nick (you shouldn't have been too much lazy)
+when the rumors was started to being spread, that it was him. Anyways for you who don't know this guy, his last 2 sites got busted
+I'll not name them, but our dear friends OkbiS is also pretty famous as one of the biggest Leech seller of the mp3 scene.
+It was proved several times. But it seems people are enough dumb to still trust him. 
+
+
+
+-B- REALLY INSECURE LINK:
+
+Since you guys prolly now traced the bnc, which is also the passv ip of the site (once again pretty insecure stuff), I wanted to google
+the server host, so let's google it: http://www.google.com/search?q=%22Szervernet+Ltd%22
+
+•1• What do I obtain ?:
+AS Report- [ Translate this page ]
+43711 SZERVERNET-HU-AS Szervernet Ltd. Adjacency: 3 Upstream: 1 Downstream: 2 Upstream Adjacent AS list AS29278 DENINET-HU-AS Deninet Ltd. HU Downstream ...
+www.cidr-report.org/cgi-bin/as-report?as=AS43711 - 7k -  
+
+•2• So let's check this page (http://www.cidr-report.org/cgi-bin/as-report?as=AS43711), What do I see then ?:
+
+----------------------------------------------------------------------------------------------------------------
+Announced Prefixes
+Rank  AS       Type    Originate Addr Space  (pfx)   Transit Addr space  (pfx)  Description
+9572  AS43711        ORG+TRN Originate:       5120 /19.68  Transit:       2304 /20.83 SZERVERNET-HU-AS Szervernet Ltd.
+
+Aggregation Suggestions
+
+This report does not take into account conditions local to each origin AS in terms of policy or traffic engineering requirements, 
+so this is an approximate guideline as to aggregation possibilities.
+
+
+ Rank AS            AS Name                                      Current  Wthdw  Aggte  Annce Redctn       %
+27296 AS43711       SZERVERNET-HU-AS Szervernet Ltd.                  14      0      0     14      0   0.00%
+
+
+  Prefix               AS Path                              Aggregation Suggestion
+  79.172.192.0/24      12654 3741 8928 29278 43711   
+  79.172.194.0/23      12654 3741 8928 29278 43711   
+  79.172.197.0/24      12654 3741 8928 29278 43711   
+  79.172.201.0/24      12654 3741 8928 29278 43711   <-------- ISN'T IT THS's BNC/PASSVIP ? (!!!!) 
+  79.172.204.0/24      12654 3741 34655 29278 43711   
+  87.229.7.0/24        12654 3741 8928 29278 43711   
+  87.229.24.0/24       12654 3741 8928 29278 43711   
+  87.229.102.0/23      12654 3741 8928 29278 43711   
+  87.229.106.0/24      12654 3741 8928 29278 43711   
+  87.229.108.0/22      12654 3741 8928 29278 43711   
+  87.229.127.0/24      12654 3741 34655 29278 43711   
+  193.23.136.0/23      12654 3741 8928 29278 43711   
+  195.56.170.0/24      12654 3741 8928 29278 43711   
+  195.56.172.0/24      12654 6881 8928 29278 43711   
+
+Advertisements that are fragments of the original RIR allocation (more specifics) originated by this AS.
+
+
+AS43711   13 More Specifics   14 Total Advertisements   SZERVERNET-HU-AS Szervernet Ltd.
+    79.172.192.0/24               79.172.192.0/18
+    79.172.194.0/23               79.172.192.0/18
+    79.172.197.0/24               79.172.192.0/18
+    79.172.201.0/24               79.172.192.0/18   <-------- ISN'T IT THS's BNC/PASSVIP ? (!!!!)  
+    79.172.204.0/24               79.172.192.0/18
+    87.229.7.0/24                 87.229.0.0/17
+    87.229.24.0/24                87.229.0.0/17
+    87.229.102.0/23               87.229.0.0/17
+    87.229.106.0/24               87.229.0.0/17
+    87.229.108.0/22               87.229.0.0/17
+    87.229.127.0/24               87.229.0.0/17
+    195.56.170.0/24               195.56.0.0/16
+    195.56.172.0/24               195.56.0.0/16
+----------------------------------------------------------------------------------------------------------------
+
+•3• So anyways let's click then on the ip as it seems we can get a monitored report of it right here
+
+http://smakd.potaroo.net/cgi-bin/per-prefix?prefix=79.172.201.0%2F24
+
+----------------------------------------------------------------------------------------------------------------
+BGP Update report for Prefix: 79.172.201.0/24 (AS43711 - SZERVERNET-HU-AS Szervernet Ltd"
+
+Prefix: 79.172.201.0/24 04-04-2008 00:01 to 06-05-2008 00:01 
+  Rank: 81555 
+  BGP Updates: 38 (0.00%) 
+  Status: Announced 
+  Origin AS: 43711 
+  First Hop AS: 29278 
+  Path: 12654 3741 8928 29278 43711 
+  UpTime: 31d 12h 1m 41s 
+  WithdrawnTime: 0s 
+  Prefix Announce / Withdrawl Cycles: (+0, -0) 
+  Announce Interval:  
+  Withdrawal Interval:  
+  BGP WDL events:  
+  BGP UPD events: 38 
+  Origin Shifts: 0 
+  Next AS Shifts: 0 
+  Path Shifts: 22 
+  Path Change Interval: 1d 7h 7m 17.0s (22) 
+  Attribute Changes: 8 (0) 
+  Origins: 43711 (31d 12h 1m 41s, 1 times)  --   (AS43711: SZERVERNET-HU-AS Szervernet Ltd.) 
+  Next AS Hops: 29278 (31d 12h 1m 41s, 1 times)  --   (AS29278: DENINET-HU-AS Deninet Ltd. HU) 
+  Paths: 12654 6881 8928 29278 43711 (24d 16h 53m 7s, 8 times, avg 3d 2h 6m 38.0s)
+12654 3741 34655 29278 43711 (3d 19h 49m 28s, 4 times, avg 22h 57m 22.0s)
+12654 3741 8928 29278 43711 (2d 23h 21m 22s, 1 times, avg 2d 23h 21m 22.0s)
+4608 1221 4637 3356 8928 29278 43711 (22h 3m 50s, 1 times, avg 22h 3m 50.0s)
+12654 7018 1239 8928 29278 43711 (1h 21m 38s, 3 times, avg 27m 12.0s)
+4608 7474 7473 6453 8928 29278 43711 (28m 37s, 1 times, avg 28m 37.0s)
+4777 2516 3356 8928 29278 43711 (2m 13s, 2 times, avg 1m 6.0s)
+12654 6881 6706 8928 29278 43711 (30s, 1 times, avg 30.0s)
+12654 3333 12859 8928 29278 43711 (30s, 1 times, avg 30.0s)
+12654 4777 2516 3356 8928 29278 43711 (26s, 1 times, avg 26.0s) 
+ 
+ 
+ 
+Aggregate and More Specific Address Prefix Information 
+ 
+ 
+ 
+  79.172.201.0/24 Exact Match 
+    Current-Status: Announced 
+    First-Seen: 2100h 20 Feb 2008 UTC 
+    Last-Seen: Current 
+    Origin_AS: AS43711 -- SZERVERNET-HU-AS Szervernet Ltd. 
+    First_Hop_AS: AS29278 -- DENINET-HU-AS Deninet Ltd. HU 
+    ANNOUNCE_Flaps: 2 
+
+----------------------------------------------------------------------------------------------------------------
+
+
+So Basically a site which the ip could be find on google, which kind of monkey or donkey could run that stuff ?
+
+Prolly some pretty much insecure, I'm asking siteops of every secure link to be sure none of these donkeys we gave 
+out infos (affil(s), boxowner) not being on your site.
+
+Although this is a french section based site, I wanted to point of the come back of the biggest leech-seller of 
+our good damn scene.
+
+Peace.

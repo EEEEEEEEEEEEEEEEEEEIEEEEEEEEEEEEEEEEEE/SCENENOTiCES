@@ -1,0 +1,104 @@
+----===They got PWND!===----
+IP:       79.172.193.151 // http://whois.domaintools.com/79.172.193.151
+PORT:     9476
+REVERSE:  hu01.vps.cx
+LOCATION: .HU Webenlet / Deninet (= uplink.hu)
+SPACE:    30TB
+SPEED:    1Gbit METERED
+
+Some shit paysite again, promoted on a PUBLIC forum:
+http://www.wjunction.com/showthread.php?t=43583
+
+Interesting is that VPS.cx belongs resolves to 193.33.178.166
+and guess what 193.33.178.167 hosts?
+Right.. rules.nukenet.info (and more scene/nuknet/nukecouncil related domains) - hosted on the same server.
+--=inb4 conspiracy=--
+
+Contact on link-net:
+[01:43:52] •››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+[01:43:52] •›› Svetlana is "Svetlana"
+[01:43:52] •›› Svetlana is svetlana@LinkNet-b66db72de8.elite-dating.ru
+[01:43:52] •›› Svetlana using link-net.org, [LinkNet IRC Network]
+[01:43:52] •›› Raw: Svetlana is an SSL Encrypted Client
+[01:43:52] •››››››››››››››››››››››››››››››››› ››››› ››› ›› ›› ›› › ›
+
+Racers (taken from dir/file owners, as site cmds are blocked):
+
+svetlana
+
+casus
+
+kutje (maybe kutje on link-net?)
+[01:45:35] •›› kutje is "Smith & Wesson"
+[01:45:35] •›› kutje is force@LinkNet-314517b925.shitfaced.nu
+
+Affils (taken from dirs with glftpd as owner with matching groupnames on every dir):
+QCF (XViD / TV-XVID)
+FiCO (XViD)
+JapanX (XXX)
+
+Affill proof pics:
+http://pics.kz/s3/e7/f8/5c/e7f85ce9896c2ae9e02fa768cffe3441.png - Xvid section
+http://pics.kz/s1/10/13/79/1013791d8fb9bc7ea38e8b6c96472282.png - TV section
+
+
+Login Line:
+
+[01:55:52] [R] Connecting to 79.172.193.151 via Proxy -> IP=195.93.153.58 PORT=1337
+[01:55:52] [R] SOCKS: Connecting to 79.172.193.151:9476
+[01:55:52] [R] SOCKS: Connected to 79.172.193.151:9476
+[01:55:52] [R] Connected to 79.172.193.151 via Proxy
+[01:55:57] [R] 220 MY SITE NAME (glFTPd 2.01 Linux+TLS) ready.
+[01:55:57] [R] AUTH TLS
+[01:55:58] [R] 234 AUTH TLS successful
+[01:55:58] [R] Connected. Negotiating TLSv1 session..
+[01:55:58] [R] TLSv1 negotiation successful...
+[01:55:58] [R] TLSv1 encrypted session using cipher DHE-DSS-AES256-SHA (256 bits)
+[01:55:58] [R] PBSZ 0
+[01:55:58] [R] 200 PBSZ 0 successful
+[01:55:58] [R] USER qwerty
+[01:55:58] [R] 331 Password required for tester00.
+[01:55:58] [R] PASS (hidden)
+[01:55:58] [R] 230-                                _____
+[01:55:58] [R] 230- ______________________________|__   |____ ________________________________
+[01:55:58] [R] 230- \     _      /   _     /  _     /   |    |    _     /  _     /    _      /
+[01:55:58] [R] 230-  \    \     /    /    /   /____/.   |    |    /    /   /____/.    /_____/
+[01:55:58] [R] 230-   \________/____/    /______    |___|____|___/    /______    |____|
+[01:55:58] [R] 230- .-=----------- /____/ ---- |____| --------- /____/ ---- |____| -------=-. 
+[01:55:59] [R] 230- `-=-------------------------------------------------------------------=-'
+[01:55:59] [R] 230-       `-----( Type 'site onel MESSAGE' to enter your message )-----'
+[01:55:59] [R] 230 User qwerty logged in.
+[01:55:59] [R] SYST
+[01:55:59] [R] 215 UNIX Type: L8
+[01:55:59] [R] FEAT
+[01:55:59] [R] 211- Extensions supported:
+[01:55:59] [R]  AUTH TLS
+[01:55:59] [R]  AUTH SSL
+[01:55:59] [R]  PBSZ
+[01:55:59] [R]  PROT
+[01:55:59] [R]  CPSV
+[01:55:59] [R]  SSCN
+[01:55:59] [R]  MDTM
+[01:55:59] [R]  SIZE
+[01:55:59] [R]  REST STREAM
+[01:55:59] [R]  SYST
+[01:55:59] [R] 211 END
+[01:55:59] [R] CWD /
+[01:55:59] [R] 250- --NEWS--
+[01:55:59] [R] 250- 
+[01:55:59] [R] 250- New Feature:  Login with (!)Username to kill ghost connections.
+[01:55:59] [R] 250-                 
+[01:55:59] [R] 250- --=- Type SITE HELP for a nice list of SITE commands -=--
+[01:55:59] [R] 250-                 
+[01:56:00] [R] 250 CWD command successful.
+[01:56:00] [R] PWD
+[01:56:00] [R] 257 "/" is current directory.
+
+Some screenshots:
+http://pics.kz/s4/eb/bd/b6/ebbdb61c5f3eef56cafb4d9f7e9dfa01.png
+http://pics.kz/s3/33/01/78/330178b556d8bd11fbc922faac4a49ca.png
+http://pics.kz/s5/98/a2/a7/98a2a725205113e1df8be8fdf1860ff1.png
+
+
+contact team PWND:
+Anonymous @ 4Chan.org/b/

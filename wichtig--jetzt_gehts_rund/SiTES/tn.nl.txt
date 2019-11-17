@@ -1,0 +1,130 @@
+[L] site aldn 10000
+[L] 200- 
+[L] 200-        /\______[DOWNLOAD_ALLTIMETOP]_____________________/\_______
+[L] 200-       /  _   //    /    /_____    //___ /_   __        //  __    //
+[L] 200-     _/  /    /    /    /   /      /      /     /   /   /   /____/
+[L] 200-     \\______/    /    /__________/______/_____/   /   /_______/
+[L] 200- +-------- /____/_____\\ -------------------- /________\\ -----------------+
+[L] 200-  GENERAL   /--------------------------------------------------------// Terok-Nor
+[L] 200- +--------//
+[L] 200- 
+[L] 200-  showing..: user download alltimetop
+[L] 200-  time.....: day 79 of year 2005
+[L] 200-  totals...: 108 users from 21 groups (36596.98G in 1750817F at 350k/s)
+[L] 200- 
+[L] 200-  USERS     /--------------------------------------------------------------+
+[L] 200- +--------//      Group    Tagline                 Amount     Speed    %
+[L] 200- 
+[R] 200-    001 StatS     NoGroup  No TagLine Set        4194304.0   179k/s  11.4  
+[R] 200-    002 Skyforce  FoA      Guess Whoos Back      3135648.3   559k/s   8.5  
+[R] 200-    003 Wraith    GOOGLE   No Tagline Set        1386920.6   366k/s   3.8  
+[R] 200-    004 Llamavis  FoA      Red shirt ensign      1365658.6   491k/s   3.7  
+[R] 200-    005 matrixx   GwT      ---===GwT===---       1205813.7   463k/s   3.3  
+[R] 200-    006 topcat    BADBOYS  Red shirt ensign      1180497.0   208k/s   3.2  
+[R] 200-    007 leuker    GOOGLE   Red shirt ensign      1145898.9   439k/s   3.1  
+[R] 200-    008 Paultje66 FoA      Red shirt ensign      965228.0M   304k/s   2.6  
+[R] 200-    009 inge      GOOGLE   Red shirt ensign      951495.4M   657k/s   2.6  
+[R] 200-    010 kontkomme BADBOYS  Red shirt ensign      892604.9M   513k/s   2.4  
+[R] 200-    011 vuurkabou iND      aka waterreus         694731.3M   829k/s   1.9  
+[R] 200-    012 edwin     nukers   mget *.mp3            691976.5M   325k/s   1.9  
+[R] 200-    013 manneke   GOOGLE   Red shirt ensign      670763.7M   547k/s   1.8  
+[R] 200-    014 mofo      siteops  No Tagline Set        653784.7M   417k/s   1.8  
+[R] 200-    015 J-man     iND      [*iND Trade squad*]   612521.5M   563k/s   1.7  
+[R] 200-    016 VampireTi SD-6     Red shirt ensign      610849.6M   187k/s   1.7  
+[R] 200-    017 leonardo  FoA      kijkt en huivert..    577882.8M   545k/s   1.6  
+[R] 200-    018 mechone   SD-6     Red shirt ensign      563562.5M   372k/s   1.5  
+[R] 200-    019 redfox    siteops  Life is a sexualy tra 562081.7M   145k/s   1.5  
+[R] 200-    020 LioNHeaRT KiNGS    vacation from 2 may t 555663.7M   673k/s   1.5  
+[R] 200-    021 CooS      WpD      Red shirt ensign      540357.6M   442k/s   1.5  
+[R] 200-    022 vidz      BADBOYS  Red shirt ensign      526720.6M    84k/s   1.4  
+[R] 200-    023 pwise     iND      Red shirt ensign      492694.7M   770k/s   1.3  
+[R] 200-    024 sorcerer  AMNiSO   Total 0wnage          478387.4M   612k/s   1.3  
+[R] 200-    025 YRZ       eNRAGE   Red shirt ensign      474697.3M  1379k/s   1.3  
+[R] 200-    026 magicrt   iND      Put your toys away... 444096.4M   771k/s   1.2  
+[R] 200-    027 dynamike  nukers   Simsala-Boterhammen m 439829.1M    41k/s   1.2  
+[R] 200-    028 theloosa  iND      ... ... ... ...       433333.8M  1423k/s   1.2  
+[R] 200-    029 azzkickr  KiNGS    Kick Ass L(           405568.8M   718k/s   1.1  
+[R] 200-    030 solz      BADBOYS  Red shirt ensign      394169.2M  1003k/s   1.1  
+[R] 200-    031 darkside  BADBOYS  Red shirt ensign      391921.5M   294k/s   1.1  
+[R] 200-    032 ikkes     KiNGS    Red shirt ensign      390246.6M   680k/s   1.1  
+[R] 200-    033 waxie     nukers   If it hurts, that mea 372223.6M   263k/s   1.0  
+[R] 200-    034 XENTiC    qX       look mom i can still  340588.8M   498k/s   0.9  
+[R] 200-    035 BoSe      DPiMP    Red shirt ensign      335447.0M   155k/s   0.9  
+[R] 200-    036 CrazyL    DPiMP    Red shirt ensign      320209.8M   306k/s   0.9  
+[R] 200-    037 cubix     iND      Look a mkdir          316719.4M   414k/s   0.9  
+[R] 200-    038 raz0r     iND      mkdir not war         315084.1M  1120k/s   0.9  
+[R] 200-    039 SiCk      eNRAGE   eNRAGE                310557.0M  1272k/s   0.8  
+[R] 200-    040 crusher   FoA      Red shirt ensign      297601.0M   134k/s   0.8  
+[R] 200-    041 big       pHASE    same reason           277024.8M  2035k/s   0.8  
+[R] 200-    042 Doopy     qX       how nice, no site ful 263757.5M   701k/s   0.7  
+[R] 200-    043 bocca     qX       No Fagline Set        254993.5M  1241k/s   0.7  
+[R] 200-    044 colt45    DPiMP    Red shirt ensign      249711.1M   217k/s   0.7  
+[R] 200-    045 teq       SD-6     Red shirt ensign      244001.0M   211k/s   0.7  
+[R] 200-    046 wookie    iND      MOoOoOo               234843.8M  1551k/s   0.6  
+[R] 200-    047 Pur3      WpD      sick my duck          226398.2M   809k/s   0.6  
+[R] 200-    048 g-sus     GOOGLE   is my homeboy         225068.0M  1102k/s   0.6  
+[R] 200-    049 kire      iND      Red shirt ensign      210364.3M  1417k/s   0.6  
+[R] 200-    050 flipmo    eNRAGE   Red shirt ensign      205365.8M   821k/s   0.6  
+[R] 200-    051 lerkster  ANCiENT  All your creds are be 201183.5M   502k/s   0.5  
+[R] 200-    052 paindoo   ANCiENT  on dialup.. it sucks  193526.4M   825k/s   0.5  
+[R] 200-    053 s3th      BADBOYS  Red shirt ensign      183426.7M   336k/s   0.5  
+[R] 200-    054 limit     ANCiENT  Back                  181579.9M   435k/s   0.5  
+[R] 200-    055 Thugst3r  eNRAGE   please die :~         181273.4M   913k/s   0.5  
+[R] 200-    056 Cha       iND      \002\003HIRE ME\002\0 180361.2M   698k/s   0.5  
+[R] 200-    057 bface     iND      moederneukendekipkach 167770.3M  1281k/s   0.5  
+[R] 200-    058 AKruZer   BADBOYS  WaChaGuNNaDo?         159044.5M   128k/s   0.4  
+[R] 200-    059 grandmstr DPiMP    Red shirt ensign      158582.1M   409k/s   0.4  
+[R] 200-    060 Vitamin-Z KiNGS    Just A Vitamin        157072.4M  1448k/s   0.4  
+[R] 200-    061 rog       iND      blaat                 132253.2M   825k/s   0.4  
+[R] 200-    062 RDJ134    iND      Het is die leipe hopj 119119.5M   246k/s   0.3  
+[R] 200-    063 GuRtH     DPiMP    Red shirt ensign      118208.6M   501k/s   0.3  
+[R] 200-    064 HawgSmack SD-6     Red shirt ensign       99867.4M   277k/s   0.3  
+[R] 200-    065 turtle    DPiMP    Red shirt ensign       93236.8M   163k/s   0.3  
+[R] 200-    066 Trilogy   FoA      Red shirt ensign       87737.8M   548k/s   0.2  
+[R] 200-    067 TeKnO     GOOGLE   Red shirt ensign       86680.8M   915k/s   0.2  
+[R] 200-    068 Kehpri    PCD      eNRAGE                 84575.6M   409k/s   0.2  
+[R] 200-    069 badness   BamVCD   No Tagline Set         81581.3M   339k/s   0.2  
+[R] 200-  ->070 sienny    iND      EPiDEMiC               70805.2M  1462k/s   0.2<-
+[R] 200-    071 GMith     eNRAGE   jaded                  69934.6M   749k/s   0.2  
+[R] 200-    072 velvet    SD-6     Red shirt ensign       67659.6M  2218k/s   0.2  
+[R] 200-    073 ARE-T     iND      Tag ME                 67010.7M   502k/s   0.2  
+[R] 200-    074 daffy     iND      CreditWhores Inc.      58343.3M   886k/s   0.2  
+[R] 200-    075 MrBorG    eNRAGE   Red shirt ensign       58327.0M   574k/s   0.2  
+[R] 200-    076 drknite   BamVCD   Red shirt ensign       55676.2M   412k/s   0.2  
+[R] 200-    077 raspi2    BamVCD   bamras                 51859.4M   463k/s   0.1  
+[R] 200-    078 yosh      SD-6     Red shirt ensign       49691.3M   595k/s   0.1  
+[R] 200-    079 fnz       qX       me fnz be              48872.5M  1339k/s   0.1  
+[R] 200-    080 mkrm      eNRAGE   EGARNe                 46567.3M   371k/s   0.1  
+[R] 200-    081 mg        SD-6     . . .                  44411.6M  2310k/s   0.1  
+[R] 200-    082 jokerjr   DPiMP    Red shirt ensign       40573.2M   233k/s   0.1  
+[R] 200-    083 cf        iND      DALNET FXPSQUAD        39863.4M   817k/s   0.1  
+[R] 200-    084 t0r       iND      -=[EDC]=-              37317.2M  1130k/s   0.1  
+[R] 200-    085 SiVE      GwT      My finger is on the b  33620.8M   106k/s   0.1  
+[R] 200-    086 MrP1nk    GOOGLE   Red shirt ensign       33256.7M   421k/s   0.1  
+[R] 200-    087 CorRuPt0r qX       Quirex                 25092.5M  1870k/s   0.1  
+[R] 200-    088 PhalanX   ANCiENT  SecToNone              24697.5M  1388k/s   0.1  
+[R] 200-    089 hedkase   BamVCD   Bam Fu                 21804.4M   235k/s   0.1  
+[R] 200-    090 mantacore SD-6     Red shirt ensign       20760.4M   222k/s   0.1  
+[R] 200-    091 FdaF      qX       Quirex                 19787.1M  1007k/s   0.1  
+[R] 200-    092 roadrunne SD-6     Red shirt ensign       19207.5M   251k/s   0.1  
+[R] 200-    093 hellmaste qX       gaan met die banaan    19139.3M  1879k/s   0.1  
+[R] 200-    094 ZiLLioN   GOOGLE   would you like fries   17657.3M   533k/s   0.0  
+[R] 200-    095 sparky    BamVCD   Red shirt ensign       11903.6M   182k/s   0.0  
+[R] 200-    096 Digital10 SD-6     Red shirt ensign        9807.8M    23k/s   0.0  
+[R] 200-    097 many      SD-6     Red shirt ensign        9552.2M   315k/s   0.0  
+[R] 200-    098 ahmuma    BamVCD   Red shirt ensign        8804.6M   921k/s   0.0  
+[R] 200-    099 electus   ANCiENT  Red shirt ensign        3288.0M  1930k/s   0.0  
+[R] 200-    100 sfx       GOOGLE   Red shirt ensign        1559.8M   951k/s   0.0  
+[R] 200-    101 Flash-X   FoA      Red shirt ensign        1107.4M   148k/s   0.0  
+[R] 200-    102 jonz      SD-6     Red shirt ensign            <1M    20k/s   0.0  
+[R] 200-    103 lineman   SD-6     Red shirt ensign            <1M     3k/s   0.0  
+[R] 200- 
+[R] 200- +-------------------------------------------------------------\\ © TN 2003 
+[R] 200-  (UStats v3.1 - site (daydn|...|alup) help for options)         \---------+
+[R] 230-                  ?    tn.kicks-ass.net :8472 - .NL     ?
+[R] 230-                  ?    tn2.kicks-ass.net:8472 - .NL     ?
+[R] 230-                  ?    tn3.kicks-ass.net:8472 - .NL     ?
+[R] 230-                  ?    tn4.kicks-ass.net:8472 - .NL     ?
+
+LioNHeaRT:Leeuwtje
+Vitamin-Z:vitamientje

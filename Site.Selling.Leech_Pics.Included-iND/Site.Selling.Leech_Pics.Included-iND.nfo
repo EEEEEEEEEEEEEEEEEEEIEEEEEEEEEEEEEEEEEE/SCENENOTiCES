@@ -1,0 +1,112 @@
+Site selling leech, site selling leech. 
+
+Sigh, I wonder when the fuck people will learn. At least if 
+you're going to get into the shitty business make sure you get/have 
+a fucking brain. The following site which I will bring up is run 
+by a few Spanish siteOPs with basiclly no English skills at all, 
+reading through their site rules is an adventure on its own...
+
+First of all you will all wonder how I can say that they sell leech, 
+where is my proof? Well that, my friends is what I will show you, 
+but let us start from the top....
+
+It was one day just like all other, it was all about fast uploads 
+and slow downloads. That's when a few of the site's users began 
+wondering why it was so slow, upload speed was several MB/s in 
+total while download speed never even exceeded 1MB/s no matter 
+how many users that leeched. Hmm, better look up where the site's 
+hosted....
+
+Interesting, the site must at least be 100/100Mbit, how come 
+it's so slow?
+
+Let's see what 'site who' shows (fig1.jpg).... Hmm, that's strange 
+it says 53 users are online although we only see 24, maybe there are 
+some hidden users?
+
+Let's see what 'site groups' shows (fig2.jpg).... Wow, that's 
+pretty many groups (I won't list affils and such), notice there 
+are 71 in 'Friends'.
+
+But maybe these 'Friends' race? Well let's see, 'site grpwkup' gives us 
+the answer (fig3.jpg), again I removed affils and such. Nope not in the 
+top10, maybe they're just slacking a bit after, let's try 'site 
+grpalup 100' (fig4.jpg), again I removed affils and such. Nope, they're 
+not there either, so what do we have, a group that hasn't 
+uploaded a single byte.
+
+Now, if they don't upload maybe they don't leech either, let's see what 
+that brings us. 'site grpwkdn' (fig5.jpg). Wow, 595 GB, and not a single 
+byte uploaded, now that's interesting, no wonder the downstream speed of 
+the site was so slow.
+
+So, let's see what we have... A site with 71 hidden users that do nothing 
+but leech, at the same time the siteOPs are trying to act like they not 
+knowing why they've such a slow speed. That leaves us with four likely 
+situations: 
+
+1) The site was hacked (unlikely) 
+2) They have really many friends (not too likely either) 
+3) Dumping into a p2p network (fuck you) 
+4) Selling leech (most likely). 
+
+- If you could win money by guessing the right answer I would put all my money 
+on alternative 4), what you put yours on is up to you. Note that these guys have 
+done this for a very long time, they know what this is all about and they're 
+not going to stop unless we do something about it.
+
+Now, time for some info....
+Site: #TOS on Linknet
+
+
+SiteOPs (Spanish, don't try and talk advanced English with them, 
+their English skills are equal to a 7-years-old):
+
+
+We90 is ~we90@LinkNet-5cc91c93db.tie.cl * We90
+We90 using link-net.org LinkNet IRC Network
+We90 is an SSL Encrypted Client
+we90 End of /WHOIS list.
+
+
+polms was plms@LinkNet-5e7209e0c3.terra.cl * polms
+polms using link-net.org Fri Jun  3 11:23:39 2005
+-
+polms was plms@230-93-246-201.adsl.terra.cl * polms
+polms using link-net.org Fri Jun  3 01:54:11 2005
+
+
+FRANCHUTE was franchu@201.246.256.256 * Simito
+FRANCHUTE using link-net.org Fri Jun  3 20:52:57 2005
+
+
+GOA20 is gyzmo@62.57.6.193 * notengo
+GOA20 using link-net.org LinkNet IRC Network
+GOA20 is an SSL Encrypted Client
+goa20 End of /WHOIS list.
+
+
+xp4me is xp4me@ool-18bf6660.dyn.optonline.net * xp
+xp4me using link-net.org LinkNet IRC Network
+xp4me is an SSL Encrypted Client
+xp4me End of /WHOIS list. 
+
+(From what I understand he's the only who can talk proper English)
+
+
+Well seeing how these guys don't worry about BW either I see no problem 
+with sharing their IP, I mean if they can have a dedicated group leeching 
+2-3 TB/month why would they care, right? So, here are the magical numbers...
+
+BNC: 193.43.234.7
+
+
+So the old pay2leech is still alive. I would urge affils and curries to stop supporting
+a site which obviously sells slots to keep their site up (or maybe even for profit!). 
+The security risks involved are enormous, not to mention that if more sites get away with
+this sort of behaviour, the FEDS will eventually win...
+
+Do with this info what you want, ignore it if you want to, just don't say you weren't 
+warned.
+
+/The anti-leech-selling-group of TOS supported by some from above...

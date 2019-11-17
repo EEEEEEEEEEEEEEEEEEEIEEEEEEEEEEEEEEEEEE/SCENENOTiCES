@@ -1,0 +1,347 @@
+[09/02/2010 17:58:54] geddylee_del_peru: im Geddy :D
+[09/02/2010 17:59:04] Andrew Beveridge: Andrew Beveridge has shared contact details with Geddy Lee.
+[09/02/2010 18:20:01] *** Call from Geddy Lee, duration 20:38. ***
+[09/02/2010 18:22:07] Andrew Beveridge: http://filesharefreak.com/2010/02/08/btn-launches-an-innovation-among-tv-trackers/
+[09/02/2010 18:33:57] Andrew Beveridge: http://tbdev.andrewbeveridge.co.uk/TBDEV/
+[09/02/2010 18:36:35] Andrew Beveridge: http://andrewbeveridge.co.uk/CV.pdf
+[09/02/2010 18:37:17] Geddy Lee: photo
+[09/02/2010 18:37:45] Andrew Beveridge: http://adb.dontexist.com/withhair.jpg
+[09/02/2010 18:40:40] *** Call ended ***
+[10/02/2010 05:29:25] Geddy Lee: mendez816@gmail.com
+[10/02/2010 05:29:36] Geddy Lee: please my friend can you send one invite to one great friend
+[10/02/2010 17:05:41] *** Andrew Beveridge blocked Geddy Lee ***
+[11/02/2010 01:43:47] Andrew Beveridge: hello again, sorry about that, was a bit more than ten minutes ;)
+[11/02/2010 01:44:45] Geddy Lee: no problem
+[11/02/2010 01:44:47] Geddy Lee: :)
+Geddy Lee
+[11/02/2010 01:45:39] Andrew Beveridge: cool
+[11/02/2010 01:45:47] Andrew Beveridge: currently eatign a big plate of macaroni
+[11/02/2010 01:46:06] Andrew Beveridge: i'll take a look at that file and edit it to check logs, if it's the right file
+[11/02/2010 01:46:07] Geddy Lee: mmmmmmmmmmmm
+[11/02/2010 01:46:12] Geddy Lee: omg !!
+[11/02/2010 01:46:18] Geddy Lee: (pi)
+[11/02/2010 01:46:30] Geddy Lee: great
+[11/02/2010 01:46:33] Geddy Lee: thanks so much
+[11/02/2010 01:53:42] Andrew Beveridge: hmmm, no, the form submission obviously isn't taken by that file =/
+[11/02/2010 01:53:49] Andrew Beveridge: it's takeupload.php
+Geddy Lee
+[11/02/2010 02:15:44] Andrew Beveridge: okies i've done the basics, but is there any chance you could send me a log or two which shouldn't be allowed?
+[11/02/2010 02:15:58] Andrew Beveridge: i have no CDs on hand to test with and all my logs are "perfect" ;)
+[11/02/2010 02:16:10] Geddy Lee: yes
+[11/02/2010 02:16:12] Geddy Lee: i can send you
+[11/02/2010 02:16:16] Geddy Lee: right now
+[11/02/2010 02:16:17] Geddy Lee: :D
+[11/02/2010 02:16:19] Geddy Lee: one sec
+[11/02/2010 02:16:30] Andrew Beveridge: cool
+[11/02/2010 02:18:44] Andrew Beveridge: also, i may have to work on it tomorrow instead, it's getting a bit late, i had planned to do this much earlier in the day =/
+Geddy Lee
+[11/02/2010 02:18:53] Andrew Beveridge: ok great ^^
+[11/02/2010 02:23:13] Andrew Beveridge: okies, so anything which doesn't say "No errors occurred" or has the string "Cannot be verified as accurate" should be rejected
+[11/02/2010 02:23:25] Geddy Lee: yes
+[11/02/2010 02:23:48] Andrew Beveridge: also, has to have exactly "Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No"
+[11/02/2010 02:24:17] Geddy Lee: ok
+[11/02/2010 02:24:20] Geddy Lee: :)
+[11/02/2010 02:24:27] Geddy Lee: you can check here my friend
+[11/02/2010 02:24:45] Geddy Lee: http://eachelper.okamihost.com/php/Analyzehtml.php
+[11/02/2010 02:24:55] Geddy Lee: copy and paste the log there
+[11/02/2010 02:24:59] Geddy Lee: and press analyze
+[11/02/2010 02:25:07] Geddy Lee: :)
+[11/02/2010 02:25:28] Andrew Beveridge: oh sweet, that is doing exactly what i need, great
+[11/02/2010 02:25:58] Geddy Lee: ;)
+[11/02/2010 02:26:33] Andrew Beveridge: hmm
+[11/02/2010 02:26:40] Andrew Beveridge: that page says the one you sent me is 100%
+[11/02/2010 02:27:01] Andrew Beveridge: but it fails the accuraterip check since every track has a different accuraterip CRC
+[11/02/2010 02:27:12] Geddy Lee: yes
+[11/02/2010 02:27:38] Andrew Beveridge: so, do you regard that as an acceptable rip or not?
+[11/02/2010 02:28:04] Andrew Beveridge: i mean, no errors occurred in the T+C etc, it's just got a different copy in the accuraterip database
+[11/02/2010 02:29:03] Geddy Lee: well that link is great
+[11/02/2010 02:29:42] Andrew Beveridge: ok, so you trust that link. so the one you sent me is a 100% rip log ;) got any logs which have errors? :)
+[11/02/2010 02:30:17] Geddy Lee: yes i think
+[11/02/2010 02:30:19] Geddy Lee: :)
+[11/02/2010 02:31:40] Andrew Beveridge: okies, well if you could send me one or two which should be rejected by the upload form (that is, they aren't 100% rips), i'll work on this in the morning, i've gotta get to sleep right now, sorry. usually i'd be up all night but it's 2:30am and i have to be up at 9 =/
+[11/02/2010 02:32:04] Geddy Lee: ok my friend
+[11/02/2010 02:32:14] Geddy Lee: sweet dreams , thanks so much for your help :D
+[11/02/2010 02:32:16] Geddy Lee: :)
+[11/02/2010 02:32:24] Andrew Beveridge: no problem, always happy to help :)
+[11/02/2010 02:32:28] Geddy Lee: :)
+[11/02/2010 02:32:36] Andrew Beveridge: i'll leave skype on away if there's anything else you want to add
+[11/02/2010 02:32:39] Andrew Beveridge: noght
+[11/02/2010 02:32:42] Andrew Beveridge: *night
+[11/02/2010 02:32:51] Geddy Lee: gn :D
+[11/02/2010 02:32:53] Geddy Lee: :)
+[11/02/2010 23:05:18] Andrew Beveridge: hey
+[11/02/2010 23:05:21] Andrew Beveridge: you around?
+[11/02/2010 23:34:36] Geddy Lee: yes im here ofr a little
+[11/02/2010 23:34:39] Geddy Lee: :)
+[11/02/2010 23:37:54] Andrew Beveridge: okies, i implemented a few basic checks, here's the file:
+Andrew Beveridge
+[11/02/2010 23:38:27] Andrew Beveridge: i'm not sure if N-M is still going to exist, but it wasn't much work anyways so it's no big deal if it isn't used :)
+[11/02/2010 23:38:37] Andrew Beveridge: what's the deal with all the staff dropping like flies?
+[11/02/2010 23:45:00] Geddy Lee: thanks so much
+[11/02/2010 23:46:40] Geddy Lee: yes we ll continue
+[11/02/2010 23:50:37] Andrew Beveridge: okies :) what was the problem? just personality clashes, or what?
+[11/02/2010 23:51:08] Geddy Lee: well , we need more uploaders and i need more time
+[11/02/2010 23:51:17] Geddy Lee: i have a lot of things to do in my real life :D
+[11/02/2010 23:51:19] Geddy Lee: :)
+[11/02/2010 23:51:44] Andrew Beveridge: ah okies
+[11/02/2010 23:52:20] Andrew Beveridge: well if i can help, i will ;)
+[11/02/2010 23:52:26] Geddy Lee: thanks so much
+[11/02/2010 23:52:30] Geddy Lee: i have some problem
+[11/02/2010 23:52:37] Geddy Lee: i test the takeupload ..
+[11/02/2010 23:52:48] Geddy Lee: when i upload some  , i have  this message
+[11/02/2010 23:53:03] Geddy Lee: Error
+Log perfect! yay!
+[11/02/2010 23:53:09] Andrew Beveridge: it is untested since i haven't got the same tbdev source as you to test on ^_^
+[11/02/2010 23:53:10] Andrew Beveridge: oh
+[11/02/2010 23:53:11] Andrew Beveridge: oops
+[11/02/2010 23:53:12] Andrew Beveridge: haha
+[11/02/2010 23:53:13] Andrew Beveridge: my bad
+[11/02/2010 23:53:26] Geddy Lee: no problem
+[11/02/2010 23:53:34] Geddy Lee: i need the new one
+[11/02/2010 23:53:35] Geddy Lee: :)
+Andrew Beveridge
+[11/02/2010 23:53:38] Andrew Beveridge: fixed
+[11/02/2010 23:55:11] Geddy Lee: ok ,test now :D
+[11/02/2010 23:55:26] Geddy Lee: hey andrew you have acces to data base on BTN
+[11/02/2010 23:55:33] Andrew Beveridge: yeah
+[11/02/2010 23:55:42] Geddy Lee: great
+[11/02/2010 23:55:54] Geddy Lee: if i continue here on NM , you can be my ofiicial coder ?
+[11/02/2010 23:56:02] Andrew Beveridge: well see
+[11/02/2010 23:56:05] Andrew Beveridge: i'd like to be
+[11/02/2010 23:56:16] Andrew Beveridge: but a) i don't have much time =/ (real life work)
+[11/02/2010 23:56:42] Andrew Beveridge: and b) if i was, i'd probably have to keep it a secret - it seems a lot of other tracker staff don't like you =(
+[11/02/2010 23:57:22] Geddy Lee: why ?
+[11/02/2010 23:58:34] Andrew Beveridge: not really sure, i've just heard quite a bit of negative comments about you. I don't want to get into inter-tracker politics/social relations, and i've not seen any bad side to you, so i'd be happy to help you out and code for you in spare time, but i'd use a different nick and keep it quiet :)
+[11/02/2010 23:59:06] Geddy Lee: i can change my username :) thats easy and we can change the theme and change all :)
+[11/02/2010 23:59:23] Geddy Lee: migrated to the new tdvet version , etc :)
+[11/02/2010 23:59:43] Andrew Beveridge: hmmm, sure, it would be interesting to work on
+[12/02/2010 00:00:12] Geddy Lee: great
+[12/02/2010 00:01:07] Geddy Lee: what staff talk bad about me ?
+[12/02/2010 00:01:23] Andrew Beveridge: i don't really want to name names tbh, i'd rather stay out of it :)
+[12/02/2010 00:01:37] Geddy Lee: ok ok
+[12/02/2010 00:02:09] Andrew Beveridge: suffice to say i assume some of the staff who have left N-M in the last week haven't been too happy =o
+[12/02/2010 00:02:21] Geddy Lee: yeah
+[12/02/2010 00:02:27] Geddy Lee: well , thats a problem ,
+[12/02/2010 00:02:48] Geddy Lee: ok we can start again :)
+[12/02/2010 00:02:51] Geddy Lee: what you said
+[12/02/2010 00:02:53] Geddy Lee: ?
+[12/02/2010 00:02:54] Geddy Lee: xD
+[12/02/2010 00:03:08] Andrew Beveridge: huh?
+[12/02/2010 00:03:14] Andrew Beveridge: Andrew Beveridge no understand ;)
+[12/02/2010 00:03:18] Geddy Lee: i mean
+[12/02/2010 00:03:34] Geddy Lee: start to repair NM and continue with the tracker
+[12/02/2010 00:03:35] Geddy Lee: :)
+[12/02/2010 00:04:01] Geddy Lee: continue with NM :)
+[12/02/2010 00:06:07] Geddy Lee: ?
+[12/02/2010 00:06:15] Geddy Lee: (sun)
+[12/02/2010 00:06:33] Andrew Beveridge: sure, i mean it's functional right now, so we could work on the TBDEV09 codebase and try and get it to a similar-but-updated stage
+[12/02/2010 00:07:00] Andrew Beveridge: trouble is that's probably gonna be quite a lot of work and I don't have much time to spare =/
+[12/02/2010 00:08:05] Geddy Lee: omg
+[12/02/2010 00:08:32] Andrew Beveridge: what's up?
+[12/02/2010 00:09:08] Geddy Lee: no no
+[12/02/2010 00:09:16] Geddy Lee: just see you dont have time :)
+[12/02/2010 00:15:00] Geddy Lee: andreq
+[12/02/2010 00:15:04] Geddy Lee: andrew
+[12/02/2010 00:15:05] Andrew Beveridge: yep?
+[12/02/2010 00:15:11] Geddy Lee: i ll back in some minutes my friend
+[12/02/2010 00:15:15] Geddy Lee: need buy some to eat
+[12/02/2010 00:15:17] Geddy Lee: :)
+[12/02/2010 00:15:21] Andrew Beveridge: okies
+[12/02/2010 01:59:36] Geddy Lee: im back
+[12/02/2010 01:59:37] Geddy Lee: :)
+[12/02/2010 01:59:53] Andrew Beveridge: cool
+[12/02/2010 01:59:59] Andrew Beveridge: what happened to the torrents on NM? :S
+[12/02/2010 02:00:19] Geddy Lee: one idiot deleted all , but dont worry i have all torrents back up
+[12/02/2010 02:00:36] Andrew Beveridge: ah, wow. malicious ex-staff?
+[12/02/2010 02:00:39] Geddy Lee: yesterday i back up all
+[12/02/2010 02:00:42] Geddy Lee: yes
+[12/02/2010 02:00:45] Geddy Lee: one idiot
+[12/02/2010 02:00:46] Andrew Beveridge: =(
+[12/02/2010 02:00:46] Geddy Lee: more
+[12/02/2010 02:00:49] Andrew Beveridge: but yeah, good :)
+[12/02/2010 02:00:56] Geddy Lee: andrew
+[12/02/2010 02:00:58] Andrew Beveridge: yup
+[12/02/2010 02:01:12] Geddy Lee: is posible make a new NM with BTN style ?
+[12/02/2010 02:01:30] Andrew Beveridge: well, not sure what you mean by style
+[12/02/2010 02:01:35] Andrew Beveridge: i mean, it runs gazelle
+[12/02/2010 02:01:45] Andrew Beveridge: which obviously is totally different to TBDev in every way
+[12/02/2010 02:01:51] Geddy Lee: gazelle is better than tddev
+[12/02/2010 02:01:58] Andrew Beveridge: in my opinion, yeah
+[12/02/2010 02:02:07] Andrew Beveridge: but there are mixed opinions throughout the tracker world
+[12/02/2010 02:02:39] Geddy Lee: for music ?
+[12/02/2010 02:03:13] Andrew Beveridge: well, it was created by what.cd
+[12/02/2010 02:03:24] Andrew Beveridge: so obviously it is primarily suited to music
+[12/02/2010 02:03:29] Geddy Lee: great
+[12/02/2010 02:03:30] Andrew Beveridge: but it's been adapted for everything
+[12/02/2010 02:03:39] Geddy Lee: great
+[12/02/2010 02:03:41] Geddy Lee: great
+[12/02/2010 02:03:47] Geddy Lee: can we change NM to gazelle
+[12/02/2010 02:03:50] Geddy Lee: i love BTN
+[12/02/2010 02:04:26] Andrew Beveridge: yeah, i mean it will never be as simple as "changing" just like that, the whole thing will need to be re-done, but it's certainly possible
+[12/02/2010 02:04:39] Geddy Lee: greattttttttt
+[12/02/2010 02:04:47] Geddy Lee: you are the man !!
+[12/02/2010 02:05:32] Geddy Lee: i can offer some part of the donations for you :) i know is a lot of hard work
+[12/02/2010 02:07:27] Andrew Beveridge: to be honest, while that would be awesome, i have clients already in real life i need to prioritise =/ once i'm done with work tomorrow i'll take a look into starting a new gazelle music tracker, which is essentially what we'll be doing, there won't be any way to port the current NM userbase/torrents to the new gazelle tracker
+[12/02/2010 02:08:29] Geddy Lee: no more NEED music
+[12/02/2010 02:08:30] Geddy Lee: we can created
+[12/02/2010 02:08:34] Geddy Lee: Oink
+[12/02/2010 02:08:38] Geddy Lee: ;)
+[12/02/2010 02:08:51] Andrew Beveridge: haha full of ambition aren't you :)
+[12/02/2010 02:09:03] Geddy Lee: yeah but is a great
+[12/02/2010 02:09:07] Geddy Lee: and good idea
+[12/02/2010 02:09:09] Geddy Lee: what you think ?
+[12/02/2010 02:09:57] Andrew Beveridge: yeah, i mean to be perfectly honest with you i think there are plenty of music trackers already haha, but, i guess there's always room for one more, and if done right it could be the best
+[12/02/2010 02:10:20] Geddy Lee: see my tracker
+[12/02/2010 02:10:26] Geddy Lee: 6 weeks
+[12/02/2010 02:10:35] Geddy Lee: more than 850 Cds
+[12/02/2010 02:10:45] Geddy Lee: all are in HIGH quality
+[12/02/2010 02:10:52] Andrew Beveridge: yeah, pretty impressive
+[12/02/2010 02:10:57] Geddy Lee: CD-retails only ,EAC 100% log , etc
+[12/02/2010 02:11:04] Geddy Lee: i know this , andrew
+[12/02/2010 02:11:07] Geddy Lee: im a good manager
+[12/02/2010 02:11:09] Geddy Lee: just
+[12/02/2010 02:11:29] Geddy Lee: this is NM , but we can make another GREAT TRACKER
+[12/02/2010 02:12:33] Andrew Beveridge: sounds like a good plan, just, don't know if i'll be able to put in the amount of work it would require if it was me alone coding it
+[12/02/2010 02:12:54] Geddy Lee: just for tell you , NM i have 1670 $ on donations
+[12/02/2010 02:13:05] Geddy Lee: just with this users and 6 weeks
+[12/02/2010 02:13:08] Geddy Lee: :)
+[12/02/2010 02:13:33] Geddy Lee: this works, in two ways
+[12/02/2010 02:13:51] Geddy Lee: tracker , and , other ways to make money , with seedboxes , hosting, etc
+[12/02/2010 02:13:54] Geddy Lee: is a great
+[12/02/2010 02:14:33] Andrew Beveridge: yeah, except, how many of the people who donated now feel pissed off because the tracker they donated to has fallen apart a bit? =(
+[12/02/2010 02:15:38] Andrew Beveridge: i mean, i'd probably be able to find the time if some of that money was coming my way, but i'd never want to do it if the users who donated regretted donating
+[12/02/2010 02:15:59] Geddy Lee: no
+[12/02/2010 02:16:03] Geddy Lee: thats not happen
+[12/02/2010 02:16:11] Geddy Lee: because the user donated in this new tracker
+[12/02/2010 02:16:16] Geddy Lee: donated for one reason
+[12/02/2010 02:16:24] Geddy Lee: like waht cd , 5 eruos for invites
+[12/02/2010 02:16:29] Geddy Lee: or for TRaffic
+[12/02/2010 02:16:31] Geddy Lee: etc
+[12/02/2010 02:16:37] Geddy Lee: no more donations free like NM
+[12/02/2010 02:17:00] Andrew Beveridge: right, ok, so they would feel like they were getting something?
+[12/02/2010 02:18:12] Andrew Beveridge: either way, we'll see - i am definitely interested, and money or no money i'm happy to help code a new gazelle tracker. but, i do have a lot going on in my life besides work too, so again, i'm never gonna have a huge amount of time to devote to working on it
+[12/02/2010 02:18:49] Geddy Lee: ok andrew we can go step by step , we dont need run
+[12/02/2010 02:18:58] Geddy Lee: but de idea is make a great new music tracker
+[12/02/2010 02:19:03] Geddy Lee: like Oink
+[12/02/2010 02:19:37] Geddy Lee: i have one friend is coder now on NM , skrapperMX he can help you with the coding .. if you like ?
+[12/02/2010 02:19:45] Andrew Beveridge: yeah, it could be awesome - certainly, to compete with the big two is quite a challenge but definitely possible
+[12/02/2010 02:20:01] Andrew Beveridge: sure, i mean, does he have any gazelle experience?
+[12/02/2010 02:20:09] Geddy Lee: really i dont know
+[12/02/2010 02:20:14] Geddy Lee: i can add he to this conversation
+[12/02/2010 02:20:17] Geddy Lee: hes online now
+[12/02/2010 02:20:47] Andrew Beveridge: okies, that suits me fine, i mean, there isn't much point in him trying to help if he's never coded with gazelle before ;)
+[12/02/2010 02:21:10] Geddy Lee: ok so you can do all
+[12/02/2010 02:21:19] Geddy Lee: or need his help ?
+[12/02/2010 02:21:48] Andrew Beveridge: i don't think i'd know until i've at least checked out the recent gazelle trunk and set it up on a server to be honest =/
+[12/02/2010 02:22:03] Andrew Beveridge: i'm pretty sure i can tackle any problem though
+[12/02/2010 02:23:02] Geddy Lee: ok skrapperMX He studied computer engineering now
+[12/02/2010 02:23:08] Geddy Lee: but i dont know he have experince
+[12/02/2010 02:23:14] Geddy Lee: on coding gazelle
+[12/02/2010 02:23:49] Andrew Beveridge: ok cool. well, i'd say any help is welcome, just, if he isn't familiar with the gazelle codebase he might not be able to do much
+[12/02/2010 02:24:12] Geddy Lee: ok andrew he help total free ,
+[12/02/2010 02:24:26] Geddy Lee: dont worry about the donations , i ll offer to you 50 %
+[12/02/2010 02:24:59] Geddy Lee: i know you are happy to work without money , but i think , a great work need a good pay , i think in this way ;)
+[12/02/2010 02:26:46] Andrew Beveridge: wow, ok. well, any money wold be very much appreicated, 50% sounds great - if we can get it to a launch stage where we have a usable awesome music tracker, i'm sure that could be a nice amount of money to help pay my rent. over the next week i'll grab the latest gazelle code and have a look into what's required to set up a new tracker
+[12/02/2010 02:27:10] Geddy Lee: great
+[12/02/2010 02:27:15] Geddy Lee: but skrapper can help
+[12/02/2010 02:27:17] Geddy Lee: free
+[12/02/2010 02:27:21] Geddy Lee: hes a good guy
+[12/02/2010 02:27:29] Geddy Lee: can we talk with him here ?
+[12/02/2010 02:27:40] Andrew Beveridge: sure
+[12/02/2010 02:27:43] Geddy Lee: great
+[12/02/2010 02:28:05] Geddy Lee: hes from Mexico
+[12/02/2010 02:28:12] Andrew Beveridge: okies
+[12/02/2010 02:28:13] Geddy Lee: can cun
+[12/02/2010 02:29:54] Geddy Lee: one sec
+[12/02/2010 02:30:00] Andrew Beveridge: no problem
+[12/02/2010 02:30:27] *** Geddy Lee created a group conversation with SkapperMX.
+Show group conversation ***
+[12/02/2010 02:30:27] *** Geddy Lee added SkapperMX ***
+[12/02/2010 02:31:00] Geddy Lee: andrew?
+[12/02/2010 02:31:07] Geddy Lee: skrapper ?
+[12/02/2010 02:31:08] Andrew Beveridge: hey
+[12/02/2010 02:31:18] Geddy Lee: kike ?
+[12/02/2010 02:31:25] SkapperMX: Hola
+[12/02/2010 02:31:29] Geddy Lee: ok
+[12/02/2010 02:31:41] Geddy Lee: Andrew , hes Skprapper his name is Kike
+[12/02/2010 02:31:53] Andrew Beveridge: Andrew Beveridge waves as kike
+[12/02/2010 02:31:54] Andrew Beveridge: *at
+[12/02/2010 02:31:55] Geddy Lee: my friend and the oficial coder on NM
+[12/02/2010 02:32:12] SkapperMX: Hi andrew
+[12/02/2010 02:32:42] Geddy Lee: andrew i ll explain our plan in spanish to kike , its easy for us
+[12/02/2010 02:32:48] Andrew Beveridge: so, have you ever worked with gazelle before skrapper?
+[12/02/2010 02:32:53] Andrew Beveridge: ah ok that's fine by me
+[12/02/2010 02:32:56] Geddy Lee: thanks
+[12/02/2010 02:32:59] Geddy Lee: Kike
+[12/02/2010 02:33:16] Geddy Lee: Estaba conversando con andrew , el es coder en BTN un excelente nuevo tracker que salio no hace mucho
+[12/02/2010 02:33:22] Geddy Lee: pero el tema es que esta en gazelle
+[12/02/2010 02:33:39] Geddy Lee: y no en el que tenemos en NM tdev
+[12/02/2010 02:33:49] Geddy Lee: bueno , Como tu sabras hace un par de a±os , Oink murio
+[12/02/2010 02:33:56] Geddy Lee: pero el tracker y el nombre sigue vivo
+[12/02/2010 02:34:29] SkapperMX: aja
+[12/02/2010 02:34:31] Geddy Lee: entonces aprovechando esa reputacion , tengo la idea de crear un tracker de musica mucho mas amplio en todo sentido , ( formats , estilos , usuarios ) etc
+[12/02/2010 02:34:35] Geddy Lee: con ese nombre
+[12/02/2010 02:35:08] Geddy Lee: y bueno le comente a andrew sobre el proyecto , el me dice que esta totalmente interesado ya que vio que con NM yo lo maneje muy bien
+[12/02/2010 02:35:21] Geddy Lee: ademas el nombre oink esta listo para levantarse
+[12/02/2010 02:35:39] Geddy Lee: entonces andre es coder totalmente y puede hacerlo todo , pero nesesitara ayuda
+[12/02/2010 02:35:44] Geddy Lee: tu estas de acuerdo ?
+[12/02/2010 02:35:49] Geddy Lee: osea
+[12/02/2010 02:35:57] Geddy Lee: los 2 seran los coders oficiales
+[12/02/2010 02:36:18] Geddy Lee: pero el de mas experiencia es el creo , o no se ya vemos como hacemos total al final los dos seran
+[12/02/2010 02:36:51] SkapperMX: hahah ok ok estoy de acuerdo
+[12/02/2010 02:36:56] Geddy Lee: great
+[12/02/2010 02:37:15] Geddy Lee: well , adrew , kike says he can help you :)
+[12/02/2010 02:37:20] Geddy Lee: *andrew
+[12/02/2010 02:37:23] Andrew Beveridge: ok
+[12/02/2010 02:37:29] Andrew Beveridge: uh, where do we start
+[12/02/2010 02:37:43] Geddy Lee: thats a real good question , tomorrow ?
+[12/02/2010 02:37:47] SkapperMX: Espera un momento ..se llamara oink el tracker????
+[12/02/2010 02:37:53] Geddy Lee: se llmara
+[12/02/2010 02:37:57] Geddy Lee: llamara
+[12/02/2010 02:38:08] Geddy Lee: yes the names ll be Oink
+[12/02/2010 02:38:25] Andrew Beveridge: you want to use the exact same name?
+[12/02/2010 02:38:40] Geddy Lee: thats the idea , but please i open to new ideas :)
+[12/02/2010 02:39:28] Andrew Beveridge: i dunno, i guess i just think people will be negative about it if we use the same name, since oink was so great people will think we are trying to steal their glory, you know?
+[12/02/2010 02:39:45] Geddy Lee: mmm
+[12/02/2010 02:39:50] Geddy Lee: thats a good point
+[12/02/2010 02:40:06] Geddy Lee: but with oink in our name i think is easy UP very fast
+[12/02/2010 02:40:24] Andrew Beveridge: true, what, get many members fast, is that what you mean?
+[12/02/2010 02:40:31] Geddy Lee: yes
+[12/02/2010 02:40:41] Geddy Lee: and uploaders , torrents , etc
+[12/02/2010 02:40:46] Andrew Beveridge: sure, i guess. agred.
+[12/02/2010 02:40:48] Andrew Beveridge: *agreed
+[12/02/2010 02:40:52] Geddy Lee: yes
+[12/02/2010 02:41:17] Andrew Beveridge: i think i'll want to keep this off my record with other trackers though - i'll use a different nick and keep myself private ^_^
+[12/02/2010 02:42:31] Andrew Beveridge: either way, i think me and kike can probably try and work together on setting up gazelle tomorrow, i don't know if he is free, or speaks enough english to work easily with me though?
+[12/02/2010 02:42:52] Geddy Lee: yes hes speak english
+[12/02/2010 02:42:53] Geddy Lee: :)
+[12/02/2010 02:43:06] Geddy Lee: right kike you can speak englihs ?
+[12/02/2010 02:43:09] Geddy Lee: *english
+[12/02/2010 02:44:05] SkapperMX: little
+[12/02/2010 02:44:09] Geddy Lee: lol
+[12/02/2010 02:44:15] Geddy Lee: tell us the true
+[12/02/2010 02:44:26] Geddy Lee: you can understand and speak fluen english
+[12/02/2010 02:44:27] Geddy Lee: :D
+[12/02/2010 02:45:01] SkapperMX: very little .. but if I understand what they write
+[12/02/2010 02:45:10] Geddy Lee: great
+[12/02/2010 02:45:21] Geddy Lee: i think is not a problem ..
+[12/02/2010 02:45:27] Geddy Lee: coder is a coding :)
+[12/02/2010 02:45:32] Geddy Lee: what you think andrew ?
+[12/02/2010 02:45:55] Andrew Beveridge: sure, uh
+[12/02/2010 02:46:11] Andrew Beveridge: i'll see. i'll have a try tomorrow, i'm really tired the now - gotta get to bed
+[12/02/2010 02:46:32] Geddy Lee: ok andrew now we have  9:46 PM
+[12/02/2010 02:46:41] Andrew Beveridge: ah, 3am here
+[12/02/2010 02:46:44] Geddy Lee: omg
+[12/02/2010 02:46:47] Andrew Beveridge: (2:46)
+[12/02/2010 02:46:50] Geddy Lee: go to bed , ;)
+[12/02/2010 02:46:54] Andrew Beveridge: will do
+[12/02/2010 02:46:57] Andrew Beveridge: goodnight guys
+[12/02/2010 02:47:03] Andrew Beveridge: hopefully speak tomorrow
+[12/02/2010 02:47:10] Geddy Lee: tomorrow we can continue , and start to work :)
+[12/02/2010 02:47:16] Andrew Beveridge: hopefully, aye
+[12/02/2010 02:47:19] Andrew Beveridge: night
+[12/02/2010 02:47:27] Geddy Lee: great andrew sweet dreams
+

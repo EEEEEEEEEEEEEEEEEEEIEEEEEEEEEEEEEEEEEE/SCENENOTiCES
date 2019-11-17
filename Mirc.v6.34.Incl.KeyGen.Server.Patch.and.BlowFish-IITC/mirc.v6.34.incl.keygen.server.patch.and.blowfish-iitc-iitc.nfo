@@ -1,0 +1,33 @@
+	CRACKER.......: friends   RELEASE DATE..: 2008-09-07
+	RLS PACKAGER..: IITC      FILES.........: 01x2.10
+
+
+	================
+	* Installation *
+	================
+
+
+- If you upgrade from a prior FiSH version, you need to replace
+  FiSH.DLL and FiSH.mrc ONLY (no need to apply the patch again)!
+
+- Unload ALL old blowcrypt/Mircryption files in mIRC:
+  (ALT+R: blow.mrc, blowcrypt.mrc, mircryption.mrc, etc.)
+
+- You can delete the old unneeded files: DH.dll blowfish.dll bloW.dll
+
+- Keep your old blow.ini
+
+- Place FiSH.DLL, FiSH.mrc into same directory as mIRC.exe
+  (as well as your old blow.ini, or use blow.ini-EXAMPLE)
+  
+- load FiSH.mrc into mIRC: /load -rs1 FiSH.mrc
+
+- close mIRC
+
+- apply the appropriate patch (mirc.v6.34.fish.no.online.check.patched-patch.exe)
+
+- finish ;)
+
+
+	> have Fun...
+	> greeting all friends...
